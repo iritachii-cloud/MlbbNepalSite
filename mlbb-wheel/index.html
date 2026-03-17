@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLBB Wheel & Slot</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header class="sticky-header">
+        <nav class="navbar">
+            <div class="logo">MLBB Wheel</div>
+            <ul class="nav-links">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="#wheel">Wheel</a></li>
+                <li><a href="#slot">Slot Machine</a></li>
+                <li><a href="../hero-card/index.html">Hero Cards</a></li>
+
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Wheel Section -->
+        <section id="wheel" class="wheel-section">
+            <div class="container">
+                <h2>Spin to Get a Role</h2>
+                <div class="wheel-container">
+                    <div class="wheel-wrapper">
+                        <canvas id="wheelCanvas" width="500" height="500"></canvas>
+                        <div class="wheel-pointer">▲</div> <!-- or any arrow symbol -->
+                    </div>
+                    <button id="spinWheelBtn">Spin</button>
+                    <div class="controls">
+                        <label>Spin Duration (sec): <input type="range" id="wheelDuration" min="3" max="30"
+                                value="5"></label>
+                        <span id="wheelDurationValue">5s</span>
+                        <button id="randomizeRoles">Randomize Roles</button>
+                    </div>
+                    <div class="selected-role" id="selectedRole">Selected Role: None</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slot Machine Section (appears after wheel spin) -->
+        <section id="slot" class="slot-section" style="display: none;">
+            <div class="container">
+                <h2>Slot Machine for Heroes</h2>
+                <div class="slot-container">
+                    <div class="reel" id="slotReel">???</div>
+                    <button id="spinSlotBtn">Spin Slot</button>
+                    <div class="controls">
+                        <label>Spin Duration (sec): <input type="range" id="slotDuration" min="3" max="30"
+                                value="5"></label>
+                        <span id="slotDurationValue">5s</span>
+                        <button id="randomizeHeroes">Randomize Hero List</button>
+                    </div>
+                    <div class="hero-list" id="heroList"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Result Modal -->
+    <div id="resultModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Congratulations!</h2>
+            <div id="heroResult">
+                <img id="heroImage" src="" alt="Hero">
+                <h3 id="heroName"></h3>
+                <p id="heroNickname"></p>
+            </div>
+            <canvas id="confettiCanvas"></canvas>
+            <audio id="heroSound" src=""></audio>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>

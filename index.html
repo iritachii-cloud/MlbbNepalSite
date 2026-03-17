@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLBB Nepal Events</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Sticky Navigation -->
+    <header class="sticky-header">
+        <nav class="navbar">
+            <div class="logo">MLBB Nepal</div>
+            <ul class="nav-links">
+                <li class="dropdown">
+                    <a href="#">Pages</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="mlbb-wheel/index.html">MLBB Wheel</a></li>
+                        <li><a href="hero-card/index.html">Hero Cards</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#">Sections</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#hero">Hero</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#events">Events</a></li>
+                        <li><a href="#inquiry">Inquiry</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Slider Section -->
+        <section id="hero" class="hero-section">
+            <div class="slider-container">
+                <div class="slider" id="heroSlider"></div>
+                <button class="slider-nav prev">&#10094;</button>
+                <button class="slider-nav next">&#10095;</button>
+                <div class="slider-dots"></div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about-section fade-in">
+            <div class="container">
+                <h2>About Us</h2>
+                <div id="aboutDescription"></div>
+                <div class="team-grid" id="teamGrid"></div>
+            </div>
+        </section>
+
+        <!-- Events Section -->
+        <section id="events" class="events-section fade-in">
+            <div class="container">
+                <h2>Our Events</h2>
+                <div class="events-grid" id="eventsGrid"></div>
+            </div>
+        </section>
+
+        <!-- Inquiry Section -->
+        <section id="inquiry" class="inquiry-section fade-in">
+            <div class="container">
+                <h2>Connect With Us</h2>
+                <p>Have questions or want to collaborate? Reach out!</p>
+                <!-- Simple contact form (static for now) -->
+                <form id="contactForm">
+                    <input type="text" placeholder="Your Name" required>
+                    <input type="email" placeholder="Your Email" required>
+                    <textarea placeholder="Message" rows="4" required></textarea>
+                    <button type="submit">Send</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Popup Modal for Event Details -->
+    <div id="eventModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3 id="modalTitle"></h3>
+            <p id="modalDate"></p>
+            <p id="modalDescription"></p>
+        </div>
+    </div>
+
+    <!-- Fullscreen Image Popup for Slider -->
+    <div id="imagePopup" class="image-popup">
+        <span class="close">&times;</span>
+        <img src="" alt="Full view">
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

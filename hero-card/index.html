@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLBB Nepal – Hero Cards</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Font Awesome for stars -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="sticky-header">
+        <nav class="navbar">
+            <div class="logo">MLBB Nepal</div>
+            <ul class="nav-links">
+                <li class="dropdown">
+                    <a href="#">Pages</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../mlbb-wheel/index.html">MLBB Wheel</a></li>
+                        <li><a href="index.html">Hero Cards</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="back-home">Back to Home</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero-cards-section">
+            <div class="container">
+                <h2>Hero Gallery</h2>
+                <!-- Search bar -->
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search by name or nickname...">
+                    <i class="fas fa-search search-icon"></i>
+                </div>
+
+                <!-- Cards grid -->
+                <div id="cardsGrid" class="cards-grid"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Hero Detail Modal -->
+    <div id="heroModal" class="modal">
+        <div class="modal-content hero-modal-content">
+            <span class="close">&times;</span>
+            <div id="modalHeroContent"></div>
+            <!-- Navigation buttons (optional) -->
+            <button class="modal-nav prev" id="prevHero"><i class="fas fa-chevron-left"></i></button>
+            <button class="modal-nav next" id="nextHero"><i class="fas fa-chevron-right"></i></button>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
