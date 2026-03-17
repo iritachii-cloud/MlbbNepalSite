@@ -3,16 +3,16 @@
         "id": 1,
         "name": "Alucard",
         "nickname": "The Demon Hunter",
-        "icon": "../../assets/images/heroes/001_alucard/icon.png",
+        "icon": "../assets/images/heroes/001_alucard/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/001_alucard/real.png",
-            "animated": "../../assets/images/heroes/001_alucard/animated.png",
-            "nineties": "../../assets/images/heroes/001_alucard/90s.png",
+            "real": "../assets/images/heroes/001_alucard/real.png",
+            "animated": "../assets/images/heroes/001_alucard/animated.png",
+            "nineties": "../assets/images/heroes/001_alucard/90s.png",
             "gallery": [
-                "../../assets/images/heroes/001_alucard/gallery1.png",
-                "../../assets/images/heroes/001_alucard/gallery2.png",
-                "../../assets/images/heroes/001_alucard/gallery3.png",
-                "../../assets/images/heroes/001_alucard/gallery4.png"
+                "../assets/images/heroes/001_alucard/gallery1.png",
+                "../assets/images/heroes/001_alucard/gallery2.png",
+                "../assets/images/heroes/001_alucard/gallery3.png",
+                "../assets/images/heroes/001_alucard/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -60,16 +60,16 @@
         "id": 2,
         "name": "Layla",
         "nickname": "The Malefic Gunner",
-        "icon": "../../assets/images/heroes/002_layla/icon.png",
+        "icon": "../assets/images/heroes/002_layla/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/002_layla/real.png",
-            "animated": "../../assets/images/heroes/002_layla/animated.png",
-            "nineties": "../../assets/images/heroes/002_layla/90s.png",
+            "real": "../assets/images/heroes/002_layla/real.png",
+            "animated": "../assets/images/heroes/002_layla/animated.png",
+            "nineties": "../assets/images/heroes/002_layla/90s.png",
             "gallery": [
-                "../../assets/images/heroes/002_layla/gallery1.png",
-                "../../assets/images/heroes/002_layla/gallery2.png",
-                "../../assets/images/heroes/002_layla/gallery3.png",
-                "../../assets/images/heroes/002_layla/gallery4.png"
+                "../assets/images/heroes/002_layla/gallery1.png",
+                "../assets/images/heroes/002_layla/gallery2.png",
+                "../assets/images/heroes/002_layla/gallery3.png",
+                "../assets/images/heroes/002_layla/gallery4.png"
             ]
         },
         "rating": 7.2,
@@ -117,16 +117,16 @@
         "id": 3,
         "name": "Miya",
         "nickname": "The Moonlight Archer",
-        "icon": "../../assets/images/heroes/003_miya/icon.png",
+        "icon": "../assets/images/heroes/003_miya/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/003_miya/real.png",
-            "animated": "../../assets/images/heroes/003_miya/animated.png",
-            "nineties": "../../assets/images/heroes/003_miya/90s.png",
+            "real": "../assets/images/heroes/003_miya/real.png",
+            "animated": "../assets/images/heroes/003_miya/animated.png",
+            "nineties": "../assets/images/heroes/003_miya/90s.png",
             "gallery": [
-                "../../assets/images/heroes/003_miya/gallery1.png",
-                "../../assets/images/heroes/003_miya/gallery2.png",
-                "../../assets/images/heroes/003_miya/gallery3.png",
-                "../../assets/images/heroes/003_miya/gallery4.png"
+                "../assets/images/heroes/003_miya/gallery1.png",
+                "../assets/images/heroes/003_miya/gallery2.png",
+                "../assets/images/heroes/003_miya/gallery3.png",
+                "../assets/images/heroes/003_miya/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -174,16 +174,16 @@
         "id": 4,
         "name": "Eudora",
         "nickname": "The Lightning Weaver",
-        "icon": "../../assets/images/heroes/004_eudora/icon.png",
+        "icon": "../assets/images/heroes/004_eudora/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/004_eudora/real.png",
-            "animated": "../../assets/images/heroes/004_eudora/animated.png",
-            "nineties": "../../assets/images/heroes/004_eudora/90s.png",
+            "real": "../assets/images/heroes/004_eudora/real.png",
+            "animated": "../assets/images/heroes/004_eudora/animated.png",
+            "nineties": "../assets/images/heroes/004_eudora/90s.png",
             "gallery": [
-                "../../assets/images/heroes/004_eudora/gallery1.png",
-                "../../assets/images/heroes/004_eudora/gallery2.png",
-                "../../assets/images/heroes/004_eudora/gallery3.png",
-                "../../assets/images/heroes/004_eudora/gallery4.png"
+                "../assets/images/heroes/004_eudora/gallery1.png",
+                "../assets/images/heroes/004_eudora/gallery2.png",
+                "../assets/images/heroes/004_eudora/gallery3.png",
+                "../assets/images/heroes/004_eudora/gallery4.png"
             ]
         },
         "rating": 7.5,
@@ -231,16 +231,16 @@
         "id": 5,
         "name": "Saber",
         "nickname": "The Cyber Swordsman",
-        "icon": "../../assets/images/heroes/005_saber/icon.png",
+        "icon": "../assets/images/heroes/005_saber/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/005_saber/real.png",
-            "animated": "../../assets/images/heroes/005_saber/animated.png",
-            "nineties": "../../assets/images/heroes/005_saber/90s.png",
+            "real": "../assets/images/heroes/005_saber/real.png",
+            "animated": "../assets/images/heroes/005_saber/animated.png",
+            "nineties": "../assets/images/heroes/005_saber/90s.png",
             "gallery": [
-                "../../assets/images/heroes/005_saber/gallery1.png",
-                "../../assets/images/heroes/005_saber/gallery2.png",
-                "../../assets/images/heroes/005_saber/gallery3.png",
-                "../../assets/images/heroes/005_saber/gallery4.png"
+                "../assets/images/heroes/005_saber/gallery1.png",
+                "../assets/images/heroes/005_saber/gallery2.png",
+                "../assets/images/heroes/005_saber/gallery3.png",
+                "../assets/images/heroes/005_saber/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -288,16 +288,16 @@
         "id": 6,
         "name": "Akai",
         "nickname": "The Panda Warrior",
-        "icon": "../../assets/images/heroes/006_akai/icon.png",
+        "icon": "../assets/images/heroes/006_akai/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/006_akai/real.png",
-            "animated": "../../assets/images/heroes/006_akai/animated.png",
-            "nineties": "../../assets/images/heroes/006_akai/90s.png",
+            "real": "../assets/images/heroes/006_akai/real.png",
+            "animated": "../assets/images/heroes/006_akai/animated.png",
+            "nineties": "../assets/images/heroes/006_akai/90s.png",
             "gallery": [
-                "../../assets/images/heroes/006_akai/gallery1.png",
-                "../../assets/images/heroes/006_akai/gallery2.png",
-                "../../assets/images/heroes/006_akai/gallery3.png",
-                "../../assets/images/heroes/006_akai/gallery4.png"
+                "../assets/images/heroes/006_akai/gallery1.png",
+                "../assets/images/heroes/006_akai/gallery2.png",
+                "../assets/images/heroes/006_akai/gallery3.png",
+                "../assets/images/heroes/006_akai/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -345,16 +345,16 @@
         "id": 7,
         "name": "Rafaela",
         "nickname": "The Angel of Healing",
-        "icon": "../../assets/images/heroes/007_rafaela/icon.png",
+        "icon": "../assets/images/heroes/007_rafaela/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/007_rafaela/real.png",
-            "animated": "../../assets/images/heroes/007_rafaela/animated.png",
-            "nineties": "../../assets/images/heroes/007_rafaela/90s.png",
+            "real": "../assets/images/heroes/007_rafaela/real.png",
+            "animated": "../assets/images/heroes/007_rafaela/animated.png",
+            "nineties": "../assets/images/heroes/007_rafaela/90s.png",
             "gallery": [
-                "../../assets/images/heroes/007_rafaela/gallery1.png",
-                "../../assets/images/heroes/007_rafaela/gallery2.png",
-                "../../assets/images/heroes/007_rafaela/gallery3.png",
-                "../../assets/images/heroes/007_rafaela/gallery4.png"
+                "../assets/images/heroes/007_rafaela/gallery1.png",
+                "../assets/images/heroes/007_rafaela/gallery2.png",
+                "../assets/images/heroes/007_rafaela/gallery3.png",
+                "../assets/images/heroes/007_rafaela/gallery4.png"
             ]
         },
         "rating": 7.0,
@@ -402,16 +402,16 @@
         "id": 8,
         "name": "Franco",
         "nickname": "The Frozen Warrior",
-        "icon": "../../assets/images/heroes/008_franco/icon.png",
+        "icon": "../assets/images/heroes/008_franco/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/008_franco/real.png",
-            "animated": "../../assets/images/heroes/008_franco/animated.png",
-            "nineties": "../../assets/images/heroes/008_franco/90s.png",
+            "real": "../assets/images/heroes/008_franco/real.png",
+            "animated": "../assets/images/heroes/008_franco/animated.png",
+            "nineties": "../assets/images/heroes/008_franco/90s.png",
             "gallery": [
-                "../../assets/images/heroes/008_franco/gallery1.png",
-                "../../assets/images/heroes/008_franco/gallery2.png",
-                "../../assets/images/heroes/008_franco/gallery3.png",
-                "../../assets/images/heroes/008_franco/gallery4.png"
+                "../assets/images/heroes/008_franco/gallery1.png",
+                "../assets/images/heroes/008_franco/gallery2.png",
+                "../assets/images/heroes/008_franco/gallery3.png",
+                "../assets/images/heroes/008_franco/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -459,16 +459,16 @@
         "id": 9,
         "name": "Chou",
         "nickname": "The Kung Fu Boy",
-        "icon": "../../assets/images/heroes/009_chou/icon.png",
+        "icon": "../assets/images/heroes/009_chou/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/009_chou/real.png",
-            "animated": "../../assets/images/heroes/009_chou/animated.png",
-            "nineties": "../../assets/images/heroes/009_chou/90s.png",
+            "real": "../assets/images/heroes/009_chou/real.png",
+            "animated": "../assets/images/heroes/009_chou/animated.png",
+            "nineties": "../assets/images/heroes/009_chou/90s.png",
             "gallery": [
-                "../../assets/images/heroes/009_chou/gallery1.png",
-                "../../assets/images/heroes/009_chou/gallery2.png",
-                "../../assets/images/heroes/009_chou/gallery3.png",
-                "../../assets/images/heroes/009_chou/gallery4.png"
+                "../assets/images/heroes/009_chou/gallery1.png",
+                "../assets/images/heroes/009_chou/gallery2.png",
+                "../assets/images/heroes/009_chou/gallery3.png",
+                "../assets/images/heroes/009_chou/gallery4.png"
             ]
         },
         "rating": 9.0,
@@ -516,16 +516,16 @@
         "id": 10,
         "name": "Nana",
         "nickname": "The Kitten Wizard",
-        "icon": "../../assets/images/heroes/010_nana/icon.png",
+        "icon": "../assets/images/heroes/010_nana/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/010_nana/real.png",
-            "animated": "../../assets/images/heroes/010_nana/animated.png",
-            "nineties": "../../assets/images/heroes/010_nana/90s.png",
+            "real": "../assets/images/heroes/010_nana/real.png",
+            "animated": "../assets/images/heroes/010_nana/animated.png",
+            "nineties": "../assets/images/heroes/010_nana/90s.png",
             "gallery": [
-                "../../assets/images/heroes/010_nana/gallery1.png",
-                "../../assets/images/heroes/010_nana/gallery2.png",
-                "../../assets/images/heroes/010_nana/gallery3.png",
-                "../../assets/images/heroes/010_nana/gallery4.png"
+                "../assets/images/heroes/010_nana/gallery1.png",
+                "../assets/images/heroes/010_nana/gallery2.png",
+                "../assets/images/heroes/010_nana/gallery3.png",
+                "../assets/images/heroes/010_nana/gallery4.png"
             ]
         },
         "rating": 6.5,
@@ -573,16 +573,16 @@
         "id": 11,
         "name": "Bruno",
         "nickname": "The Football Star",
-        "icon": "../../assets/images/heroes/011_bruno/icon.png",
+        "icon": "../assets/images/heroes/011_bruno/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/011_bruno/real.png",
-            "animated": "../../assets/images/heroes/011_bruno/animated.png",
-            "nineties": "../../assets/images/heroes/011_bruno/90s.png",
+            "real": "../assets/images/heroes/011_bruno/real.png",
+            "animated": "../assets/images/heroes/011_bruno/animated.png",
+            "nineties": "../assets/images/heroes/011_bruno/90s.png",
             "gallery": [
-                "../../assets/images/heroes/011_bruno/gallery1.png",
-                "../../assets/images/heroes/011_bruno/gallery2.png",
-                "../../assets/images/heroes/011_bruno/gallery3.png",
-                "../../assets/images/heroes/011_bruno/gallery4.png"
+                "../assets/images/heroes/011_bruno/gallery1.png",
+                "../assets/images/heroes/011_bruno/gallery2.png",
+                "../assets/images/heroes/011_bruno/gallery3.png",
+                "../assets/images/heroes/011_bruno/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -630,16 +630,16 @@
         "id": 12,
         "name": "Clint",
         "nickname": "The Western Gunner",
-        "icon": "../../assets/images/heroes/012_clint/icon.png",
+        "icon": "../assets/images/heroes/012_clint/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/012_clint/real.png",
-            "animated": "../../assets/images/heroes/012_clint/animated.png",
-            "nineties": "../../assets/images/heroes/012_clint/90s.png",
+            "real": "../assets/images/heroes/012_clint/real.png",
+            "animated": "../assets/images/heroes/012_clint/animated.png",
+            "nineties": "../assets/images/heroes/012_clint/90s.png",
             "gallery": [
-                "../../assets/images/heroes/012_clint/gallery1.png",
-                "../../assets/images/heroes/012_clint/gallery2.png",
-                "../../assets/images/heroes/012_clint/gallery3.png",
-                "../../assets/images/heroes/012_clint/gallery4.png"
+                "../assets/images/heroes/012_clint/gallery1.png",
+                "../assets/images/heroes/012_clint/gallery2.png",
+                "../assets/images/heroes/012_clint/gallery3.png",
+                "../assets/images/heroes/012_clint/gallery4.png"
             ]
         },
         "rating": 7.7,
@@ -687,16 +687,16 @@
         "id": 13,
         "name": "Gord",
         "nickname": "The Techno Mage",
-        "icon": "../../assets/images/heroes/013_gord/icon.png",
+        "icon": "../assets/images/heroes/013_gord/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/013_gord/real.png",
-            "animated": "../../assets/images/heroes/013_gord/animated.png",
-            "nineties": "../../assets/images/heroes/013_gord/90s.png",
+            "real": "../assets/images/heroes/013_gord/real.png",
+            "animated": "../assets/images/heroes/013_gord/animated.png",
+            "nineties": "../assets/images/heroes/013_gord/90s.png",
             "gallery": [
-                "../../assets/images/heroes/013_gord/gallery1.png",
-                "../../assets/images/heroes/013_gord/gallery2.png",
-                "../../assets/images/heroes/013_gord/gallery3.png",
-                "../../assets/images/heroes/013_gord/gallery4.png"
+                "../assets/images/heroes/013_gord/gallery1.png",
+                "../assets/images/heroes/013_gord/gallery2.png",
+                "../assets/images/heroes/013_gord/gallery3.png",
+                "../assets/images/heroes/013_gord/gallery4.png"
             ]
         },
         "rating": 7.3,
@@ -744,16 +744,16 @@
         "id": 14,
         "name": "Harley",
         "nickname": "The Magical Trickster",
-        "icon": "../../assets/images/heroes/014_harley/icon.png",
+        "icon": "../assets/images/heroes/014_harley/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/014_harley/real.png",
-            "animated": "../../assets/images/heroes/014_harley/animated.png",
-            "nineties": "../../assets/images/heroes/014_harley/90s.png",
+            "real": "../assets/images/heroes/014_harley/real.png",
+            "animated": "../assets/images/heroes/014_harley/animated.png",
+            "nineties": "../assets/images/heroes/014_harley/90s.png",
             "gallery": [
-                "../../assets/images/heroes/014_harley/gallery1.png",
-                "../../assets/images/heroes/014_harley/gallery2.png",
-                "../../assets/images/heroes/014_harley/gallery3.png",
-                "../../assets/images/heroes/014_harley/gallery4.png"
+                "../assets/images/heroes/014_harley/gallery1.png",
+                "../assets/images/heroes/014_harley/gallery2.png",
+                "../assets/images/heroes/014_harley/gallery3.png",
+                "../assets/images/heroes/014_harley/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -801,16 +801,16 @@
         "id": 15,
         "name": "Balmond",
         "nickname": "The Orc Warlord",
-        "icon": "../../assets/images/heroes/015_balmond/icon.png",
+        "icon": "../assets/images/heroes/015_balmond/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/015_balmond/real.png",
-            "animated": "../../assets/images/heroes/015_balmond/animated.png",
-            "nineties": "../../assets/images/heroes/015_balmond/90s.png",
+            "real": "../assets/images/heroes/015_balmond/real.png",
+            "animated": "../assets/images/heroes/015_balmond/animated.png",
+            "nineties": "../assets/images/heroes/015_balmond/90s.png",
             "gallery": [
-                "../../assets/images/heroes/015_balmond/gallery1.png",
-                "../../assets/images/heroes/015_balmond/gallery2.png",
-                "../../assets/images/heroes/015_balmond/gallery3.png",
-                "../../assets/images/heroes/015_balmond/gallery4.png"
+                "../assets/images/heroes/015_balmond/gallery1.png",
+                "../assets/images/heroes/015_balmond/gallery2.png",
+                "../assets/images/heroes/015_balmond/gallery3.png",
+                "../assets/images/heroes/015_balmond/gallery4.png"
             ]
         },
         "rating": 7.4,
@@ -858,16 +858,16 @@
         "id": 16,
         "name": "Minotaur",
         "nickname": "The Raging Bull",
-        "icon": "../../assets/images/heroes/016_minotaur/icon.png",
+        "icon": "../assets/images/heroes/016_minotaur/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/016_minotaur/real.png",
-            "animated": "../../assets/images/heroes/016_minotaur/animated.png",
-            "nineties": "../../assets/images/heroes/016_minotaur/90s.png",
+            "real": "../assets/images/heroes/016_minotaur/real.png",
+            "animated": "../assets/images/heroes/016_minotaur/animated.png",
+            "nineties": "../assets/images/heroes/016_minotaur/90s.png",
             "gallery": [
-                "../../assets/images/heroes/016_minotaur/gallery1.png",
-                "../../assets/images/heroes/016_minotaur/gallery2.png",
-                "../../assets/images/heroes/016_minotaur/gallery3.png",
-                "../../assets/images/heroes/016_minotaur/gallery4.png"
+                "../assets/images/heroes/016_minotaur/gallery1.png",
+                "../assets/images/heroes/016_minotaur/gallery2.png",
+                "../assets/images/heroes/016_minotaur/gallery3.png",
+                "../assets/images/heroes/016_minotaur/gallery4.png"
             ]
         },
         "rating": 7.2,
@@ -915,16 +915,16 @@
         "id": 17,
         "name": "Alice",
         "nickname": "The Blood Demon",
-        "icon": "../../assets/images/heroes/017_alice/icon.png",
+        "icon": "../assets/images/heroes/017_alice/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/017_alice/real.png",
-            "animated": "../../assets/images/heroes/017_alice/animated.png",
-            "nineties": "../../assets/images/heroes/017_alice/90s.png",
+            "real": "../assets/images/heroes/017_alice/real.png",
+            "animated": "../assets/images/heroes/017_alice/animated.png",
+            "nineties": "../assets/images/heroes/017_alice/90s.png",
             "gallery": [
-                "../../assets/images/heroes/017_alice/gallery1.png",
-                "../../assets/images/heroes/017_alice/gallery2.png",
-                "../../assets/images/heroes/017_alice/gallery3.png",
-                "../../assets/images/heroes/017_alice/gallery4.png"
+                "../assets/images/heroes/017_alice/gallery1.png",
+                "../assets/images/heroes/017_alice/gallery2.png",
+                "../assets/images/heroes/017_alice/gallery3.png",
+                "../assets/images/heroes/017_alice/gallery4.png"
             ]
         },
         "rating": 8.6,
@@ -972,16 +972,16 @@
         "id": 18,
         "name": "Zilong",
         "nickname": "The Dragon Warrior",
-        "icon": "../../assets/images/heroes/018_zilong/icon.png",
+        "icon": "../assets/images/heroes/018_zilong/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/018_zilong/real.png",
-            "animated": "../../assets/images/heroes/018_zilong/animated.png",
-            "nineties": "../../assets/images/heroes/018_zilong/90s.png",
+            "real": "../assets/images/heroes/018_zilong/real.png",
+            "animated": "../assets/images/heroes/018_zilong/animated.png",
+            "nineties": "../assets/images/heroes/018_zilong/90s.png",
             "gallery": [
-                "../../assets/images/heroes/018_zilong/gallery1.png",
-                "../../assets/images/heroes/018_zilong/gallery2.png",
-                "../../assets/images/heroes/018_zilong/gallery3.png",
-                "../../assets/images/heroes/018_zilong/gallery4.png"
+                "../assets/images/heroes/018_zilong/gallery1.png",
+                "../assets/images/heroes/018_zilong/gallery2.png",
+                "../assets/images/heroes/018_zilong/gallery3.png",
+                "../assets/images/heroes/018_zilong/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -1029,16 +1029,16 @@
         "id": 19,
         "name": "Lolita",
         "nickname": "The Cannon Girl",
-        "icon": "../../assets/images/heroes/019_lolita/icon.png",
+        "icon": "../assets/images/heroes/019_lolita/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/019_lolita/real.png",
-            "animated": "../../assets/images/heroes/019_lolita/animated.png",
-            "nineties": "../../assets/images/heroes/019_lolita/90s.png",
+            "real": "../assets/images/heroes/019_lolita/real.png",
+            "animated": "../assets/images/heroes/019_lolita/animated.png",
+            "nineties": "../assets/images/heroes/019_lolita/90s.png",
             "gallery": [
-                "../../assets/images/heroes/019_lolita/gallery1.png",
-                "../../assets/images/heroes/019_lolita/gallery2.png",
-                "../../assets/images/heroes/019_lolita/gallery3.png",
-                "../../assets/images/heroes/019_lolita/gallery4.png"
+                "../assets/images/heroes/019_lolita/gallery1.png",
+                "../assets/images/heroes/019_lolita/gallery2.png",
+                "../assets/images/heroes/019_lolita/gallery3.png",
+                "../assets/images/heroes/019_lolita/gallery4.png"
             ]
         },
         "rating": 7.1,
@@ -1086,16 +1086,16 @@
         "id": 20,
         "name": "Hayabusa",
         "nickname": "The Shadow Ninja",
-        "icon": "../../assets/images/heroes/020_hayabusa/icon.png",
+        "icon": "../assets/images/heroes/020_hayabusa/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/020_hayabusa/real.png",
-            "animated": "../../assets/images/heroes/020_hayabusa/animated.png",
-            "nineties": "../../assets/images/heroes/020_hayabusa/90s.png",
+            "real": "../assets/images/heroes/020_hayabusa/real.png",
+            "animated": "../assets/images/heroes/020_hayabusa/animated.png",
+            "nineties": "../assets/images/heroes/020_hayabusa/90s.png",
             "gallery": [
-                "../../assets/images/heroes/020_hayabusa/gallery1.png",
-                "../../assets/images/heroes/020_hayabusa/gallery2.png",
-                "../../assets/images/heroes/020_hayabusa/gallery3.png",
-                "../../assets/images/heroes/020_hayabusa/gallery4.png"
+                "../assets/images/heroes/020_hayabusa/gallery1.png",
+                "../assets/images/heroes/020_hayabusa/gallery2.png",
+                "../assets/images/heroes/020_hayabusa/gallery3.png",
+                "../assets/images/heroes/020_hayabusa/gallery4.png"
             ]
         },
         "rating": 8.9,
@@ -1143,16 +1143,16 @@
         "id": 21,
         "name": "Freya",
         "nickname": "The Valkyrie",
-        "icon": "../../assets/images/heroes/021_freya/icon.png",
+        "icon": "../assets/images/heroes/021_freya/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/021_freya/real.png",
-            "animated": "../../assets/images/heroes/021_freya/animated.png",
-            "nineties": "../../assets/images/heroes/021_freya/90s.png",
+            "real": "../assets/images/heroes/021_freya/real.png",
+            "animated": "../assets/images/heroes/021_freya/animated.png",
+            "nineties": "../assets/images/heroes/021_freya/90s.png",
             "gallery": [
-                "../../assets/images/heroes/021_freya/gallery1.png",
-                "../../assets/images/heroes/021_freya/gallery2.png",
-                "../../assets/images/heroes/021_freya/gallery3.png",
-                "../../assets/images/heroes/021_freya/gallery4.png"
+                "../assets/images/heroes/021_freya/gallery1.png",
+                "../assets/images/heroes/021_freya/gallery2.png",
+                "../assets/images/heroes/021_freya/gallery3.png",
+                "../assets/images/heroes/021_freya/gallery4.png"
             ]
         },
         "rating": 7.6,
@@ -1200,16 +1200,16 @@
         "id": 22,
         "name": "Karina",
         "nickname": "The Blade Dancer",
-        "icon": "../../assets/images/heroes/022_karina/icon.png",
+        "icon": "../assets/images/heroes/022_karina/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/022_karina/real.png",
-            "animated": "../../assets/images/heroes/022_karina/animated.png",
-            "nineties": "../../assets/images/heroes/022_karina/90s.png",
+            "real": "../assets/images/heroes/022_karina/real.png",
+            "animated": "../assets/images/heroes/022_karina/animated.png",
+            "nineties": "../assets/images/heroes/022_karina/90s.png",
             "gallery": [
-                "../../assets/images/heroes/022_karina/gallery1.png",
-                "../../assets/images/heroes/022_karina/gallery2.png",
-                "../../assets/images/heroes/022_karina/gallery3.png",
-                "../../assets/images/heroes/022_karina/gallery4.png"
+                "../assets/images/heroes/022_karina/gallery1.png",
+                "../assets/images/heroes/022_karina/gallery2.png",
+                "../assets/images/heroes/022_karina/gallery3.png",
+                "../assets/images/heroes/022_karina/gallery4.png"
             ]
         },
         "rating": 8.5,
@@ -1257,16 +1257,16 @@
         "id": 23,
         "name": "Aurora",
         "nickname": "The Frost Queen",
-        "icon": "../../assets/images/heroes/023_aurora/icon.png",
+        "icon": "../assets/images/heroes/023_aurora/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/023_aurora/real.png",
-            "animated": "../../assets/images/heroes/023_aurora/animated.png",
-            "nineties": "../../assets/images/heroes/023_aurora/90s.png",
+            "real": "../assets/images/heroes/023_aurora/real.png",
+            "animated": "../assets/images/heroes/023_aurora/animated.png",
+            "nineties": "../assets/images/heroes/023_aurora/90s.png",
             "gallery": [
-                "../../assets/images/heroes/023_aurora/gallery1.png",
-                "../../assets/images/heroes/023_aurora/gallery2.png",
-                "../../assets/images/heroes/023_aurora/gallery3.png",
-                "../../assets/images/heroes/023_aurora/gallery4.png"
+                "../assets/images/heroes/023_aurora/gallery1.png",
+                "../assets/images/heroes/023_aurora/gallery2.png",
+                "../assets/images/heroes/023_aurora/gallery3.png",
+                "../assets/images/heroes/023_aurora/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -1314,16 +1314,16 @@
         "id": 24,
         "name": "Kagura",
         "nickname": "The Shrine Maiden",
-        "icon": "../../assets/images/heroes/024_kagura/icon.png",
+        "icon": "../assets/images/heroes/024_kagura/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/024_kagura/real.png",
-            "animated": "../../assets/images/heroes/024_kagura/animated.png",
-            "nineties": "../../assets/images/heroes/024_kagura/90s.png",
+            "real": "../assets/images/heroes/024_kagura/real.png",
+            "animated": "../assets/images/heroes/024_kagura/animated.png",
+            "nineties": "../assets/images/heroes/024_kagura/90s.png",
             "gallery": [
-                "../../assets/images/heroes/024_kagura/gallery1.png",
-                "../../assets/images/heroes/024_kagura/gallery2.png",
-                "../../assets/images/heroes/024_kagura/gallery3.png",
-                "../../assets/images/heroes/024_kagura/gallery4.png"
+                "../assets/images/heroes/024_kagura/gallery1.png",
+                "../assets/images/heroes/024_kagura/gallery2.png",
+                "../assets/images/heroes/024_kagura/gallery3.png",
+                "../assets/images/heroes/024_kagura/gallery4.png"
             ]
         },
         "rating": 8.8,
@@ -1371,16 +1371,16 @@
         "id": 25,
         "name": "Gatotkaca",
         "nickname": "The Iron Bone",
-        "icon": "../../assets/images/heroes/025_gatotkaca/icon.png",
+        "icon": "../assets/images/heroes/025_gatotkaca/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/025_gatotkaca/real.png",
-            "animated": "../../assets/images/heroes/025_gatotkaca/animated.png",
-            "nineties": "../../assets/images/heroes/025_gatotkaca/90s.png",
+            "real": "../assets/images/heroes/025_gatotkaca/real.png",
+            "animated": "../assets/images/heroes/025_gatotkaca/animated.png",
+            "nineties": "../assets/images/heroes/025_gatotkaca/90s.png",
             "gallery": [
-                "../../assets/images/heroes/025_gatotkaca/gallery1.png",
-                "../../assets/images/heroes/025_gatotkaca/gallery2.png",
-                "../../assets/images/heroes/025_gatotkaca/gallery3.png",
-                "../../assets/images/heroes/025_gatotkaca/gallery4.png"
+                "../assets/images/heroes/025_gatotkaca/gallery1.png",
+                "../assets/images/heroes/025_gatotkaca/gallery2.png",
+                "../assets/images/heroes/025_gatotkaca/gallery3.png",
+                "../assets/images/heroes/025_gatotkaca/gallery4.png"
             ]
         },
         "rating": 7.5,
@@ -1428,16 +1428,16 @@
         "id": 26,
         "name": "Hilda",
         "nickname": "The Wildheart",
-        "icon": "../../assets/images/heroes/026_hilda/icon.png",
+        "icon": "../assets/images/heroes/026_hilda/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/026_hilda/real.png",
-            "animated": "../../assets/images/heroes/026_hilda/animated.png",
-            "nineties": "../../assets/images/heroes/026_hilda/90s.png",
+            "real": "../assets/images/heroes/026_hilda/real.png",
+            "animated": "../assets/images/heroes/026_hilda/animated.png",
+            "nineties": "../assets/images/heroes/026_hilda/90s.png",
             "gallery": [
-                "../../assets/images/heroes/026_hilda/gallery1.png",
-                "../../assets/images/heroes/026_hilda/gallery2.png",
-                "../../assets/images/heroes/026_hilda/gallery3.png",
-                "../../assets/images/heroes/026_hilda/gallery4.png"
+                "../assets/images/heroes/026_hilda/gallery1.png",
+                "../assets/images/heroes/026_hilda/gallery2.png",
+                "../assets/images/heroes/026_hilda/gallery3.png",
+                "../assets/images/heroes/026_hilda/gallery4.png"
             ]
         },
         "rating": 6.9,
@@ -1485,16 +1485,16 @@
         "id": 27,
         "name": "Moskov",
         "nickname": "The Spear of Destiny",
-        "icon": "../../assets/images/heroes/027_moskov/icon.png",
+        "icon": "../assets/images/heroes/027_moskov/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/027_moskov/real.png",
-            "animated": "../../assets/images/heroes/027_moskov/animated.png",
-            "nineties": "../../assets/images/heroes/027_moskov/90s.png",
+            "real": "../assets/images/heroes/027_moskov/real.png",
+            "animated": "../assets/images/heroes/027_moskov/animated.png",
+            "nineties": "../assets/images/heroes/027_moskov/90s.png",
             "gallery": [
-                "../../assets/images/heroes/027_moskov/gallery1.png",
-                "../../assets/images/heroes/027_moskov/gallery2.png",
-                "../../assets/images/heroes/027_moskov/gallery3.png",
-                "../../assets/images/heroes/027_moskov/gallery4.png"
+                "../assets/images/heroes/027_moskov/gallery1.png",
+                "../assets/images/heroes/027_moskov/gallery2.png",
+                "../assets/images/heroes/027_moskov/gallery3.png",
+                "../assets/images/heroes/027_moskov/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -1542,16 +1542,16 @@
         "id": 28,
         "name": "Johnson",
         "nickname": "The Transforming Car",
-        "icon": "../../assets/images/heroes/028_johnson/icon.png",
+        "icon": "../assets/images/heroes/028_johnson/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/028_johnson/real.png",
-            "animated": "../../assets/images/heroes/028_johnson/animated.png",
-            "nineties": "../../assets/images/heroes/028_johnson/90s.png",
+            "real": "../assets/images/heroes/028_johnson/real.png",
+            "animated": "../assets/images/heroes/028_johnson/animated.png",
+            "nineties": "../assets/images/heroes/028_johnson/90s.png",
             "gallery": [
-                "../../assets/images/heroes/028_johnson/gallery1.png",
-                "../../assets/images/heroes/028_johnson/gallery2.png",
-                "../../assets/images/heroes/028_johnson/gallery3.png",
-                "../../assets/images/heroes/028_johnson/gallery4.png"
+                "../assets/images/heroes/028_johnson/gallery1.png",
+                "../assets/images/heroes/028_johnson/gallery2.png",
+                "../assets/images/heroes/028_johnson/gallery3.png",
+                "../assets/images/heroes/028_johnson/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -1597,16 +1597,16 @@
         "id": 29,
         "name": "Cyclops",
         "nickname": "The Starlight Sorcerer",
-        "icon": "../../assets/images/heroes/029_cyclops/icon.png",
+        "icon": "../assets/images/heroes/029_cyclops/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/029_cyclops/real.png",
-            "animated": "../../assets/images/heroes/029_cyclops/animated.png",
-            "nineties": "../../assets/images/heroes/029_cyclops/90s.png",
+            "real": "../assets/images/heroes/029_cyclops/real.png",
+            "animated": "../assets/images/heroes/029_cyclops/animated.png",
+            "nineties": "../assets/images/heroes/029_cyclops/90s.png",
             "gallery": [
-                "../../assets/images/heroes/029_cyclops/gallery1.png",
-                "../../assets/images/heroes/029_cyclops/gallery2.png",
-                "../../assets/images/heroes/029_cyclops/gallery3.png",
-                "../../assets/images/heroes/029_cyclops/gallery4.png"
+                "../assets/images/heroes/029_cyclops/gallery1.png",
+                "../assets/images/heroes/029_cyclops/gallery2.png",
+                "../assets/images/heroes/029_cyclops/gallery3.png",
+                "../assets/images/heroes/029_cyclops/gallery4.png"
             ]
         },
         "rating": 7.7,
@@ -1654,16 +1654,16 @@
         "id": 30,
         "name": "Ruby",
         "nickname": "The Puppet Master",
-        "icon": "../../assets/images/heroes/030_ruby/icon.png",
+        "icon": "../assets/images/heroes/030_ruby/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/030_ruby/real.png",
-            "animated": "../../assets/images/heroes/030_ruby/animated.png",
-            "nineties": "../../assets/images/heroes/030_ruby/90s.png",
+            "real": "../assets/images/heroes/030_ruby/real.png",
+            "animated": "../assets/images/heroes/030_ruby/animated.png",
+            "nineties": "../assets/images/heroes/030_ruby/90s.png",
             "gallery": [
-                "../../assets/images/heroes/030_ruby/gallery1.png",
-                "../../assets/images/heroes/030_ruby/gallery2.png",
-                "../../assets/images/heroes/030_ruby/gallery3.png",
-                "../../assets/images/heroes/030_ruby/gallery4.png"
+                "../assets/images/heroes/030_ruby/gallery1.png",
+                "../assets/images/heroes/030_ruby/gallery2.png",
+                "../assets/images/heroes/030_ruby/gallery3.png",
+                "../assets/images/heroes/030_ruby/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -1711,16 +1711,16 @@
         "id": 31,
         "name": "Sun",
         "nickname": "The Monkey King",
-        "icon": "../../assets/images/heroes/031_sun/icon.png",
+        "icon": "../assets/images/heroes/031_sun/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/031_sun/real.png",
-            "animated": "../../assets/images/heroes/031_sun/animated.png",
-            "nineties": "../../assets/images/heroes/031_sun/90s.png",
+            "real": "../assets/images/heroes/031_sun/real.png",
+            "animated": "../assets/images/heroes/031_sun/animated.png",
+            "nineties": "../assets/images/heroes/031_sun/90s.png",
             "gallery": [
-                "../../assets/images/heroes/031_sun/gallery1.png",
-                "../../assets/images/heroes/031_sun/gallery2.png",
-                "../../assets/images/heroes/031_sun/gallery3.png",
-                "../../assets/images/heroes/031_sun/gallery4.png"
+                "../assets/images/heroes/031_sun/gallery1.png",
+                "../assets/images/heroes/031_sun/gallery2.png",
+                "../assets/images/heroes/031_sun/gallery3.png",
+                "../assets/images/heroes/031_sun/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -1767,16 +1767,16 @@
         "id": 32,
         "name": "Irithel",
         "nickname": "The Jungle Queen",
-        "icon": "../../assets/images/heroes/032_irithel/icon.png",
+        "icon": "../assets/images/heroes/032_irithel/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/032_irithel/real.png",
-            "animated": "../../assets/images/heroes/032_irithel/animated.png",
-            "nineties": "../../assets/images/heroes/032_irithel/90s.png",
+            "real": "../assets/images/heroes/032_irithel/real.png",
+            "animated": "../assets/images/heroes/032_irithel/animated.png",
+            "nineties": "../assets/images/heroes/032_irithel/90s.png",
             "gallery": [
-                "../../assets/images/heroes/032_irithel/gallery1.png",
-                "../../assets/images/heroes/032_irithel/gallery2.png",
-                "../../assets/images/heroes/032_irithel/gallery3.png",
-                "../../assets/images/heroes/032_irithel/gallery4.png"
+                "../assets/images/heroes/032_irithel/gallery1.png",
+                "../assets/images/heroes/032_irithel/gallery2.png",
+                "../assets/images/heroes/032_irithel/gallery3.png",
+                "../assets/images/heroes/032_irithel/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -1824,16 +1824,16 @@
         "id": 33,
         "name": "Argus",
         "nickname": "The Fallen Angel",
-        "icon": "../../assets/images/heroes/033_argus/icon.png",
+        "icon": "../assets/images/heroes/033_argus/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/033_argus/real.png",
-            "animated": "../../assets/images/heroes/033_argus/animated.png",
-            "nineties": "../../assets/images/heroes/033_argus/90s.png",
+            "real": "../assets/images/heroes/033_argus/real.png",
+            "animated": "../assets/images/heroes/033_argus/animated.png",
+            "nineties": "../assets/images/heroes/033_argus/90s.png",
             "gallery": [
-                "../../assets/images/heroes/033_argus/gallery1.png",
-                "../../assets/images/heroes/033_argus/gallery2.png",
-                "../../assets/images/heroes/033_argus/gallery3.png",
-                "../../assets/images/heroes/033_argus/gallery4.png"
+                "../assets/images/heroes/033_argus/gallery1.png",
+                "../assets/images/heroes/033_argus/gallery2.png",
+                "../assets/images/heroes/033_argus/gallery3.png",
+                "../assets/images/heroes/033_argus/gallery4.png"
             ]
         },
         "rating": 8.5,
@@ -1881,16 +1881,16 @@
         "id": 34,
         "name": "Lesley",
         "nickname": "The Sniper",
-        "icon": "../../assets/images/heroes/034_lesley/icon.png",
+        "icon": "../assets/images/heroes/034_lesley/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/034_lesley/real.png",
-            "animated": "../../assets/images/heroes/034_lesley/animated.png",
-            "nineties": "../../assets/images/heroes/034_lesley/90s.png",
+            "real": "../assets/images/heroes/034_lesley/real.png",
+            "animated": "../assets/images/heroes/034_lesley/animated.png",
+            "nineties": "../assets/images/heroes/034_lesley/90s.png",
             "gallery": [
-                "../../assets/images/heroes/034_lesley/gallery1.png",
-                "../../assets/images/heroes/034_lesley/gallery2.png",
-                "../../assets/images/heroes/034_lesley/gallery3.png",
-                "../../assets/images/heroes/034_lesley/gallery4.png"
+                "../assets/images/heroes/034_lesley/gallery1.png",
+                "../assets/images/heroes/034_lesley/gallery2.png",
+                "../assets/images/heroes/034_lesley/gallery3.png",
+                "../assets/images/heroes/034_lesley/gallery4.png"
             ]
         },
         "rating": 8.8,
@@ -1938,16 +1938,16 @@
         "id": 35,
         "name": "Zhask",
         "nickname": "The Hive Lord",
-        "icon": "../../assets/images/heroes/035_zhask/icon.png",
+        "icon": "../assets/images/heroes/035_zhask/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/035_zhask/real.png",
-            "animated": "../../assets/images/heroes/035_zhask/animated.png",
-            "nineties": "../../assets/images/heroes/035_zhask/90s.png",
+            "real": "../assets/images/heroes/035_zhask/real.png",
+            "animated": "../assets/images/heroes/035_zhask/animated.png",
+            "nineties": "../assets/images/heroes/035_zhask/90s.png",
             "gallery": [
-                "../../assets/images/heroes/035_zhask/gallery1.png",
-                "../../assets/images/heroes/035_zhask/gallery2.png",
-                "../../assets/images/heroes/035_zhask/gallery3.png",
-                "../../assets/images/heroes/035_zhask/gallery4.png"
+                "../assets/images/heroes/035_zhask/gallery1.png",
+                "../assets/images/heroes/035_zhask/gallery2.png",
+                "../assets/images/heroes/035_zhask/gallery3.png",
+                "../assets/images/heroes/035_zhask/gallery4.png"
             ]
         },
         "rating": 7.7,
@@ -1994,16 +1994,16 @@
         "id": 36,
         "name": "Vexana",
         "nickname": "The Necromancer",
-        "icon": "../../assets/images/heroes/036_vexana/icon.png",
+        "icon": "../assets/images/heroes/036_vexana/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/036_vexana/real.png",
-            "animated": "../../assets/images/heroes/036_vexana/animated.png",
-            "nineties": "../../assets/images/heroes/036_vexana/90s.png",
+            "real": "../assets/images/heroes/036_vexana/real.png",
+            "animated": "../assets/images/heroes/036_vexana/animated.png",
+            "nineties": "../assets/images/heroes/036_vexana/90s.png",
             "gallery": [
-                "../../assets/images/heroes/036_vexana/gallery1.png",
-                "../../assets/images/heroes/036_vexana/gallery2.png",
-                "../../assets/images/heroes/036_vexana/gallery3.png",
-                "../../assets/images/heroes/036_vexana/gallery4.png"
+                "../assets/images/heroes/036_vexana/gallery1.png",
+                "../assets/images/heroes/036_vexana/gallery2.png",
+                "../assets/images/heroes/036_vexana/gallery3.png",
+                "../assets/images/heroes/036_vexana/gallery4.png"
             ]
         },
         "rating": 7.4,
@@ -2051,16 +2051,16 @@
         "id": 37,
         "name": "Kadita",
         "nickname": "The Ocean Goddess",
-        "icon": "../../assets/images/heroes/037_kadita/icon.png",
+        "icon": "../assets/images/heroes/037_kadita/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/037_kadita/real.png",
-            "animated": "../../assets/images/heroes/037_kadita/animated.png",
-            "nineties": "../../assets/images/heroes/037_kadita/90s.png",
+            "real": "../assets/images/heroes/037_kadita/real.png",
+            "animated": "../assets/images/heroes/037_kadita/animated.png",
+            "nineties": "../assets/images/heroes/037_kadita/90s.png",
             "gallery": [
-                "../../assets/images/heroes/037_kadita/gallery1.png",
-                "../../assets/images/heroes/037_kadita/gallery2.png",
-                "../../assets/images/heroes/037_kadita/gallery3.png",
-                "../../assets/images/heroes/037_kadita/gallery4.png"
+                "../assets/images/heroes/037_kadita/gallery1.png",
+                "../assets/images/heroes/037_kadita/gallery2.png",
+                "../assets/images/heroes/037_kadita/gallery3.png",
+                "../assets/images/heroes/037_kadita/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -2108,16 +2108,16 @@
         "id": 38,
         "name": "Selena",
         "nickname": "The Abyssal Demon",
-        "icon": "../../assets/images/heroes/038_selena/icon.png",
+        "icon": "../assets/images/heroes/038_selena/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/038_selena/real.png",
-            "animated": "../../assets/images/heroes/038_selena/animated.png",
-            "nineties": "../../assets/images/heroes/038_selena/90s.png",
+            "real": "../assets/images/heroes/038_selena/real.png",
+            "animated": "../assets/images/heroes/038_selena/animated.png",
+            "nineties": "../assets/images/heroes/038_selena/90s.png",
             "gallery": [
-                "../../assets/images/heroes/038_selena/gallery1.png",
-                "../../assets/images/heroes/038_selena/gallery2.png",
-                "../../assets/images/heroes/038_selena/gallery3.png",
-                "../../assets/images/heroes/038_selena/gallery4.png"
+                "../assets/images/heroes/038_selena/gallery1.png",
+                "../assets/images/heroes/038_selena/gallery2.png",
+                "../assets/images/heroes/038_selena/gallery3.png",
+                "../assets/images/heroes/038_selena/gallery4.png"
             ]
         },
         "rating": 9.1,
@@ -2164,16 +2164,16 @@
         "id": 39,
         "name": "Fanny",
         "nickname": "The Cable Queen",
-        "icon": "../../assets/images/heroes/039_fanny/icon.png",
+        "icon": "../assets/images/heroes/039_fanny/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/039_fanny/real.png",
-            "animated": "../../assets/images/heroes/039_fanny/animated.png",
-            "nineties": "../../assets/images/heroes/039_fanny/90s.png",
+            "real": "../assets/images/heroes/039_fanny/real.png",
+            "animated": "../assets/images/heroes/039_fanny/animated.png",
+            "nineties": "../assets/images/heroes/039_fanny/90s.png",
             "gallery": [
-                "../../assets/images/heroes/039_fanny/gallery1.png",
-                "../../assets/images/heroes/039_fanny/gallery2.png",
-                "../../assets/images/heroes/039_fanny/gallery3.png",
-                "../../assets/images/heroes/039_fanny/gallery4.png"
+                "../assets/images/heroes/039_fanny/gallery1.png",
+                "../assets/images/heroes/039_fanny/gallery2.png",
+                "../assets/images/heroes/039_fanny/gallery3.png",
+                "../assets/images/heroes/039_fanny/gallery4.png"
             ]
         },
         "rating": 9.3,
@@ -2221,16 +2221,16 @@
         "id": 40,
         "name": "Lancelot",
         "nickname": "The Knight of Roses",
-        "icon": "../../assets/images/heroes/040_lancelot/icon.png",
+        "icon": "../assets/images/heroes/040_lancelot/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/040_lancelot/real.png",
-            "animated": "../../assets/images/heroes/040_lancelot/animated.png",
-            "nineties": "../../assets/images/heroes/040_lancelot/90s.png",
+            "real": "../assets/images/heroes/040_lancelot/real.png",
+            "animated": "../assets/images/heroes/040_lancelot/animated.png",
+            "nineties": "../assets/images/heroes/040_lancelot/90s.png",
             "gallery": [
-                "../../assets/images/heroes/040_lancelot/gallery1.png",
-                "../../assets/images/heroes/040_lancelot/gallery2.png",
-                "../../assets/images/heroes/040_lancelot/gallery3.png",
-                "../../assets/images/heroes/040_lancelot/gallery4.png"
+                "../assets/images/heroes/040_lancelot/gallery1.png",
+                "../assets/images/heroes/040_lancelot/gallery2.png",
+                "../assets/images/heroes/040_lancelot/gallery3.png",
+                "../assets/images/heroes/040_lancelot/gallery4.png"
             ]
         },
         "rating": 8.6,
@@ -2278,16 +2278,16 @@
         "id": 41,
         "name": "Harith",
         "nickname": "The Time Traveler",
-        "icon": "../../assets/images/heroes/041_harith/icon.png",
+        "icon": "../assets/images/heroes/041_harith/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/041_harith/real.png",
-            "animated": "../../assets/images/heroes/041_harith/animated.png",
-            "nineties": "../../assets/images/heroes/041_harith/90s.png",
+            "real": "../assets/images/heroes/041_harith/real.png",
+            "animated": "../assets/images/heroes/041_harith/animated.png",
+            "nineties": "../assets/images/heroes/041_harith/90s.png",
             "gallery": [
-                "../../assets/images/heroes/041_harith/gallery1.png",
-                "../../assets/images/heroes/041_harith/gallery2.png",
-                "../../assets/images/heroes/041_harith/gallery3.png",
-                "../../assets/images/heroes/041_harith/gallery4.png"
+                "../assets/images/heroes/041_harith/gallery1.png",
+                "../assets/images/heroes/041_harith/gallery2.png",
+                "../assets/images/heroes/041_harith/gallery3.png",
+                "../assets/images/heroes/041_harith/gallery4.png"
             ]
         },
         "rating": 8.9,
@@ -2335,16 +2335,16 @@
         "id": 42,
         "name": "Martis",
         "nickname": "The Ash Bringer",
-        "icon": "../../assets/images/heroes/042_martis/icon.png",
+        "icon": "../assets/images/heroes/042_martis/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/042_martis/real.png",
-            "animated": "../../assets/images/heroes/042_martis/animated.png",
-            "nineties": "../../assets/images/heroes/042_martis/90s.png",
+            "real": "../assets/images/heroes/042_martis/real.png",
+            "animated": "../assets/images/heroes/042_martis/animated.png",
+            "nineties": "../assets/images/heroes/042_martis/90s.png",
             "gallery": [
-                "../../assets/images/heroes/042_martis/gallery1.png",
-                "../../assets/images/heroes/042_martis/gallery2.png",
-                "../../assets/images/heroes/042_martis/gallery3.png",
-                "../../assets/images/heroes/042_martis/gallery4.png"
+                "../assets/images/heroes/042_martis/gallery1.png",
+                "../assets/images/heroes/042_martis/gallery2.png",
+                "../assets/images/heroes/042_martis/gallery3.png",
+                "../assets/images/heroes/042_martis/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -2391,16 +2391,16 @@
         "id": 43,
         "name": "Gusion",
         "nickname": "The Feather Dancer",
-        "icon": "../../assets/images/heroes/043_gusion/icon.png",
+        "icon": "../assets/images/heroes/043_gusion/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/043_gusion/real.png",
-            "animated": "../../assets/images/heroes/043_gusion/animated.png",
-            "nineties": "../../assets/images/heroes/043_gusion/90s.png",
+            "real": "../assets/images/heroes/043_gusion/real.png",
+            "animated": "../assets/images/heroes/043_gusion/animated.png",
+            "nineties": "../assets/images/heroes/043_gusion/90s.png",
             "gallery": [
-                "../../assets/images/heroes/043_gusion/gallery1.png",
-                "../../assets/images/heroes/043_gusion/gallery2.png",
-                "../../assets/images/heroes/043_gusion/gallery3.png",
-                "../../assets/images/heroes/043_gusion/gallery4.png"
+                "../assets/images/heroes/043_gusion/gallery1.png",
+                "../assets/images/heroes/043_gusion/gallery2.png",
+                "../assets/images/heroes/043_gusion/gallery3.png",
+                "../assets/images/heroes/043_gusion/gallery4.png"
             ]
         },
         "rating": 9.2,
@@ -2448,16 +2448,16 @@
         "id": 44,
         "name": "Kimmy",
         "nickname": "The Chemist",
-        "icon": "../../assets/images/heroes/044_kimmy/icon.png",
+        "icon": "../assets/images/heroes/044_kimmy/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/044_kimmy/real.png",
-            "animated": "../../assets/images/heroes/044_kimmy/animated.png",
-            "nineties": "../../assets/images/heroes/044_kimmy/90s.png",
+            "real": "../assets/images/heroes/044_kimmy/real.png",
+            "animated": "../assets/images/heroes/044_kimmy/animated.png",
+            "nineties": "../assets/images/heroes/044_kimmy/90s.png",
             "gallery": [
-                "../../assets/images/heroes/044_kimmy/gallery1.png",
-                "../../assets/images/heroes/044_kimmy/gallery2.png",
-                "../../assets/images/heroes/044_kimmy/gallery3.png",
-                "../../assets/images/heroes/044_kimmy/gallery4.png"
+                "../assets/images/heroes/044_kimmy/gallery1.png",
+                "../assets/images/heroes/044_kimmy/gallery2.png",
+                "../assets/images/heroes/044_kimmy/gallery3.png",
+                "../assets/images/heroes/044_kimmy/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -2505,16 +2505,16 @@
         "id": 45,
         "name": "Lunox",
         "nickname": "The Dreamweaver",
-        "icon": "../../assets/images/heroes/045_lunox/icon.png",
+        "icon": "../assets/images/heroes/045_lunox/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/045_lunox/real.png",
-            "animated": "../../assets/images/heroes/045_lunox/animated.png",
-            "nineties": "../../assets/images/heroes/045_lunox/90s.png",
+            "real": "../assets/images/heroes/045_lunox/real.png",
+            "animated": "../assets/images/heroes/045_lunox/animated.png",
+            "nineties": "../assets/images/heroes/045_lunox/90s.png",
             "gallery": [
-                "../../assets/images/heroes/045_lunox/gallery1.png",
-                "../../assets/images/heroes/045_lunox/gallery2.png",
-                "../../assets/images/heroes/045_lunox/gallery3.png",
-                "../../assets/images/heroes/045_lunox/gallery4.png"
+                "../assets/images/heroes/045_lunox/gallery1.png",
+                "../assets/images/heroes/045_lunox/gallery2.png",
+                "../assets/images/heroes/045_lunox/gallery3.png",
+                "../assets/images/heroes/045_lunox/gallery4.png"
             ]
         },
         "rating": 9.0,
@@ -2562,16 +2562,16 @@
         "id": 46,
         "name": "Thamuz",
         "nickname": "The Abyssal Lord",
-        "icon": "../../assets/images/heroes/046_thamuz/icon.png",
+        "icon": "../assets/images/heroes/046_thamuz/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/046_thamuz/real.png",
-            "animated": "../../assets/images/heroes/046_thamuz/animated.png",
-            "nineties": "../../assets/images/heroes/046_thamuz/90s.png",
+            "real": "../assets/images/heroes/046_thamuz/real.png",
+            "animated": "../assets/images/heroes/046_thamuz/animated.png",
+            "nineties": "../assets/images/heroes/046_thamuz/90s.png",
             "gallery": [
-                "../../assets/images/heroes/046_thamuz/gallery1.png",
-                "../../assets/images/heroes/046_thamuz/gallery2.png",
-                "../../assets/images/heroes/046_thamuz/gallery3.png",
-                "../../assets/images/heroes/046_thamuz/gallery4.png"
+                "../assets/images/heroes/046_thamuz/gallery1.png",
+                "../assets/images/heroes/046_thamuz/gallery2.png",
+                "../assets/images/heroes/046_thamuz/gallery3.png",
+                "../assets/images/heroes/046_thamuz/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -2618,16 +2618,16 @@
         "id": 47,
         "name": "Leomord",
         "nickname": "The Knightmare",
-        "icon": "../../assets/images/heroes/047_leomord/icon.png",
+        "icon": "../assets/images/heroes/047_leomord/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/047_leomord/real.png",
-            "animated": "../../assets/images/heroes/047_leomord/animated.png",
-            "nineties": "../../assets/images/heroes/047_leomord/90s.png",
+            "real": "../assets/images/heroes/047_leomord/real.png",
+            "animated": "../assets/images/heroes/047_leomord/animated.png",
+            "nineties": "../assets/images/heroes/047_leomord/90s.png",
             "gallery": [
-                "../../assets/images/heroes/047_leomord/gallery1.png",
-                "../../assets/images/heroes/047_leomord/gallery2.png",
-                "../../assets/images/heroes/047_leomord/gallery3.png",
-                "../../assets/images/heroes/047_leomord/gallery4.png"
+                "../assets/images/heroes/047_leomord/gallery1.png",
+                "../assets/images/heroes/047_leomord/gallery2.png",
+                "../assets/images/heroes/047_leomord/gallery3.png",
+                "../assets/images/heroes/047_leomord/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -2674,16 +2674,16 @@
         "id": 48,
         "name": "Angela",
         "nickname": "The Heartstring",
-        "icon": "../../assets/images/heroes/048_angela/icon.png",
+        "icon": "../assets/images/heroes/048_angela/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/048_angela/real.png",
-            "animated": "../../assets/images/heroes/048_angela/animated.png",
-            "nineties": "../../assets/images/heroes/048_angela/90s.png",
+            "real": "../assets/images/heroes/048_angela/real.png",
+            "animated": "../assets/images/heroes/048_angela/animated.png",
+            "nineties": "../assets/images/heroes/048_angela/90s.png",
             "gallery": [
-                "../../assets/images/heroes/048_angela/gallery1.png",
-                "../../assets/images/heroes/048_angela/gallery2.png",
-                "../../assets/images/heroes/048_angela/gallery3.png",
-                "../../assets/images/heroes/048_angela/gallery4.png"
+                "../assets/images/heroes/048_angela/gallery1.png",
+                "../assets/images/heroes/048_angela/gallery2.png",
+                "../assets/images/heroes/048_angela/gallery3.png",
+                "../assets/images/heroes/048_angela/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -2731,16 +2731,16 @@
         "id": 49,
         "name": "Aldous",
         "nickname": "The Soul Eater",
-        "icon": "../../assets/images/heroes/049_aldous/icon.png",
+        "icon": "../assets/images/heroes/049_aldous/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/049_aldous/real.png",
-            "animated": "../../assets/images/heroes/049_aldous/animated.png",
-            "nineties": "../../assets/images/heroes/049_aldous/90s.png",
+            "real": "../assets/images/heroes/049_aldous/real.png",
+            "animated": "../assets/images/heroes/049_aldous/animated.png",
+            "nineties": "../assets/images/heroes/049_aldous/90s.png",
             "gallery": [
-                "../../assets/images/heroes/049_aldous/gallery1.png",
-                "../../assets/images/heroes/049_aldous/gallery2.png",
-                "../../assets/images/heroes/049_aldous/gallery3.png",
-                "../../assets/images/heroes/049_aldous/gallery4.png"
+                "../assets/images/heroes/049_aldous/gallery1.png",
+                "../assets/images/heroes/049_aldous/gallery2.png",
+                "../assets/images/heroes/049_aldous/gallery3.png",
+                "../assets/images/heroes/049_aldous/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -2788,16 +2788,16 @@
         "id": 50,
         "name": "Khufra",
         "nickname": "The Mummy King",
-        "icon": "../../assets/images/heroes/050_khufra/icon.png",
+        "icon": "../assets/images/heroes/050_khufra/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/050_khufra/real.png",
-            "animated": "../../assets/images/heroes/050_khufra/animated.png",
-            "nineties": "../../assets/images/heroes/050_khufra/90s.png",
+            "real": "../assets/images/heroes/050_khufra/real.png",
+            "animated": "../assets/images/heroes/050_khufra/animated.png",
+            "nineties": "../assets/images/heroes/050_khufra/90s.png",
             "gallery": [
-                "../../assets/images/heroes/050_khufra/gallery1.png",
-                "../../assets/images/heroes/050_khufra/gallery2.png",
-                "../../assets/images/heroes/050_khufra/gallery3.png",
-                "../../assets/images/heroes/050_khufra/gallery4.png"
+                "../assets/images/heroes/050_khufra/gallery1.png",
+                "../assets/images/heroes/050_khufra/gallery2.png",
+                "../assets/images/heroes/050_khufra/gallery3.png",
+                "../assets/images/heroes/050_khufra/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -2844,16 +2844,16 @@
         "id": 51,
         "name": "Granger",
         "nickname": "The Violinist",
-        "icon": "../../assets/images/heroes/051_granger/icon.png",
+        "icon": "../assets/images/heroes/051_granger/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/051_granger/real.png",
-            "animated": "../../assets/images/heroes/051_granger/animated.png",
-            "nineties": "../../assets/images/heroes/051_granger/90s.png",
+            "real": "../assets/images/heroes/051_granger/real.png",
+            "animated": "../assets/images/heroes/051_granger/animated.png",
+            "nineties": "../assets/images/heroes/051_granger/90s.png",
             "gallery": [
-                "../../assets/images/heroes/051_granger/gallery1.png",
-                "../../assets/images/heroes/051_granger/gallery2.png",
-                "../../assets/images/heroes/051_granger/gallery3.png",
-                "../../assets/images/heroes/051_granger/gallery4.png"
+                "../assets/images/heroes/051_granger/gallery1.png",
+                "../assets/images/heroes/051_granger/gallery2.png",
+                "../assets/images/heroes/051_granger/gallery3.png",
+                "../assets/images/heroes/051_granger/gallery4.png"
             ]
         },
         "rating": 8.6,
@@ -2901,16 +2901,16 @@
         "id": 52,
         "name": "X.Borg",
         "nickname": "The Fire Phantom",
-        "icon": "../../assets/images/heroes/052_xborg/icon.png",
+        "icon": "../assets/images/heroes/052_xborg/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/052_xborg/real.png",
-            "animated": "../../assets/images/heroes/052_xborg/animated.png",
-            "nineties": "../../assets/images/heroes/052_xborg/90s.png",
+            "real": "../assets/images/heroes/052_xborg/real.png",
+            "animated": "../assets/images/heroes/052_xborg/animated.png",
+            "nineties": "../assets/images/heroes/052_xborg/90s.png",
             "gallery": [
-                "../../assets/images/heroes/052_xborg/gallery1.png",
-                "../../assets/images/heroes/052_xborg/gallery2.png",
-                "../../assets/images/heroes/052_xborg/gallery3.png",
-                "../../assets/images/heroes/052_xborg/gallery4.png"
+                "../assets/images/heroes/052_xborg/gallery1.png",
+                "../assets/images/heroes/052_xborg/gallery2.png",
+                "../assets/images/heroes/052_xborg/gallery3.png",
+                "../assets/images/heroes/052_xborg/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -2957,16 +2957,16 @@
         "id": 53,
         "name": "Ling",
         "nickname": "The Finch",
-        "icon": "../../assets/images/heroes/053_ling/icon.png",
+        "icon": "../assets/images/heroes/053_ling/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/053_ling/real.png",
-            "animated": "../../assets/images/heroes/053_ling/animated.png",
-            "nineties": "../../assets/images/heroes/053_ling/90s.png",
+            "real": "../assets/images/heroes/053_ling/real.png",
+            "animated": "../assets/images/heroes/053_ling/animated.png",
+            "nineties": "../assets/images/heroes/053_ling/90s.png",
             "gallery": [
-                "../../assets/images/heroes/053_ling/gallery1.png",
-                "../../assets/images/heroes/053_ling/gallery2.png",
-                "../../assets/images/heroes/053_ling/gallery3.png",
-                "../../assets/images/heroes/053_ling/gallery4.png"
+                "../assets/images/heroes/053_ling/gallery1.png",
+                "../assets/images/heroes/053_ling/gallery2.png",
+                "../assets/images/heroes/053_ling/gallery3.png",
+                "../assets/images/heroes/053_ling/gallery4.png"
             ]
         },
         "rating": 9.1,
@@ -3014,16 +3014,16 @@
         "id": 54,
         "name": "Carmilla",
         "nickname": "The Blood Bride",
-        "icon": "../../assets/images/heroes/054_carmilla/icon.png",
+        "icon": "../assets/images/heroes/054_carmilla/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/054_carmilla/real.png",
-            "animated": "../../assets/images/heroes/054_carmilla/animated.png",
-            "nineties": "../../assets/images/heroes/054_carmilla/90s.png",
+            "real": "../assets/images/heroes/054_carmilla/real.png",
+            "animated": "../assets/images/heroes/054_carmilla/animated.png",
+            "nineties": "../assets/images/heroes/054_carmilla/90s.png",
             "gallery": [
-                "../../assets/images/heroes/054_carmilla/gallery1.png",
-                "../../assets/images/heroes/054_carmilla/gallery2.png",
-                "../../assets/images/heroes/054_carmilla/gallery3.png",
-                "../../assets/images/heroes/054_carmilla/gallery4.png"
+                "../assets/images/heroes/054_carmilla/gallery1.png",
+                "../assets/images/heroes/054_carmilla/gallery2.png",
+                "../assets/images/heroes/054_carmilla/gallery3.png",
+                "../assets/images/heroes/054_carmilla/gallery4.png"
             ]
         },
         "rating": 7.6,
@@ -3071,16 +3071,16 @@
         "id": 55,
         "name": "Atlas",
         "nickname": "The Starmech",
-        "icon": "../../assets/images/heroes/055_atlas/icon.png",
+        "icon": "../assets/images/heroes/055_atlas/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/055_atlas/real.png",
-            "animated": "../../assets/images/heroes/055_atlas/animated.png",
-            "nineties": "../../assets/images/heroes/055_atlas/90s.png",
+            "real": "../assets/images/heroes/055_atlas/real.png",
+            "animated": "../assets/images/heroes/055_atlas/animated.png",
+            "nineties": "../assets/images/heroes/055_atlas/90s.png",
             "gallery": [
-                "../../assets/images/heroes/055_atlas/gallery1.png",
-                "../../assets/images/heroes/055_atlas/gallery2.png",
-                "../../assets/images/heroes/055_atlas/gallery3.png",
-                "../../assets/images/heroes/055_atlas/gallery4.png"
+                "../assets/images/heroes/055_atlas/gallery1.png",
+                "../assets/images/heroes/055_atlas/gallery2.png",
+                "../assets/images/heroes/055_atlas/gallery3.png",
+                "../assets/images/heroes/055_atlas/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -3125,16 +3125,16 @@
         "id": 56,
         "name": "Barats",
         "nickname": "The Big Guy",
-        "icon": "../../assets/images/heroes/056_barats/icon.png",
+        "icon": "../assets/images/heroes/056_barats/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/056_barats/real.png",
-            "animated": "../../assets/images/heroes/056_barats/animated.png",
-            "nineties": "../../assets/images/heroes/056_barats/90s.png",
+            "real": "../assets/images/heroes/056_barats/real.png",
+            "animated": "../assets/images/heroes/056_barats/animated.png",
+            "nineties": "../assets/images/heroes/056_barats/90s.png",
             "gallery": [
-                "../../assets/images/heroes/056_barats/gallery1.png",
-                "../../assets/images/heroes/056_barats/gallery2.png",
-                "../../assets/images/heroes/056_barats/gallery3.png",
-                "../../assets/images/heroes/056_barats/gallery4.png"
+                "../assets/images/heroes/056_barats/gallery1.png",
+                "../assets/images/heroes/056_barats/gallery2.png",
+                "../assets/images/heroes/056_barats/gallery3.png",
+                "../assets/images/heroes/056_barats/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -3180,16 +3180,16 @@
         "id": 57,
         "name": "Mathilda",
         "nickname": "The Feather Fairy",
-        "icon": "../../assets/images/heroes/057_mathilda/icon.png",
+        "icon": "../assets/images/heroes/057_mathilda/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/057_mathilda/real.png",
-            "animated": "../../assets/images/heroes/057_mathilda/animated.png",
-            "nineties": "../../assets/images/heroes/057_mathilda/90s.png",
+            "real": "../assets/images/heroes/057_mathilda/real.png",
+            "animated": "../assets/images/heroes/057_mathilda/animated.png",
+            "nineties": "../assets/images/heroes/057_mathilda/90s.png",
             "gallery": [
-                "../../assets/images/heroes/057_mathilda/gallery1.png",
-                "../../assets/images/heroes/057_mathilda/gallery2.png",
-                "../../assets/images/heroes/057_mathilda/gallery3.png",
-                "../../assets/images/heroes/057_mathilda/gallery4.png"
+                "../assets/images/heroes/057_mathilda/gallery1.png",
+                "../assets/images/heroes/057_mathilda/gallery2.png",
+                "../assets/images/heroes/057_mathilda/gallery3.png",
+                "../assets/images/heroes/057_mathilda/gallery4.png"
             ]
         },
         "rating": 7.5,
@@ -3237,16 +3237,16 @@
         "id": 58,
         "name": "Brody",
         "nickname": "The Shadowblade",
-        "icon": "../../assets/images/heroes/058_brody/icon.png",
+        "icon": "../assets/images/heroes/058_brody/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/058_brody/real.png",
-            "animated": "../../assets/images/heroes/058_brody/animated.png",
-            "nineties": "../../assets/images/heroes/058_brody/90s.png",
+            "real": "../assets/images/heroes/058_brody/real.png",
+            "animated": "../assets/images/heroes/058_brody/animated.png",
+            "nineties": "../assets/images/heroes/058_brody/90s.png",
             "gallery": [
-                "../../assets/images/heroes/058_brody/gallery1.png",
-                "../../assets/images/heroes/058_brody/gallery2.png",
-                "../../assets/images/heroes/058_brody/gallery3.png",
-                "../../assets/images/heroes/058_brody/gallery4.png"
+                "../assets/images/heroes/058_brody/gallery1.png",
+                "../assets/images/heroes/058_brody/gallery2.png",
+                "../assets/images/heroes/058_brody/gallery3.png",
+                "../assets/images/heroes/058_brody/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -3294,16 +3294,16 @@
         "id": 59,
         "name": "Yve",
         "nickname": "The Astronomer",
-        "icon": "../../assets/images/heroes/059_yve/icon.png",
+        "icon": "../assets/images/heroes/059_yve/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/059_yve/real.png",
-            "animated": "../../assets/images/heroes/059_yve/animated.png",
-            "nineties": "../../assets/images/heroes/059_yve/90s.png",
+            "real": "../assets/images/heroes/059_yve/real.png",
+            "animated": "../assets/images/heroes/059_yve/animated.png",
+            "nineties": "../assets/images/heroes/059_yve/90s.png",
             "gallery": [
-                "../../assets/images/heroes/059_yve/gallery1.png",
-                "../../assets/images/heroes/059_yve/gallery2.png",
-                "../../assets/images/heroes/059_yve/gallery3.png",
-                "../../assets/images/heroes/059_yve/gallery4.png"
+                "../assets/images/heroes/059_yve/gallery1.png",
+                "../assets/images/heroes/059_yve/gallery2.png",
+                "../assets/images/heroes/059_yve/gallery3.png",
+                "../assets/images/heroes/059_yve/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -3351,16 +3351,16 @@
         "id": 60,
         "name": "Paquito",
         "nickname": "The Boxer",
-        "icon": "../../assets/images/heroes/060_paquito/icon.png",
+        "icon": "../assets/images/heroes/060_paquito/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/060_paquito/real.png",
-            "animated": "../../assets/images/heroes/060_paquito/animated.png",
-            "nineties": "../../assets/images/heroes/060_paquito/90s.png",
+            "real": "../assets/images/heroes/060_paquito/real.png",
+            "animated": "../assets/images/heroes/060_paquito/animated.png",
+            "nineties": "../assets/images/heroes/060_paquito/90s.png",
             "gallery": [
-                "../../assets/images/heroes/060_paquito/gallery1.png",
-                "../../assets/images/heroes/060_paquito/gallery2.png",
-                "../../assets/images/heroes/060_paquito/gallery3.png",
-                "../../assets/images/heroes/060_paquito/gallery4.png"
+                "../assets/images/heroes/060_paquito/gallery1.png",
+                "../assets/images/heroes/060_paquito/gallery2.png",
+                "../assets/images/heroes/060_paquito/gallery3.png",
+                "../assets/images/heroes/060_paquito/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -3408,16 +3408,16 @@
         "id": 61,
         "name": "Benedetta",
         "nickname": "The Shadow Ranger",
-        "icon": "../../assets/images/heroes/061_benedetta/icon.png",
+        "icon": "../assets/images/heroes/061_benedetta/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/061_benedetta/real.png",
-            "animated": "../../assets/images/heroes/061_benedetta/animated.png",
-            "nineties": "../../assets/images/heroes/061_benedetta/90s.png",
+            "real": "../assets/images/heroes/061_benedetta/real.png",
+            "animated": "../assets/images/heroes/061_benedetta/animated.png",
+            "nineties": "../assets/images/heroes/061_benedetta/90s.png",
             "gallery": [
-                "../../assets/images/heroes/061_benedetta/gallery1.png",
-                "../../assets/images/heroes/061_benedetta/gallery2.png",
-                "../../assets/images/heroes/061_benedetta/gallery3.png",
-                "../../assets/images/heroes/061_benedetta/gallery4.png"
+                "../assets/images/heroes/061_benedetta/gallery1.png",
+                "../assets/images/heroes/061_benedetta/gallery2.png",
+                "../assets/images/heroes/061_benedetta/gallery3.png",
+                "../assets/images/heroes/061_benedetta/gallery4.png"
             ]
         },
         "rating": 8.8,
@@ -3465,16 +3465,16 @@
         "id": 62,
         "name": "Luo Yi",
         "nickname": "The Mystic",
-        "icon": "../../assets/images/heroes/062_luoyi/icon.png",
+        "icon": "../assets/images/heroes/062_luoyi/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/062_luoyi/real.png",
-            "animated": "../../assets/images/heroes/062_luoyi/animated.png",
-            "nineties": "../../assets/images/heroes/062_luoyi/90s.png",
+            "real": "../assets/images/heroes/062_luoyi/real.png",
+            "animated": "../assets/images/heroes/062_luoyi/animated.png",
+            "nineties": "../assets/images/heroes/062_luoyi/90s.png",
             "gallery": [
-                "../../assets/images/heroes/062_luoyi/gallery1.png",
-                "../../assets/images/heroes/062_luoyi/gallery2.png",
-                "../../assets/images/heroes/062_luoyi/gallery3.png",
-                "../../assets/images/heroes/062_luoyi/gallery4.png"
+                "../assets/images/heroes/062_luoyi/gallery1.png",
+                "../assets/images/heroes/062_luoyi/gallery2.png",
+                "../assets/images/heroes/062_luoyi/gallery3.png",
+                "../assets/images/heroes/062_luoyi/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -3522,16 +3522,16 @@
         "id": 63,
         "name": "Phoveus",
         "nickname": "The Abyssal Avenger",
-        "icon": "../../assets/images/heroes/063_phoveus/icon.png",
+        "icon": "../assets/images/heroes/063_phoveus/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/063_phoveus/real.png",
-            "animated": "../../assets/images/heroes/063_phoveus/animated.png",
-            "nineties": "../../assets/images/heroes/063_phoveus/90s.png",
+            "real": "../assets/images/heroes/063_phoveus/real.png",
+            "animated": "../assets/images/heroes/063_phoveus/animated.png",
+            "nineties": "../assets/images/heroes/063_phoveus/90s.png",
             "gallery": [
-                "../../assets/images/heroes/063_phoveus/gallery1.png",
-                "../../assets/images/heroes/063_phoveus/gallery2.png",
-                "../../assets/images/heroes/063_phoveus/gallery3.png",
-                "../../assets/images/heroes/063_phoveus/gallery4.png"
+                "../assets/images/heroes/063_phoveus/gallery1.png",
+                "../assets/images/heroes/063_phoveus/gallery2.png",
+                "../assets/images/heroes/063_phoveus/gallery3.png",
+                "../assets/images/heroes/063_phoveus/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -3578,16 +3578,16 @@
         "id": 64,
         "name": "Natan",
         "nickname": "The Genius of Reality",
-        "icon": "../../assets/images/heroes/064_natan/icon.png",
+        "icon": "../assets/images/heroes/064_natan/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/064_natan/real.png",
-            "animated": "../../assets/images/heroes/064_natan/animated.png",
-            "nineties": "../../assets/images/heroes/064_natan/90s.png",
+            "real": "../assets/images/heroes/064_natan/real.png",
+            "animated": "../assets/images/heroes/064_natan/animated.png",
+            "nineties": "../assets/images/heroes/064_natan/90s.png",
             "gallery": [
-                "../../assets/images/heroes/064_natan/gallery1.png",
-                "../../assets/images/heroes/064_natan/gallery2.png",
-                "../../assets/images/heroes/064_natan/gallery3.png",
-                "../../assets/images/heroes/064_natan/gallery4.png"
+                "../assets/images/heroes/064_natan/gallery1.png",
+                "../assets/images/heroes/064_natan/gallery2.png",
+                "../assets/images/heroes/064_natan/gallery3.png",
+                "../assets/images/heroes/064_natan/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -3635,16 +3635,16 @@
         "id": 65,
         "name": "Aulus",
         "nickname": "The Gladiator",
-        "icon": "../../assets/images/heroes/065_aulus/icon.png",
+        "icon": "../assets/images/heroes/065_aulus/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/065_aulus/real.png",
-            "animated": "../../assets/images/heroes/065_aulus/animated.png",
-            "nineties": "../../assets/images/heroes/065_aulus/90s.png",
+            "real": "../assets/images/heroes/065_aulus/real.png",
+            "animated": "../assets/images/heroes/065_aulus/animated.png",
+            "nineties": "../assets/images/heroes/065_aulus/90s.png",
             "gallery": [
-                "../../assets/images/heroes/065_aulus/gallery1.png",
-                "../../assets/images/heroes/065_aulus/gallery2.png",
-                "../../assets/images/heroes/065_aulus/gallery3.png",
-                "../../assets/images/heroes/065_aulus/gallery4.png"
+                "../assets/images/heroes/065_aulus/gallery1.png",
+                "../assets/images/heroes/065_aulus/gallery2.png",
+                "../assets/images/heroes/065_aulus/gallery3.png",
+                "../assets/images/heroes/065_aulus/gallery4.png"
             ]
         },
         "rating": 7.6,
@@ -3691,16 +3691,16 @@
         "id": 66,
         "name": "Yve",
         "nickname": "The Astronomer",
-        "icon": "../../assets/images/heroes/066_yve/icon.png",
+        "icon": "../assets/images/heroes/066_yve/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/066_yve/real.png",
-            "animated": "../../assets/images/heroes/066_yve/animated.png",
-            "nineties": "../../assets/images/heroes/066_yve/90s.png",
+            "real": "../assets/images/heroes/066_yve/real.png",
+            "animated": "../assets/images/heroes/066_yve/animated.png",
+            "nineties": "../assets/images/heroes/066_yve/90s.png",
             "gallery": [
-                "../../assets/images/heroes/066_yve/gallery1.png",
-                "../../assets/images/heroes/066_yve/gallery2.png",
-                "../../assets/images/heroes/066_yve/gallery3.png",
-                "../../assets/images/heroes/066_yve/gallery4.png"
+                "../assets/images/heroes/066_yve/gallery1.png",
+                "../assets/images/heroes/066_yve/gallery2.png",
+                "../assets/images/heroes/066_yve/gallery3.png",
+                "../assets/images/heroes/066_yve/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -3748,16 +3748,16 @@
         "id": 67,
         "name": "Gloo",
         "nickname": "The Slime",
-        "icon": "../../assets/images/heroes/067_gloo/icon.png",
+        "icon": "../assets/images/heroes/067_gloo/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/067_gloo/real.png",
-            "animated": "../../assets/images/heroes/067_gloo/animated.png",
-            "nineties": "../../assets/images/heroes/067_gloo/90s.png",
+            "real": "../assets/images/heroes/067_gloo/real.png",
+            "animated": "../assets/images/heroes/067_gloo/animated.png",
+            "nineties": "../assets/images/heroes/067_gloo/90s.png",
             "gallery": [
-                "../../assets/images/heroes/067_gloo/gallery1.png",
-                "../../assets/images/heroes/067_gloo/gallery2.png",
-                "../../assets/images/heroes/067_gloo/gallery3.png",
-                "../../assets/images/heroes/067_gloo/gallery4.png"
+                "../assets/images/heroes/067_gloo/gallery1.png",
+                "../assets/images/heroes/067_gloo/gallery2.png",
+                "../assets/images/heroes/067_gloo/gallery3.png",
+                "../assets/images/heroes/067_gloo/gallery4.png"
             ]
         },
         "rating": 7.3,
@@ -3801,16 +3801,16 @@
         "id": 68,
         "name": "Beatrix",
         "nickname": "The Gunsmith",
-        "icon": "../../assets/images/heroes/068_beatrix/icon.png",
+        "icon": "../assets/images/heroes/068_beatrix/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/068_beatrix/real.png",
-            "animated": "../../assets/images/heroes/068_beatrix/animated.png",
-            "nineties": "../../assets/images/heroes/068_beatrix/90s.png",
+            "real": "../assets/images/heroes/068_beatrix/real.png",
+            "animated": "../assets/images/heroes/068_beatrix/animated.png",
+            "nineties": "../assets/images/heroes/068_beatrix/90s.png",
             "gallery": [
-                "../../assets/images/heroes/068_beatrix/gallery1.png",
-                "../../assets/images/heroes/068_beatrix/gallery2.png",
-                "../../assets/images/heroes/068_beatrix/gallery3.png",
-                "../../assets/images/heroes/068_beatrix/gallery4.png"
+                "../assets/images/heroes/068_beatrix/gallery1.png",
+                "../assets/images/heroes/068_beatrix/gallery2.png",
+                "../assets/images/heroes/068_beatrix/gallery3.png",
+                "../assets/images/heroes/068_beatrix/gallery4.png"
             ]
         },
         "rating": 8.9,
@@ -3862,16 +3862,16 @@
         "id": 69,
         "name": "Edith",
         "nickname": "The Lightweaver",
-        "icon": "../../assets/images/heroes/069_edith/icon.png",
+        "icon": "../assets/images/heroes/069_edith/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/069_edith/real.png",
-            "animated": "../../assets/images/heroes/069_edith/animated.png",
-            "nineties": "../../assets/images/heroes/069_edith/90s.png",
+            "real": "../assets/images/heroes/069_edith/real.png",
+            "animated": "../assets/images/heroes/069_edith/animated.png",
+            "nineties": "../assets/images/heroes/069_edith/90s.png",
             "gallery": [
-                "../../assets/images/heroes/069_edith/gallery1.png",
-                "../../assets/images/heroes/069_edith/gallery2.png",
-                "../../assets/images/heroes/069_edith/gallery3.png",
-                "../../assets/images/heroes/069_edith/gallery4.png"
+                "../assets/images/heroes/069_edith/gallery1.png",
+                "../assets/images/heroes/069_edith/gallery2.png",
+                "../assets/images/heroes/069_edith/gallery3.png",
+                "../assets/images/heroes/069_edith/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -3919,16 +3919,16 @@
         "id": 70,
         "name": "Valentina",
         "nickname": "The Shapeshifter",
-        "icon": "../../assets/images/heroes/070_valentina/icon.png",
+        "icon": "../assets/images/heroes/070_valentina/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/070_valentina/real.png",
-            "animated": "../../assets/images/heroes/070_valentina/animated.png",
-            "nineties": "../../assets/images/heroes/070_valentina/90s.png",
+            "real": "../assets/images/heroes/070_valentina/real.png",
+            "animated": "../assets/images/heroes/070_valentina/animated.png",
+            "nineties": "../assets/images/heroes/070_valentina/90s.png",
             "gallery": [
-                "../../assets/images/heroes/070_valentina/gallery1.png",
-                "../../assets/images/heroes/070_valentina/gallery2.png",
-                "../../assets/images/heroes/070_valentina/gallery3.png",
-                "../../assets/images/heroes/070_valentina/gallery4.png"
+                "../assets/images/heroes/070_valentina/gallery1.png",
+                "../assets/images/heroes/070_valentina/gallery2.png",
+                "../assets/images/heroes/070_valentina/gallery3.png",
+                "../assets/images/heroes/070_valentina/gallery4.png"
             ]
         },
         "rating": 8.6,
@@ -3976,16 +3976,16 @@
         "id": 71,
         "name": "Aamon",
         "nickname": "The Shade",
-        "icon": "../../assets/images/heroes/071_aamon/icon.png",
+        "icon": "../assets/images/heroes/071_aamon/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/071_aamon/real.png",
-            "animated": "../../assets/images/heroes/071_aamon/animated.png",
-            "nineties": "../../assets/images/heroes/071_aamon/90s.png",
+            "real": "../assets/images/heroes/071_aamon/real.png",
+            "animated": "../assets/images/heroes/071_aamon/animated.png",
+            "nineties": "../assets/images/heroes/071_aamon/90s.png",
             "gallery": [
-                "../../assets/images/heroes/071_aamon/gallery1.png",
-                "../../assets/images/heroes/071_aamon/gallery2.png",
-                "../../assets/images/heroes/071_aamon/gallery3.png",
-                "../../assets/images/heroes/071_aamon/gallery4.png"
+                "../assets/images/heroes/071_aamon/gallery1.png",
+                "../assets/images/heroes/071_aamon/gallery2.png",
+                "../assets/images/heroes/071_aamon/gallery3.png",
+                "../assets/images/heroes/071_aamon/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -4033,16 +4033,16 @@
         "id": 72,
         "name": "Melissa",
         "nickname": "The Toy Collector",
-        "icon": "../../assets/images/heroes/072_melissa/icon.png",
+        "icon": "../assets/images/heroes/072_melissa/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/072_melissa/real.png",
-            "animated": "../../assets/images/heroes/072_melissa/animated.png",
-            "nineties": "../../assets/images/heroes/072_melissa/90s.png",
+            "real": "../assets/images/heroes/072_melissa/real.png",
+            "animated": "../assets/images/heroes/072_melissa/animated.png",
+            "nineties": "../assets/images/heroes/072_melissa/90s.png",
             "gallery": [
-                "../../assets/images/heroes/072_melissa/gallery1.png",
-                "../../assets/images/heroes/072_melissa/gallery2.png",
-                "../../assets/images/heroes/072_melissa/gallery3.png",
-                "../../assets/images/heroes/072_melissa/gallery4.png"
+                "../assets/images/heroes/072_melissa/gallery1.png",
+                "../assets/images/heroes/072_melissa/gallery2.png",
+                "../assets/images/heroes/072_melissa/gallery3.png",
+                "../assets/images/heroes/072_melissa/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -4090,16 +4090,16 @@
         "id": 73,
         "name": "Floryn",
         "nickname": "The Dream Fairy",
-        "icon": "../../assets/images/heroes/073_floryn/icon.png",
+        "icon": "../assets/images/heroes/073_floryn/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/073_floryn/real.png",
-            "animated": "../../assets/images/heroes/073_floryn/animated.png",
-            "nineties": "../../assets/images/heroes/073_floryn/90s.png",
+            "real": "../assets/images/heroes/073_floryn/real.png",
+            "animated": "../assets/images/heroes/073_floryn/animated.png",
+            "nineties": "../assets/images/heroes/073_floryn/90s.png",
             "gallery": [
-                "../../assets/images/heroes/073_floryn/gallery1.png",
-                "../../assets/images/heroes/073_floryn/gallery2.png",
-                "../../assets/images/heroes/073_floryn/gallery3.png",
-                "../../assets/images/heroes/073_floryn/gallery4.png"
+                "../assets/images/heroes/073_floryn/gallery1.png",
+                "../assets/images/heroes/073_floryn/gallery2.png",
+                "../assets/images/heroes/073_floryn/gallery3.png",
+                "../assets/images/heroes/073_floryn/gallery4.png"
             ]
         },
         "rating": 7.2,
@@ -4147,16 +4147,16 @@
         "id": 74,
         "name": "Julian",
         "nickname": "The Prodigy",
-        "icon": "../../assets/images/heroes/074_julian/icon.png",
+        "icon": "../assets/images/heroes/074_julian/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/074_julian/real.png",
-            "animated": "../../assets/images/heroes/074_julian/animated.png",
-            "nineties": "../../assets/images/heroes/074_julian/90s.png",
+            "real": "../assets/images/heroes/074_julian/real.png",
+            "animated": "../assets/images/heroes/074_julian/animated.png",
+            "nineties": "../assets/images/heroes/074_julian/90s.png",
             "gallery": [
-                "../../assets/images/heroes/074_julian/gallery1.png",
-                "../../assets/images/heroes/074_julian/gallery2.png",
-                "../../assets/images/heroes/074_julian/gallery3.png",
-                "../../assets/images/heroes/074_julian/gallery4.png"
+                "../assets/images/heroes/074_julian/gallery1.png",
+                "../assets/images/heroes/074_julian/gallery2.png",
+                "../assets/images/heroes/074_julian/gallery3.png",
+                "../assets/images/heroes/074_julian/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -4204,16 +4204,16 @@
         "id": 75,
         "name": "Xavier",
         "nickname": "The Reality Seer",
-        "icon": "../../assets/images/heroes/075_xavier/icon.png",
+        "icon": "../assets/images/heroes/075_xavier/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/075_xavier/real.png",
-            "animated": "../../assets/images/heroes/075_xavier/animated.png",
-            "nineties": "../../assets/images/heroes/075_xavier/90s.png",
+            "real": "../assets/images/heroes/075_xavier/real.png",
+            "animated": "../assets/images/heroes/075_xavier/animated.png",
+            "nineties": "../assets/images/heroes/075_xavier/90s.png",
             "gallery": [
-                "../../assets/images/heroes/075_xavier/gallery1.png",
-                "../../assets/images/heroes/075_xavier/gallery2.png",
-                "../../assets/images/heroes/075_xavier/gallery3.png",
-                "../../assets/images/heroes/075_xavier/gallery4.png"
+                "../assets/images/heroes/075_xavier/gallery1.png",
+                "../assets/images/heroes/075_xavier/gallery2.png",
+                "../assets/images/heroes/075_xavier/gallery3.png",
+                "../assets/images/heroes/075_xavier/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -4261,16 +4261,16 @@
         "id": 76,
         "name": "Fredrinn",
         "nickname": "The Crystalline",
-        "icon": "../../assets/images/heroes/076_fredrinn/icon.png",
+        "icon": "../assets/images/heroes/076_fredrinn/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/076_fredrinn/real.png",
-            "animated": "../../assets/images/heroes/076_fredrinn/animated.png",
-            "nineties": "../../assets/images/heroes/076_fredrinn/90s.png",
+            "real": "../assets/images/heroes/076_fredrinn/real.png",
+            "animated": "../assets/images/heroes/076_fredrinn/animated.png",
+            "nineties": "../assets/images/heroes/076_fredrinn/90s.png",
             "gallery": [
-                "../../assets/images/heroes/076_fredrinn/gallery1.png",
-                "../../assets/images/heroes/076_fredrinn/gallery2.png",
-                "../../assets/images/heroes/076_fredrinn/gallery3.png",
-                "../../assets/images/heroes/076_fredrinn/gallery4.png"
+                "../assets/images/heroes/076_fredrinn/gallery1.png",
+                "../assets/images/heroes/076_fredrinn/gallery2.png",
+                "../assets/images/heroes/076_fredrinn/gallery3.png",
+                "../assets/images/heroes/076_fredrinn/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -4317,16 +4317,16 @@
         "id": 77,
         "name": "Joy",
         "nickname": "The Rhapsody",
-        "icon": "../../assets/images/heroes/077_joy/icon.png",
+        "icon": "../assets/images/heroes/077_joy/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/077_joy/real.png",
-            "animated": "../../assets/images/heroes/077_joy/animated.png",
-            "nineties": "../../assets/images/heroes/077_joy/90s.png",
+            "real": "../assets/images/heroes/077_joy/real.png",
+            "animated": "../assets/images/heroes/077_joy/animated.png",
+            "nineties": "../assets/images/heroes/077_joy/90s.png",
             "gallery": [
-                "../../assets/images/heroes/077_joy/gallery1.png",
-                "../../assets/images/heroes/077_joy/gallery2.png",
-                "../../assets/images/heroes/077_joy/gallery3.png",
-                "../../assets/images/heroes/077_joy/gallery4.png"
+                "../assets/images/heroes/077_joy/gallery1.png",
+                "../assets/images/heroes/077_joy/gallery2.png",
+                "../assets/images/heroes/077_joy/gallery3.png",
+                "../assets/images/heroes/077_joy/gallery4.png"
             ]
         },
         "rating": 8.5,
@@ -4374,16 +4374,16 @@
         "id": 78,
         "name": "Arlott",
         "nickname": "The Spire's Light",
-        "icon": "../../assets/images/heroes/078_arlott/icon.png",
+        "icon": "../assets/images/heroes/078_arlott/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/078_arlott/real.png",
-            "animated": "../../assets/images/heroes/078_arlott/animated.png",
-            "nineties": "../../assets/images/heroes/078_arlott/90s.png",
+            "real": "../assets/images/heroes/078_arlott/real.png",
+            "animated": "../assets/images/heroes/078_arlott/animated.png",
+            "nineties": "../assets/images/heroes/078_arlott/90s.png",
             "gallery": [
-                "../../assets/images/heroes/078_arlott/gallery1.png",
-                "../../assets/images/heroes/078_arlott/gallery2.png",
-                "../../assets/images/heroes/078_arlott/gallery3.png",
-                "../../assets/images/heroes/078_arlott/gallery4.png"
+                "../assets/images/heroes/078_arlott/gallery1.png",
+                "../assets/images/heroes/078_arlott/gallery2.png",
+                "../assets/images/heroes/078_arlott/gallery3.png",
+                "../assets/images/heroes/078_arlott/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -4431,16 +4431,16 @@
         "id": 79,
         "name": "Ixia",
         "nickname": "The Star Spark",
-        "icon": "../../assets/images/heroes/079_ixia/icon.png",
+        "icon": "../assets/images/heroes/079_ixia/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/079_ixia/real.png",
-            "animated": "../../assets/images/heroes/079_ixia/animated.png",
-            "nineties": "../../assets/images/heroes/079_ixia/90s.png",
+            "real": "../assets/images/heroes/079_ixia/real.png",
+            "animated": "../assets/images/heroes/079_ixia/animated.png",
+            "nineties": "../assets/images/heroes/079_ixia/90s.png",
             "gallery": [
-                "../../assets/images/heroes/079_ixia/gallery1.png",
-                "../../assets/images/heroes/079_ixia/gallery2.png",
-                "../../assets/images/heroes/079_ixia/gallery3.png",
-                "../../assets/images/heroes/079_ixia/gallery4.png"
+                "../assets/images/heroes/079_ixia/gallery1.png",
+                "../assets/images/heroes/079_ixia/gallery2.png",
+                "../assets/images/heroes/079_ixia/gallery3.png",
+                "../assets/images/heroes/079_ixia/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -4488,16 +4488,16 @@
         "id": 80,
         "name": "Novaria",
         "nickname": "The Astrologer",
-        "icon": "../../assets/images/heroes/080_novaria/icon.png",
+        "icon": "../assets/images/heroes/080_novaria/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/080_novaria/real.png",
-            "animated": "../../assets/images/heroes/080_novaria/animated.png",
-            "nineties": "../../assets/images/heroes/080_novaria/90s.png",
+            "real": "../assets/images/heroes/080_novaria/real.png",
+            "animated": "../assets/images/heroes/080_novaria/animated.png",
+            "nineties": "../assets/images/heroes/080_novaria/90s.png",
             "gallery": [
-                "../../assets/images/heroes/080_novaria/gallery1.png",
-                "../../assets/images/heroes/080_novaria/gallery2.png",
-                "../../assets/images/heroes/080_novaria/gallery3.png",
-                "../../assets/images/heroes/080_novaria/gallery4.png"
+                "../assets/images/heroes/080_novaria/gallery1.png",
+                "../assets/images/heroes/080_novaria/gallery2.png",
+                "../assets/images/heroes/080_novaria/gallery3.png",
+                "../assets/images/heroes/080_novaria/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -4545,16 +4545,16 @@
         "id": 81,
         "name": "Chip",
         "nickname": "The Portal Master",
-        "icon": "../../assets/images/heroes/081_chip/icon.png",
+        "icon": "../assets/images/heroes/081_chip/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/081_chip/real.png",
-            "animated": "../../assets/images/heroes/081_chip/animated.png",
-            "nineties": "../../assets/images/heroes/081_chip/90s.png",
+            "real": "../assets/images/heroes/081_chip/real.png",
+            "animated": "../assets/images/heroes/081_chip/animated.png",
+            "nineties": "../assets/images/heroes/081_chip/90s.png",
             "gallery": [
-                "../../assets/images/heroes/081_chip/gallery1.png",
-                "../../assets/images/heroes/081_chip/gallery2.png",
-                "../../assets/images/heroes/081_chip/gallery3.png",
-                "../../assets/images/heroes/081_chip/gallery4.png"
+                "../assets/images/heroes/081_chip/gallery1.png",
+                "../assets/images/heroes/081_chip/gallery2.png",
+                "../assets/images/heroes/081_chip/gallery3.png",
+                "../assets/images/heroes/081_chip/gallery4.png"
             ]
         },
         "rating": 7.5,
@@ -4601,16 +4601,16 @@
         "id": 82,
         "name": "Cici",
         "nickname": "The Party Popper",
-        "icon": "../../assets/images/heroes/082_cici/icon.png",
+        "icon": "../assets/images/heroes/082_cici/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/082_cici/real.png",
-            "animated": "../../assets/images/heroes/082_cici/animated.png",
-            "nineties": "../../assets/images/heroes/082_cici/90s.png",
+            "real": "../assets/images/heroes/082_cici/real.png",
+            "animated": "../assets/images/heroes/082_cici/animated.png",
+            "nineties": "../assets/images/heroes/082_cici/90s.png",
             "gallery": [
-                "../../assets/images/heroes/082_cici/gallery1.png",
-                "../../assets/images/heroes/082_cici/gallery2.png",
-                "../../assets/images/heroes/082_cici/gallery3.png",
-                "../../assets/images/heroes/082_cici/gallery4.png"
+                "../assets/images/heroes/082_cici/gallery1.png",
+                "../assets/images/heroes/082_cici/gallery2.png",
+                "../assets/images/heroes/082_cici/gallery3.png",
+                "../assets/images/heroes/082_cici/gallery4.png"
             ]
         },
         "rating": 6.8,
@@ -4658,16 +4658,16 @@
         "id": 83,
         "name": "Nolan",
         "nickname": "The Time Warden",
-        "icon": "../../assets/images/heroes/083_nolan/icon.png",
+        "icon": "../assets/images/heroes/083_nolan/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/083_nolan/real.png",
-            "animated": "../../assets/images/heroes/083_nolan/animated.png",
-            "nineties": "../../assets/images/heroes/083_nolan/90s.png",
+            "real": "../assets/images/heroes/083_nolan/real.png",
+            "animated": "../assets/images/heroes/083_nolan/animated.png",
+            "nineties": "../assets/images/heroes/083_nolan/90s.png",
             "gallery": [
-                "../../assets/images/heroes/083_nolan/gallery1.png",
-                "../../assets/images/heroes/083_nolan/gallery2.png",
-                "../../assets/images/heroes/083_nolan/gallery3.png",
-                "../../assets/images/heroes/083_nolan/gallery4.png"
+                "../assets/images/heroes/083_nolan/gallery1.png",
+                "../assets/images/heroes/083_nolan/gallery2.png",
+                "../assets/images/heroes/083_nolan/gallery3.png",
+                "../assets/images/heroes/083_nolan/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -4715,16 +4715,16 @@
         "id": 84,
         "name": "Vale",
         "nickname": "The Windtalker",
-        "icon": "../../assets/images/heroes/084_vale/icon.png",
+        "icon": "../assets/images/heroes/084_vale/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/084_vale/real.png",
-            "animated": "../../assets/images/heroes/084_vale/animated.png",
-            "nineties": "../../assets/images/heroes/084_vale/90s.png",
+            "real": "../assets/images/heroes/084_vale/real.png",
+            "animated": "../assets/images/heroes/084_vale/animated.png",
+            "nineties": "../assets/images/heroes/084_vale/90s.png",
             "gallery": [
-                "../../assets/images/heroes/084_vale/gallery1.png",
-                "../../assets/images/heroes/084_vale/gallery2.png",
-                "../../assets/images/heroes/084_vale/gallery3.png",
-                "../../assets/images/heroes/084_vale/gallery4.png"
+                "../assets/images/heroes/084_vale/gallery1.png",
+                "../assets/images/heroes/084_vale/gallery2.png",
+                "../assets/images/heroes/084_vale/gallery3.png",
+                "../assets/images/heroes/084_vale/gallery4.png"
             ]
         },
         "rating": 7.6,
@@ -4771,16 +4771,16 @@
         "id": 85,
         "name": "Valir",
         "nickname": "The Flamedriver",
-        "icon": "../../assets/images/heroes/085_valir/icon.png",
+        "icon": "../assets/images/heroes/085_valir/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/085_valir/real.png",
-            "animated": "../../assets/images/heroes/085_valir/animated.png",
-            "nineties": "../../assets/images/heroes/085_valir/90s.png",
+            "real": "../assets/images/heroes/085_valir/real.png",
+            "animated": "../assets/images/heroes/085_valir/animated.png",
+            "nineties": "../assets/images/heroes/085_valir/90s.png",
             "gallery": [
-                "../../assets/images/heroes/085_valir/gallery1.png",
-                "../../assets/images/heroes/085_valir/gallery2.png",
-                "../../assets/images/heroes/085_valir/gallery3.png",
-                "../../assets/images/heroes/085_valir/gallery4.png"
+                "../assets/images/heroes/085_valir/gallery1.png",
+                "../assets/images/heroes/085_valir/gallery2.png",
+                "../assets/images/heroes/085_valir/gallery3.png",
+                "../assets/images/heroes/085_valir/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -4828,16 +4828,16 @@
         "id": 86,
         "name": "Khaleed",
         "nickname": "The Desert Scimitar",
-        "icon": "../../assets/images/heroes/086_khaleed/icon.png",
+        "icon": "../assets/images/heroes/086_khaleed/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/086_khaleed/real.png",
-            "animated": "../../assets/images/heroes/086_khaleed/animated.png",
-            "nineties": "../../assets/images/heroes/086_khaleed/90s.png",
+            "real": "../assets/images/heroes/086_khaleed/real.png",
+            "animated": "../assets/images/heroes/086_khaleed/animated.png",
+            "nineties": "../assets/images/heroes/086_khaleed/90s.png",
             "gallery": [
-                "../../assets/images/heroes/086_khaleed/gallery1.png",
-                "../../assets/images/heroes/086_khaleed/gallery2.png",
-                "../../assets/images/heroes/086_khaleed/gallery3.png",
-                "../../assets/images/heroes/086_khaleed/gallery4.png"
+                "../assets/images/heroes/086_khaleed/gallery1.png",
+                "../assets/images/heroes/086_khaleed/gallery2.png",
+                "../assets/images/heroes/086_khaleed/gallery3.png",
+                "../assets/images/heroes/086_khaleed/gallery4.png"
             ]
         },
         "rating": 7.7,
@@ -4885,16 +4885,16 @@
         "id": 87,
         "name": "Esmeralda",
         "nickname": "The Starlight Dancer",
-        "icon": "../../assets/images/heroes/087_esmeralda/icon.png",
+        "icon": "../assets/images/heroes/087_esmeralda/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/087_esmeralda/real.png",
-            "animated": "../../assets/images/heroes/087_esmeralda/animated.png",
-            "nineties": "../../assets/images/heroes/087_esmeralda/90s.png",
+            "real": "../assets/images/heroes/087_esmeralda/real.png",
+            "animated": "../assets/images/heroes/087_esmeralda/animated.png",
+            "nineties": "../assets/images/heroes/087_esmeralda/90s.png",
             "gallery": [
-                "../../assets/images/heroes/087_esmeralda/gallery1.png",
-                "../../assets/images/heroes/087_esmeralda/gallery2.png",
-                "../../assets/images/heroes/087_esmeralda/gallery3.png",
-                "../../assets/images/heroes/087_esmeralda/gallery4.png"
+                "../assets/images/heroes/087_esmeralda/gallery1.png",
+                "../assets/images/heroes/087_esmeralda/gallery2.png",
+                "../assets/images/heroes/087_esmeralda/gallery3.png",
+                "../assets/images/heroes/087_esmeralda/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -4942,16 +4942,16 @@
         "id": 88,
         "name": "Uranus",
         "nickname": "The Celestial Guardian",
-        "icon": "../../assets/images/heroes/088_uranus/icon.png",
+        "icon": "../assets/images/heroes/088_uranus/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/088_uranus/real.png",
-            "animated": "../../assets/images/heroes/088_uranus/animated.png",
-            "nineties": "../../assets/images/heroes/088_uranus/90s.png",
+            "real": "../assets/images/heroes/088_uranus/real.png",
+            "animated": "../assets/images/heroes/088_uranus/animated.png",
+            "nineties": "../assets/images/heroes/088_uranus/90s.png",
             "gallery": [
-                "../../assets/images/heroes/088_uranus/gallery1.png",
-                "../../assets/images/heroes/088_uranus/gallery2.png",
-                "../../assets/images/heroes/088_uranus/gallery3.png",
-                "../../assets/images/heroes/088_uranus/gallery4.png"
+                "../assets/images/heroes/088_uranus/gallery1.png",
+                "../assets/images/heroes/088_uranus/gallery2.png",
+                "../assets/images/heroes/088_uranus/gallery3.png",
+                "../assets/images/heroes/088_uranus/gallery4.png"
             ]
         },
         "rating": 7.4,
@@ -4997,16 +4997,16 @@
         "id": 89,
         "name": "Terizla",
         "nickname": "The Executioner",
-        "icon": "../../assets/images/heroes/089_terizla/icon.png",
+        "icon": "../assets/images/heroes/089_terizla/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/089_terizla/real.png",
-            "animated": "../../assets/images/heroes/089_terizla/animated.png",
-            "nineties": "../../assets/images/heroes/089_terizla/90s.png",
+            "real": "../assets/images/heroes/089_terizla/real.png",
+            "animated": "../assets/images/heroes/089_terizla/animated.png",
+            "nineties": "../assets/images/heroes/089_terizla/90s.png",
             "gallery": [
-                "../../assets/images/heroes/089_terizla/gallery1.png",
-                "../../assets/images/heroes/089_terizla/gallery2.png",
-                "../../assets/images/heroes/089_terizla/gallery3.png",
-                "../../assets/images/heroes/089_terizla/gallery4.png"
+                "../assets/images/heroes/089_terizla/gallery1.png",
+                "../assets/images/heroes/089_terizla/gallery2.png",
+                "../assets/images/heroes/089_terizla/gallery3.png",
+                "../assets/images/heroes/089_terizla/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -5053,16 +5053,16 @@
         "id": 90,
         "name": "Bane",
         "nickname": "The Pirate King",
-        "icon": "../../assets/images/heroes/090_bane/icon.png",
+        "icon": "../assets/images/heroes/090_bane/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/090_bane/real.png",
-            "animated": "../../assets/images/heroes/090_bane/animated.png",
-            "nineties": "../../assets/images/heroes/090_bane/90s.png",
+            "real": "../assets/images/heroes/090_bane/real.png",
+            "animated": "../assets/images/heroes/090_bane/animated.png",
+            "nineties": "../assets/images/heroes/090_bane/90s.png",
             "gallery": [
-                "../../assets/images/heroes/090_bane/gallery1.png",
-                "../../assets/images/heroes/090_bane/gallery2.png",
-                "../../assets/images/heroes/090_bane/gallery3.png",
-                "../../assets/images/heroes/090_bane/gallery4.png"
+                "../assets/images/heroes/090_bane/gallery1.png",
+                "../assets/images/heroes/090_bane/gallery2.png",
+                "../assets/images/heroes/090_bane/gallery3.png",
+                "../assets/images/heroes/090_bane/gallery4.png"
             ]
         },
         "rating": 7.1,
@@ -5109,16 +5109,16 @@
         "id": 91,
         "name": "Kaja",
         "nickname": "The Lightning Bomb",
-        "icon": "../../assets/images/heroes/091_kaja/icon.png",
+        "icon": "../assets/images/heroes/091_kaja/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/091_kaja/real.png",
-            "animated": "../../assets/images/heroes/091_kaja/animated.png",
-            "nineties": "../../assets/images/heroes/091_kaja/90s.png",
+            "real": "../assets/images/heroes/091_kaja/real.png",
+            "animated": "../assets/images/heroes/091_kaja/animated.png",
+            "nineties": "../assets/images/heroes/091_kaja/90s.png",
             "gallery": [
-                "../../assets/images/heroes/091_kaja/gallery1.png",
-                "../../assets/images/heroes/091_kaja/gallery2.png",
-                "../../assets/images/heroes/091_kaja/gallery3.png",
-                "../../assets/images/heroes/091_kaja/gallery4.png"
+                "../assets/images/heroes/091_kaja/gallery1.png",
+                "../assets/images/heroes/091_kaja/gallery2.png",
+                "../assets/images/heroes/091_kaja/gallery3.png",
+                "../assets/images/heroes/091_kaja/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -5165,16 +5165,16 @@
         "id": 92,
         "name": "Hanzo",
         "nickname": "The Shinobi",
-        "icon": "../../assets/images/heroes/092_hanzo/icon.png",
+        "icon": "../assets/images/heroes/092_hanzo/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/092_hanzo/real.png",
-            "animated": "../../assets/images/heroes/092_hanzo/animated.png",
-            "nineties": "../../assets/images/heroes/092_hanzo/90s.png",
+            "real": "../assets/images/heroes/092_hanzo/real.png",
+            "animated": "../assets/images/heroes/092_hanzo/animated.png",
+            "nineties": "../assets/images/heroes/092_hanzo/90s.png",
             "gallery": [
-                "../../assets/images/heroes/092_hanzo/gallery1.png",
-                "../../assets/images/heroes/092_hanzo/gallery2.png",
-                "../../assets/images/heroes/092_hanzo/gallery3.png",
-                "../../assets/images/heroes/092_hanzo/gallery4.png"
+                "../assets/images/heroes/092_hanzo/gallery1.png",
+                "../assets/images/heroes/092_hanzo/gallery2.png",
+                "../assets/images/heroes/092_hanzo/gallery3.png",
+                "../assets/images/heroes/092_hanzo/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -5222,16 +5222,16 @@
         "id": 93,
         "name": "Hanabi",
         "nickname": "The Scarlet Flower",
-        "icon": "../../assets/images/heroes/093_hanabi/icon.png",
+        "icon": "../assets/images/heroes/093_hanabi/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/093_hanabi/real.png",
-            "animated": "../../assets/images/heroes/093_hanabi/animated.png",
-            "nineties": "../../assets/images/heroes/093_hanabi/90s.png",
+            "real": "../assets/images/heroes/093_hanabi/real.png",
+            "animated": "../assets/images/heroes/093_hanabi/animated.png",
+            "nineties": "../assets/images/heroes/093_hanabi/90s.png",
             "gallery": [
-                "../../assets/images/heroes/093_hanabi/gallery1.png",
-                "../../assets/images/heroes/093_hanabi/gallery2.png",
-                "../../assets/images/heroes/093_hanabi/gallery3.png",
-                "../../assets/images/heroes/093_hanabi/gallery4.png"
+                "../assets/images/heroes/093_hanabi/gallery1.png",
+                "../assets/images/heroes/093_hanabi/gallery2.png",
+                "../assets/images/heroes/093_hanabi/gallery3.png",
+                "../assets/images/heroes/093_hanabi/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -5279,16 +5279,16 @@
         "id": 94,
         "name": "Yin",
         "nickname": "The Fist of Flame",
-        "icon": "../../assets/images/heroes/094_yin/icon.png",
+        "icon": "../assets/images/heroes/094_yin/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/094_yin/real.png",
-            "animated": "../../assets/images/heroes/094_yin/animated.png",
-            "nineties": "../../assets/images/heroes/094_yin/90s.png",
+            "real": "../assets/images/heroes/094_yin/real.png",
+            "animated": "../assets/images/heroes/094_yin/animated.png",
+            "nineties": "../assets/images/heroes/094_yin/90s.png",
             "gallery": [
-                "../../assets/images/heroes/094_yin/gallery1.png",
-                "../../assets/images/heroes/094_yin/gallery2.png",
-                "../../assets/images/heroes/094_yin/gallery3.png",
-                "../../assets/images/heroes/094_yin/gallery4.png"
+                "../assets/images/heroes/094_yin/gallery1.png",
+                "../assets/images/heroes/094_yin/gallery2.png",
+                "../assets/images/heroes/094_yin/gallery3.png",
+                "../assets/images/heroes/094_yin/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -5336,16 +5336,16 @@
         "id": 95,
         "name": "Masha",
         "nickname": "The Bear Queen",
-        "icon": "../../assets/images/heroes/095_masha/icon.png",
+        "icon": "../assets/images/heroes/095_masha/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/095_masha/real.png",
-            "animated": "../../assets/images/heroes/095_masha/animated.png",
-            "nineties": "../../assets/images/heroes/095_masha/90s.png",
+            "real": "../assets/images/heroes/095_masha/real.png",
+            "animated": "../assets/images/heroes/095_masha/animated.png",
+            "nineties": "../assets/images/heroes/095_masha/90s.png",
             "gallery": [
-                "../../assets/images/heroes/095_masha/gallery1.png",
-                "../../assets/images/heroes/095_masha/gallery2.png",
-                "../../assets/images/heroes/095_masha/gallery3.png",
-                "../../assets/images/heroes/095_masha/gallery4.png"
+                "../assets/images/heroes/095_masha/gallery1.png",
+                "../assets/images/heroes/095_masha/gallery2.png",
+                "../assets/images/heroes/095_masha/gallery3.png",
+                "../assets/images/heroes/095_masha/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -5392,16 +5392,16 @@
         "id": 96,
         "name": "Wanwan",
         "nickname": "The Tigress",
-        "icon": "../../assets/images/heroes/096_wanwan/icon.png",
+        "icon": "../assets/images/heroes/096_wanwan/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/096_wanwan/real.png",
-            "animated": "../../assets/images/heroes/096_wanwan/animated.png",
-            "nineties": "../../assets/images/heroes/096_wanwan/90s.png",
+            "real": "../assets/images/heroes/096_wanwan/real.png",
+            "animated": "../assets/images/heroes/096_wanwan/animated.png",
+            "nineties": "../assets/images/heroes/096_wanwan/90s.png",
             "gallery": [
-                "../../assets/images/heroes/096_wanwan/gallery1.png",
-                "../../assets/images/heroes/096_wanwan/gallery2.png",
-                "../../assets/images/heroes/096_wanwan/gallery3.png",
-                "../../assets/images/heroes/096_wanwan/gallery4.png"
+                "../assets/images/heroes/096_wanwan/gallery1.png",
+                "../assets/images/heroes/096_wanwan/gallery2.png",
+                "../assets/images/heroes/096_wanwan/gallery3.png",
+                "../assets/images/heroes/096_wanwan/gallery4.png"
             ]
         },
         "rating": 8.9,
@@ -5449,16 +5449,16 @@
         "id": 97,
         "name": "Claude",
         "nickname": "The Battle Monkey",
-        "icon": "../../assets/images/heroes/097_claude/icon.png",
+        "icon": "../assets/images/heroes/097_claude/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/097_claude/real.png",
-            "animated": "../../assets/images/heroes/097_claude/animated.png",
-            "nineties": "../../assets/images/heroes/097_claude/90s.png",
+            "real": "../assets/images/heroes/097_claude/real.png",
+            "animated": "../assets/images/heroes/097_claude/animated.png",
+            "nineties": "../assets/images/heroes/097_claude/90s.png",
             "gallery": [
-                "../../assets/images/heroes/097_claude/gallery1.png",
-                "../../assets/images/heroes/097_claude/gallery2.png",
-                "../../assets/images/heroes/097_claude/gallery3.png",
-                "../../assets/images/heroes/097_claude/gallery4.png"
+                "../assets/images/heroes/097_claude/gallery1.png",
+                "../assets/images/heroes/097_claude/gallery2.png",
+                "../assets/images/heroes/097_claude/gallery3.png",
+                "../assets/images/heroes/097_claude/gallery4.png"
             ]
         },
         "rating": 8.6,
@@ -5506,16 +5506,16 @@
         "id": 98,
         "name": "Karrie",
         "nickname": "The Lightwheel",
-        "icon": "../../assets/images/heroes/098_karrie/icon.png",
+        "icon": "../assets/images/heroes/098_karrie/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/098_karrie/real.png",
-            "animated": "../../assets/images/heroes/098_karrie/animated.png",
-            "nineties": "../../assets/images/heroes/098_karrie/90s.png",
+            "real": "../assets/images/heroes/098_karrie/real.png",
+            "animated": "../assets/images/heroes/098_karrie/animated.png",
+            "nineties": "../assets/images/heroes/098_karrie/90s.png",
             "gallery": [
-                "../../assets/images/heroes/098_karrie/gallery1.png",
-                "../../assets/images/heroes/098_karrie/gallery2.png",
-                "../../assets/images/heroes/098_karrie/gallery3.png",
-                "../../assets/images/heroes/098_karrie/gallery4.png"
+                "../assets/images/heroes/098_karrie/gallery1.png",
+                "../assets/images/heroes/098_karrie/gallery2.png",
+                "../assets/images/heroes/098_karrie/gallery3.png",
+                "../assets/images/heroes/098_karrie/gallery4.png"
             ]
         },
         "rating": 8.5,
@@ -5563,16 +5563,16 @@
         "id": 99,
         "name": "Roger",
         "nickname": "The Wolf",
-        "icon": "../../assets/images/heroes/099_roger/icon.png",
+        "icon": "../assets/images/heroes/099_roger/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/099_roger/real.png",
-            "animated": "../../assets/images/heroes/099_roger/animated.png",
-            "nineties": "../../assets/images/heroes/099_roger/90s.png",
+            "real": "../assets/images/heroes/099_roger/real.png",
+            "animated": "../assets/images/heroes/099_roger/animated.png",
+            "nineties": "../assets/images/heroes/099_roger/90s.png",
             "gallery": [
-                "../../assets/images/heroes/099_roger/gallery1.png",
-                "../../assets/images/heroes/099_roger/gallery2.png",
-                "../../assets/images/heroes/099_roger/gallery3.png",
-                "../../assets/images/heroes/099_roger/gallery4.png"
+                "../assets/images/heroes/099_roger/gallery1.png",
+                "../assets/images/heroes/099_roger/gallery2.png",
+                "../assets/images/heroes/099_roger/gallery3.png",
+                "../assets/images/heroes/099_roger/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -5620,16 +5620,16 @@
         "id": 100,
         "name": "Diggie",
         "nickname": "The Clockwork Owl",
-        "icon": "../../assets/images/heroes/100_diggie/icon.png",
+        "icon": "../assets/images/heroes/100_diggie/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/100_diggie/real.png",
-            "animated": "../../assets/images/heroes/100_diggie/animated.png",
-            "nineties": "../../assets/images/heroes/100_diggie/90s.png",
+            "real": "../assets/images/heroes/100_diggie/real.png",
+            "animated": "../assets/images/heroes/100_diggie/animated.png",
+            "nineties": "../assets/images/heroes/100_diggie/90s.png",
             "gallery": [
-                "../../assets/images/heroes/100_diggie/gallery1.png",
-                "../../assets/images/heroes/100_diggie/gallery2.png",
-                "../../assets/images/heroes/100_diggie/gallery3.png",
-                "../../assets/images/heroes/100_diggie/gallery4.png"
+                "../assets/images/heroes/100_diggie/gallery1.png",
+                "../assets/images/heroes/100_diggie/gallery2.png",
+                "../assets/images/heroes/100_diggie/gallery3.png",
+                "../assets/images/heroes/100_diggie/gallery4.png"
             ]
         },
         "rating": 7.2,
@@ -5675,16 +5675,16 @@
         "id": 101,
         "name": "Estes",
         "nickname": "The Moon Elf King",
-        "icon": "../../assets/images/heroes/101_estes/icon.png",
+        "icon": "../assets/images/heroes/101_estes/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/101_estes/real.png",
-            "animated": "../../assets/images/heroes/101_estes/animated.png",
-            "nineties": "../../assets/images/heroes/101_estes/90s.png",
+            "real": "../assets/images/heroes/101_estes/real.png",
+            "animated": "../assets/images/heroes/101_estes/animated.png",
+            "nineties": "../assets/images/heroes/101_estes/90s.png",
             "gallery": [
-                "../../assets/images/heroes/101_estes/gallery1.png",
-                "../../assets/images/heroes/101_estes/gallery2.png",
-                "../../assets/images/heroes/101_estes/gallery3.png",
-                "../../assets/images/heroes/101_estes/gallery4.png"
+                "../assets/images/heroes/101_estes/gallery1.png",
+                "../assets/images/heroes/101_estes/gallery2.png",
+                "../assets/images/heroes/101_estes/gallery3.png",
+                "../assets/images/heroes/101_estes/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -5732,16 +5732,16 @@
         "id": 102,
         "name": "Belerick",
         "nickname": "The Vine King",
-        "icon": "../../assets/images/heroes/102_belerick/icon.png",
+        "icon": "../assets/images/heroes/102_belerick/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/102_belerick/real.png",
-            "animated": "../../assets/images/heroes/102_belerick/animated.png",
-            "nineties": "../../assets/images/heroes/102_belerick/90s.png",
+            "real": "../assets/images/heroes/102_belerick/real.png",
+            "animated": "../assets/images/heroes/102_belerick/animated.png",
+            "nineties": "../assets/images/heroes/102_belerick/90s.png",
             "gallery": [
-                "../../assets/images/heroes/102_belerick/gallery1.png",
-                "../../assets/images/heroes/102_belerick/gallery2.png",
-                "../../assets/images/heroes/102_belerick/gallery3.png",
-                "../../assets/images/heroes/102_belerick/gallery4.png"
+                "../assets/images/heroes/102_belerick/gallery1.png",
+                "../assets/images/heroes/102_belerick/gallery2.png",
+                "../assets/images/heroes/102_belerick/gallery3.png",
+                "../assets/images/heroes/102_belerick/gallery4.png"
             ]
         },
         "rating": 7.6,
@@ -5788,16 +5788,16 @@
         "id": 103,
         "name": "Badang",
         "nickname": "The Fist of Ruin",
-        "icon": "../../assets/images/heroes/103_badang/icon.png",
+        "icon": "../assets/images/heroes/103_badang/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/103_badang/real.png",
-            "animated": "../../assets/images/heroes/103_badang/animated.png",
-            "nineties": "../../assets/images/heroes/103_badang/90s.png",
+            "real": "../assets/images/heroes/103_badang/real.png",
+            "animated": "../assets/images/heroes/103_badang/animated.png",
+            "nineties": "../assets/images/heroes/103_badang/90s.png",
             "gallery": [
-                "../../assets/images/heroes/103_badang/gallery1.png",
-                "../../assets/images/heroes/103_badang/gallery2.png",
-                "../../assets/images/heroes/103_badang/gallery3.png",
-                "../../assets/images/heroes/103_badang/gallery4.png"
+                "../assets/images/heroes/103_badang/gallery1.png",
+                "../assets/images/heroes/103_badang/gallery2.png",
+                "../assets/images/heroes/103_badang/gallery3.png",
+                "../assets/images/heroes/103_badang/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -5844,16 +5844,16 @@
         "id": 104,
         "name": "Lapu-Lapu",
         "nickname": "The Brave",
-        "icon": "../../assets/images/heroes/104_lapulapu/icon.png",
+        "icon": "../assets/images/heroes/104_lapulapu/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/104_lapulapu/real.png",
-            "animated": "../../assets/images/heroes/104_lapulapu/animated.png",
-            "nineties": "../../assets/images/heroes/104_lapulapu/90s.png",
+            "real": "../assets/images/heroes/104_lapulapu/real.png",
+            "animated": "../assets/images/heroes/104_lapulapu/animated.png",
+            "nineties": "../assets/images/heroes/104_lapulapu/90s.png",
             "gallery": [
-                "../../assets/images/heroes/104_lapulapu/gallery1.png",
-                "../../assets/images/heroes/104_lapulapu/gallery2.png",
-                "../../assets/images/heroes/104_lapulapu/gallery3.png",
-                "../../assets/images/heroes/104_lapulapu/gallery4.png"
+                "../assets/images/heroes/104_lapulapu/gallery1.png",
+                "../assets/images/heroes/104_lapulapu/gallery2.png",
+                "../assets/images/heroes/104_lapulapu/gallery3.png",
+                "../assets/images/heroes/104_lapulapu/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -5900,16 +5900,16 @@
         "id": 105,
         "name": "Jawhead",
         "nickname": "The Junk Robot",
-        "icon": "../../assets/images/heroes/105_jawhead/icon.png",
+        "icon": "../assets/images/heroes/105_jawhead/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/105_jawhead/real.png",
-            "animated": "../../assets/images/heroes/105_jawhead/animated.png",
-            "nineties": "../../assets/images/heroes/105_jawhead/90s.png",
+            "real": "../assets/images/heroes/105_jawhead/real.png",
+            "animated": "../assets/images/heroes/105_jawhead/animated.png",
+            "nineties": "../assets/images/heroes/105_jawhead/90s.png",
             "gallery": [
-                "../../assets/images/heroes/105_jawhead/gallery1.png",
-                "../../assets/images/heroes/105_jawhead/gallery2.png",
-                "../../assets/images/heroes/105_jawhead/gallery3.png",
-                "../../assets/images/heroes/105_jawhead/gallery4.png"
+                "../assets/images/heroes/105_jawhead/gallery1.png",
+                "../assets/images/heroes/105_jawhead/gallery2.png",
+                "../assets/images/heroes/105_jawhead/gallery3.png",
+                "../assets/images/heroes/105_jawhead/gallery4.png"
             ]
         },
         "rating": 7.4,
@@ -5955,16 +5955,16 @@
         "id": 106,
         "name": "Guinevere",
         "nickname": "The Fairy Knight",
-        "icon": "../../assets/images/heroes/106_guinevere/icon.png",
+        "icon": "../assets/images/heroes/106_guinevere/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/106_guinevere/real.png",
-            "animated": "../../assets/images/heroes/106_guinevere/animated.png",
-            "nineties": "../../assets/images/heroes/106_guinevere/90s.png",
+            "real": "../assets/images/heroes/106_guinevere/real.png",
+            "animated": "../assets/images/heroes/106_guinevere/animated.png",
+            "nineties": "../assets/images/heroes/106_guinevere/90s.png",
             "gallery": [
-                "../../assets/images/heroes/106_guinevere/gallery1.png",
-                "../../assets/images/heroes/106_guinevere/gallery2.png",
-                "../../assets/images/heroes/106_guinevere/gallery3.png",
-                "../../assets/images/heroes/106_guinevere/gallery4.png"
+                "../assets/images/heroes/106_guinevere/gallery1.png",
+                "../assets/images/heroes/106_guinevere/gallery2.png",
+                "../assets/images/heroes/106_guinevere/gallery3.png",
+                "../assets/images/heroes/106_guinevere/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -6011,16 +6011,16 @@
         "id": 107,
         "name": "Dyrroth",
         "nickname": "The Abyssal Prince",
-        "icon": "../../assets/images/heroes/107_dyrroth/icon.png",
+        "icon": "../assets/images/heroes/107_dyrroth/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/107_dyrroth/real.png",
-            "animated": "../../assets/images/heroes/107_dyrroth/animated.png",
-            "nineties": "../../assets/images/heroes/107_dyrroth/90s.png",
+            "real": "../assets/images/heroes/107_dyrroth/real.png",
+            "animated": "../assets/images/heroes/107_dyrroth/animated.png",
+            "nineties": "../assets/images/heroes/107_dyrroth/90s.png",
             "gallery": [
-                "../../assets/images/heroes/107_dyrroth/gallery1.png",
-                "../../assets/images/heroes/107_dyrroth/gallery2.png",
-                "../../assets/images/heroes/107_dyrroth/gallery3.png",
-                "../../assets/images/heroes/107_dyrroth/gallery4.png"
+                "../assets/images/heroes/107_dyrroth/gallery1.png",
+                "../assets/images/heroes/107_dyrroth/gallery2.png",
+                "../assets/images/heroes/107_dyrroth/gallery3.png",
+                "../assets/images/heroes/107_dyrroth/gallery4.png"
             ]
         },
         "rating": 8.5,
@@ -6068,16 +6068,16 @@
         "id": 108,
         "name": "Minsitthar",
         "nickname": "The King of Light",
-        "icon": "../../assets/images/heroes/108_minsitthar/icon.png",
+        "icon": "../assets/images/heroes/108_minsitthar/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/108_minsitthar/real.png",
-            "animated": "../../assets/images/heroes/108_minsitthar/animated.png",
-            "nineties": "../../assets/images/heroes/108_minsitthar/90s.png",
+            "real": "../assets/images/heroes/108_minsitthar/real.png",
+            "animated": "../assets/images/heroes/108_minsitthar/animated.png",
+            "nineties": "../assets/images/heroes/108_minsitthar/90s.png",
             "gallery": [
-                "../../assets/images/heroes/108_minsitthar/gallery1.png",
-                "../../assets/images/heroes/108_minsitthar/gallery2.png",
-                "../../assets/images/heroes/108_minsitthar/gallery3.png",
-                "../../assets/images/heroes/108_minsitthar/gallery4.png"
+                "../assets/images/heroes/108_minsitthar/gallery1.png",
+                "../assets/images/heroes/108_minsitthar/gallery2.png",
+                "../assets/images/heroes/108_minsitthar/gallery3.png",
+                "../assets/images/heroes/108_minsitthar/gallery4.png"
             ]
         },
         "rating": 7.7,
@@ -6124,16 +6124,16 @@
         "id": 109,
         "name": "Silvanna",
         "nickname": "The Light's Nemesis",
-        "icon": "../../assets/images/heroes/109_silvanna/icon.png",
+        "icon": "../assets/images/heroes/109_silvanna/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/109_silvanna/real.png",
-            "animated": "../../assets/images/heroes/109_silvanna/animated.png",
-            "nineties": "../../assets/images/heroes/109_silvanna/90s.png",
+            "real": "../assets/images/heroes/109_silvanna/real.png",
+            "animated": "../assets/images/heroes/109_silvanna/animated.png",
+            "nineties": "../assets/images/heroes/109_silvanna/90s.png",
             "gallery": [
-                "../../assets/images/heroes/109_silvanna/gallery1.png",
-                "../../assets/images/heroes/109_silvanna/gallery2.png",
-                "../../assets/images/heroes/109_silvanna/gallery3.png",
-                "../../assets/images/heroes/109_silvanna/gallery4.png"
+                "../assets/images/heroes/109_silvanna/gallery1.png",
+                "../assets/images/heroes/109_silvanna/gallery2.png",
+                "../assets/images/heroes/109_silvanna/gallery3.png",
+                "../assets/images/heroes/109_silvanna/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -6181,16 +6181,16 @@
         "id": 110,
         "name": "Khaleed",
         "nickname": "The Desert Scimitar",
-        "icon": "../../assets/images/heroes/110_khaleed/icon.png",
+        "icon": "../assets/images/heroes/110_khaleed/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/110_khaleed/real.png",
-            "animated": "../../assets/images/heroes/110_khaleed/animated.png",
-            "nineties": "../../assets/images/heroes/110_khaleed/90s.png",
+            "real": "../assets/images/heroes/110_khaleed/real.png",
+            "animated": "../assets/images/heroes/110_khaleed/animated.png",
+            "nineties": "../assets/images/heroes/110_khaleed/90s.png",
             "gallery": [
-                "../../assets/images/heroes/110_khaleed/gallery1.png",
-                "../../assets/images/heroes/110_khaleed/gallery2.png",
-                "../../assets/images/heroes/110_khaleed/gallery3.png",
-                "../../assets/images/heroes/110_khaleed/gallery4.png"
+                "../assets/images/heroes/110_khaleed/gallery1.png",
+                "../assets/images/heroes/110_khaleed/gallery2.png",
+                "../assets/images/heroes/110_khaleed/gallery3.png",
+                "../assets/images/heroes/110_khaleed/gallery4.png"
             ]
         },
         "rating": 7.7,
@@ -6238,16 +6238,16 @@
         "id": 111,
         "name": "Yve",
         "nickname": "The Astronomer",
-        "icon": "../../assets/images/heroes/111_yve/icon.png",
+        "icon": "../assets/images/heroes/111_yve/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/111_yve/real.png",
-            "animated": "../../assets/images/heroes/111_yve/animated.png",
-            "nineties": "../../assets/images/heroes/111_yve/90s.png",
+            "real": "../assets/images/heroes/111_yve/real.png",
+            "animated": "../assets/images/heroes/111_yve/animated.png",
+            "nineties": "../assets/images/heroes/111_yve/90s.png",
             "gallery": [
-                "../../assets/images/heroes/111_yve/gallery1.png",
-                "../../assets/images/heroes/111_yve/gallery2.png",
-                "../../assets/images/heroes/111_yve/gallery3.png",
-                "../../assets/images/heroes/111_yve/gallery4.png"
+                "../assets/images/heroes/111_yve/gallery1.png",
+                "../assets/images/heroes/111_yve/gallery2.png",
+                "../assets/images/heroes/111_yve/gallery3.png",
+                "../assets/images/heroes/111_yve/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -6295,16 +6295,16 @@
         "id": 112,
         "name": "Phoveus",
         "nickname": "The Abyssal Avenger",
-        "icon": "../../assets/images/heroes/112_phoveus/icon.png",
+        "icon": "../assets/images/heroes/112_phoveus/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/112_phoveus/real.png",
-            "animated": "../../assets/images/heroes/112_phoveus/animated.png",
-            "nineties": "../../assets/images/heroes/112_phoveus/90s.png",
+            "real": "../assets/images/heroes/112_phoveus/real.png",
+            "animated": "../assets/images/heroes/112_phoveus/animated.png",
+            "nineties": "../assets/images/heroes/112_phoveus/90s.png",
             "gallery": [
-                "../../assets/images/heroes/112_phoveus/gallery1.png",
-                "../../assets/images/heroes/112_phoveus/gallery2.png",
-                "../../assets/images/heroes/112_phoveus/gallery3.png",
-                "../../assets/images/heroes/112_phoveus/gallery4.png"
+                "../assets/images/heroes/112_phoveus/gallery1.png",
+                "../assets/images/heroes/112_phoveus/gallery2.png",
+                "../assets/images/heroes/112_phoveus/gallery3.png",
+                "../assets/images/heroes/112_phoveus/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -6351,16 +6351,16 @@
         "id": 113,
         "name": "Aulus",
         "nickname": "The Gladiator",
-        "icon": "../../assets/images/heroes/113_aulus/icon.png",
+        "icon": "../assets/images/heroes/113_aulus/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/113_aulus/real.png",
-            "animated": "../../assets/images/heroes/113_aulus/animated.png",
-            "nineties": "../../assets/images/heroes/113_aulus/90s.png",
+            "real": "../assets/images/heroes/113_aulus/real.png",
+            "animated": "../assets/images/heroes/113_aulus/animated.png",
+            "nineties": "../assets/images/heroes/113_aulus/90s.png",
             "gallery": [
-                "../../assets/images/heroes/113_aulus/gallery1.png",
-                "../../assets/images/heroes/113_aulus/gallery2.png",
-                "../../assets/images/heroes/113_aulus/gallery3.png",
-                "../../assets/images/heroes/113_aulus/gallery4.png"
+                "../assets/images/heroes/113_aulus/gallery1.png",
+                "../assets/images/heroes/113_aulus/gallery2.png",
+                "../assets/images/heroes/113_aulus/gallery3.png",
+                "../assets/images/heroes/113_aulus/gallery4.png"
             ]
         },
         "rating": 7.6,
@@ -6407,16 +6407,16 @@
         "id": 114,
         "name": "Edith",
         "nickname": "The Lightweaver",
-        "icon": "../../assets/images/heroes/114_edith/icon.png",
+        "icon": "../assets/images/heroes/114_edith/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/114_edith/real.png",
-            "animated": "../../assets/images/heroes/114_edith/animated.png",
-            "nineties": "../../assets/images/heroes/114_edith/90s.png",
+            "real": "../assets/images/heroes/114_edith/real.png",
+            "animated": "../assets/images/heroes/114_edith/animated.png",
+            "nineties": "../assets/images/heroes/114_edith/90s.png",
             "gallery": [
-                "../../assets/images/heroes/114_edith/gallery1.png",
-                "../../assets/images/heroes/114_edith/gallery2.png",
-                "../../assets/images/heroes/114_edith/gallery3.png",
-                "../../assets/images/heroes/114_edith/gallery4.png"
+                "../assets/images/heroes/114_edith/gallery1.png",
+                "../assets/images/heroes/114_edith/gallery2.png",
+                "../assets/images/heroes/114_edith/gallery3.png",
+                "../assets/images/heroes/114_edith/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -6464,16 +6464,16 @@
         "id": 115,
         "name": "Valentina",
         "nickname": "The Shapeshifter",
-        "icon": "../../assets/images/heroes/115_valentina/icon.png",
+        "icon": "../assets/images/heroes/115_valentina/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/115_valentina/real.png",
-            "animated": "../../assets/images/heroes/115_valentina/animated.png",
-            "nineties": "../../assets/images/heroes/115_valentina/90s.png",
+            "real": "../assets/images/heroes/115_valentina/real.png",
+            "animated": "../assets/images/heroes/115_valentina/animated.png",
+            "nineties": "../assets/images/heroes/115_valentina/90s.png",
             "gallery": [
-                "../../assets/images/heroes/115_valentina/gallery1.png",
-                "../../assets/images/heroes/115_valentina/gallery2.png",
-                "../../assets/images/heroes/115_valentina/gallery3.png",
-                "../../assets/images/heroes/115_valentina/gallery4.png"
+                "../assets/images/heroes/115_valentina/gallery1.png",
+                "../assets/images/heroes/115_valentina/gallery2.png",
+                "../assets/images/heroes/115_valentina/gallery3.png",
+                "../assets/images/heroes/115_valentina/gallery4.png"
             ]
         },
         "rating": 8.6,
@@ -6521,16 +6521,16 @@
         "id": 116,
         "name": "Aamon",
         "nickname": "The Shade",
-        "icon": "../../assets/images/heroes/116_aamon/icon.png",
+        "icon": "../assets/images/heroes/116_aamon/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/116_aamon/real.png",
-            "animated": "../../assets/images/heroes/116_aamon/animated.png",
-            "nineties": "../../assets/images/heroes/116_aamon/90s.png",
+            "real": "../assets/images/heroes/116_aamon/real.png",
+            "animated": "../assets/images/heroes/116_aamon/animated.png",
+            "nineties": "../assets/images/heroes/116_aamon/90s.png",
             "gallery": [
-                "../../assets/images/heroes/116_aamon/gallery1.png",
-                "../../assets/images/heroes/116_aamon/gallery2.png",
-                "../../assets/images/heroes/116_aamon/gallery3.png",
-                "../../assets/images/heroes/116_aamon/gallery4.png"
+                "../assets/images/heroes/116_aamon/gallery1.png",
+                "../assets/images/heroes/116_aamon/gallery2.png",
+                "../assets/images/heroes/116_aamon/gallery3.png",
+                "../assets/images/heroes/116_aamon/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -6578,16 +6578,16 @@
         "id": 117,
         "name": "Melissa",
         "nickname": "The Toy Collector",
-        "icon": "../../assets/images/heroes/117_melissa/icon.png",
+        "icon": "../assets/images/heroes/117_melissa/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/117_melissa/real.png",
-            "animated": "../../assets/images/heroes/117_melissa/animated.png",
-            "nineties": "../../assets/images/heroes/117_melissa/90s.png",
+            "real": "../assets/images/heroes/117_melissa/real.png",
+            "animated": "../assets/images/heroes/117_melissa/animated.png",
+            "nineties": "../assets/images/heroes/117_melissa/90s.png",
             "gallery": [
-                "../../assets/images/heroes/117_melissa/gallery1.png",
-                "../../assets/images/heroes/117_melissa/gallery2.png",
-                "../../assets/images/heroes/117_melissa/gallery3.png",
-                "../../assets/images/heroes/117_melissa/gallery4.png"
+                "../assets/images/heroes/117_melissa/gallery1.png",
+                "../assets/images/heroes/117_melissa/gallery2.png",
+                "../assets/images/heroes/117_melissa/gallery3.png",
+                "../assets/images/heroes/117_melissa/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -6635,16 +6635,16 @@
         "id": 118,
         "name": "Floryn",
         "nickname": "The Dream Fairy",
-        "icon": "../../assets/images/heroes/118_floryn/icon.png",
+        "icon": "../assets/images/heroes/118_floryn/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/118_floryn/real.png",
-            "animated": "../../assets/images/heroes/118_floryn/animated.png",
-            "nineties": "../../assets/images/heroes/118_floryn/90s.png",
+            "real": "../assets/images/heroes/118_floryn/real.png",
+            "animated": "../assets/images/heroes/118_floryn/animated.png",
+            "nineties": "../assets/images/heroes/118_floryn/90s.png",
             "gallery": [
-                "../../assets/images/heroes/118_floryn/gallery1.png",
-                "../../assets/images/heroes/118_floryn/gallery2.png",
-                "../../assets/images/heroes/118_floryn/gallery3.png",
-                "../../assets/images/heroes/118_floryn/gallery4.png"
+                "../assets/images/heroes/118_floryn/gallery1.png",
+                "../assets/images/heroes/118_floryn/gallery2.png",
+                "../assets/images/heroes/118_floryn/gallery3.png",
+                "../assets/images/heroes/118_floryn/gallery4.png"
             ]
         },
         "rating": 7.2,
@@ -6692,16 +6692,16 @@
         "id": 119,
         "name": "Julian",
         "nickname": "The Prodigy",
-        "icon": "../../assets/images/heroes/119_julian/icon.png",
+        "icon": "../assets/images/heroes/119_julian/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/119_julian/real.png",
-            "animated": "../../assets/images/heroes/119_julian/animated.png",
-            "nineties": "../../assets/images/heroes/119_julian/90s.png",
+            "real": "../assets/images/heroes/119_julian/real.png",
+            "animated": "../assets/images/heroes/119_julian/animated.png",
+            "nineties": "../assets/images/heroes/119_julian/90s.png",
             "gallery": [
-                "../../assets/images/heroes/119_julian/gallery1.png",
-                "../../assets/images/heroes/119_julian/gallery2.png",
-                "../../assets/images/heroes/119_julian/gallery3.png",
-                "../../assets/images/heroes/119_julian/gallery4.png"
+                "../assets/images/heroes/119_julian/gallery1.png",
+                "../assets/images/heroes/119_julian/gallery2.png",
+                "../assets/images/heroes/119_julian/gallery3.png",
+                "../assets/images/heroes/119_julian/gallery4.png"
             ]
         },
         "rating": 8.4,
@@ -6749,16 +6749,16 @@
         "id": 120,
         "name": "Xavier",
         "nickname": "The Reality Seer",
-        "icon": "../../assets/images/heroes/120_xavier/icon.png",
+        "icon": "../assets/images/heroes/120_xavier/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/120_xavier/real.png",
-            "animated": "../../assets/images/heroes/120_xavier/animated.png",
-            "nineties": "../../assets/images/heroes/120_xavier/90s.png",
+            "real": "../assets/images/heroes/120_xavier/real.png",
+            "animated": "../assets/images/heroes/120_xavier/animated.png",
+            "nineties": "../assets/images/heroes/120_xavier/90s.png",
             "gallery": [
-                "../../assets/images/heroes/120_xavier/gallery1.png",
-                "../../assets/images/heroes/120_xavier/gallery2.png",
-                "../../assets/images/heroes/120_xavier/gallery3.png",
-                "../../assets/images/heroes/120_xavier/gallery4.png"
+                "../assets/images/heroes/120_xavier/gallery1.png",
+                "../assets/images/heroes/120_xavier/gallery2.png",
+                "../assets/images/heroes/120_xavier/gallery3.png",
+                "../assets/images/heroes/120_xavier/gallery4.png"
             ]
         },
         "rating": 8.2,
@@ -6806,16 +6806,16 @@
         "id": 121,
         "name": "Fredrinn",
         "nickname": "The Crystalline",
-        "icon": "../../assets/images/heroes/121_fredrinn/icon.png",
+        "icon": "../assets/images/heroes/121_fredrinn/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/121_fredrinn/real.png",
-            "animated": "../../assets/images/heroes/121_fredrinn/animated.png",
-            "nineties": "../../assets/images/heroes/121_fredrinn/90s.png",
+            "real": "../assets/images/heroes/121_fredrinn/real.png",
+            "animated": "../assets/images/heroes/121_fredrinn/animated.png",
+            "nineties": "../assets/images/heroes/121_fredrinn/90s.png",
             "gallery": [
-                "../../assets/images/heroes/121_fredrinn/gallery1.png",
-                "../../assets/images/heroes/121_fredrinn/gallery2.png",
-                "../../assets/images/heroes/121_fredrinn/gallery3.png",
-                "../../assets/images/heroes/121_fredrinn/gallery4.png"
+                "../assets/images/heroes/121_fredrinn/gallery1.png",
+                "../assets/images/heroes/121_fredrinn/gallery2.png",
+                "../assets/images/heroes/121_fredrinn/gallery3.png",
+                "../assets/images/heroes/121_fredrinn/gallery4.png"
             ]
         },
         "rating": 8.3,
@@ -6862,16 +6862,16 @@
         "id": 122,
         "name": "Joy",
         "nickname": "The Rhapsody",
-        "icon": "../../assets/images/heroes/122_joy/icon.png",
+        "icon": "../assets/images/heroes/122_joy/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/122_joy/real.png",
-            "animated": "../../assets/images/heroes/122_joy/animated.png",
-            "nineties": "../../assets/images/heroes/122_joy/90s.png",
+            "real": "../assets/images/heroes/122_joy/real.png",
+            "animated": "../assets/images/heroes/122_joy/animated.png",
+            "nineties": "../assets/images/heroes/122_joy/90s.png",
             "gallery": [
-                "../../assets/images/heroes/122_joy/gallery1.png",
-                "../../assets/images/heroes/122_joy/gallery2.png",
-                "../../assets/images/heroes/122_joy/gallery3.png",
-                "../../assets/images/heroes/122_joy/gallery4.png"
+                "../assets/images/heroes/122_joy/gallery1.png",
+                "../assets/images/heroes/122_joy/gallery2.png",
+                "../assets/images/heroes/122_joy/gallery3.png",
+                "../assets/images/heroes/122_joy/gallery4.png"
             ]
         },
         "rating": 8.5,
@@ -6919,16 +6919,16 @@
         "id": 123,
         "name": "Arlott",
         "nickname": "The Spire's Light",
-        "icon": "../../assets/images/heroes/123_arlott/icon.png",
+        "icon": "../assets/images/heroes/123_arlott/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/123_arlott/real.png",
-            "animated": "../../assets/images/heroes/123_arlott/animated.png",
-            "nineties": "../../assets/images/heroes/123_arlott/90s.png",
+            "real": "../assets/images/heroes/123_arlott/real.png",
+            "animated": "../assets/images/heroes/123_arlott/animated.png",
+            "nineties": "../assets/images/heroes/123_arlott/90s.png",
             "gallery": [
-                "../../assets/images/heroes/123_arlott/gallery1.png",
-                "../../assets/images/heroes/123_arlott/gallery2.png",
-                "../../assets/images/heroes/123_arlott/gallery3.png",
-                "../../assets/images/heroes/123_arlott/gallery4.png"
+                "../assets/images/heroes/123_arlott/gallery1.png",
+                "../assets/images/heroes/123_arlott/gallery2.png",
+                "../assets/images/heroes/123_arlott/gallery3.png",
+                "../assets/images/heroes/123_arlott/gallery4.png"
             ]
         },
         "rating": 7.8,
@@ -6976,16 +6976,16 @@
         "id": 124,
         "name": "Ixia",
         "nickname": "The Star Spark",
-        "icon": "../../assets/images/heroes/124_ixia/icon.png",
+        "icon": "../assets/images/heroes/124_ixia/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/124_ixia/real.png",
-            "animated": "../../assets/images/heroes/124_ixia/animated.png",
-            "nineties": "../../assets/images/heroes/124_ixia/90s.png",
+            "real": "../assets/images/heroes/124_ixia/real.png",
+            "animated": "../assets/images/heroes/124_ixia/animated.png",
+            "nineties": "../assets/images/heroes/124_ixia/90s.png",
             "gallery": [
-                "../../assets/images/heroes/124_ixia/gallery1.png",
-                "../../assets/images/heroes/124_ixia/gallery2.png",
-                "../../assets/images/heroes/124_ixia/gallery3.png",
-                "../../assets/images/heroes/124_ixia/gallery4.png"
+                "../assets/images/heroes/124_ixia/gallery1.png",
+                "../assets/images/heroes/124_ixia/gallery2.png",
+                "../assets/images/heroes/124_ixia/gallery3.png",
+                "../assets/images/heroes/124_ixia/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -7033,16 +7033,16 @@
         "id": 125,
         "name": "Novaria",
         "nickname": "The Astrologer",
-        "icon": "../../assets/images/heroes/125_novaria/icon.png",
+        "icon": "../assets/images/heroes/125_novaria/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/125_novaria/real.png",
-            "animated": "../../assets/images/heroes/125_novaria/animated.png",
-            "nineties": "../../assets/images/heroes/125_novaria/90s.png",
+            "real": "../assets/images/heroes/125_novaria/real.png",
+            "animated": "../assets/images/heroes/125_novaria/animated.png",
+            "nineties": "../assets/images/heroes/125_novaria/90s.png",
             "gallery": [
-                "../../assets/images/heroes/125_novaria/gallery1.png",
-                "../../assets/images/heroes/125_novaria/gallery2.png",
-                "../../assets/images/heroes/125_novaria/gallery3.png",
-                "../../assets/images/heroes/125_novaria/gallery4.png"
+                "../assets/images/heroes/125_novaria/gallery1.png",
+                "../assets/images/heroes/125_novaria/gallery2.png",
+                "../assets/images/heroes/125_novaria/gallery3.png",
+                "../assets/images/heroes/125_novaria/gallery4.png"
             ]
         },
         "rating": 8.1,
@@ -7090,16 +7090,16 @@
         "id": 126,
         "name": "Chip",
         "nickname": "The Portal Master",
-        "icon": "../../assets/images/heroes/126_chip/icon.png",
+        "icon": "../assets/images/heroes/126_chip/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/126_chip/real.png",
-            "animated": "../../assets/images/heroes/126_chip/animated.png",
-            "nineties": "../../assets/images/heroes/126_chip/90s.png",
+            "real": "../assets/images/heroes/126_chip/real.png",
+            "animated": "../assets/images/heroes/126_chip/animated.png",
+            "nineties": "../assets/images/heroes/126_chip/90s.png",
             "gallery": [
-                "../../assets/images/heroes/126_chip/gallery1.png",
-                "../../assets/images/heroes/126_chip/gallery2.png",
-                "../../assets/images/heroes/126_chip/gallery3.png",
-                "../../assets/images/heroes/126_chip/gallery4.png"
+                "../assets/images/heroes/126_chip/gallery1.png",
+                "../assets/images/heroes/126_chip/gallery2.png",
+                "../assets/images/heroes/126_chip/gallery3.png",
+                "../assets/images/heroes/126_chip/gallery4.png"
             ]
         },
         "rating": 7.5,
@@ -7146,16 +7146,16 @@
         "id": 127,
         "name": "Cici",
         "nickname": "The Party Popper",
-        "icon": "../../assets/images/heroes/127_cici/icon.png",
+        "icon": "../assets/images/heroes/127_cici/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/127_cici/real.png",
-            "animated": "../../assets/images/heroes/127_cici/animated.png",
-            "nineties": "../../assets/images/heroes/127_cici/90s.png",
+            "real": "../assets/images/heroes/127_cici/real.png",
+            "animated": "../assets/images/heroes/127_cici/animated.png",
+            "nineties": "../assets/images/heroes/127_cici/90s.png",
             "gallery": [
-                "../../assets/images/heroes/127_cici/gallery1.png",
-                "../../assets/images/heroes/127_cici/gallery2.png",
-                "../../assets/images/heroes/127_cici/gallery3.png",
-                "../../assets/images/heroes/127_cici/gallery4.png"
+                "../assets/images/heroes/127_cici/gallery1.png",
+                "../assets/images/heroes/127_cici/gallery2.png",
+                "../assets/images/heroes/127_cici/gallery3.png",
+                "../assets/images/heroes/127_cici/gallery4.png"
             ]
         },
         "rating": 6.8,
@@ -7203,16 +7203,16 @@
         "id": 128,
         "name": "Nolan",
         "nickname": "The Time Warden",
-        "icon": "../../assets/images/heroes/128_nolan/icon.png",
+        "icon": "../assets/images/heroes/128_nolan/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/128_nolan/real.png",
-            "animated": "../../assets/images/heroes/128_nolan/animated.png",
-            "nineties": "../../assets/images/heroes/128_nolan/90s.png",
+            "real": "../assets/images/heroes/128_nolan/real.png",
+            "animated": "../assets/images/heroes/128_nolan/animated.png",
+            "nineties": "../assets/images/heroes/128_nolan/90s.png",
             "gallery": [
-                "../../assets/images/heroes/128_nolan/gallery1.png",
-                "../../assets/images/heroes/128_nolan/gallery2.png",
-                "../../assets/images/heroes/128_nolan/gallery3.png",
-                "../../assets/images/heroes/128_nolan/gallery4.png"
+                "../assets/images/heroes/128_nolan/gallery1.png",
+                "../assets/images/heroes/128_nolan/gallery2.png",
+                "../assets/images/heroes/128_nolan/gallery3.png",
+                "../assets/images/heroes/128_nolan/gallery4.png"
             ]
         },
         "rating": 8.7,
@@ -7260,16 +7260,16 @@
         "id": 129,
         "name": "Marcel",
         "nickname": "The Time Weaver",
-        "icon": "../../assets/images/heroes/129_marcel/icon.png",
+        "icon": "../assets/images/heroes/129_marcel/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/129_marcel/real.png",
-            "animated": "../../assets/images/heroes/129_marcel/animated.png",
-            "nineties": "../../assets/images/heroes/129_marcel/90s.png",
+            "real": "../assets/images/heroes/129_marcel/real.png",
+            "animated": "../assets/images/heroes/129_marcel/animated.png",
+            "nineties": "../assets/images/heroes/129_marcel/90s.png",
             "gallery": [
-                "../../assets/images/heroes/129_marcel/gallery1.png",
-                "../../assets/images/heroes/129_marcel/gallery2.png",
-                "../../assets/images/heroes/129_marcel/gallery3.png",
-                "../../assets/images/heroes/129_marcel/gallery4.png"
+                "../assets/images/heroes/129_marcel/gallery1.png",
+                "../assets/images/heroes/129_marcel/gallery2.png",
+                "../assets/images/heroes/129_marcel/gallery3.png",
+                "../assets/images/heroes/129_marcel/gallery4.png"
             ]
         },
         "rating": 7.5,
@@ -7317,16 +7317,16 @@
         "id": 130,
         "name": "Obsidia",
         "nickname": "The Void Gazer",
-        "icon": "../../assets/images/heroes/130_obsidia/icon.png",
+        "icon": "../assets/images/heroes/130_obsidia/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/130_obsidia/real.png",
-            "animated": "../../assets/images/heroes/130_obsidia/animated.png",
-            "nineties": "../../assets/images/heroes/130_obsidia/90s.png",
+            "real": "../assets/images/heroes/130_obsidia/real.png",
+            "animated": "../assets/images/heroes/130_obsidia/animated.png",
+            "nineties": "../assets/images/heroes/130_obsidia/90s.png",
             "gallery": [
-                "../../assets/images/heroes/130_obsidia/gallery1.png",
-                "../../assets/images/heroes/130_obsidia/gallery2.png",
-                "../../assets/images/heroes/130_obsidia/gallery3.png",
-                "../../assets/images/heroes/130_obsidia/gallery4.png"
+                "../assets/images/heroes/130_obsidia/gallery1.png",
+                "../assets/images/heroes/130_obsidia/gallery2.png",
+                "../assets/images/heroes/130_obsidia/gallery3.png",
+                "../assets/images/heroes/130_obsidia/gallery4.png"
             ]
         },
         "rating": 8.0,
@@ -7374,16 +7374,16 @@
         "id": 131,
         "name": "Lukas",
         "nickname": "The Feral",
-        "icon": "../../assets/images/heroes/131_lukas/icon.png",
+        "icon": "../assets/images/heroes/131_lukas/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/131_lukas/real.png",
-            "animated": "../../assets/images/heroes/131_lukas/animated.png",
-            "nineties": "../../assets/images/heroes/131_lukas/90s.png",
+            "real": "../assets/images/heroes/131_lukas/real.png",
+            "animated": "../assets/images/heroes/131_lukas/animated.png",
+            "nineties": "../assets/images/heroes/131_lukas/90s.png",
             "gallery": [
-                "../../assets/images/heroes/131_lukas/gallery1.png",
-                "../../assets/images/heroes/131_lukas/gallery2.png",
-                "../../assets/images/heroes/131_lukas/gallery3.png",
-                "../../assets/images/heroes/131_lukas/gallery4.png"
+                "../assets/images/heroes/131_lukas/gallery1.png",
+                "../assets/images/heroes/131_lukas/gallery2.png",
+                "../assets/images/heroes/131_lukas/gallery3.png",
+                "../assets/images/heroes/131_lukas/gallery4.png"
             ]
         },
         "rating": 7.9,
@@ -7429,16 +7429,16 @@
         "id": 132,
         "name": "Kalea",
         "nickname": "The Prismatic",
-        "icon": "../../assets/images/heroes/132_kalea/icon.png",
+        "icon": "../assets/images/heroes/132_kalea/icon.png",
         "images": {
-            "real": "../../assets/images/heroes/132_kalea/real.png",
-            "animated": "../../assets/images/heroes/132_kalea/animated.png",
-            "nineties": "../../assets/images/heroes/132_kalea/90s.png",
+            "real": "../assets/images/heroes/132_kalea/real.png",
+            "animated": "../assets/images/heroes/132_kalea/animated.png",
+            "nineties": "../assets/images/heroes/132_kalea/90s.png",
             "gallery": [
-                "../../assets/images/heroes/132_kalea/gallery1.png",
-                "../../assets/images/heroes/132_kalea/gallery2.png",
-                "../../assets/images/heroes/132_kalea/gallery3.png",
-                "../../assets/images/heroes/132_kalea/gallery4.png"
+                "../assets/images/heroes/132_kalea/gallery1.png",
+                "../assets/images/heroes/132_kalea/gallery2.png",
+                "../assets/images/heroes/132_kalea/gallery3.png",
+                "../assets/images/heroes/132_kalea/gallery4.png"
             ]
         },
         "rating": 8.4,
