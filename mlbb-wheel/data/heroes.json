@@ -2,7 +2,10 @@
   {
     "id": 1,
     "name": "Alucard",
-    "roles": ["Fighter", "Assassin"],
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Demon Hunter",
     "short_description": "A vampiric swordsman who sustains himself with the blood of enemies.",
@@ -11,14 +14,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/001_alucard/iconimage.png",
     "sound": "../assets/sounds/001_alucard/song.mp3",
-    "tags": ["sustain", "duelist", "burst"],
-    "preferred_lane": ["Jungle", "EXP Lane"],
-    "signature_items": ["Endless Battle", "Hunter Strike"]
+    "tags": [
+      "sustain",
+      "duelist",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Endless Battle",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 2,
     "name": "Layla",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Malefic Gunner",
     "short_description": "A cheerful girl who defends her home with a powerful energy cannon.",
@@ -27,14 +42,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/002_layla/iconimage.png",
     "sound": "../assets/sounds/002_layla/song.mp3",
-    "tags": ["long range", "late game"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Berserker's Fury", "Windtalker"]
+    "tags": [
+      "long range",
+      "late game"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Berserker's Fury",
+      "Windtalker"
+    ]
   },
   {
     "id": 3,
     "name": "Miya",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Moonlight Archer",
     "short_description": "An elf archer blessed by the moon, she fights to protect her forest home.",
@@ -43,14 +68,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/003_miya/iconimage.png",
     "sound": "../assets/sounds/003_miya/song.mp3",
-    "tags": ["attack speed", "split push"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Corrosion Scythe", "Demon Hunter Sword"]
+    "tags": [
+      "attack speed",
+      "split push"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Corrosion Scythe",
+      "Demon Hunter Sword"
+    ]
   },
   {
     "id": 4,
     "name": "Eudora",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Lightning Weaver",
     "short_description": "A mage who commands lightning and storms, punishing those who dare cross her.",
@@ -59,14 +94,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/004_eudora/iconimage.png",
     "sound": "../assets/sounds/004_eudora/song.mp3",
-    "tags": ["burst", "stun"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Lightning Truncheon", "Holy Crystal"]
+    "tags": [
+      "burst",
+      "stun"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Lightning Truncheon",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 5,
     "name": "Saber",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Cyber Swordsman",
     "short_description": "A cyborg assassin who uses high-tech blades to eliminate targets swiftly.",
@@ -75,14 +120,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/005_saber/iconimage.png",
     "sound": "../assets/sounds/005_saber/song.mp3",
-    "tags": ["burst", "crowd control"],
-    "preferred_lane": ["Jungle", "EXP Lane"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "burst",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 6,
     "name": "Akai",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Panda Warrior",
     "short_description": "A cheerful panda who uses his massive belly to disrupt enemies and protect allies.",
@@ -91,14 +147,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/006_akai/iconimage.png",
     "sound": "../assets/sounds/006_akai/song.mp3",
-    "tags": ["initiator", "crowd control"],
-    "preferred_lane": ["Roam", "EXP Lane"],
-    "signature_items": ["Cursed Helmet", "Athena's Shield"]
+    "tags": [
+      "initiator",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 7,
     "name": "Rafaela",
-    "roles": ["Support"],
+    "roles": [
+      "Support"
+    ],
     "primary_role": "Support",
     "nickname": "The Angel of Healing",
     "short_description": "A divine messenger who heals allies and reveals enemies with holy light.",
@@ -107,14 +174,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/007_rafaela/iconimage.png",
     "sound": "../assets/sounds/007_rafaela/song.mp3",
-    "tags": ["heal", "speed boost"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "tags": [
+      "heal",
+      "speed boost"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 8,
     "name": "Franco",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Frozen Warrior",
     "short_description": "A brute who drags enemies with his chain and beats them senseless.",
@@ -123,14 +200,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/008_franco/iconimage.png",
     "sound": "../assets/sounds/008_franco/song.mp3",
-    "tags": ["hook", "crowd control"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Blade Armor"]
+    "tags": [
+      "hook",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Blade Armor"
+    ]
   },
   {
     "id": 9,
     "name": "Chou",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Kung Fu Boy",
     "short_description": "A martial artist whose swift kicks and combos keep enemies on the ground.",
@@ -139,14 +226,26 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/009_chou/iconimage.png",
     "sound": "../assets/sounds/009_chou/song.mp3",
-    "tags": ["crowd control", "duelist"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "crowd control",
+      "duelist"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 10,
     "name": "Nana",
-    "roles": ["Support", "Mage"],
+    "roles": [
+      "Support",
+      "Mage"
+    ],
     "primary_role": "Support",
     "nickname": "The Kitten Wizard",
     "short_description": "A playful cat girl who uses magic and her cat Molina to annoy enemies.",
@@ -155,14 +254,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/010_nana/iconimage.png",
     "sound": "../assets/sounds/010_nana/song.mp3",
-    "tags": ["crowd control", "annoying"],
-    "preferred_lane": ["Mid Lane", "Roam"],
-    "signature_items": ["Fleeting Time", "Genius Wand"]
+    "tags": [
+      "crowd control",
+      "annoying"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Genius Wand"
+    ]
   },
   {
     "id": 11,
     "name": "Bruno",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Football Star",
     "short_description": "A superstar athlete who kicks explosive balls at his foes.",
@@ -171,14 +281,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/011_bruno/iconimage.png",
     "sound": "../assets/sounds/011_bruno/song.mp3",
-    "tags": ["crit", "mobility"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Berserker's Fury", "Scarlet Phantom"]
+    "tags": [
+      "crit",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Berserker's Fury",
+      "Scarlet Phantom"
+    ]
   },
   {
     "id": 12,
     "name": "Clint",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Western Gunner",
     "short_description": "A gunslinger who fires rapid shots and roots enemies with his traps.",
@@ -187,14 +307,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/012_clint/iconimage.png",
     "sound": "../assets/sounds/012_clint/song.mp3",
-    "tags": ["burst", "poking"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Heptaseas", "Endless Battle"]
+    "tags": [
+      "burst",
+      "poking"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Heptaseas",
+      "Endless Battle"
+    ]
   },
   {
     "id": 13,
     "name": "Gord",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Techno Mage",
     "short_description": "A genius who manipulates sound waves and lasers to disintegrate enemies.",
@@ -203,14 +333,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/013_gord/iconimage.png",
     "sound": "../assets/sounds/013_gord/song.mp3",
-    "tags": ["area damage", "laser"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Blood Wings"]
+    "tags": [
+      "area damage",
+      "laser"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Blood Wings"
+    ]
   },
   {
     "id": 14,
     "name": "Harley",
-    "roles": ["Mage", "Assassin"],
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
     "primary_role": "Mage",
     "nickname": "The Magical Trickster",
     "short_description": "A mischievous boy who throws cards and teleports around the battlefield.",
@@ -219,14 +360,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/014_harley/iconimage.png",
     "sound": "../assets/sounds/014_harley/song.mp3",
-    "tags": ["burst", "mobility"],
-    "preferred_lane": ["Mid Lane", "Jungle"],
-    "signature_items": ["Genius Wand", "Holy Crystal"]
+    "tags": [
+      "burst",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Genius Wand",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 15,
     "name": "Balmond",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Orc Warlord",
     "short_description": "A massive orc whose axe grows stronger with each enemy slain.",
@@ -235,14 +387,26 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/015_balmond/iconimage.png",
     "sound": "../assets/sounds/015_balmond/song.mp3",
-    "tags": ["sustain", "execute"],
-    "preferred_lane": ["Jungle", "EXP Lane"],
-    "signature_items": ["Bloodlust Axe", "War Axe"]
+    "tags": [
+      "sustain",
+      "execute"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Bloodlust Axe",
+      "War Axe"
+    ]
   },
   {
     "id": 16,
     "name": "Minotaur",
-    "roles": ["Tank", "Support"],
+    "roles": [
+      "Tank",
+      "Support"
+    ],
     "primary_role": "Tank",
     "nickname": "The Raging Bull",
     "short_description": "A gentle giant who transforms into a raging beast when angered.",
@@ -251,14 +415,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/016_minotaur/iconimage.png",
     "sound": "../assets/sounds/016_minotaur/song.mp3",
-    "tags": ["heal", "crowd control", "rage"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Athena's Shield"]
+    "tags": [
+      "heal",
+      "crowd control",
+      "rage"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 17,
     "name": "Alice",
-    "roles": ["Mage", "Tank"],
+    "roles": [
+      "Mage",
+      "Tank"
+    ],
     "primary_role": "Mage",
     "nickname": "The Blood Demon",
     "short_description": "A vampire queen who drains life from enemies and becomes invincible.",
@@ -267,14 +443,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/017_alice/iconimage.png",
     "sound": "../assets/sounds/017_alice/song.mp3",
-    "tags": ["sustain", "area damage"],
-    "preferred_lane": ["Mid Lane", "Roam"],
-    "signature_items": ["Clock of Destiny", "Concentrated Energy"]
+    "tags": [
+      "sustain",
+      "area damage"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Clock of Destiny",
+      "Concentrated Energy"
+    ]
   },
   {
     "id": 18,
     "name": "Zilong",
-    "roles": ["Fighter", "Assassin"],
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Dragon Warrior",
     "short_description": "A quick spear-wielder who chases down enemies with relentless speed.",
@@ -283,14 +471,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/018_zilong/iconimage.png",
     "sound": "../assets/sounds/018_zilong/song.mp3",
-    "tags": ["split push", "attack speed"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "split push",
+      "attack speed"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 19,
     "name": "Lolita",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Cannon Girl",
     "short_description": "A genius mechanic who wields a massive shield that can reflect projectiles.",
@@ -299,14 +498,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/019_lolita/iconimage.png",
     "sound": "../assets/sounds/019_lolita/song.mp3",
-    "tags": ["reflect", "crowd control"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Antique Cuirass"]
+    "tags": [
+      "reflect",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Antique Cuirass"
+    ]
   },
   {
     "id": 20,
     "name": "Hayabusa",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Shadow Ninja",
     "short_description": "A ninja who teleports through shadows and eliminates isolated targets.",
@@ -315,14 +524,26 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/020_hayabusa/iconimage.png",
     "sound": "../assets/sounds/020_hayabusa/song.mp3",
-    "tags": ["mobility", "burst", "split push"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "mobility",
+      "burst",
+      "split push"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 21,
     "name": "Freya",
-    "roles": ["Fighter", "Assassin"],
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Valkyrie",
     "short_description": "A winged warrior who descends from the sky to crush enemies.",
@@ -331,14 +552,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/021_freya/iconimage.png",
     "sound": "../assets/sounds/021_freya/song.mp3",
-    "tags": ["burst", "aerial"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Endless Battle", "Blade of Despair"]
+    "tags": [
+      "burst",
+      "aerial"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Endless Battle",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 22,
     "name": "Karina",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Blade Dancer",
     "short_description": "An elf assassin who dances between enemies, resetting her skills with each kill.",
@@ -347,14 +579,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/022_karina/iconimage.png",
     "sound": "../assets/sounds/022_karina/song.mp3",
-    "tags": ["reset", "true damage"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "reset",
+      "true damage"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 23,
     "name": "Aurora",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Frost Queen",
     "short_description": "A queen who commands ice, freezing enemies solid with her spells.",
@@ -363,14 +605,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/023_aurora/iconimage.png",
     "sound": "../assets/sounds/023_aurora/song.mp3",
-    "tags": ["crowd control", "burst"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Lightning Truncheon"]
+    "tags": [
+      "crowd control",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Lightning Truncheon"
+    ]
   },
   {
     "id": 24,
     "name": "Kagura",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Shrine Maiden",
     "short_description": "A shrine maiden who controls a demonic umbrella, switching between offensive and defensive stances.",
@@ -379,14 +631,26 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/024_kagura/iconimage.png",
     "sound": "../assets/sounds/024_kagura/song.mp3",
-    "tags": ["mobility", "burst", "poke"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "mobility",
+      "burst",
+      "poke"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 25,
     "name": "Gatotkaca",
-    "roles": ["Tank", "Fighter"],
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
     "primary_role": "Tank",
     "nickname": "The Iron Bone",
     "short_description": "A legendary hero from the Mahabharata, with skin as hard as iron.",
@@ -395,14 +659,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/025_gatotkaca/iconimage.png",
     "sound": "../assets/sounds/025_gatotkaca/song.mp3",
-    "tags": ["counter-attack", "crowd control"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Cursed Helmet", "Blade Armor"]
+    "tags": [
+      "counter-attack",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Blade Armor"
+    ]
   },
   {
     "id": 26,
     "name": "Hilda",
-    "roles": ["Fighter", "Tank"],
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Wildheart",
     "short_description": "A fierce barbarian who gains strength from brushes and regenerates quickly.",
@@ -411,14 +687,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/026_hilda/iconimage.png",
     "sound": "../assets/sounds/026_hilda/song.mp3",
-    "tags": ["sustain", "roaming"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["War Axe", "Queen's Wings"]
+    "tags": [
+      "sustain",
+      "roaming"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Queen's Wings"
+    ]
   },
   {
     "id": 27,
     "name": "Moskov",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Spear of Destiny",
     "short_description": "A spear-wielding marksman who impales enemies and teleports through walls.",
@@ -427,14 +714,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/027_moskov/iconimage.png",
     "sound": "../assets/sounds/027_moskov/song.mp3",
-    "tags": ["penetration", "mobility"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Despair", "Scarlet Phantom"]
+    "tags": [
+      "penetration",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Scarlet Phantom"
+    ]
   },
   {
     "id": 28,
     "name": "Johnson",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Transforming Car",
     "short_description": "A robot that transforms into a car, running over enemies and stunning them.",
@@ -443,14 +740,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/028_johnson/iconimage.png",
     "sound": "../assets/sounds/028_johnson/song.mp3",
-    "tags": ["initiator", "global", "stun"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Blade Armor"]
+    "tags": [
+      "initiator",
+      "global",
+      "stun"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Blade Armor"
+    ]
   },
   {
     "id": 29,
     "name": "Cyclops",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Starlight Sorcerer",
     "short_description": "A small mage who fires star energy orbs and reduces skill cooldowns.",
@@ -459,14 +767,26 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/029_cyclops/iconimage.png",
     "sound": "../assets/sounds/029_cyclops/song.mp3",
-    "tags": ["burst", "cooldown reduction"],
-    "preferred_lane": ["Mid Lane", "Jungle"],
-    "signature_items": ["Holy Crystal", "Concentrated Energy"]
+    "tags": [
+      "burst",
+      "cooldown reduction"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Concentrated Energy"
+    ]
   },
   {
     "id": 30,
     "name": "Ruby",
-    "roles": ["Fighter", "Tank"],
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Puppet Master",
     "short_description": "A scythe-wielding girl who pulls enemies and heals from each skill hit.",
@@ -475,14 +795,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/030_ruby/iconimage.png",
     "sound": "../assets/sounds/030_ruby/song.mp3",
-    "tags": ["crowd control", "lifesteal"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Endless Battle", "Queen's Wings"]
+    "tags": [
+      "crowd control",
+      "lifesteal"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Endless Battle",
+      "Queen's Wings"
+    ]
   },
   {
     "id": 31,
     "name": "Sun",
-    "roles": ["Fighter", "Assassin"],
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Monkey King",
     "short_description": "A mischievous monkey who creates clones of himself to confuse enemies.",
@@ -491,14 +823,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/031_sun/iconimage.png",
     "sound": "../assets/sounds/031_sun/song.mp3",
-    "tags": ["split push", "clone"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "split push",
+      "clone"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 32,
     "name": "Irithel",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Jungle Queen",
     "short_description": "A archer who rides a giant tiger, shooting while moving.",
@@ -507,14 +850,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/032_irithel/iconimage.png",
     "sound": "../assets/sounds/032_irithel/song.mp3",
-    "tags": ["attack speed", "mobile"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Scarlet Phantom", "Berserker's Fury"]
+    "tags": [
+      "attack speed",
+      "mobile"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Scarlet Phantom",
+      "Berserker's Fury"
+    ]
   },
   {
     "id": 33,
     "name": "Argus",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Fallen Angel",
     "short_description": "A fallen angel who becomes immortal for a short time, swinging his massive sword.",
@@ -523,14 +876,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/033_argus/iconimage.png",
     "sound": "../assets/sounds/033_argus/song.mp3",
-    "tags": ["immortal", "split push"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "immortal",
+      "split push"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 34,
     "name": "Lesley",
-    "roles": ["Marksman", "Assassin"],
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Sniper",
     "short_description": "A deadly assassin who snipes from long range, dealing guaranteed criticals.",
@@ -539,14 +903,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/034_lesley/iconimage.png",
     "sound": "../assets/sounds/034_lesley/song.mp3",
-    "tags": ["true damage", "stealth"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Berserker's Fury", "Blade of Despair"]
+    "tags": [
+      "true damage",
+      "stealth"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Berserker's Fury",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 35,
     "name": "Zhask",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Hive Lord",
     "short_description": "An alien overlord who summons a powerful spawn to fight for him.",
@@ -555,14 +929,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/035_zhask/iconimage.png",
     "sound": "../assets/sounds/035_zhask/song.mp3",
-    "tags": ["summon", "push"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "summon",
+      "push"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 36,
     "name": "Vexana",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Necromancer",
     "short_description": "A necromancer who summons undead knights and curses enemies.",
@@ -571,14 +955,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/036_vexana/iconimage.png",
     "sound": "../assets/sounds/036_vexana/song.mp3",
-    "tags": ["summon", "crowd control"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Lightning Truncheon"]
+    "tags": [
+      "summon",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Lightning Truncheon"
+    ]
   },
   {
     "id": 37,
     "name": "Kadita",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Ocean Goddess",
     "short_description": "A sea goddess who rides waves and emerges to strike down enemies.",
@@ -587,14 +981,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/037_kadita/iconimage.png",
     "sound": "../assets/sounds/037_kadita/song.mp3",
-    "tags": ["burst", "invulnerable"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "burst",
+      "invulnerable"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 38,
     "name": "Selena",
-    "roles": ["Assassin", "Mage"],
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Abyssal Demon",
     "short_description": "A dual-form demon who traps enemies with abyssal traps and pounces in demon form.",
@@ -603,14 +1008,26 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/038_selena/iconimage.png",
     "sound": "../assets/sounds/038_selena/song.mp3",
-    "tags": ["crowd control", "burst", "dual form"],
-    "preferred_lane": ["Mid Lane", "Jungle"],
-    "signature_items": ["Genius Wand", "Holy Crystal"]
+    "tags": [
+      "crowd control",
+      "burst",
+      "dual form"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Genius Wand",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 39,
     "name": "Fanny",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Cable Queen",
     "short_description": "A acrobatic assassin who swings around the map with cables, dealing burst damage.",
@@ -619,14 +1036,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/039_fanny/iconimage.png",
     "sound": "../assets/sounds/039_fanny/song.mp3",
-    "tags": ["mobility", "energy-based"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "mobility",
+      "energy-based"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 40,
     "name": "Lancelot",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Knight of Roses",
     "short_description": "A charming swordsman who dances through enemies, becoming untargetable.",
@@ -635,14 +1062,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/040_lancelot/iconimage.png",
     "sound": "../assets/sounds/040_lancelot/song.mp3",
-    "tags": ["mobility", "invulnerable"],
-    "preferred_lane": ["Jungle", "EXP Lane"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "mobility",
+      "invulnerable"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 41,
     "name": "Harith",
-    "roles": ["Mage", "Assassin"],
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
     "primary_role": "Mage",
     "nickname": "The Time Traveler",
     "short_description": "A young prodigy who manipulates time, dashing around and slowing enemies.",
@@ -651,14 +1090,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/041_harith/iconimage.png",
     "sound": "../assets/sounds/041_harith/song.mp3",
-    "tags": ["mobility", "shield"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Concentrated Energy", "Holy Crystal"]
+    "tags": [
+      "mobility",
+      "shield"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Concentrated Energy",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 42,
     "name": "Martis",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Ash Bringer",
     "short_description": "A brutal warrior who gains attack speed with each skill, executing low-health enemies.",
@@ -667,14 +1116,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/042_martis/iconimage.png",
     "sound": "../assets/sounds/042_martis/song.mp3",
-    "tags": ["crowd control", "execute"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "crowd control",
+      "execute"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 43,
     "name": "Gusion",
-    "roles": ["Assassin", "Mage"],
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Feather Dancer",
     "short_description": "A noble assassin who throws daggers and dashes to reset his skills.",
@@ -683,14 +1144,26 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/043_gusion/iconimage.png",
     "sound": "../assets/sounds/043_gusion/song.mp3",
-    "tags": ["burst", "reset"],
-    "preferred_lane": ["Jungle", "Mid Lane"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "burst",
+      "reset"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 44,
     "name": "Kimmy",
-    "roles": ["Marksman", "Mage"],
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Chemist",
     "short_description": "A scientist who fires energy projectiles while moving, mixing physical and magic damage.",
@@ -699,14 +1172,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/044_kimmy/iconimage.png",
     "sound": "../assets/sounds/044_kimmy/song.mp3",
-    "tags": ["hybrid", "kiting"],
-    "preferred_lane": ["Gold Lane", "Mid Lane"],
-    "signature_items": ["Genius Wand", "Blade of Despair"]
+    "tags": [
+      "hybrid",
+      "kiting"
+    ],
+    "preferred_lane": [
+      "Gold Lane",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Genius Wand",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 45,
     "name": "Lunox",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Dreamweaver",
     "short_description": "A girl with split personalities, switching between light and dark magic.",
@@ -715,14 +1199,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/045_lunox/iconimage.png",
     "sound": "../assets/sounds/045_lunox/song.mp3",
-    "tags": ["dual form", "true damage"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "dual form",
+      "true damage"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 46,
     "name": "Thamuz",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Abyssal Lord",
     "short_description": "A demon lord who throws his scythe and creates lava pools to dominate the battlefield.",
@@ -731,14 +1225,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/046_thamuz/iconimage.png",
     "sound": "../assets/sounds/046_thamuz/song.mp3",
-    "tags": ["sustain", "area damage"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Queen's Wings"]
+    "tags": [
+      "sustain",
+      "area damage"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Queen's Wings"
+    ]
   },
   {
     "id": 47,
     "name": "Leomord",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Knightmare",
     "short_description": "A fallen knight who rides a spectral horse, charging into battle.",
@@ -747,14 +1251,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/047_leomord/iconimage.png",
     "sound": "../assets/sounds/047_leomord/song.mp3",
-    "tags": ["mount", "burst"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "mount",
+      "burst"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 48,
     "name": "Angela",
-    "roles": ["Support"],
+    "roles": [
+      "Support"
+    ],
     "primary_role": "Support",
     "nickname": "The Heartstring",
     "short_description": "A robotic doll who possesses allies, healing and shielding them from harm.",
@@ -763,14 +1278,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/048_angela/iconimage.png",
     "sound": "../assets/sounds/048_angela/song.mp3",
-    "tags": ["heal", "possession"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "tags": [
+      "heal",
+      "possession"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 49,
     "name": "Aldous",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Soul Eater",
     "short_description": "A giant who stacks soul power by last-hitting, becoming unstoppable late game.",
@@ -779,14 +1304,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/049_aldous/iconimage.png",
     "sound": "../assets/sounds/049_aldous/song.mp3",
-    "tags": ["stacking", "true damage"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "stacking",
+      "true damage"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 50,
     "name": "Khufra",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Mummy King",
     "short_description": "An ancient mummy who uses bandages to disrupt enemies and jump into battle.",
@@ -795,14 +1330,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/050_khufra/iconimage.png",
     "sound": "../assets/sounds/050_khufra/song.mp3",
-    "tags": ["crowd control", "initiator"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Athena's Shield"]
+    "tags": [
+      "crowd control",
+      "initiator"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 51,
     "name": "Granger",
-    "roles": ["Marksman", "Assassin"],
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Violinist",
     "short_description": "A demon violinist who fires energy bullets, reloading after each burst.",
@@ -811,14 +1357,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/051_granger/iconimage.png",
     "sound": "../assets/sounds/051_granger/song.mp3",
-    "tags": ["burst", "reload"],
-    "preferred_lane": ["Gold Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Berserker's Fury"]
+    "tags": [
+      "burst",
+      "reload"
+    ],
+    "preferred_lane": [
+      "Gold Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Berserker's Fury"
+    ]
   },
   {
     "id": 52,
     "name": "X.Borg",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Fire Phantom",
     "short_description": "A cyborg who sets enemies on fire and can eject his armor to become untargetable.",
@@ -827,14 +1384,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/052_xborg/iconimage.png",
     "sound": "../assets/sounds/052_xborg/song.mp3",
-    "tags": ["true damage", "armor"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Blade of Despair"]
+    "tags": [
+      "true damage",
+      "armor"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 53,
     "name": "Ling",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Finch",
     "short_description": "A ninja who leaps across walls, striking from above with his blades.",
@@ -843,14 +1410,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/053_ling/iconimage.png",
     "sound": "../assets/sounds/053_ling/song.mp3",
-    "tags": ["mobility", "wall climbing"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "mobility",
+      "wall climbing"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 54,
     "name": "Carmilla",
-    "roles": ["Support", "Mage"],
+    "roles": [
+      "Support",
+      "Mage"
+    ],
     "primary_role": "Support",
     "nickname": "The Blood Bride",
     "short_description": "A vampire who links enemies together, spreading damage and crowd control.",
@@ -859,14 +1437,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/054_carmilla/iconimage.png",
     "sound": "../assets/sounds/054_carmilla/song.mp3",
-    "tags": ["link", "crowd control"],
-    "preferred_lane": ["Roam", "Mid Lane"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "tags": [
+      "link",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 55,
     "name": "Atlas",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Starmech",
     "short_description": "A giant robot that pulls enemies into a ball and slams them into the ground.",
@@ -875,14 +1464,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/055_atlas/iconimage.png",
     "sound": "../assets/sounds/055_atlas/song.mp3",
-    "tags": ["crowd control", "initiator"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Antique Cuirass"]
+    "tags": [
+      "crowd control",
+      "initiator"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Antique Cuirass"
+    ]
   },
   {
     "id": 56,
     "name": "Barats",
-    "roles": ["Tank", "Fighter"],
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
     "primary_role": "Tank",
     "nickname": "The Big Guy",
     "short_description": "A boy riding a giant dinosaur, growing larger as he gains stacks.",
@@ -891,14 +1491,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/056_barats/iconimage.png",
     "sound": "../assets/sounds/056_barats/song.mp3",
-    "tags": ["stacking", "crowd control"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["War Axe", "Cursed Helmet"]
+    "tags": [
+      "stacking",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Cursed Helmet"
+    ]
   },
   {
     "id": 57,
     "name": "Mathilda",
-    "roles": ["Support", "Assassin"],
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
     "primary_role": "Support",
     "nickname": "The Feather Fairy",
     "short_description": "A fairy who dashes to allies, shielding them and then launching herself at enemies.",
@@ -907,14 +1519,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/057_mathilda/iconimage.png",
     "sound": "../assets/sounds/057_mathilda/song.mp3",
-    "tags": ["mobility", "shield"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Courage Mask"]
+    "tags": [
+      "mobility",
+      "shield"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Courage Mask"
+    ]
   },
   {
     "id": 58,
     "name": "Brody",
-    "roles": ["Marksman", "Assassin"],
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Shadowblade",
     "short_description": "A dual-pistol wielding marksman who marks enemies and detonates the mark.",
@@ -923,14 +1546,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/058_brody/iconimage.png",
     "sound": "../assets/sounds/058_brody/song.mp3",
-    "tags": ["burst", "slow"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "burst",
+      "slow"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 59,
     "name": "Yve",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Astronomer",
     "short_description": "An alien who projects a starry domain, slowing and damaging enemies inside.",
@@ -939,14 +1572,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/059_yve/iconimage.png",
     "sound": "../assets/sounds/059_yve/song.mp3",
-    "tags": ["zone control", "slow"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "zone control",
+      "slow"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 60,
     "name": "Paquito",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Boxer",
     "short_description": "A boxer who unleashes combos, each skill enhanced by his fighting spirit.",
@@ -955,14 +1598,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/060_paquito/iconimage.png",
     "sound": "../assets/sounds/060_paquito/song.mp3",
-    "tags": ["combo", "burst"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Blade of Despair"]
+    "tags": [
+      "combo",
+      "burst"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 61,
     "name": "Benedetta",
-    "roles": ["Assassin", "Fighter"],
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Shadow Ranger",
     "short_description": "A swordswoman who dashes and slashes, her attacks fueled by a sword gauge.",
@@ -971,14 +1625,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/061_benedetta/iconimage.png",
     "sound": "../assets/sounds/061_benedetta/song.mp3",
-    "tags": ["mobility", "invulnerable"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "mobility",
+      "invulnerable"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 62,
     "name": "Luo Yi",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Mystic",
     "short_description": "A yin-yang mage who links enemies and teleports them with her ultimate.",
@@ -987,14 +1652,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/062_luoyi/iconimage.png",
     "sound": "../assets/sounds/062_luoyi/song.mp3",
-    "tags": ["crowd control", "teleport"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "crowd control",
+      "teleport"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 63,
     "name": "Phoveus",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Abyssal Avenger",
     "short_description": "A demon hunter who slams enemies with his pillar, empowered by enemy dashes.",
@@ -1003,14 +1678,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/063_phoveus/iconimage.png",
     "sound": "../assets/sounds/063_phoveus/song.mp3",
-    "tags": ["anti-dash", "sustain"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Queen's Wings"]
+    "tags": [
+      "anti-dash",
+      "sustain"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Queen's Wings"
+    ]
   },
   {
     "id": 64,
     "name": "Natan",
-    "roles": ["Marksman", "Mage"],
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Genius of Reality",
     "short_description": "A physicist who manipulates time and space, reversing his own position.",
@@ -1019,14 +1705,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/064_natan/iconimage.png",
     "sound": "../assets/sounds/064_natan/song.mp3",
-    "tags": ["mobility", "hybrid"],
-    "preferred_lane": ["Gold Lane", "Mid Lane"],
-    "signature_items": ["Holy Crystal", "Blade of Despair"]
+    "tags": [
+      "mobility",
+      "hybrid"
+    ],
+    "preferred_lane": [
+      "Gold Lane",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 65,
     "name": "Aulus",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Gladiator",
     "short_description": "A gladiator who gains attack speed and extra damage as the game progresses.",
@@ -1035,30 +1732,51 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/065_aulus/iconimage.png",
     "sound": "../assets/sounds/065_aulus/song.mp3",
-    "tags": ["late game", "attack speed"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "late game",
+      "attack speed"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 66,
-    "name": "Yve",
-    "roles": ["Mage"],
-    "primary_role": "Mage",
-    "nickname": "The Astronomer",
-    "short_description": "An alien who projects a starry domain, slowing and damaging enemies inside.",
-    "lore": "Yve travels the cosmos, recording the birth and death of stars. She now studies the Land of Dawn, her power cosmic.",
-    "release_date": "2021-07-28",
+    "name": "Alpha",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter",
+    "nickname": "The Armored Warrior",
+    "short_description": "A cyborg warrior who commands a flying sword to strike down foes.",
+    "lore": "Alpha was once a human soldier, now rebuilt as a weapon. His blade, Beta, fights alongside him, seeking redemption for a past he cannot remember.",
+    "release_date": "2017-08-15",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/066_yve/iconimage.png",
-    "sound": "../assets/sounds/066_yve/song.mp3",
-    "tags": ["zone control", "slow"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "image": "../assets/images/heroes/066_alpha/iconimage.png",
+    "sound": "../assets/sounds/066_alpha/song.mp3",
+    "tags": [
+      "sustain",
+      "poking"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Bloodlust Axe",
+      "War Axe"
+    ]
   },
   {
     "id": 67,
     "name": "Gloo",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Slime",
     "short_description": "A slime that splits into multiple blobs, attaching to enemies and draining them.",
@@ -1067,14 +1785,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/067_gloo/iconimage.png",
     "sound": "../assets/sounds/067_gloo/song.mp3",
-    "tags": ["split", "drain"],
-    "preferred_lane": ["Roam", "EXP Lane"],
-    "signature_items": ["Cursed Helmet", "Athena's Shield"]
+    "tags": [
+      "split",
+      "drain"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 68,
     "name": "Beatrix",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Gunsmith",
     "short_description": "A weapons expert who switches between four different guns, each with unique abilities.",
@@ -1083,14 +1812,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/068_beatrix/iconimage.png",
     "sound": "../assets/sounds/068_beatrix/song.mp3",
-    "tags": ["versatile", "burst"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Despair", "Berserker's Fury"]
+    "tags": [
+      "versatile",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Berserker's Fury"
+    ]
   },
   {
     "id": 69,
     "name": "Edith",
-    "roles": ["Tank", "Marksman"],
+    "roles": [
+      "Tank",
+      "Marksman"
+    ],
     "primary_role": "Tank",
     "nickname": "The Lightweaver",
     "short_description": "A warrior who rides a mechanical dragon, switching between defensive and offensive modes.",
@@ -1099,14 +1839,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/069_edith/iconimage.png",
     "sound": "../assets/sounds/069_edith/song.mp3",
-    "tags": ["dual form", "hybrid"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Cursed Helmet", "Blade of Despair"]
+    "tags": [
+      "dual form",
+      "hybrid"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 70,
     "name": "Valentina",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Shapeshifter",
     "short_description": "A mage who can copy the ultimate ability of an enemy hero.",
@@ -1115,14 +1866,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/070_valentina/iconimage.png",
     "sound": "../assets/sounds/070_valentina/song.mp3",
-    "tags": ["copy", "versatile"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "copy",
+      "versatile"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 71,
     "name": "Aamon",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Shade",
     "short_description": "A assassin who becomes invisible and throws shards, ambushing enemies.",
@@ -1131,14 +1892,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/071_aamon/iconimage.png",
     "sound": "../assets/sounds/071_aamon/song.mp3",
-    "tags": ["invisible", "burst"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "invisible",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 72,
     "name": "Melissa",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Toy Collector",
     "short_description": "A girl who controls a doll Muno, bouncing enemies away and attacking from distance.",
@@ -1147,14 +1918,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/072_melissa/iconimage.png",
     "sound": "../assets/sounds/072_melissa/song.mp3",
-    "tags": ["zone control", "kiting"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Despair", "Scarlet Phantom"]
+    "tags": [
+      "zone control",
+      "kiting"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Scarlet Phantom"
+    ]
   },
   {
     "id": 73,
     "name": "Floryn",
-    "roles": ["Support"],
+    "roles": [
+      "Support"
+    ],
     "primary_role": "Support",
     "nickname": "The Dream Fairy",
     "short_description": "A fairy who heals allies globally with her ultimate and purifies crowd control.",
@@ -1163,14 +1944,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/073_floryn/iconimage.png",
     "sound": "../assets/sounds/073_floryn/song.mp3",
-    "tags": ["global heal", "purify"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "tags": [
+      "global heal",
+      "purify"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 74,
     "name": "Julian",
-    "roles": ["Fighter", "Mage"],
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Prodigy",
     "short_description": "A young mage whose skills evolve as he casts, with multiple enhanced abilities.",
@@ -1179,14 +1971,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/074_julian/iconimage.png",
     "sound": "../assets/sounds/074_julian/song.mp3",
-    "tags": ["evolution", "versatile"],
-    "preferred_lane": ["EXP Lane", "Mid Lane"],
-    "signature_items": ["War Axe", "Holy Crystal"]
+    "tags": [
+      "evolution",
+      "versatile"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 75,
     "name": "Xavier",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Reality Seer",
     "short_description": "A mage who manipulates dimensions, extending his skills' range and trapping enemies.",
@@ -1195,14 +1998,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/075_xavier/iconimage.png",
     "sound": "../assets/sounds/075_xavier/song.mp3",
-    "tags": ["poke", "zone control"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "poke",
+      "zone control"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 76,
     "name": "Fredrinn",
-    "roles": ["Tank", "Fighter"],
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
     "primary_role": "Tank",
     "nickname": "The Crystalline",
     "short_description": "A crystal-armored warrior who stores damage and unleashes it in devastating combos.",
@@ -1211,14 +2025,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/076_fredrinn/iconimage.png",
     "sound": "../assets/sounds/076_fredrinn/song.mp3",
-    "tags": ["damage storage", "crowd control"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["War Axe", "Cursed Helmet"]
+    "tags": [
+      "damage storage",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Cursed Helmet"
+    ]
   },
   {
     "id": 77,
     "name": "Joy",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Rhapsody",
     "short_description": "A rhythmic assassin who dashes to the beat, dealing more damage with perfect timing.",
@@ -1227,14 +2052,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/077_joy/iconimage.png",
     "sound": "../assets/sounds/077_joy/song.mp3",
-    "tags": ["rhythm", "mobility"],
-    "preferred_lane": ["Jungle", "Mid Lane"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "rhythm",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 78,
     "name": "Arlott",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Spire's Light",
     "short_description": "A holy warrior who marks enemies and dashes to them, dealing enhanced damage.",
@@ -1243,14 +2079,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/078_arlott/iconimage.png",
     "sound": "../assets/sounds/078_arlott/song.mp3",
-    "tags": ["mark", "dash"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "mark",
+      "dash"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 79,
     "name": "Ixia",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Star Spark",
     "short_description": "A marksman who fires energy blasts that explode on hit, scaling with attack speed.",
@@ -1259,14 +2105,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/079_ixia/iconimage.png",
     "sound": "../assets/sounds/079_ixia/song.mp3",
-    "tags": ["area damage", "attack speed"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Scarlet Phantom", "Berserker's Fury"]
+    "tags": [
+      "area damage",
+      "attack speed"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Scarlet Phantom",
+      "Berserker's Fury"
+    ]
   },
   {
     "id": 80,
     "name": "Novaria",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Astrologer",
     "short_description": "A mage who projects a star that reveals enemies and fires long-range beams.",
@@ -1275,14 +2131,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/080_novaria/iconimage.png",
     "sound": "../assets/sounds/080_novaria/song.mp3",
-    "tags": ["vision", "poke"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "vision",
+      "poke"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 81,
     "name": "Chip",
-    "roles": ["Tank", "Support"],
+    "roles": [
+      "Tank",
+      "Support"
+    ],
     "primary_role": "Tank",
     "nickname": "The Portal Master",
     "short_description": "A robotic squirrel who creates portals for allies to teleport across the map.",
@@ -1291,14 +2158,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/081_chip/iconimage.png",
     "sound": "../assets/sounds/081_chip/song.mp3",
-    "tags": ["global", "portal"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Athena's Shield"]
+    "tags": [
+      "global",
+      "portal"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 82,
     "name": "Cici",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Party Popper",
     "short_description": "A cheerful girl who throws party bombs and dances around enemies.",
@@ -1307,14 +2184,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/082_cici/iconimage.png",
     "sound": "../assets/sounds/082_cici/song.mp3",
-    "tags": ["area damage", "mobile"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Blade of Despair"]
+    "tags": [
+      "area damage",
+      "mobile"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 83,
     "name": "Nolan",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Time Warden",
     "short_description": "An assassin who manipulates time, leaving afterimages and rewinding damage.",
@@ -1323,14 +2210,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/083_nolan/iconimage.png",
     "sound": "../assets/sounds/083_nolan/song.mp3",
-    "tags": ["time manipulation", "burst"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "time manipulation",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 84,
     "name": "Vale",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Windtalker",
     "short_description": "A mage who commands wind, gathering storms to blow enemies away.",
@@ -1339,14 +2236,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/084_vale/iconimage.png",
     "sound": "../assets/sounds/084_vale/song.mp3",
-    "tags": ["crowd control", "burst"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Lightning Truncheon"]
+    "tags": [
+      "crowd control",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Lightning Truncheon"
+    ]
   },
   {
     "id": 85,
     "name": "Valir",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Flamedriver",
     "short_description": "A fiery mage who pushes enemies back with flames and burns them over time.",
@@ -1355,14 +2262,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/085_valir/iconimage.png",
     "sound": "../assets/sounds/085_valir/song.mp3",
-    "tags": ["push", "burn"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "push",
+      "burn"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 86,
     "name": "Khaleed",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Desert Scimitar",
     "short_description": "A desert warrior who heals from sand and charges across the battlefield.",
@@ -1371,14 +2288,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/086_khaleed/iconimage.png",
     "sound": "../assets/sounds/086_khaleed/song.mp3",
-    "tags": ["sustain", "mobility"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Queen's Wings"]
+    "tags": [
+      "sustain",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Queen's Wings"
+    ]
   },
   {
     "id": 87,
     "name": "Esmeralda",
-    "roles": ["Tank", "Mage"],
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
     "primary_role": "Tank",
     "nickname": "The Starlight Dancer",
     "short_description": "A dancer who absorbs shields from enemies and converts them into HP.",
@@ -1387,14 +2315,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/087_esmeralda/iconimage.png",
     "sound": "../assets/sounds/087_esmeralda/song.mp3",
-    "tags": ["shield steal", "sustain"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Cursed Helmet", "Athena's Shield"]
+    "tags": [
+      "shield steal",
+      "sustain"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 88,
     "name": "Uranus",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Celestial Guardian",
     "short_description": "A celestial being who regenerates constantly and slows enemies with cosmic rings.",
@@ -1403,14 +2342,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/088_uranus/iconimage.png",
     "sound": "../assets/sounds/088_uranus/song.mp3",
-    "tags": ["regeneration", "slow"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Cursed Helmet", "Blade Armor"]
+    "tags": [
+      "regeneration",
+      "slow"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Blade Armor"
+    ]
   },
   {
     "id": 89,
     "name": "Terizla",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Executioner",
     "short_description": "A blacksmith who swings a massive hammer, dealing true damage to low-HP enemies.",
@@ -1419,14 +2368,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/089_terizla/iconimage.png",
     "sound": "../assets/sounds/089_terizla/song.mp3",
-    "tags": ["true damage", "sustain"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Blade of Despair"]
+    "tags": [
+      "true damage",
+      "sustain"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 90,
     "name": "Bane",
-    "roles": ["Fighter", "Mage"],
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Pirate King",
     "short_description": "A pirate who fires cannonballs and heals from his abilities.",
@@ -1435,14 +2395,26 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/090_bane/iconimage.png",
     "sound": "../assets/sounds/090_bane/song.mp3",
-    "tags": ["hybrid", "sustain"],
-    "preferred_lane": ["EXP Lane", "Mid Lane"],
-    "signature_items": ["War Axe", "Holy Crystal"]
+    "tags": [
+      "hybrid",
+      "sustain"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 91,
     "name": "Kaja",
-    "roles": ["Support", "Fighter"],
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
     "primary_role": "Support",
     "nickname": "The Lightning Bomb",
     "short_description": "A electric bee who suppresses enemies and pulls them toward allies.",
@@ -1451,14 +2423,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/091_kaja/iconimage.png",
     "sound": "../assets/sounds/091_kaja/song.mp3",
-    "tags": ["suppress", "mobility"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Courage Mask"]
+    "tags": [
+      "suppress",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Courage Mask"
+    ]
   },
   {
     "id": 92,
     "name": "Hanzo",
-    "roles": ["Assassin"],
+    "roles": [
+      "Assassin"
+    ],
     "primary_role": "Assassin",
     "nickname": "The Shinobi",
     "short_description": "A ninja who can separate his spirit from his body to assassinate safely.",
@@ -1467,14 +2449,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/092_hanzo/iconimage.png",
     "sound": "../assets/sounds/092_hanzo/song.mp3",
-    "tags": ["spirit form", "burst"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "tags": [
+      "spirit form",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 93,
     "name": "Hanabi",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Scarlet Flower",
     "short_description": "A ninja who throws bouncing shurikens and gains a shield from her passive.",
@@ -1483,14 +2475,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/093_hanabi/iconimage.png",
     "sound": "../assets/sounds/093_hanabi/song.mp3",
-    "tags": ["bounce", "shield"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Berserker's Fury", "Scarlet Phantom"]
+    "tags": [
+      "bounce",
+      "shield"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Berserker's Fury",
+      "Scarlet Phantom"
+    ]
   },
   {
     "id": 94,
     "name": "Yin",
-    "roles": ["Fighter", "Assassin"],
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Fist of Flame",
     "short_description": "A boxer who pulls enemies into his domain, dueling them one-on-one.",
@@ -1499,14 +2502,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/094_yin/iconimage.png",
     "sound": "../assets/sounds/094_yin/song.mp3",
-    "tags": ["domain", "duel"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "domain",
+      "duel"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 95,
     "name": "Masha",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Bear Queen",
     "short_description": "A woman with three HP bars, sacrificing health for attack speed and damage.",
@@ -1515,14 +2529,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/095_masha/iconimage.png",
     "sound": "../assets/sounds/095_masha/song.mp3",
-    "tags": ["multiple HP", "attack speed"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "War Axe"]
+    "tags": [
+      "multiple HP",
+      "attack speed"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "War Axe"
+    ]
   },
   {
     "id": 96,
     "name": "Wanwan",
-    "roles": ["Marksman", "Assassin"],
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Tigress",
     "short_description": "A agile archer who jumps over walls and unleashes tigers after marking enemies.",
@@ -1531,14 +2557,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/096_wanwan/iconimage.png",
     "sound": "../assets/sounds/096_wanwan/song.mp3",
-    "tags": ["mobility", "true damage"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Despair", "Demon Hunter Sword"]
+    "tags": [
+      "mobility",
+      "true damage"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Demon Hunter Sword"
+    ]
   },
   {
     "id": 97,
     "name": "Claude",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Battle Monkey",
     "short_description": "A monkey marksman who creates a clone and teleports with it.",
@@ -1547,14 +2583,24 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/097_claude/iconimage.png",
     "sound": "../assets/sounds/097_claude/song.mp3",
-    "tags": ["clone", "mobility"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Demon Hunter Sword", "Golden Staff"]
+    "tags": [
+      "clone",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Demon Hunter Sword",
+      "Golden Staff"
+    ]
   },
   {
     "id": 98,
     "name": "Karrie",
-    "roles": ["Marksman"],
+    "roles": [
+      "Marksman"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Lightwheel",
     "short_description": "A marksman who deals true damage with her skill-enhanced basic attacks.",
@@ -1563,14 +2609,25 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/098_karrie/iconimage.png",
     "sound": "../assets/sounds/098_karrie/song.mp3",
-    "tags": ["true damage", "tank killer"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Demon Hunter Sword", "Golden Staff"]
+    "tags": [
+      "true damage",
+      "tank killer"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Demon Hunter Sword",
+      "Golden Staff"
+    ]
   },
   {
     "id": 99,
     "name": "Roger",
-    "roles": ["Fighter", "Assassin"],
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Wolf",
     "short_description": "A werewolf who transforms between human and wolf forms, gaining different abilities.",
@@ -1579,14 +2636,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/099_roger/iconimage.png",
     "sound": "../assets/sounds/099_roger/song.mp3",
-    "tags": ["transformation", "hybrid"],
-    "preferred_lane": ["Jungle", "EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "transformation",
+      "hybrid"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 100,
     "name": "Diggie",
-    "roles": ["Support", "Mage"],
+    "roles": [
+      "Support",
+      "Mage"
+    ],
     "primary_role": "Support",
     "nickname": "The Clockwork Owl",
     "short_description": "A mechanical owl who protects allies from crowd control and lays time bombs.",
@@ -1595,14 +2664,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/100_diggie/iconimage.png",
     "sound": "../assets/sounds/100_diggie/song.mp3",
-    "tags": ["anti-cc", "bomb"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "tags": [
+      "anti-cc",
+      "bomb"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 101,
     "name": "Estes",
-    "roles": ["Support"],
+    "roles": [
+      "Support"
+    ],
     "primary_role": "Support",
     "nickname": "The Moon Elf King",
     "short_description": "An elf king who heals multiple allies at once, keeping his team alive.",
@@ -1611,14 +2690,24 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/101_estes/iconimage.png",
     "sound": "../assets/sounds/101_estes/song.mp3",
-    "tags": ["heal", "aura"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Courage Mask"]
+    "tags": [
+      "heal",
+      "aura"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Courage Mask"
+    ]
   },
   {
     "id": 102,
     "name": "Belerick",
-    "roles": ["Tank"],
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
     "nickname": "The Vine King",
     "short_description": "A treant who links to allies, sharing damage and taunting enemies.",
@@ -1627,14 +2716,25 @@
     "difficulty": "easy",
     "image": "../assets/images/heroes/102_belerick/iconimage.png",
     "sound": "../assets/sounds/102_belerick/song.mp3",
-    "tags": ["damage share", "taunt"],
-    "preferred_lane": ["Roam", "EXP Lane"],
-    "signature_items": ["Cursed Helmet", "Athena's Shield"]
+    "tags": [
+      "damage share",
+      "taunt"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 103,
     "name": "Badang",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Fist of Ruin",
     "short_description": "A martial artist who creates walls and unleashes rapid punches.",
@@ -1643,14 +2743,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/103_badang/iconimage.png",
     "sound": "../assets/sounds/103_badang/song.mp3",
-    "tags": ["wall", "crowd control"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "wall",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 104,
     "name": "Lapu-Lapu",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Brave",
     "short_description": "A warrior who wields two swords and can transform into a giant chicken.",
@@ -1659,14 +2769,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/104_lapulapu/iconimage.png",
     "sound": "../assets/sounds/104_lapulapu/song.mp3",
-    "tags": ["dual form", "area damage"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "War Axe"]
+    "tags": [
+      "dual form",
+      "area damage"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "War Axe"
+    ]
   },
   {
     "id": 105,
     "name": "Jawhead",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Junk Robot",
     "short_description": "A scrap robot who throws allies or enemies and locks onto targets with missiles.",
@@ -1675,14 +2795,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/105_jawhead/iconimage.png",
     "sound": "../assets/sounds/105_jawhead/song.mp3",
-    "tags": ["throw", "lock on"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Blade of Despair", "War Axe"]
+    "tags": [
+      "throw",
+      "lock on"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "War Axe"
+    ]
   },
   {
     "id": 106,
     "name": "Guinevere",
-    "roles": ["Fighter", "Mage"],
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Fairy Knight",
     "short_description": "A magical knight who leaps into the air and slams down, knocking up enemies.",
@@ -1691,14 +2823,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/106_guinevere/iconimage.png",
     "sound": "../assets/sounds/106_guinevere/song.mp3",
-    "tags": ["knock up", "burst"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "knock up",
+      "burst"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 107,
     "name": "Dyrroth",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Abyssal Prince",
     "short_description": "A demon prince who marks enemies and gains bonus damage when attacking marked foes.",
@@ -1707,14 +2849,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/107_dyrroth/iconimage.png",
     "sound": "../assets/sounds/107_dyrroth/song.mp3",
-    "tags": ["mark", "armor reduction"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["Blade of Despair", "War Axe"]
+    "tags": [
+      "mark",
+      "armor reduction"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "War Axe"
+    ]
   },
   {
     "id": 108,
     "name": "Minsitthar",
-    "roles": ["Fighter", "Tank"],
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
     "primary_role": "Fighter",
     "nickname": "The King of Light",
     "short_description": "A king who throws spears and creates a zone that prevents dashes.",
@@ -1723,14 +2877,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/108_minsitthar/iconimage.png",
     "sound": "../assets/sounds/108_minsitthar/song.mp3",
-    "tags": ["anti-dash", "crowd control"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Blade of Despair", "Athena's Shield"]
+    "tags": [
+      "anti-dash",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 109,
     "name": "Silvanna",
-    "roles": ["Fighter", "Mage"],
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Light's Nemesis",
     "short_description": "A princess who wields a lance and creates a circular arena, trapping enemies.",
@@ -1739,318 +2905,532 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/109_silvanna/iconimage.png",
     "sound": "../assets/sounds/109_silvanna/song.mp3",
-    "tags": ["trap", "burst"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "tags": [
+      "trap",
+      "burst"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 110,
-    "name": "Khaleed",
-    "roles": ["Fighter"],
-    "primary_role": "Fighter",
-    "nickname": "The Desert Scimitar",
-    "short_description": "A desert warrior who heals from sand and charges across the battlefield.",
-    "lore": "Khaleed is a nomadic swordsman, his blade swift as the desert wind. He protects the oases from invaders.",
-    "release_date": "2025-03-26",
-    "difficulty": "easy",
-    "image": "../assets/images/heroes/110_khaleed/iconimage.png",
-    "sound": "../assets/sounds/110_khaleed/song.mp3",
-    "tags": ["sustain", "mobility"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Queen's Wings"]
+    "name": "Baxia",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank",
+    "nickname": "The Guardian Tortoise",
+    "short_description": "A shield-bearing warrior who reflects damage and spins through enemies.",
+    "lore": "Baxia is an ancient guardian of the Eastern lands. His massive shield and resilient shell make him an immovable force in battle.",
+    "release_date": "2019-11-13",
+    "difficulty": "medium",
+    "image": "../assets/images/heroes/110_baxia/iconimage.png",
+    "sound": "../assets/sounds/110_baxia/song.mp3",
+    "tags": [
+      "reflect",
+      "crowd control"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Cursed Helmet",
+      "Blade Armor"
+    ]
   },
   {
     "id": 111,
-    "name": "Yve",
-    "roles": ["Mage"],
+    "name": "Cecilion",
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
-    "nickname": "The Astronomer",
-    "short_description": "An alien who projects a starry domain, slowing and damaging enemies inside.",
-    "lore": "Yve travels the cosmos, recording the birth and death of stars. She now studies the Land of Dawn, her power cosmic.",
-    "release_date": "2025-04-23",
+    "nickname": "The Blood Demon",
+    "short_description": "A vampire who gains infinite mana and rains bats upon his enemies.",
+    "lore": "Cecilion, the lord of vampires, seeks to expand his undead dominion. His bat swarm grows stronger with every cast.",
+    "release_date": "2020-05-06",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/111_yve/iconimage.png",
-    "sound": "../assets/sounds/111_yve/song.mp3",
-    "tags": ["zone control", "slow"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "image": "../assets/images/heroes/111_cecilion/iconimage.png",
+    "sound": "../assets/sounds/111_cecilion/song.mp3",
+    "tags": [
+      "scaling",
+      "area damage"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Clock of Destiny",
+      "Holy Crystal"
+    ]
   },
   {
     "id": 112,
-    "name": "Phoveus",
-    "roles": ["Fighter"],
-    "primary_role": "Fighter",
-    "nickname": "The Abyssal Avenger",
-    "short_description": "A demon hunter who slams enemies with his pillar, empowered by enemy dashes.",
-    "lore": "Phoveus was once a man, now transformed by the Abyss. He hunts demons relentlessly, his pillar crushing all who flee.",
-    "release_date": "2025-05-28",
-    "difficulty": "medium",
-    "image": "../assets/images/heroes/112_phoveus/iconimage.png",
-    "sound": "../assets/sounds/112_phoveus/song.mp3",
-    "tags": ["anti-dash", "sustain"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Queen's Wings"]
+    "name": "Chang'e",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage",
+    "nickname": "The Moon Goddess",
+    "short_description": "A celestial archer who fires moonlit arrows and protects herself with a shield.",
+    "lore": "Chang'e was banished to the mortal realm but still draws power from the moon. Her arrows carry the light of the heavens.",
+    "release_date": "2018-09-12",
+    "difficulty": "easy",
+    "image": "../assets/images/heroes/112_chang_e/iconimage.png",
+    "sound": "../assets/sounds/112_chang_e/song.mp3",
+    "tags": [
+      "poke",
+      "shield"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 113,
-    "name": "Aulus",
-    "roles": ["Fighter"],
-    "primary_role": "Fighter",
-    "nickname": "The Gladiator",
-    "short_description": "A gladiator who gains attack speed and extra damage as the game progresses.",
-    "lore": "Aulus was a slave forced to fight in the arena. He earned his freedom through blood, now he fights for glory.",
-    "release_date": "2025-06-25",
-    "difficulty": "easy",
-    "image": "../assets/images/heroes/113_aulus/iconimage.png",
-    "sound": "../assets/sounds/113_aulus/song.mp3",
-    "tags": ["late game", "attack speed"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "name": "Faramis",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "primary_role": "Support",
+    "nickname": "The Necromancer",
+    "short_description": "A warlock who revives fallen allies and blasts enemies with ghostly energy.",
+    "lore": "Faramis commands the souls of the dead, binding them to his will. He seeks to reunite with his lost love beyond the grave.",
+    "release_date": "2018-12-19",
+    "difficulty": "medium",
+    "image": "../assets/images/heroes/113_faramis/iconimage.png",
+    "sound": "../assets/sounds/113_faramis/song.mp3",
+    "tags": [
+      "revive",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 114,
-    "name": "Edith",
-    "roles": ["Tank", "Marksman"],
+    "name": "Grock",
+    "roles": [
+      "Tank"
+    ],
     "primary_role": "Tank",
-    "nickname": "The Lightweaver",
-    "short_description": "A warrior who rides a mechanical dragon, switching between defensive and offensive modes.",
-    "lore": "Edith bonded with a ancient dragon spirit, now she fights to protect the weak, her dragon form devastating foes.",
-    "release_date": "2025-07-30",
-    "difficulty": "medium",
-    "image": "../assets/images/heroes/114_edith/iconimage.png",
-    "sound": "../assets/sounds/114_edith/song.mp3",
-    "tags": ["dual form", "hybrid"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["Cursed Helmet", "Blade of Despair"]
+    "nickname": "The Mountain Guardian",
+    "short_description": "A stone giant who controls walls and becomes stronger near terrain.",
+    "lore": "Grock is an ancient elemental, born from the mountains themselves. He defends his rocky home with unyielding strength.",
+    "release_date": "2017-10-18",
+    "difficulty": "easy",
+    "image": "../assets/images/heroes/114_grock/iconimage.png",
+    "sound": "../assets/sounds/114_grock/song.mp3",
+    "tags": [
+      "crowd control",
+      "terrain"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 115,
-    "name": "Valentina",
-    "roles": ["Mage"],
-    "primary_role": "Mage",
-    "nickname": "The Shapeshifter",
-    "short_description": "A mage who can copy the ultimate ability of an enemy hero.",
-    "lore": "Valentina is a mysterious sorceress, able to steal the powers of others. She seeks the ultimate magic, leaving confusion in her wake.",
-    "release_date": "2025-08-27",
-    "difficulty": "hard",
-    "image": "../assets/images/heroes/115_valentina/iconimage.png",
-    "sound": "../assets/sounds/115_valentina/song.mp3",
-    "tags": ["copy", "versatile"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "name": "Helcurt",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin",
+    "nickname": "The Silent Shadow",
+    "short_description": "A venomous assassin who silences enemies and strikes from the darkness.",
+    "lore": "Helcurt was betrayed by his own kind and now hunts those who speak. His sting brings silence and death.",
+    "release_date": "2018-03-28",
+    "difficulty": "medium",
+    "image": "../assets/images/heroes/115_helcurt/iconimage.png",
+    "sound": "../assets/sounds/115_helcurt/song.mp3",
+    "tags": [
+      "silence",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 116,
-    "name": "Aamon",
-    "roles": ["Assassin"],
-    "primary_role": "Assassin",
-    "nickname": "The Shade",
-    "short_description": "A assassin who becomes invisible and throws shards, ambushing enemies.",
-    "lore": "Aamon is the brother of Gusion, wielding the power of shadows. He manipulates from the dark, unseen until it's too late.",
-    "release_date": "2025-09-24",
-    "difficulty": "medium",
-    "image": "../assets/images/heroes/116_aamon/iconimage.png",
-    "sound": "../assets/sounds/116_aamon/song.mp3",
-    "tags": ["invisible", "burst"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "name": "Hylos",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank",
+    "nickname": "The Stag Knight",
+    "short_description": "A centaur-like guardian who uses HP to cast spells and slows enemies with his aura.",
+    "lore": "Hylos is the last of the ancient forest guardians, his antlers channeling the life force of the woods.",
+    "release_date": "2017-12-06",
+    "difficulty": "easy",
+    "image": "../assets/images/heroes/116_hylos/iconimage.png",
+    "sound": "../assets/sounds/116_hylos/song.mp3",
+    "tags": [
+      "sustain",
+      "slow"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "Clock of Destiny",
+      "Cursed Helmet"
+    ]
   },
   {
     "id": 117,
-    "name": "Melissa",
-    "roles": ["Marksman"],
-    "primary_role": "Marksman",
-    "nickname": "The Toy Collector",
-    "short_description": "A girl who controls a doll Muno, bouncing enemies away and attacking from distance.",
-    "lore": "Melissa lost her parents but found a magical doll. Together they explore the world, her scissors snipping any who threaten her.",
-    "release_date": "2025-10-29",
+    "name": "Lylia",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage",
+    "nickname": "The Gloom Walker",
+    "short_description": "A little girl who controls shadowy slugs and can rewind time to a previous position.",
+    "lore": "Lylia wandered into a cursed forest and emerged with power over shadows. She now plays with her slug friends, but they obey her commands.",
+    "release_date": "2020-01-15",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/117_melissa/iconimage.png",
-    "sound": "../assets/sounds/117_melissa/song.mp3",
-    "tags": ["zone control", "kiting"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Blade of Despair", "Scarlet Phantom"]
+    "image": "../assets/images/heroes/117_lylia/iconimage.png",
+    "sound": "../assets/sounds/117_lylia/song.mp3",
+    "tags": [
+      "area damage",
+      "time manipulation"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 118,
-    "name": "Floryn",
-    "roles": ["Support"],
-    "primary_role": "Support",
-    "nickname": "The Dream Fairy",
-    "short_description": "A fairy who heals allies globally with her ultimate and purifies crowd control.",
-    "lore": "Floryn spreads dreams and hope, her flowers blooming wherever she goes. She heals with a touch, her magic pure.",
-    "release_date": "2025-11-26",
-    "difficulty": "easy",
-    "image": "../assets/images/heroes/118_floryn/iconimage.png",
-    "sound": "../assets/sounds/118_floryn/song.mp3",
-    "tags": ["global heal", "purify"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "name": "Natalia",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin",
+    "nickname": "The Silent Assassin",
+    "short_description": "A stealthy killer who vanishes from sight and ambushes isolated targets.",
+    "lore": "Natalia was trained from childhood to be the perfect blade in the dark. She serves no master, only the thrill of the hunt.",
+    "release_date": "2017-04-26",
+    "difficulty": "medium",
+    "image": "../assets/images/heroes/118_natalia/iconimage.png",
+    "sound": "../assets/sounds/118_natalia/song.mp3",
+    "tags": [
+      "stealth",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Jungle",
+      "Roam"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Hunter Strike"
+    ]
   },
   {
     "id": 119,
-    "name": "Julian",
-    "roles": ["Fighter", "Mage"],
-    "primary_role": "Fighter",
-    "nickname": "The Prodigy",
-    "short_description": "A young mage whose skills evolve as he casts, with multiple enhanced abilities.",
-    "lore": "Julian is a child genius, mastering magic at a young age. He fights to prove himself, his spells ever-changing.",
-    "release_date": "2025-12-17",
-    "difficulty": "hard",
-    "image": "../assets/images/heroes/119_julian/iconimage.png",
-    "sound": "../assets/sounds/119_julian/song.mp3",
-    "tags": ["evolution", "versatile"],
-    "preferred_lane": ["EXP Lane", "Mid Lane"],
-    "signature_items": ["War Axe", "Holy Crystal"]
+    "name": "Odette",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage",
+    "nickname": "The Swan Princess",
+    "short_description": "A graceful princess who dances through enemies, dealing continuous magic damage.",
+    "lore": "Odette was cursed to live as a swan by day, but at night she dances with haunting beauty, charming all who watch.",
+    "release_date": "2017-06-21",
+    "difficulty": "easy",
+    "image": "../assets/images/heroes/119_odette/iconimage.png",
+    "sound": "../assets/sounds/119_odette/song.mp3",
+    "tags": [
+      "area damage",
+      "dance"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Lightning Truncheon"
+    ]
   },
   {
     "id": 120,
-    "name": "Xavier",
-    "roles": ["Mage"],
+    "name": "Pharsa",
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
-    "nickname": "The Reality Seer",
-    "short_description": "A mage who manipulates dimensions, extending his skills' range and trapping enemies.",
-    "lore": "Xavier can see across dimensions, manipulating space to his will. He seeks to understand the universe, one battle at a time.",
-    "release_date": "2026-01-21",
+    "nickname": "The Wings of Vengeance",
+    "short_description": "A winged sorceress who bombards enemies from afar and can transform into a bird.",
+    "lore": "Pharsa was once a celestial guardian, now fallen. She watches over the land from above, striking those who threaten peace.",
+    "release_date": "2018-06-13",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/120_xavier/iconimage.png",
-    "sound": "../assets/sounds/120_xavier/song.mp3",
-    "tags": ["poke", "zone control"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "image": "../assets/images/heroes/120_pharsa/iconimage.png",
+    "sound": "../assets/sounds/120_pharsa/song.mp3",
+    "tags": [
+      "long range",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 121,
-    "name": "Fredrinn",
-    "roles": ["Tank", "Fighter"],
-    "primary_role": "Tank",
-    "nickname": "The Crystalline",
-    "short_description": "A crystal-armored warrior who stores damage and unleashes it in devastating combos.",
-    "lore": "Fredrinn is a guardian of the crystal mines, his body fused with gems. He endures all to protect his home.",
-    "release_date": "2026-02-18",
+    "name": "Popol & Kupa",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman",
+    "nickname": "The Boy and His Dog",
+    "short_description": "A young trapper fights alongside his faithful wolf, setting traps and barking orders.",
+    "lore": "Popol lost his parents in the northern wastes but found a loyal wolf pup, Kupa. Together they survive and protect travelers.",
+    "release_date": "2019-07-17",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/121_fredrinn/iconimage.png",
-    "sound": "../assets/sounds/121_fredrinn/song.mp3",
-    "tags": ["damage storage", "crowd control"],
-    "preferred_lane": ["EXP Lane", "Roam"],
-    "signature_items": ["War Axe", "Cursed Helmet"]
+    "image": "../assets/images/heroes/121_popol_kupa/iconimage.png",
+    "sound": "../assets/sounds/121_popol_kupa/song.mp3",
+    "tags": [
+      "traps",
+      "pet"
+    ],
+    "preferred_lane": [
+      "Gold Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Windtalker"
+    ]
   },
   {
     "id": 122,
-    "name": "Joy",
-    "roles": ["Assassin"],
-    "primary_role": "Assassin",
-    "nickname": "The Rhapsody",
-    "short_description": "A rhythmic assassin who dashes to the beat, dealing more damage with perfect timing.",
-    "lore": "Joy dances through battle, her movements a deadly rhythm. She brings chaos and music wherever she goes.",
-    "release_date": "2026-03-18",
-    "difficulty": "hard",
-    "image": "../assets/images/heroes/122_joy/iconimage.png",
-    "sound": "../assets/sounds/122_joy/song.mp3",
-    "tags": ["rhythm", "mobility"],
-    "preferred_lane": ["Jungle", "Mid Lane"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "name": "Sora",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "primary_role": "Fighter",
+    "nickname": "The Sky Breaker",
+    "short_description": "A nimble warrior who uses wind to launch himself into the air and dive onto enemies.",
+    "lore": "Sora trained under the winds of the Eastern Highlands, learning to move like a gale. He now fights to unite the scattered clans.",
+    "release_date": "2024-05-22",
+    "difficulty": "medium",
+    "image": "../assets/images/heroes/122_sora/iconimage.png",
+    "sound": "../assets/sounds/122_sora/song.mp3",
+    "tags": [
+      "mobility",
+      "dive"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Endless Battle"
+    ]
   },
   {
     "id": 123,
-    "name": "Arlott",
-    "roles": ["Fighter"],
+    "name": "Suyou",
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
-    "nickname": "The Spire's Light",
-    "short_description": "A holy warrior who marks enemies and dashes to them, dealing enhanced damage.",
-    "lore": "Arlott was a fallen priest, redeemed by light. He now hunts demons, his spear guided by faith.",
-    "release_date": "2026-04-15",
-    "difficulty": "medium",
-    "image": "../assets/images/heroes/123_arlott/iconimage.png",
-    "sound": "../assets/sounds/123_arlott/song.mp3",
-    "tags": ["mark", "dash"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["Blade of Despair", "Endless Battle"]
+    "nickname": "The Water Serpent",
+    "short_description": "A fluid fighter who flows like water, striking multiple times with his twin blades.",
+    "lore": "Suyou is a master of the hidden water style, his movements unpredictable as a river. He defends the coastal villages from pirates.",
+    "release_date": "2024-08-14",
+    "difficulty": "hard",
+    "image": "../assets/images/heroes/123_suyou/iconimage.png",
+    "sound": "../assets/sounds/123_suyou/song.mp3",
+    "tags": [
+      "combo",
+      "mobility"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 124,
-    "name": "Ixia",
-    "roles": ["Marksman"],
-    "primary_role": "Marksman",
-    "nickname": "The Star Spark",
-    "short_description": "A marksman who fires energy blasts that explode on hit, scaling with attack speed.",
-    "lore": "Ixia harnesses star energy, her blasts illuminating the battlefield. She fights for cosmic balance.",
-    "release_date": "2026-05-13",
-    "difficulty": "medium",
-    "image": "../assets/images/heroes/124_ixia/iconimage.png",
-    "sound": "../assets/sounds/124_ixia/song.mp3",
-    "tags": ["area damage", "attack speed"],
-    "preferred_lane": ["Gold Lane"],
-    "signature_items": ["Scarlet Phantom", "Berserker's Fury"]
+    "name": "Tigreal",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank",
+    "nickname": "The Bulwark",
+    "short_description": "A noble knight who charges into battle, pushing enemies and setting up devastating setups.",
+    "lore": "Tigreal is the captain of the Moniyan Guard, unwavering in his duty. He leads from the front, shield raised high.",
+    "release_date": "2016-08-09",
+    "difficulty": "easy",
+    "image": "../assets/images/heroes/124_tigreal/iconimage.png",
+    "sound": "../assets/sounds/124_tigreal/song.mp3",
+    "tags": [
+      "crowd control",
+      "initiator"
+    ],
+    "preferred_lane": [
+      "Roam"
+    ],
+    "signature_items": [
+      "Courage Mask",
+      "Athena's Shield"
+    ]
   },
   {
     "id": 125,
-    "name": "Novaria",
-    "roles": ["Mage"],
-    "primary_role": "Mage",
-    "nickname": "The Astrologer",
-    "short_description": "A mage who projects a star that reveals enemies and fires long-range beams.",
-    "lore": "Novaria reads the stars, predicting fate. She manipulates celestial energy to control the battlefield.",
-    "release_date": "2026-06-10",
+    "name": "Yi Sun-shin",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "primary_role": "Marksman",
+    "nickname": "The Turtle Ship Commander",
+    "short_description": "A naval commander who fires cannonballs from his turtle ship and can stealth to ambush.",
+    "lore": "Yi Sun-shin defends the seas with his legendary turtle ship. His cannons bombard enemies from unexpected angles.",
+    "release_date": "2017-09-06",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/125_novaria/iconimage.png",
-    "sound": "../assets/sounds/125_novaria/song.mp3",
-    "tags": ["vision", "poke"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "image": "../assets/images/heroes/125_yi_sun_shin/iconimage.png",
+    "sound": "../assets/sounds/125_yi_sun_shin/song.mp3",
+    "tags": [
+      "burst",
+      "stealth"
+    ],
+    "preferred_lane": [
+      "Gold Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Berserker's Fury"
+    ]
   },
   {
     "id": 126,
-    "name": "Chip",
-    "roles": ["Tank", "Support"],
-    "primary_role": "Tank",
-    "nickname": "The Portal Master",
-    "short_description": "A robotic squirrel who creates portals for allies to teleport across the map.",
-    "lore": "Chip is a curious bot, tinkering with space-time. He helps his team move as one, always exploring.",
-    "release_date": "2026-07-08",
+    "name": "Yu Zhong",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter",
+    "nickname": "The Black Dragon",
+    "short_description": "A fearsome warlord who transforms into a dragon, spewing shadow fire.",
+    "lore": "Yu Zhong seeks to revive the Black Dragon and claim the Land of Dawn. His fists carry the fury of a beast.",
+    "release_date": "2020-10-14",
     "difficulty": "medium",
-    "image": "../assets/images/heroes/126_chip/iconimage.png",
-    "sound": "../assets/sounds/126_chip/song.mp3",
-    "tags": ["global", "portal"],
-    "preferred_lane": ["Roam"],
-    "signature_items": ["Courage Mask", "Athena's Shield"]
+    "image": "../assets/images/heroes/126_yu_zhong/iconimage.png",
+    "sound": "../assets/sounds/126_yu_zhong/song.mp3",
+    "tags": [
+      "sustain",
+      "transformation"
+    ],
+    "preferred_lane": [
+      "EXP Lane"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Queen's Wings"
+    ]
   },
   {
     "id": 127,
-    "name": "Cici",
-    "roles": ["Fighter"],
-    "primary_role": "Fighter",
-    "nickname": "The Party Popper",
-    "short_description": "A cheerful girl who throws party bombs and dances around enemies.",
-    "lore": "Cici brings joy wherever she goes, but her party bombs pack a punch. She fights to spread happiness.",
-    "release_date": "2026-08-05",
-    "difficulty": "easy",
-    "image": "../assets/images/heroes/127_cici/iconimage.png",
-    "sound": "../assets/sounds/127_cici/song.mp3",
-    "tags": ["area damage", "mobile"],
-    "preferred_lane": ["EXP Lane"],
-    "signature_items": ["War Axe", "Blade of Despair"]
+    "name": "Zetian",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage",
+    "nickname": "The Celestial Empress",
+    "short_description": "A divine empress who commands the heavens, raining down stars and summoning celestial guards.",
+    "lore": "Zetian rules the celestial realm with grace and power. She descends to the mortal world to restore balance, her will enforced by heavenly light.",
+    "release_date": "2025-02-19",
+    "difficulty": "hard",
+    "image": "../assets/images/heroes/127_zetian/iconimage.png",
+    "sound": "../assets/sounds/127_zetian/song.mp3",
+    "tags": [
+      "area damage",
+      "summon"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Blood Wings"
+    ]
   },
   {
     "id": 128,
-    "name": "Nolan",
-    "roles": ["Assassin"],
-    "primary_role": "Assassin",
-    "nickname": "The Time Warden",
-    "short_description": "An assassin who manipulates time, leaving afterimages and rewinding damage.",
-    "lore": "Nolan was a guardian of time, now broken. He seeks to fix the timeline, one kill at a time.",
-    "release_date": "2026-09-02",
-    "difficulty": "hard",
-    "image": "../assets/images/heroes/128_nolan/iconimage.png",
-    "sound": "../assets/sounds/128_nolan/song.mp3",
-    "tags": ["time manipulation", "burst"],
-    "preferred_lane": ["Jungle"],
-    "signature_items": ["Blade of Despair", "Hunter Strike"]
+    "name": "Zhuxin",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage",
+    "nickname": "The Lantern Spirit",
+    "short_description": "A mysterious spirit who controls floating lanterns that drain life and reveal foes.",
+    "lore": "Zhuxin was once a mortal who merged with a spirit lantern. Now she wanders, guiding lost souls with her flickering lights.",
+    "release_date": "2025-06-25",
+    "difficulty": "medium",
+    "image": "../assets/images/heroes/128_zhuxin/iconimage.png",
+    "sound": "../assets/sounds/128_zhuxin/song.mp3",
+    "tags": [
+      "vision",
+      "drain"
+    ],
+    "preferred_lane": [
+      "Mid Lane",
+      "Roam"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 129,
     "name": "Marcel",
-    "roles": ["Support"],
+    "roles": [
+      "Support"
+    ],
     "primary_role": "Support",
     "nickname": "The Time Weaver",
     "short_description": "A mysterious figure who manipulates time to aid allies and hinder foes.",
@@ -2059,14 +3439,25 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/129_marcel/iconimage.png",
     "sound": "../assets/sounds/129_marcel/song.mp3",
-    "tags": ["time", "utility"],
-    "preferred_lane": ["Roam", "Mid Lane"],
-    "signature_items": ["Fleeting Time", "Necklace of Durance"]
+    "tags": [
+      "time",
+      "utility"
+    ],
+    "preferred_lane": [
+      "Roam",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Fleeting Time",
+      "Necklace of Durance"
+    ]
   },
   {
     "id": 130,
     "name": "Obsidia",
-    "roles": ["Mage"],
+    "roles": [
+      "Mage"
+    ],
     "primary_role": "Mage",
     "nickname": "The Void Gazer",
     "short_description": "A being from the void who erases enemies from existence with dark energy.",
@@ -2075,14 +3466,24 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/130_obsidia/iconimage.png",
     "sound": "../assets/sounds/130_obsidia/song.mp3",
-    "tags": ["void", "burst"],
-    "preferred_lane": ["Mid Lane"],
-    "signature_items": ["Holy Crystal", "Genius Wand"]
+    "tags": [
+      "void",
+      "burst"
+    ],
+    "preferred_lane": [
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Holy Crystal",
+      "Genius Wand"
+    ]
   },
   {
     "id": 131,
     "name": "Lukas",
-    "roles": ["Fighter"],
+    "roles": [
+      "Fighter"
+    ],
     "primary_role": "Fighter",
     "nickname": "The Feral",
     "short_description": "A beastmaster who fights alongside his wolf, gaining strength as they hunt together.",
@@ -2091,14 +3492,26 @@
     "difficulty": "medium",
     "image": "../assets/images/heroes/131_lukas/iconimage.png",
     "sound": "../assets/sounds/131_lukas/song.mp3",
-    "tags": ["beast", "hunt"],
-    "preferred_lane": ["EXP Lane", "Jungle"],
-    "signature_items": ["War Axe", "Blade of Despair"]
+    "tags": [
+      "beast",
+      "hunt"
+    ],
+    "preferred_lane": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "signature_items": [
+      "War Axe",
+      "Blade of Despair"
+    ]
   },
   {
     "id": 132,
     "name": "Kalea",
-    "roles": ["Marksman", "Mage"],
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
     "primary_role": "Marksman",
     "nickname": "The Prismatic",
     "short_description": "A crystal archer who fires piercing beams that change color and effect.",
@@ -2107,8 +3520,17 @@
     "difficulty": "hard",
     "image": "../assets/images/heroes/132_kalea/iconimage.png",
     "sound": "../assets/sounds/132_kalea/song.mp3",
-    "tags": ["prismatic", "versatile"],
-    "preferred_lane": ["Gold Lane", "Mid Lane"],
-    "signature_items": ["Blade of Despair", "Holy Crystal"]
+    "tags": [
+      "prismatic",
+      "versatile"
+    ],
+    "preferred_lane": [
+      "Gold Lane",
+      "Mid Lane"
+    ],
+    "signature_items": [
+      "Blade of Despair",
+      "Holy Crystal"
+    ]
   }
 ]

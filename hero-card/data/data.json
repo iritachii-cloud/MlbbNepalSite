@@ -3689,60 +3689,60 @@
     },
     {
         "id": 66,
-        "name": "Yve",
-        "nickname": "The Astronomer",
-        "icon": "../assets/images/heroes/066_yve/icon.png",
+        "name": "Alpha",
+        "nickname": "The Armored Warrior",
+        "icon": "../assets/images/heroes/066_alpha/icon.png",
         "images": {
-            "real": "../assets/images/heroes/066_yve/real.png",
-            "animated": "../assets/images/heroes/066_yve/animated.png",
-            "nineties": "../assets/images/heroes/066_yve/90s.png",
+            "real": "../assets/images/heroes/066_alpha/real.png",
+            "animated": "../assets/images/heroes/066_alpha/animated.png",
+            "nineties": "../assets/images/heroes/066_alpha/90s.png",
             "gallery": [
-                "../assets/images/heroes/066_yve/gallery1.png",
-                "../assets/images/heroes/066_yve/gallery2.png",
-                "../assets/images/heroes/066_yve/gallery3.png",
-                "../assets/images/heroes/066_yve/gallery4.png"
+                "../assets/images/heroes/066_alpha/gallery1.png",
+                "../assets/images/heroes/066_alpha/gallery2.png",
+                "../assets/images/heroes/066_alpha/gallery3.png",
+                "../assets/images/heroes/066_alpha/gallery4.png"
             ]
         },
         "rating": 8.2,
-        "lore": "(Note: This is a duplicate ID in the original list. We will provide a slightly different lore to maintain uniqueness.) Yve was the last survivor of a cosmic observatory that drifted through space for generations, her ancestors having fled a dying universe. She was born in zero gravity, her bones light, her eyes adjusted to the eternal dark. Her people studied the remnants of creation, cataloging the death of stars and the birth of nebulae, preserving knowledge that would otherwise be lost. When their observatory finally ran out of power, Yve was the only one small enough to fit into the escape pod. She was launched toward the nearest habitable planet—the Land of Dawn—while her family and friends drifted into the void. Now she walks on solid ground for the first time, her body heavy, her mind still orbiting the stars. Her ultimate creates a starry domain that damages and slows enemies—a piece of her home, projected onto this alien world. Yve is fascinated by everything: the feel of grass, the sound of wind, the chaos of battle. She records it all in a cosmic log, hoping one day to transmit it back to the void, to let her people know that their sacrifice was not in vain. In quiet moments, she gazes at the night sky, searching for the constellation that marks the observatory's last known position. She knows they are gone, but she speaks to them anyway, telling them about the wonders of this new world. Yve fights not out of anger or ambition, but out of duty—to preserve, to remember, to honor. She is the last astronomer, and she will not let the lights go out.",
-        "famousFor": "Her starry domain that controls areas.",
+        "lore": "Alpha was once a human soldier, a captain in the army of the Eruditio Empire, until a catastrophic experiment fused him with a sentient AI blade named Beta. Now he is a cyborg warrior, his body augmented with advanced technology, his mind intertwined with an artificial consciousness. Beta speaks to him constantly, a voice in his head that offers tactical advice, philosophical musings, and the occasional sarcastic remark. Together, they wander the Land of Dawn, seeking to understand what it means to be human when half of you is machine. Alpha wields Beta as a floating sword that attacks independently, and his ultimate unleashes a barrage of energy blades that chase down enemies. He is a man caught between two worlds, searching for identity in a sea of steel and circuitry.",
+        "famousFor": "His ability to sustain in fights and command a flying sword.",
         "abilities": [
             {
-                "name": "Star Power",
-                "description": "Yve fires a star that damages and slows enemies."
+                "name": "Beta, Advance!",
+                "description": "Alpha commands Beta to dash forward, damaging enemies along the path and marking them."
             },
             {
-                "name": "Celestial Intervention",
-                "description": "She creates a zone that slows enemies and grants vision."
+                "name": "Beta, Strike!",
+                "description": "Beta spins around Alpha, damaging nearby enemies and healing Alpha for each hit."
             },
             {
-                "name": "Astral Projection",
-                "description": "Passively, her skills deal extra damage. Active: She gains movement speed."
+                "name": "Force Swing",
+                "description": "Alpha swings his arm blade, damaging enemies in a cone and slowing them."
             }
         ],
         "stats": {
-            "attack": 20,
-            "defense": 45,
-            "movement": 60,
-            "attackSpeed": 35
+            "attack": 85,
+            "defense": 70,
+            "movement": 65,
+            "attackSpeed": 60
         },
-        "ultimate": "Yve creates a massive starry domain that continuously damages and slows enemies. She can reposition the domain.",
+        "ultimate": "Alpha unleashes a series of energy blades that chase nearby enemies, each dealing physical damage. If the target is marked, the blades deal bonus true damage.",
         "attire": [
-            "Astronomer's robes with star patterns",
-            "Crystal tiara",
-            "Cosmic orb",
-            "Floating boots"
+            "Cybernetic armor with blue glow",
+            "Reinforced shoulder pads",
+            "Metal gauntlets",
+            "Combat boots"
         ],
         "physicalAppearance": [
-            "Long silver-blue hair",
-            "Eyes that look like galaxies",
-            "Pale, luminous skin",
-            "Tall, ethereal figure"
+            "Short brown hair",
+            "One organic eye, one cybernetic red eye",
+            "Pale skin with metallic implants",
+            "Tall, muscular build"
         ],
-        "weapon": "Star Compass (controls cosmic energy)",
+        "weapon": "Beta (a floating energy blade)",
         "mount": null,
-        "aura": "Tiny stars twinkle around her.",
-        "personality": "Curious, detached, and fascinated by all life. She observes more than she participates."
+        "aura": "A faint hum of machinery and a blue energy trail.",
+        "personality": "Stoic, introspective, and occasionally conflicted. He debates with Beta about the nature of existence."
     },
     {
         "id": 67,
@@ -6179,1082 +6179,1084 @@
     },
     {
         "id": 110,
-        "name": "Khaleed",
-        "nickname": "The Desert Scimitar",
-        "icon": "../assets/images/heroes/110_khaleed/icon.png",
+        "name": "Baxia",
+        "nickname": "The Guardian Tortoise",
+        "icon": "../assets/images/heroes/110_baxia/icon.png",
         "images": {
-            "real": "../assets/images/heroes/110_khaleed/real.png",
-            "animated": "../assets/images/heroes/110_khaleed/animated.png",
-            "nineties": "../assets/images/heroes/110_khaleed/90s.png",
+            "real": "../assets/images/heroes/110_baxia/real.png",
+            "animated": "../assets/images/heroes/110_baxia/animated.png",
+            "nineties": "../assets/images/heroes/110_baxia/90s.png",
             "gallery": [
-                "../assets/images/heroes/110_khaleed/gallery1.png",
-                "../assets/images/heroes/110_khaleed/gallery2.png",
-                "../assets/images/heroes/110_khaleed/gallery3.png",
-                "../assets/images/heroes/110_khaleed/gallery4.png"
+                "../assets/images/heroes/110_baxia/gallery1.png",
+                "../assets/images/heroes/110_baxia/gallery2.png",
+                "../assets/images/heroes/110_baxia/gallery3.png",
+                "../assets/images/heroes/110_baxia/gallery4.png"
             ]
         },
-        "rating": 7.7,
-        "lore": "(Note: Duplicate ID in original list. We'll provide a unique variant.) Khaleed was a wanderer of the Great Sand Sea, a man who had no tribe, no family, no past. He appeared one day at an oasis, fully grown, speaking a language no one recognized, carrying a scimitar that seemed to hum with ancient power. The elders believed he was a spirit of the desert, sent to protect the oases from those who would poison them. Khaleed himself did not know who he was—his memories were a blur of sand and wind, fragments of a life before. He wandered with the dunes, helping travelers find water, fighting off bandits, disappearing when his work was done. He discovered that he could control the sand, shaping it into shields and weapons, and that the desert itself seemed to speak to him, guiding his steps. His ultimate charges forward on a wave of sand, damaging and knocking up enemies—a ride across the dunes that are his only home. Khaleed is mysterious and solitary, his face hidden behind a scarf, his eyes the only clue to his emotions. He keeps a journal of his travels, written in a script no one can read, hoping that one day he will find someone who understands. In battle, he is a whirlwind of sand and steel, his scimitar flashing, his sandstorms blinding enemies. But in quiet moments, he sits on a dune, watching the stars, feeling the desert's pulse, waiting for a memory to surface. Khaleed dreams of discovering who he was, of finding a place to belong. Until then, he wanders, a desert scimitar in a world of shifting sands.",
-        "famousFor": "His sand healing and charge.",
+        "rating": 7.9,
+        "lore": "Baxia is an ancient guardian of the Eastern lands, a being whose shell has withstood the test of millennia. He was once a giant tortoise that roamed the primordial seas, but the gods blessed him with humanoid form and a sacred shield to defend the weak. His shell reflects damage, and his spinning charge can scatter entire armies. For centuries, he slept beneath a mountain, waiting for the call to protect his homeland. Now that call has come, and Baxia rises, his movements slow but inexorable, his shield an unbreakable promise. He carries the weight of history on his back, and every enemy that strikes him learns the cost of violence.",
+        "famousFor": "His spinning charge and damage reflection.",
         "abilities": [
             {
-                "name": "Sand Sword",
-                "description": "Khaleed slashes, damaging enemies."
+                "name": "Shield of Faith",
+                "description": "Baxia raises his shield, reflecting a portion of incoming damage back at attackers."
             },
             {
-                "name": "Desert Storm",
-                "description": "He spins, damaging enemies and healing."
+                "name": "Tortoise Sprint",
+                "description": "He curls into his shell and spins forward, damaging enemies and leaving a trail of slowing energy."
             },
             {
-                "name": "Quicksand",
-                "description": "He creates a sand zone that slows enemies and heals him."
+                "name": "Sacred Strike",
+                "description": "Baxia slams his shield, damaging and stunning enemies in an area."
             }
         ],
         "stats": {
-            "attack": 80,
-            "defense": 70,
-            "movement": 75,
-            "attackSpeed": 65
+            "attack": 45,
+            "defense": 95,
+            "movement": 50,
+            "attackSpeed": 25
         },
-        "ultimate": "Khaleed charges forward on a sand wave, damaging and knocking up enemies in his path.",
+        "ultimate": "Baxia spins rapidly in place, pulling enemies toward him and dealing continuous damage. While spinning, he gains massive damage reduction.",
         "attire": [
-            "Desert nomad robes",
-            "Turban",
-            "Scimitar sheath",
-            "Sandals"
+            "Tortoise-shell armor",
+            "Golden shoulder plates",
+            "Iron gauntlets",
+            "Heavy sandals"
         ],
         "physicalAppearance": [
-            "Short black hair",
-            "Brown eyes",
-            "Tanned skin",
-            "Lean, agile build"
+            "Wrinkled, ancient face",
+            "Long white beard",
+            "Hunched but sturdy frame",
+            "Eyes that hold the wisdom of ages"
         ],
-        "weapon": "Desert Scimitar",
+        "weapon": "Aegis Shield (a massive turtle-shell shield)",
         "mount": null,
-        "aura": "Sand particles swirl around him.",
-        "personality": "Honorable, free-spirited, and protective. He values freedom above all."
+        "aura": "A faint shimmer of protective energy.",
+        "personality": "Patient, wise, and protective. He speaks in proverbs and moves with deliberate calm."
     },
     {
         "id": 111,
-        "name": "Yve",
-        "nickname": "The Astronomer",
-        "icon": "../assets/images/heroes/111_yve/icon.png",
+        "name": "Cecilion",
+        "nickname": "The Blood Demon",
+        "icon": "../assets/images/heroes/111_cecilion/icon.png",
         "images": {
-            "real": "../assets/images/heroes/111_yve/real.png",
-            "animated": "../assets/images/heroes/111_yve/animated.png",
-            "nineties": "../assets/images/heroes/111_yve/90s.png",
+            "real": "../assets/images/heroes/111_cecilion/real.png",
+            "animated": "../assets/images/heroes/111_cecilion/animated.png",
+            "nineties": "../assets/images/heroes/111_cecilion/90s.png",
             "gallery": [
-                "../assets/images/heroes/111_yve/gallery1.png",
-                "../assets/images/heroes/111_yve/gallery2.png",
-                "../assets/images/heroes/111_yve/gallery3.png",
-                "../assets/images/heroes/111_yve/gallery4.png"
+                "../assets/images/heroes/111_cecilion/gallery1.png",
+                "../assets/images/heroes/111_cecilion/gallery2.png",
+                "../assets/images/heroes/111_cecilion/gallery3.png",
+                "../assets/images/heroes/111_cecilion/gallery4.png"
             ]
         },
-        "rating": 8.2,
-        "lore": "Yve was the last child born on the Cosmic Observatory, a generation ship that had drifted between galaxies for so long that its inhabitants had forgotten the feel of soil. Her people studied the stars not as astronomers, but as archivists of a dying universe, recording every supernova, every black hole, every flicker of light that might one day be the last. Yve was different—she didn't just observe; she felt the stars, their births and deaths echoing in her bones. When the observatory finally ran out of power, the elders chose Yve to be the sole survivor, launching her in an escape pod toward the nearest inhabited world. She watched from her tiny capsule as the observatory went dark, its lights winking out one by one, taking her family, her friends, her entire civilization with it. She landed on the Land of Dawn with nothing but her star charts and a grief so profound it threatened to consume her. But the stars had not abandoned her—they had given her a gift, the ability to project celestial energy, to create fields of starlight that damaged and slowed her enemies. Now Yve walks among beings who have never seen the stars she loves, who take sunlight for granted, who have no idea that every ray of light is a memory of something dead. She fights not for vengeance, but for preservation—to ensure that this world, with all its flawed, beautiful life, does not suffer the same fate as hers. In battle, she is calm and detached, her starry domain a piece of her home projected onto alien soil. But at night, she climbs the highest peak and gazes upward, speaking to the constellations that no one else can see, telling them about the strange creatures she has met, the battles she has fought, the hope she still carries. Yve knows that she will never return, that her people are gone forever, but she believes that as long as she remembers, they are not truly dead. She keeps a single data crystal containing the entire history of her civilization, and she dreams of one day finding a place where it can be preserved, a library among the stars where the last astronomer can finally rest.",
-        "famousFor": "Her starry domain that controls areas.",
+        "rating": 8.5,
+        "lore": "Cecilion was once a nobleman, charming and beloved, until he fell in love with a vampire named Carmilla. To be with her forever, he willingly underwent the transformation, becoming a vampire lord himself. But the bloodlust consumed him, and he lost his humanity, becoming a demon of the night. Now he roams the Land of Dawn with Carmilla, his bat swarm growing with each cast, his power infinite as he drains the life from his enemies. He remembers fragments of his human past—the taste of wine, the warmth of the sun—but those memories are like faded paintings in a crumbling gallery. Cecilion embraces his demonic nature, but deep down, he hopes that one day, Carmilla's love might restore what he lost.",
+        "famousFor": "His infinite mana scaling and bat swarm.",
         "abilities": [
             {
-                "name": "Star Power",
-                "description": "Yve fires a star that damages and slows enemies."
+                "name": "Bats!",
+                "description": "Cecilion summons a swarm of bats that fly forward, damaging all enemies in their path."
             },
             {
-                "name": "Celestial Intervention",
-                "description": "She creates a zone that slows enemies and grants vision."
+                "name": "Sanguine Claws",
+                "description": "He slashes with clawed gauntlets, damaging enemies and slowing them."
             },
             {
-                "name": "Astral Projection",
-                "description": "Passively, her skills deal extra damage. Active: She gains movement speed."
+                "name": "Blood Pact",
+                "description": "Passively, he gains bonus mana per cast. Active: He sacrifices health to restore mana."
+            }
+        ],
+        "stats": {
+            "attack": 30,
+            "defense": 55,
+            "movement": 60,
+            "attackSpeed": 35
+        },
+        "ultimate": "Cecilion summons a massive bat that circles an area, dealing continuous magic damage and slowing enemies. The bat grows larger with each cast.",
+        "attire": [
+            "Victorian-style vampire coat",
+            "Blood-red cravat",
+            "Silver clawed gauntlets",
+            "Polished boots"
+        ],
+        "physicalAppearance": [
+            "Long black hair slicked back",
+            "Pale skin with fangs",
+            "Piercing red eyes",
+            "Tall, aristocratic build"
+        ],
+        "weapon": "Clawed Gauntlets",
+        "mount": null,
+        "aura": "A swarm of spectral bats flutters around him.",
+        "personality": "Melancholic, romantic, and predatory. He speaks of eternal love and eternal hunger."
+    },
+    {
+        "id": 112,
+        "name": "Chang'e",
+        "nickname": "The Moon Goddess",
+        "icon": "../assets/images/heroes/112_chang_e/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/112_chang_e/real.png",
+            "animated": "../assets/images/heroes/112_chang_e/animated.png",
+            "nineties": "../assets/images/heroes/112_chang_e/90s.png",
+            "gallery": [
+                "../assets/images/heroes/112_chang_e/gallery1.png",
+                "../assets/images/heroes/112_chang_e/gallery2.png",
+                "../assets/images/heroes/112_chang_e/gallery3.png",
+                "../assets/images/heroes/112_chang_e/gallery4.png"
+            ]
+        },
+        "rating": 7.8,
+        "lore": "Chang'e was a celestial maiden who drank the elixir of immortality and floated to the moon, leaving her mortal husband behind. There she has lived for millennia, alone but for a jade rabbit, watching the world below with longing. When the moon's light began to fade, she descended to the Land of Dawn to restore its power. She fights with lunar energy, her arrows carrying the cool glow of moonlight, her shield protecting her from harm. She is graceful and sorrowful, forever missing the love she left behind, but she finds solace in the beauty of the night sky and the hope that one day, they might be reunited.",
+        "famousFor": "Her long-range poke and protective shield.",
+        "abilities": [
+            {
+                "name": "Moonlit Arrow",
+                "description": "Chang'e fires an arrow that damages and slows the first enemy hit."
+            },
+            {
+                "name": "Crescent Shield",
+                "description": "She surrounds herself with a lunar shield that blocks incoming damage and explodes, damaging nearby enemies."
+            },
+            {
+                "name": "Starlight Waltz",
+                "description": "Passively, she gains movement speed. Active: She dashes gracefully, leaving a trail of moonlight."
+            }
+        ],
+        "stats": {
+            "attack": 70,
+            "defense": 40,
+            "movement": 72,
+            "attackSpeed": 65
+        },
+        "ultimate": "Chang'e calls down a rain of moonlight arrows in a wide area, each dealing magic damage and slowing enemies.",
+        "attire": [
+            "Traditional hanfu with lunar motifs",
+            "Jade hairpin",
+            "Silk ribbons",
+            "Embroidered shoes"
+        ],
+        "physicalAppearance": [
+            "Long black hair styled in a classic bun",
+            "Gentle, oval face",
+            "Fair skin with a soft glow",
+            "Graceful, slender figure"
+        ],
+        "weapon": "Moon Bow (a curved bow of lunar energy)",
+        "mount": null,
+        "aura": "A soft silver glow and drifting moonbeams.",
+        "personality": "Elegant, reserved, and nostalgic. She speaks softly and often gazes at the moon."
+    },
+    {
+        "id": 113,
+        "name": "Faramis",
+        "nickname": "The Necromancer",
+        "icon": "../assets/images/heroes/113_faramis/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/113_faramis/real.png",
+            "animated": "../assets/images/heroes/113_faramis/animated.png",
+            "nineties": "../assets/images/heroes/113_faramis/90s.png",
+            "gallery": [
+                "../assets/images/heroes/113_faramis/gallery1.png",
+                "../assets/images/heroes/113_faramis/gallery2.png",
+                "../assets/images/heroes/113_faramis/gallery3.png",
+                "../assets/images/heroes/113_faramis/gallery4.png"
+            ]
+        },
+        "rating": 7.5,
+        "lore": "Faramis was a warlock who delved too deep into forbidden arts, seeking to bring his dead wife back to life. He succeeded, but the woman who returned was a hollow shell, a puppet of darkness. Consumed by guilt, Faramis dedicated his existence to mastering death magic, hoping to one day undo his mistake. He can now revive fallen allies, giving them a second chance, and his ghostly energy saps the life from enemies. He is a tragic figure, forever haunted by the consequences of his actions, but his power has saved countless lives—perhaps enough to balance the one he ruined.",
+        "famousFor": "His ability to revive allies and his ghostly burst.",
+        "abilities": [
+            {
+                "name": "Ghost Burst",
+                "description": "Faramis sends out a wave of ghostly energy, damaging enemies and marking them."
+            },
+            {
+                "name": "Shadow Stampede",
+                "description": "He transforms into a shadow, becoming untargetable and damaging enemies he passes through."
+            },
+            {
+                "name": "Vengeful Spirit",
+                "description": "Passively, he gains spell vamp. Active: He releases a spirit that drains health from enemies."
+            }
+        ],
+        "stats": {
+            "attack": 25,
+            "defense": 50,
+            "movement": 65,
+            "attackSpeed": 30
+        },
+        "ultimate": "Faramis marks an area. If an ally dies within it, they are revived with a percentage of their HP and continue fighting for a short time.",
+        "attire": [
+            "Tattered necromancer robes",
+            "Skull mask",
+            "Bone amulet",
+            "Worn boots"
+        ],
+        "physicalAppearance": [
+            "Balding with grey hair",
+            "Sunken eyes",
+            "Pale, withered skin",
+            "Gaunt, hunched frame"
+        ],
+        "weapon": "Ghost Staff (a staff topped with a floating skull)",
+        "mount": null,
+        "aura": "Ethereal wisps and faint screams.",
+        "personality": "Tormented, guilt-ridden, but driven. He rarely speaks of his past."
+    },
+    {
+        "id": 114,
+        "name": "Grock",
+        "nickname": "The Mountain Guardian",
+        "icon": "../assets/images/heroes/114_grock/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/114_grock/real.png",
+            "animated": "../assets/images/heroes/114_grock/animated.png",
+            "nineties": "../assets/images/heroes/114_grock/90s.png",
+            "gallery": [
+                "../assets/images/heroes/114_grock/gallery1.png",
+                "../assets/images/heroes/114_grock/gallery2.png",
+                "../assets/images/heroes/114_grock/gallery3.png",
+                "../assets/images/heroes/114_grock/gallery4.png"
+            ]
+        },
+        "rating": 7.6,
+        "lore": "Grock is an elemental being, born from the heart of a mountain. He is ancient, patient, and utterly immovable when he chooses to be. He can control the very stone beneath his feet, creating walls to block enemies, regenerating his health when near terrain. He rarely speaks, for what need has a mountain for words? But when he does, his voice rumbles like an earthquake. Grock protects the wild places of the world, crushing those who would defile them with his massive stone fists.",
+        "famousFor": "His wall creation and regeneration near terrain.",
+        "abilities": [
+            {
+                "name": "Power of Nature",
+                "description": "Grock slams the ground, damaging enemies and creating a slow zone."
+            },
+            {
+                "name": "Guardian's Barrier",
+                "description": "He raises a stone wall that blocks enemy movement."
+            },
+            {
+                "name": "Wild Charge",
+                "description": "He charges forward, damaging and knocking back enemies. If he hits a wall, he stuns them."
+            }
+        ],
+        "stats": {
+            "attack": 60,
+            "defense": 90,
+            "movement": 55,
+            "attackSpeed": 30
+        },
+        "ultimate": "Grock gathers energy from the earth, then unleashes a powerful shockwave that damages and slows enemies in a wide area. The closer he is to terrain, the more damage he deals.",
+        "attire": [
+            "Stone-encrusted armor",
+            "Moss-covered shoulder pads",
+            "Rock gauntlets",
+            "Heavy stone boots"
+        ],
+        "physicalAppearance": [
+            "A giant humanoid made of living rock",
+            "Glowing green eyes",
+            "Massive, rugged frame"
+        ],
+        "weapon": "His fists",
+        "mount": null,
+        "aura": "The ground trembles slightly when he moves.",
+        "personality": "Taciturn, stoic, and immovable. He communicates with grunts and gestures."
+    },
+    {
+        "id": 115,
+        "name": "Helcurt",
+        "nickname": "The Silent Shadow",
+        "icon": "../assets/images/heroes/115_helcurt/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/115_helcurt/real.png",
+            "animated": "../assets/images/heroes/115_helcurt/animated.png",
+            "nineties": "../assets/images/heroes/115_helcurt/90s.png",
+            "gallery": [
+                "../assets/images/heroes/115_helcurt/gallery1.png",
+                "../assets/images/heroes/115_helcurt/gallery2.png",
+                "../assets/images/heroes/115_helcurt/gallery3.png",
+                "../assets/images/heroes/115_helcurt/gallery4.png"
+            ]
+        },
+        "rating": 8.3,
+        "lore": "Helcurt was once a noble of a race of shadow creatures, but he was betrayed by his own kind and left to die in the void between worlds. He survived, but the betrayal twisted him into a creature of pure vengeance. His body became a living shadow, his voice stolen by the void, and his touch brings silence—the ultimate isolation. He now hunts those who wronged him, but his rage has consumed him, and he attacks any who cross his path. Helcurt moves in absolute silence, and his ultimate plunges the entire battlefield into darkness, silencing all enemies and leaving them blind.",
+        "famousFor": "His silence and burst damage.",
+        "abilities": [
+            {
+                "name": "Shadow Strike",
+                "description": "Helcurt throws a shadow blade, damaging and slowing enemies."
+            },
+            {
+                "name": "Darkness Rush",
+                "description": "He dashes forward, damaging enemies and gaining attack speed."
+            },
+            {
+                "name": "Race Advantage",
+                "description": "Passively, his basic attacks deal bonus damage. Active: He gains movement speed."
+            }
+        ],
+        "stats": {
+            "attack": 94,
+            "defense": 48,
+            "movement": 88,
+            "attackSpeed": 70
+        },
+        "ultimate": "Helcurt darkens the entire map, silencing all enemies and reducing their vision to a small radius around them. While active, his skills deal bonus damage.",
+        "attire": [
+            "Shadowy cloak",
+            "Venomous gauntlets",
+            "Bone mask",
+            "Lightless boots"
+        ],
+        "physicalAppearance": [
+            "Shadow-like form with glowing red eyes",
+            "Sharp, angular features",
+            "Lean, menacing silhouette"
+        ],
+        "weapon": "Shadow Blades",
+        "mount": null,
+        "aura": "An oppressive silence and chilling darkness.",
+        "personality": "Vengeful, predatory, and utterly silent. He communicates through gestures and glares."
+    },
+    {
+        "id": 116,
+        "name": "Hylos",
+        "nickname": "The Stag Knight",
+        "icon": "../assets/images/heroes/116_hylos/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/116_hylos/real.png",
+            "animated": "../assets/images/heroes/116_hylos/animated.png",
+            "nineties": "../assets/images/heroes/116_hylos/90s.png",
+            "gallery": [
+                "../assets/images/heroes/116_hylos/gallery1.png",
+                "../assets/images/heroes/116_hylos/gallery2.png",
+                "../assets/images/heroes/116_hylos/gallery3.png",
+                "../assets/images/heroes/116_hylos/gallery4.png"
+            ]
+        },
+        "rating": 7.7,
+        "lore": "Hylos is a centaur-like guardian of the ancient forests, his lower body that of a stag, his upper body a noble warrior. He draws power from the life force of the woods, using his own HP to cast spells. He can slow enemies with his aura and charge through them, trampling all in his path. Hylos is one of the last of his kind, the rest having been hunted to extinction. He wanders the Land of Dawn, seeking to protect the last vestiges of nature from the encroaching darkness, his antlers glowing with the light of the setting sun.",
+        "famousFor": "His HP-based spells and slowing aura.",
+        "abilities": [
+            {
+                "name": "Ring of Punishment",
+                "description": "Hylos creates a ring of energy that damages and slows enemies inside."
+            },
+            {
+                "name": "Stag's Charge",
+                "description": "He charges forward, damaging and stunning enemies in his path."
+            },
+            {
+                "name": "Nature's Blessing",
+                "description": "Passively, he gains HP regen. Active: He converts HP to mana."
+            }
+        ],
+        "stats": {
+            "attack": 50,
+            "defense": 85,
+            "movement": 70,
+            "attackSpeed": 35
+        },
+        "ultimate": "Hylos summons a massive field of thorns that damages and slows enemies. Allies inside gain increased HP regen.",
+        "attire": [
+            "Wooden armor intertwined with vines",
+            "Antlered helmet",
+            "Leather bracers",
+            "Hoof-guards"
+        ],
+        "physicalAppearance": [
+            "Humanoid upper body, stag lower body",
+            "Long brown hair",
+            "Kind brown eyes",
+            "Muscular, majestic form"
+        ],
+        "weapon": "Nature's Spear (a wooden spear)",
+        "mount": null,
+        "aura": "A soft, earthy glow and the scent of pine.",
+        "personality": "Wise, gentle, and protective. He speaks in a calm, resonant voice."
+    },
+    {
+        "id": 117,
+        "name": "Lylia",
+        "nickname": "The Gloom Walker",
+        "icon": "../assets/images/heroes/117_lylia/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/117_lylia/real.png",
+            "animated": "../assets/images/heroes/117_lylia/animated.png",
+            "nineties": "../assets/images/heroes/117_lylia/90s.png",
+            "gallery": [
+                "../assets/images/heroes/117_lylia/gallery1.png",
+                "../assets/images/heroes/117_lylia/gallery2.png",
+                "../assets/images/heroes/117_lylia/gallery3.png",
+                "../assets/images/heroes/117_lylia/gallery4.png"
+            ]
+        },
+        "rating": 8.1,
+        "lore": "Lylia is a little girl who wandered into a cursed forest and never came out the same. The forest's magic fused with her, granting her control over shadowy slugs that follow her commands. She can plant delayed bombs that erupt in dark energy, and she can rewind time to a previous position, escaping danger. Despite her cute appearance, she is deadly, her innocent smile hiding a mischievous and sometimes cruel nature. She treats her slugs as friends, giving them names and talking to them, and they obey her without question. Lylia is searching for a way to lift the curse, but deep down, she enjoys the power it gives her.",
+        "famousFor": "Her shadow slugs and time rewind.",
+        "abilities": [
+            {
+                "name": "Shadow Slug",
+                "description": "Lylia throws a slug that damages and slows enemies. The slug remains and can be detonated."
+            },
+            {
+                "name": "Magic Beans",
+                "description": "She scatters shadow energy in an area, damaging enemies over time."
+            },
+            {
+                "name": "Gloom Walk",
+                "description": "Passively, she gains movement speed. Active: She rewinds to her position from a few seconds ago, healing damage taken."
+            }
+        ],
+        "stats": {
+            "attack": 25,
+            "defense": 40,
+            "movement": 68,
+            "attackSpeed": 30
+        },
+        "ultimate": "Lylia unleashes all her shadow slugs, each exploding and damaging enemies. The more slugs, the higher the damage.",
+        "attire": [
+            "Gothic lolita dress with slug motifs",
+            "Ribbon in her hair",
+            "Stuffed slug toy",
+            "Mary Jane shoes"
+        ],
+        "physicalAppearance": [
+            "Long purple hair in twin tails",
+            "Big, innocent-looking eyes",
+            "Pale skin",
+            "Small, childlike frame"
+        ],
+        "weapon": "Shadow Slugs",
+        "mount": null,
+        "aura": "A faint, shadowy mist and the sound of squelching.",
+        "personality": "Playful, mischievous, and a little creepy. She talks to her slugs as if they were pets."
+    },
+    {
+        "id": 118,
+        "name": "Natalia",
+        "nickname": "The Silent Assassin",
+        "icon": "../assets/images/heroes/118_natalia/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/118_natalia/real.png",
+            "animated": "../assets/images/heroes/118_natalia/animated.png",
+            "nineties": "../assets/images/heroes/118_natalia/90s.png",
+            "gallery": [
+                "../assets/images/heroes/118_natalia/gallery1.png",
+                "../assets/images/heroes/118_natalia/gallery2.png",
+                "../assets/images/heroes/118_natalia/gallery3.png",
+                "../assets/images/heroes/118_natalia/gallery4.png"
+            ]
+        },
+        "rating": 8.4,
+        "lore": "Natalia was orphaned during a war and raised by a secret order of assassins. She was trained to kill without leaving a trace, her movements silent as a whisper, her blades finding the gaps in any armor. She has no name, only a title: the Silent Assassin. She works for the highest bidder, but she has her own code: she never kills children, and she always leaves a single white rose on the bodies of those she respects. Natalia is a ghost, and no one knows her true face—she wears a mask even among her employers. But in the shadows, she watches, waiting for the day she might find peace.",
+        "famousFor": "Her permanent stealth and assassination burst.",
+        "abilities": [
+            {
+                "name": "Assassin's Gift",
+                "description": "Passively, Natalia enters stealth when not in enemy vision. While stealthed, her next attack deals bonus damage and silences the target."
+            },
+            {
+                "name": "Smoke Bomb",
+                "description": "She throws a smoke bomb, slowing enemies and blinding them briefly."
+            },
+            {
+                "name": "Claw Dash",
+                "description": "Natalia dashes forward, damaging enemies and leaving a shadow behind."
+            }
+        ],
+        "stats": {
+            "attack": 95,
+            "defense": 45,
+            "movement": 90,
+            "attackSpeed": 75
+        },
+        "ultimate": "Natalia unleashes a flurry of slashes around her, each dealing physical damage. While stealthed, the damage is increased.",
+        "attire": [
+            "Form-fitting leather armor",
+            "Mask covering lower face",
+            "Dual blade holsters",
+            "Soft-soled boots"
+        ],
+        "physicalAppearance": [
+            "Short black hair",
+            "Only eyes visible behind mask",
+            "Pale skin",
+            "Slim, agile build"
+        ],
+        "weapon": "Twin Katar (punch daggers)",
+        "mount": null,
+        "aura": "None when stealthed; a faint shimmer when revealed.",
+        "personality": "Cold, professional, and silent. She never reveals personal details."
+    },
+    {
+        "id": 119,
+        "name": "Odette",
+        "nickname": "The Swan Princess",
+        "icon": "../assets/images/heroes/119_odette/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/119_odette/real.png",
+            "animated": "../assets/images/heroes/119_odette/animated.png",
+            "nineties": "../assets/images/heroes/119_odette/90s.png",
+            "gallery": [
+                "../assets/images/heroes/119_odette/gallery1.png",
+                "../assets/images/heroes/119_odette/gallery2.png",
+                "../assets/images/heroes/119_odette/gallery3.png",
+                "../assets/images/heroes/119_odette/gallery4.png"
+            ]
+        },
+        "rating": 7.8,
+        "lore": "Odette is a princess cursed to live as a swan by day and a human by night. Her beauty is legendary, her voice enchanting, and her dance can mesmerize all who watch. She fights with the grace of a ballerina, her movements fluid and deadly. Her ultimate has her dance across the battlefield, dealing continuous damage to anyone who gets too close. She searches for a true love's kiss to break the curse, but in the meantime, she uses her magic to protect her kingdom from those who would exploit her vulnerability.",
+        "famousFor": "Her dance ultimate and crowd control.",
+        "abilities": [
+            {
+                "name": "Feather Storm",
+                "description": "Odette sends out a flurry of feathers, damaging and slowing enemies."
+            },
+            {
+                "name": "Graceful Leap",
+                "description": "She leaps gracefully, landing in a targeted area and damaging enemies."
+            },
+            {
+                "name": "Swan's Blessing",
+                "description": "Passively, she gains magic power. Active: She gains a shield."
             }
         ],
         "stats": {
             "attack": 20,
             "defense": 45,
-            "movement": 60,
-            "attackSpeed": 35
-        },
-        "ultimate": "Yve creates a massive starry domain that continuously damages and slows enemies. She can reposition the domain.",
-        "attire": [
-            "Astronomer's robes with star patterns",
-            "Crystal tiara",
-            "Cosmic orb",
-            "Floating boots"
-        ],
-        "physicalAppearance": [
-            "Long silver-blue hair",
-            "Eyes that look like galaxies",
-            "Pale, luminous skin",
-            "Tall, ethereal figure"
-        ],
-        "weapon": "Star Compass (controls cosmic energy)",
-        "mount": null,
-        "aura": "Tiny stars twinkle around her.",
-        "personality": "Curious, detached, and fascinated by all life. She observes more than she participates."
-    },
-    {
-        "id": 112,
-        "name": "Phoveus",
-        "nickname": "The Abyssal Avenger",
-        "icon": "../assets/images/heroes/112_phoveus/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/112_phoveus/real.png",
-            "animated": "../assets/images/heroes/112_phoveus/animated.png",
-            "nineties": "../assets/images/heroes/112_phoveus/90s.png",
-            "gallery": [
-                "../assets/images/heroes/112_phoveus/gallery1.png",
-                "../assets/images/heroes/112_phoveus/gallery2.png",
-                "../assets/images/heroes/112_phoveus/gallery3.png",
-                "../assets/images/heroes/112_phoveus/gallery4.png"
-            ]
-        },
-        "rating": 7.9,
-        "lore": "Phoveus was a man before the Abyss claimed him, a simple farmer who watched as demons descended from a rift in the sky and destroyed everything he loved. His wife, his children, his home—all consumed in a single night of fire and shadow. He should have died with them, but a demon lord, amused by his rage, dragged him into the Abyss and transformed him, twisting his body into a weapon, filling his mind with whispers of vengeance. For centuries, Phoveus served as the demon's enforcer, slaughtering countless innocents, his soul growing darker with each kill. But the demon made a mistake—it showed Phoveus the world above, reminded him of the sun, of laughter, of love. In that moment, the rage that had been turned outward turned inward, and Phoveus broke free, killing the demon lord and escaping the Abyss with a piece of its power fused to his soul. Now he hunts demons across the Land of Dawn, his massive pillar crushing any who flee, his body a testament to the suffering he endured. But Phoveus is not a hero—he is a monster hunting monsters, and he knows it. His ultimate allows him to leap to marked enemies, slamming them into the ground, each kill a temporary balm for a wound that will never heal. He keeps a locket with a faded portrait of his family, the only remnant of his humanity, and before each battle, he touches it and whispers their names. In combat, he is relentless, his pillar smashing through demon ranks, his rage giving him strength. But when the battle ends, he sits alone, staring at the locket, wondering if they would recognize the creature he has become. Phoveus knows that he can never go back, that redemption is a word for those who still have souls, but he clings to the hope that by destroying enough demons, he might one day earn the right to die in peace.",
-        "famousFor": "His anti-dash mechanic and pillar slam.",
-        "abilities": [
-            {
-                "name": "Abyssal Impact",
-                "description": "Phoveus slams his pillar, damaging and slowing enemies."
-            },
-            {
-                "name": "Dark Wave",
-                "description": "He sends out a wave that damages and marks enemies."
-            },
-            {
-                "name": "Demonic Force",
-                "description": "Passively, he gains damage reduction. Active: He gains a shield."
-            }
-        ],
-        "stats": {
-            "attack": 75,
-            "defense": 85,
-            "movement": 55,
-            "attackSpeed": 35
-        },
-        "ultimate": "Phoveus leaps to a marked enemy, slamming his pillar down and dealing massive damage.",
-        "attire": [
-            "Demonic armor with spikes",
-            "Pillar weapon",
-            "Iron mask",
-            "Heavy boots"
-        ],
-        "physicalAppearance": [
-            "Distorted human face",
-            "Glowing red eyes",
-            "Hulking, corrupted frame"
-        ],
-        "weapon": "Abyssal Pillar (a massive stone pillar)",
-        "mount": null,
-        "aura": "Dark energy pulses from him.",
-        "personality": "Vengeful, relentless, and corrupted. He hates all demons, even though he has become one."
-    },
-    {
-        "id": 113,
-        "name": "Aulus",
-        "nickname": "The Gladiator",
-        "icon": "../assets/images/heroes/113_aulus/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/113_aulus/real.png",
-            "animated": "../assets/images/heroes/113_aulus/animated.png",
-            "nineties": "../assets/images/heroes/113_aulus/90s.png",
-            "gallery": [
-                "../assets/images/heroes/113_aulus/gallery1.png",
-                "../assets/images/heroes/113_aulus/gallery2.png",
-                "../assets/images/heroes/113_aulus/gallery3.png",
-                "../assets/images/heroes/113_aulus/gallery4.png"
-            ]
-        },
-        "rating": 7.6,
-        "lore": "Aulus was born in the salt mines, a place so deep underground that the sun was just a rumor. He was a slave, like his parents and their parents before them, his only value the strength of his back. When the mine owner discovered that Aulus could lift twice what any other slave could, he sold him to a gladiator school, where his strength was honed into a weapon. Aulus fought in the arenas for twenty years, never losing, never showing mercy, because mercy was a luxury slaves could not afford. He became a legend, his name whispered in the streets, his face carved onto coins. But when he finally earned his freedom, he discovered that the world outside the arena was just another cage—he had no family, no home, no purpose. He wandered for years, a ghost in a world that had moved on without him, until he found a village being raided by bandits. Without thinking, he fought, his old instincts taking over, and he drove them off. The villagers thanked him, offered him food, called him hero. For the first time in his life, Aulus felt something other than pain. Now he travels from settlement to settlement, offering his protection in exchange for a meal and a place to sleep. His ultimate unleashes a series of powerful strikes, each one a memory of the thousands of fights that shaped him. Aulus is quiet and humble, never seeking praise, but his presence brings hope to those who have none. He keeps a coin with his own face on it, a relic of his arena days, a reminder of the man he used to be. In battle, he is a force of nature, his sword finding gaps in armor, his strikes precise and deadly. But in quiet moments, he returns to the salt mines, standing at the entrance, remembering the darkness and the people he left behind. Aulus dreams of a day when no one will be born into slavery, when every child will see the sun. Until then, he fights, a gladiator without an arena, searching for meaning one battle at a time.",
-        "famousFor": "His scaling damage and simple mechanics.",
-        "abilities": [
-            {
-                "name": "Breakthrough",
-                "description": "Aulus dashes, damaging enemies and gaining attack speed."
-            },
-            {
-                "name": "Warlord's Presence",
-                "description": "He smashes the ground, damaging and slowing enemies."
-            },
-            {
-                "name": "Gladiator's Spirit",
-                "description": "Passively, he gains bonus damage over time."
-            }
-        ],
-        "stats": {
-            "attack": 86,
-            "defense": 70,
             "movement": 65,
-            "attackSpeed": 72
+            "attackSpeed": 30
         },
-        "ultimate": "Aulus unleashes a series of powerful strikes, each dealing physical damage. The final strike deals bonus true damage.",
+        "ultimate": "Odette dances in place, releasing waves of energy that damage all nearby enemies. She can move slowly while dancing.",
         "attire": [
-            "Gladiator armor with scars",
-            "Iron helmet",
-            "Leather skirt",
-            "Sandals"
+            "White swan tutu",
+            "Feather crown",
+            "Ballet slippers",
+            "Pearl necklace"
         ],
         "physicalAppearance": [
-            "Short brown hair",
-            "Rugged features",
-            "Muscular, scarred body"
-        ],
-        "weapon": "Gladius (a short sword)",
-        "mount": null,
-        "aura": "The roar of the crowd echoes faintly.",
-        "personality": "Proud, determined, and humble despite his strength. He fights for honor, not just victory."
-    },
-    {
-        "id": 114,
-        "name": "Edith",
-        "nickname": "The Lightweaver",
-        "icon": "../assets/images/heroes/114_edith/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/114_edith/real.png",
-            "animated": "../assets/images/heroes/114_edith/animated.png",
-            "nineties": "../assets/images/heroes/114_edith/90s.png",
-            "gallery": [
-                "../assets/images/heroes/114_edith/gallery1.png",
-                "../assets/images/heroes/114_edith/gallery2.png",
-                "../assets/images/heroes/114_edith/gallery3.png",
-                "../assets/images/heroes/114_edith/gallery4.png"
-            ]
-        },
-        "rating": 8.1,
-        "lore": "Edith was a knight errant, wandering the land in search of wrongs to right, her lance always ready, her heart always open. She had no kingdom to call her own, no lord to serve, only a vague sense that somewhere, there was a purpose waiting for her. That purpose found her in a cave, where an ancient dragon lay dying, its scales cracked, its eyes dim. The dragon, Solara, had been wounded by poachers who sought its heart, believing it could grant immortality. Edith could have left it to die, but instead she stayed, using her meager healing skills to tend its wounds, bringing water from a nearby stream, speaking to it in soft tones. Solara, moved by this unexpected kindness, offered Edith a bond—their souls would merge, becoming one being with two forms. Edith accepted, and the dragon's spirit flowed into her, filling her with ancient knowledge and power. Now she can transform between a heavily armored tank and a swift, dragon‑like marksman, depending on the needs of battle. Her ultimate unleashes her dragon form, granting her flight and devastating ranged attacks—a reflection of the bond that saved them both. Edith is torn between two identities: the human knight who swore oaths of chivalry, and the dragon who remembers eons of solitude and persecution. She speaks to Solara in her mind, and they argue sometimes, but they also comfort each other. Edith keeps a journal of their conversations, trying to understand what it means to be two souls in one body. In battle, they are a perfect team—Solara provides instinct and ancient wisdom, Edith provides strategy and compassion. Together, they protect villages from monsters and tyrants, a symbol of what can happen when different beings choose to cooperate instead of fight. Edith dreams of finding a place where humans and dragons can coexist peacefully, where she and Solara can be themselves without fear. Until then, they fight together, lightweaver and light, two hearts beating as one.",
-        "famousFor": "Her two forms: tank and marksman.",
-        "abilities": [
-            {
-                "name": "Lightning Slam",
-                "description": "Edith slams the ground, damaging and stunning enemies."
-            },
-            {
-                "name": "Dragon Flight",
-                "description": "She leaps, gaining a shield and damaging enemies."
-            },
-            {
-                "name": "Overload",
-                "description": "Passively, her attacks deal bonus damage. Active: She switches forms."
-            }
-        ],
-        "stats": {
-            "attack": 65,
-            "defense": 80,
-            "movement": 62,
-            "attackSpeed": 45
-        },
-        "ultimate": "Edith unleashes her dragon form, gaining ranged attacks and bonus damage. While in this form, she can fly.",
-        "attire": [
-            "Armor with dragon motifs",
-            "Cape",
-            "Dragon helmet",
-            "Scale boots"
-        ],
-        "physicalAppearance": [
-            "Long blonde hair",
-            "Determined blue eyes",
+            "Long blonde hair in a bun",
+            "Gentle blue eyes",
             "Fair skin",
-            "Strong, athletic build"
+            "Graceful, slender figure"
         ],
-        "weapon": "Dragon Lance",
+        "weapon": "Magic (dance)",
         "mount": null,
-        "aura": "Electricity crackles around her.",
-        "personality": "Brave, protective, and noble. She speaks with the authority of a dragon rider."
-    },
-    {
-        "id": 115,
-        "name": "Valentina",
-        "nickname": "The Shapeshifter",
-        "icon": "../assets/images/heroes/115_valentina/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/115_valentina/real.png",
-            "animated": "../assets/images/heroes/115_valentina/animated.png",
-            "nineties": "../assets/images/heroes/115_valentina/90s.png",
-            "gallery": [
-                "../assets/images/heroes/115_valentina/gallery1.png",
-                "../assets/images/heroes/115_valentina/gallery2.png",
-                "../assets/images/heroes/115_valentina/gallery3.png",
-                "../assets/images/heroes/115_valentina/gallery4.png"
-            ]
-        },
-        "rating": 8.6,
-        "lore": "Valentina was an orphan raised in a traveling circus, her only talent the ability to mimic anyone she saw—their voice, their walk, their mannerisms. She used this gift to entertain crowds, impersonating nobles and making them laugh, but she also used it to survive, stealing food and clothes by becoming someone else. One day, a mage in the audience recognized her gift for what it truly was: not mimicry, but transformation. He offered to train her, to teach her to become anyone, to wear any face. Valentina agreed, and for years she studied under him, learning to copy not just appearances, but powers, abilities, even memories. But when she discovered that her mentor was using her to commit crimes, framing innocents for his own deeds, she turned on him, absorbing his power and leaving him a hollow shell. Now she wanders the Land of Dawn, a woman without a face, her true identity lost somewhere in the thousands of masks she has worn. Her ultimate allows her to copy the ultimate ability of any enemy hero—a reflection of her endless search for self. Valentina is charismatic and mysterious, always changing, never staying in one place for long. She keeps a diary with sketches of all the faces she has worn, a gallery of identities that she can revisit when she feels lost. In battle, she adapts instantly, becoming the perfect counter to any opponent, her stolen powers turning enemies' strengths against them. But in quiet moments, she stares at her reflection, trying to remember the original—the circus girl, the orphan, the woman without a name. She knows that she may never find her true face again, but she has learned to love the journey of becoming. Valentina fights not for glory or justice, but for the thrill of transformation, and for the hope that somewhere in all these masks, the real her is still waiting to be found.",
-        "famousFor": "Her ability to copy enemy ultimates.",
-        "abilities": [
-            {
-                "name": "Shadow Strike",
-                "description": "Valentina fires a shadow bolt, damaging and slowing enemies."
-            },
-            {
-                "name": "Mystic Fist",
-                "description": "She dashes, dealing damage and gaining a shield."
-            },
-            {
-                "name": "Arcane Trickery",
-                "description": "Passively, she gains cooldown reduction. Active: She marks an enemy."
-            }
-        ],
-        "stats": {
-            "attack": 25,
-            "defense": 48,
-            "movement": 70,
-            "attackSpeed": 40
-        },
-        "ultimate": "Valentina copies the ultimate ability of a nearby enemy hero, using it as her own for a short time.",
-        "attire": [
-            "Mysterious sorceress robes",
-            "Veil",
-            "Arcane amulet",
-            "Soft slippers"
-        ],
-        "physicalAppearance": [
-            "Long black hair with silver streaks",
-            "Pale skin",
-            "Enigmatic dark eyes",
-            "Elegant, slender figure"
-        ],
-        "weapon": "Shadow Orb",
-        "mount": null,
-        "aura": "Shadows flicker around her.",
-        "personality": "Mysterious, cunning, and ambitious. She never reveals her true intentions."
-    },
-    {
-        "id": 116,
-        "name": "Aamon",
-        "nickname": "The Shade",
-        "icon": "../assets/images/heroes/116_aamon/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/116_aamon/real.png",
-            "animated": "../assets/images/heroes/116_aamon/animated.png",
-            "nineties": "../assets/images/heroes/116_aamon/90s.png",
-            "gallery": [
-                "../assets/images/heroes/116_aamon/gallery1.png",
-                "../assets/images/heroes/116_aamon/gallery2.png",
-                "../assets/images/heroes/116_aamon/gallery3.png",
-                "../assets/images/heroes/116_aamon/gallery4.png"
-            ]
-        },
-        "rating": 8.7,
-        "lore": "Aamon was the second son of the Paxley family, born into shadow and trained to be invisible. While his brother Gusion basked in the spotlight, charming nobles and earning accolades, Aamon lurked in the corners, learning secrets, eliminating threats before they could materialize. He was the family's hidden blade, the one no one ever saw, and he was content in his obscurity—until the night his father was murdered, and Gusion went public with his vengeance, leaving Aamon to clean up the mess. He discovered that their father's death was part of a larger conspiracy, one that reached into every kingdom, every faction, and that Gusion's very public crusade was playing into the conspirators' hands. So Aamon did what he did best: he disappeared. He built a network of informants, manipulated events from the shadows, and slowly, methodically, began dismantling the conspiracy piece by piece. His ultimate unleashes a barrage of shadow shards that seek out enemies, each one a piece of his vengeance, a fragment of his hidden war. Aamon is cold and calculating, viewing emotions as weaknesses, but he carries a locket with a portrait of his brother, the only person he ever loved. He watches Gusion from afar, never revealing himself, protecting him in ways his brother will never know. In quiet moments, he speaks to the locket, apologizing for the monster he has become, explaining that someone had to walk the dark path so that Gusion could stay in the light. Aamon knows that he can never return, that the shadows have claimed him, but he takes solace in the knowledge that his brother lives, and that somewhere in the darkness, a shade is watching over him.",
-        "famousFor": "His invisibility and shard burst.",
-        "abilities": [
-            {
-                "name": "Shadow Shard",
-                "description": "Aamon throws a shard that damages and marks enemies."
-            },
-            {
-                "name": "Blade of Shadows",
-                "description": "He slashes, dealing damage and gaining a shield."
-            },
-            {
-                "name": "Invisible Armor",
-                "description": "Passively, he becomes invisible when not attacking. Active: He gains a shield."
-            }
-        ],
-        "stats": {
-            "attack": 91,
-            "defense": 52,
-            "movement": 85,
-            "attackSpeed": 70
-        },
-        "ultimate": "Aamon unleashes a barrage of shadow shards, each dealing damage to nearby enemies. The more shards, the higher the damage.",
-        "attire": [
-            "Dark noble attire",
-            "Shadow cloak",
-            "Mask",
-            "Leather gloves"
-        ],
-        "physicalAppearance": [
-            "Short white hair",
-            "Sharp features",
-            "Pale skin",
-            "Lean, agile build"
-        ],
-        "weapon": "Shadow Shards",
-        "mount": null,
-        "aura": "A faint shimmer when invisible.",
-        "personality": "Cold, calculating, and manipulative. He enjoys playing with his prey before striking."
-    },
-    {
-        "id": 117,
-        "name": "Melissa",
-        "nickname": "The Toy Collector",
-        "icon": "../assets/images/heroes/117_melissa/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/117_melissa/real.png",
-            "animated": "../assets/images/heroes/117_melissa/animated.png",
-            "nineties": "../assets/images/heroes/117_melissa/90s.png",
-            "gallery": [
-                "../assets/images/heroes/117_melissa/gallery1.png",
-                "../assets/images/heroes/117_melissa/gallery2.png",
-                "../assets/images/heroes/117_melissa/gallery3.png",
-                "../assets/images/heroes/117_melissa/gallery4.png"
-            ]
-        },
-        "rating": 8.0,
-        "lore": "Melissa was five years old when her parents disappeared, leaving her alone in a house full of toys. She waited for them to return, day after day, playing with her dolls, talking to them as if they could answer. One night, a strange light filled her room, and the largest doll, a ragdoll she called Muno, blinked. Muno could move, could speak, could protect her. Melissa wasn't scared; she was overjoyed—she finally had a friend. Together, they survived, scavenging for food, avoiding the authorities who wanted to put her in an orphanage. As Melissa grew, Muno grew with her, its stitched body somehow containing a fierce loyalty and a protective instinct. When bullies cornered Melissa in an alley, Muno expanded to twice its size and bounced them away, its button eyes glowing with rage. Melissa realized that Muno was more than a toy—it was a guardian, a sibling, a part of her soul made manifest. Now she travels with Muno, using her giant scissors to cut through obstacles and enemies alike. Her ultimate creates a barrier that bounces enemies away, a safe space where Melissa and Muno can be together. Melissa is still a child at heart, playing with Muno when they're not fighting, dressing it in new outfits, telling it stories. She keeps a journal of their adventures, illustrated with crayon drawings, and she talks to her parents through it, hoping they can see her somehow. Muno cannot speak, but it communicates through gestures and warmth, and Melissa understands. Together, they are a family, a girl and her doll, facing a world that can be scary, but never lonely. Melissa dreams of one day finding her parents, of showing them how strong she has become, of introducing them to Muno. Until then, she and Muno will keep exploring, one adventure at a time, a toy collector with the best friend anyone could ask for.",
-        "famousFor": "Her doll Muno and zone control.",
-        "abilities": [
-            {
-                "name": "Scissors",
-                "description": "Melissa attacks with her scissors, dealing damage."
-            },
-            {
-                "name": "Muno, Go!",
-                "description": "She sends Muno to an area, damaging and slowing enemies."
-            },
-            {
-                "name": "Toy Factory",
-                "description": "Passively, she gains attack speed. Active: She creates a zone that slows enemies."
-            }
-        ],
-        "stats": {
-            "attack": 82,
-            "defense": 40,
-            "movement": 70,
-            "attackSpeed": 78
-        },
-        "ultimate": "Melissa creates a barrier around her that bounces enemies away and prevents them from entering.",
-        "attire": [
-            "Colorful dress with toy motifs",
-            "Ribbons",
-            "Stuffed doll on her back",
-            "Mary Jane shoes"
-        ],
-        "physicalAppearance": [
-            "Long pink hair",
-            "Big blue eyes",
-            "Fair skin",
-            "Small, childlike frame"
-        ],
-        "weapon": "Giant Scissors",
-        "mount": null,
-        "aura": "Sparkles and toy sounds.",
-        "personality": "Playful, lonely, and fiercely protective of Muno. She treats the doll as her only friend."
-    },
-    {
-        "id": 118,
-        "name": "Floryn",
-        "nickname": "The Dream Fairy",
-        "icon": "../assets/images/heroes/118_floryn/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/118_floryn/real.png",
-            "animated": "../assets/images/heroes/118_floryn/animated.png",
-            "nineties": "../assets/images/heroes/118_floryn/90s.png",
-            "gallery": [
-                "../assets/images/heroes/118_floryn/gallery1.png",
-                "../assets/images/heroes/118_floryn/gallery2.png",
-                "../assets/images/heroes/118_floryn/gallery3.png",
-                "../assets/images/heroes/118_floryn/gallery4.png"
-            ]
-        },
-        "rating": 7.2,
-        "lore": "Floryn was born in a field of moonflowers, her tiny wings still wet with dew, and the first thing she saw was a shooting star. The fairies of the meadow took her in, raising her on nectar and starlight, teaching her the ancient art of dreamweaving. Floryn could enter the dreams of sleeping creatures, planting seeds of hope or calming nightmares. She was beloved by all, her laughter like wind chimes, her touch warm as sunlight. But when a plague of nightmares swept through the land, corrupting dreams into terrors, Floryn ventured into the nightmare realm to confront the source. She found a creature of pure fear, a being that fed on despair, and in the battle that followed, she sacrificed her own dreams to seal it away. Now Floryn can no longer dream—when she sleeps, there is only darkness—but she can still heal the dreams of others. Her ultimate heals all allies globally, a wave of dream energy that soothes even the most troubled sleep. Floryn is gentle and kind, always offering a soft word to the weary, but she carries the weight of her lost dreams in her heart. She keeps a journal of the dreams she has saved, describing them in vivid detail, hoping that by writing them down, she can experience them vicariously. In quiet moments, she visits sleeping children, watching their faces as they dream, and she whispers blessings over them. Floryn knows that she can never dream again, but she has learned that protecting the dreams of others is its own kind of magic, and that sometimes, the greatest gift is the one you give away.",
-        "famousFor": "Her global heal and purify.",
-        "abilities": [
-            {
-                "name": "Dream Bloom",
-                "description": "Floryn throws a flower that damages and slows enemies."
-            },
-            {
-                "name": "Sweet Scent",
-                "description": "She heals an ally and cleanses crowd control."
-            },
-            {
-                "name": "Peaceful Slumber",
-                "description": "Passively, she gains magic power. Active: She puts an enemy to sleep."
-            }
-        ],
-        "stats": {
-            "attack": 10,
-            "defense": 35,
-            "movement": 68,
-            "attackSpeed": 25
-        },
-        "ultimate": "Floryn heals all allies globally and removes crowd control effects from them.",
-        "attire": [
-            "Fairy dress with flower patterns",
-            "Flower crown",
-            "Translucent wings",
-            "Barefoot"
-        ],
-        "physicalAppearance": [
-            "Short green hair",
-            "Soft hazel eyes",
-            "Fair skin",
-            "Small, delicate frame"
-        ],
-        "weapon": "Dream Staff (a flower-topped staff)",
-        "mount": null,
-        "aura": "Floating flower petals.",
-        "personality": "Gentle, caring, and optimistic. She believes in the power of dreams and kindness."
-    },
-    {
-        "id": 119,
-        "name": "Julian",
-        "nickname": "The Prodigy",
-        "icon": "../assets/images/heroes/119_julian/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/119_julian/real.png",
-            "animated": "../assets/images/heroes/119_julian/animated.png",
-            "nineties": "../assets/images/heroes/119_julian/90s.png",
-            "gallery": [
-                "../assets/images/heroes/119_julian/gallery1.png",
-                "../assets/images/heroes/119_julian/gallery2.png",
-                "../assets/images/heroes/119_julian/gallery3.png",
-                "../assets/images/heroes/119_julian/gallery4.png"
-            ]
-        },
-        "rating": 8.4,
-        "lore": "Julian was ten years old when he first picked up a sword, and by eleven, he had defeated every adult in his village. By twelve, he had mastered three schools of magic, and by thirteen, he had been accepted into the most prestigious academy in the land. The masters called him a prodigy, a genius, the future of magic. Julian believed them. He trained obsessively, pushing himself beyond any limit, driven by a need to be the best. But the pressure began to crack him—he started hearing voices, fragments of spells echoing in his mind, and his magic became unstable, unpredictable. During a demonstration for visiting dignitaries, his control slipped, and a spell erupted, injuring several people. The academy expelled him, and Julian found himself alone, his identity shattered. He wandered for years, trying to understand what was happening to him. He discovered that his magic was evolving, his skills changing based on how he used them, as if his very essence was rewriting itself. His ultimate shifts based on his previous casts, offering different effects—a reflection of his fractured, ever‑changing self. Julian is now a wanderer, taking odd jobs, helping those in need, but always moving, always searching for answers. He keeps a journal of his spells, noting how they change, trying to find a pattern. In quiet moments, he meditates, trying to quiet the voices, trying to find the core of who he is. He dreams of one day mastering his power, of becoming the prodigy everyone believed he could be, but he knows now that the journey is more important than the destination, and that true genius lies not in perfection, but in the courage to keep trying.",
-        "famousFor": "His evolving skills and versatility.",
-        "abilities": [
-            {
-                "name": "Sword Spike",
-                "description": "Julian thrusts his sword, damaging enemies."
-            },
-            {
-                "name": "Chain Attack",
-                "description": "He sends a chain, damaging and pulling enemies."
-            },
-            {
-                "name": "Spell Fission",
-                "description": "Passively, his skills evolve after use. Active: He unleashes an enhanced ability."
-            }
-        ],
-        "stats": {
-            "attack": 70,
-            "defense": 55,
-            "movement": 65,
-            "attackSpeed": 60
-        },
-        "ultimate": "Julian's ultimate changes based on his previous skill casts, offering different effects: damage, shield, or crowd control.",
-        "attire": [
-            "Young mage's robes",
-            "Magic tome",
-            "Gloves",
-            "Boots"
-        ],
-        "physicalAppearance": [
-            "Short brown hair",
-            "Youthful face",
-            "Bright eyes",
-            "Small but confident"
-        ],
-        "weapon": "Magic Sword",
-        "mount": null,
-        "aura": "Glowing runes swirl around him.",
-        "personality": "Eager, ambitious, and a little arrogant. He wants to prove he's the best."
+        "aura": "Sparkling feathers and soft light.",
+        "personality": "Elegant, romantic, and hopeful. She dreams of true love."
     },
     {
         "id": 120,
-        "name": "Xavier",
-        "nickname": "The Reality Seer",
-        "icon": "../assets/images/heroes/120_xavier/icon.png",
+        "name": "Pharsa",
+        "nickname": "The Wings of Vengeance",
+        "icon": "../assets/images/heroes/120_pharsa/icon.png",
         "images": {
-            "real": "../assets/images/heroes/120_xavier/real.png",
-            "animated": "../assets/images/heroes/120_xavier/animated.png",
-            "nineties": "../assets/images/heroes/120_xavier/90s.png",
+            "real": "../assets/images/heroes/120_pharsa/real.png",
+            "animated": "../assets/images/heroes/120_pharsa/animated.png",
+            "nineties": "../assets/images/heroes/120_pharsa/90s.png",
             "gallery": [
-                "../assets/images/heroes/120_xavier/gallery1.png",
-                "../assets/images/heroes/120_xavier/gallery2.png",
-                "../assets/images/heroes/120_xavier/gallery3.png",
-                "../assets/images/heroes/120_xavier/gallery4.png"
+                "../assets/images/heroes/120_pharsa/gallery1.png",
+                "../assets/images/heroes/120_pharsa/gallery2.png",
+                "../assets/images/heroes/120_pharsa/gallery3.png",
+                "../assets/images/heroes/120_pharsa/gallery4.png"
             ]
         },
-        "rating": 8.2,
-        "lore": "Xavier was born with a gift that was also a curse: he could see beyond the veil of reality, perceiving the threads of fate, the echoes of alternate dimensions, the shadows of things that might be. As a child, he was terrified—he saw his mother alive and dead simultaneously, his friends as strangers, his home as a ruin. His parents thought he was insane, locking him in asylums, subjecting him to treatments that only made the visions worse. But Xavier learned to control his gift, to focus on one reality at a time, to use his perception to predict enemy movements and avoid danger. He escaped the asylums and now wanders the Land of Dawn, using his abilities as a seer and a warrior. His ultimate creates a dimensional rift that damages and slows enemies—a tear in reality, visible to him alone. Xavier is calm and philosophical, speaking of fate and choice as if they were old friends, but he carries the weight of all the realities he has seen. He keeps a journal of alternate timelines, noting where different choices led, and he studies them like a scientist studies specimens. In battle, he is detached, observing the flow of combat as if watching a play, but when an ally is in danger, he intervenes with precision, altering fate one moment at a time. Xavier knows that he cannot save everyone, that some timelines are inevitable, but he believes that by fighting, by choosing, he can create a reality where hope survives. He dreams of a day when all the threads align, when the universe itself finds balance, and he can finally rest, his vision fulfilled.",
-        "famousFor": "His long-range poke and dimension traps.",
+        "rating": 8.0,
+        "lore": "Pharsa was a celestial guardian who watched over a floating city. When the city fell to invaders, she was the sole survivor, her wings clipped, her heart filled with rage. She swore vengeance and now roams the land, able to transform into a bird of prey to scout from above. Her magic rains down from the sky, and her ultimate calls forth a devastating flock of birds that tear enemies apart. She is cold and distant, but those who earn her trust find a fierce ally.",
+        "famousFor": "Her long-range burst and bird form.",
         "abilities": [
             {
-                "name": "Dimensional Shift",
-                "description": "Xavier fires a rift, damaging and slowing enemies."
+                "name": "Wing of the Sky",
+                "description": "Pharsa transforms into a bird, gaining flight and increased movement speed. She can cast spells while flying."
             },
             {
-                "name": "Space Trap",
-                "description": "He places a trap that detonates, damaging and rooting enemies."
+                "name": "Energy Impact",
+                "description": "She sends out a wave of energy, damaging and stunning enemies."
             },
             {
-                "name": "Infinite Loop",
-                "description": "Passively, his skills extend range. Active: He creates a zone that pulls enemies."
+                "name": "Feather Storm",
+                "description": "She calls down feathers in an area, damaging enemies over time."
             }
         ],
         "stats": {
             "attack": 20,
-            "defense": 48,
-            "movement": 62,
+            "defense": 45,
+            "movement": 70,
             "attackSpeed": 30
         },
-        "ultimate": "Xavier unleashes a massive dimensional rift that damages and slows enemies across a wide area.",
+        "ultimate": "Pharsa summons a massive flock of birds that repeatedly damage enemies in a wide area.",
         "attire": [
-            "Mystic robes with dimensional patterns",
-            "Crystal ball",
-            "Space gauntlets",
-            "Soft boots"
+            "Celestial robes with wing motifs",
+            "Golden circlet",
+            "Feathered cape",
+            "Sandals"
         ],
         "physicalAppearance": [
-            "Long white hair",
-            "Pale skin",
-            "Eyes that shimmer with cosmic energy",
-            "Tall, slender"
+            "Long silver hair",
+            "Piercing golden eyes",
+            "Fair skin",
+            "Tall, imposing figure"
         ],
-        "weapon": "Reality Scepter",
+        "weapon": "Celestial Staff",
         "mount": null,
-        "aura": "Dimensional distortions.",
-        "personality": "Calm, observant, and philosophical. He often contemplates the nature of reality."
+        "aura": "A faint shimmer of feathers.",
+        "personality": "Reserved, vengeful, and proud. She rarely shows emotion."
     },
     {
         "id": 121,
-        "name": "Fredrinn",
-        "nickname": "The Crystalline",
-        "icon": "../assets/images/heroes/121_fredrinn/icon.png",
+        "name": "Popol & Kupa",
+        "nickname": "The Boy and His Dog",
+        "icon": "../assets/images/heroes/121_popol_kupa/icon.png",
         "images": {
-            "real": "../assets/images/heroes/121_fredrinn/real.png",
-            "animated": "../assets/images/heroes/121_fredrinn/animated.png",
-            "nineties": "../assets/images/heroes/121_fredrinn/90s.png",
+            "real": "../assets/images/heroes/121_popol_kupa/real.png",
+            "animated": "../assets/images/heroes/121_popol_kupa/animated.png",
+            "nineties": "../assets/images/heroes/121_popol_kupa/90s.png",
             "gallery": [
-                "../assets/images/heroes/121_fredrinn/gallery1.png",
-                "../assets/images/heroes/121_fredrinn/gallery2.png",
-                "../assets/images/heroes/121_fredrinn/gallery3.png",
-                "../assets/images/heroes/121_fredrinn/gallery4.png"
+                "../assets/images/heroes/121_popol_kupa/gallery1.png",
+                "../assets/images/heroes/121_popol_kupa/gallery2.png",
+                "../assets/images/heroes/121_popol_kupa/gallery3.png",
+                "../assets/images/heroes/121_popol_kupa/gallery4.png"
             ]
         },
-        "rating": 8.3,
-        "lore": "Fredrinn was a miner in the Glimmering Depths, a labyrinth of crystal caves that hummed with an ancient resonance. He was a simple man, content to extract gems for the merchant guilds, until a cave‑in trapped him and his crew a mile underground. For weeks, they survived on rationed water and the faint glow of the crystals, but one by one, his companions succumbed to despair. Fredrinn alone refused to die—he pressed his hands against the crystal walls, praying to the earth for deliverance. The crystals answered, not by freeing him, but by merging with him. He felt their energy flow into his veins, hardening his skin, filling his mind with visions of geological ages. When rescue teams finally breached the cave, they found Fredrinn standing amidst the rubble, his body encrusted with gemstones, his eyes glowing with inner light. He emerged into the world transformed, a living crystal capable of absorbing damage and releasing it in devastating bursts. Now he guards the mines from those who would exploit them recklessly, his body a fortress, his strikes powered by stored energy. Fredrinn speaks in a voice that echoes like stone grinding against stone, and he carries a shard of the crystal that saved him, worn as a pendant. In battle, he endures endless punishment, his stored power growing with each blow, until he unleashes it in a flurry of strikes that shatter armor and bone. But when the fighting stops, he returns to the depths, sitting in darkness, communing with the crystals that gave him new life. He dreams of one day understanding their full potential, of becoming one with the earth itself, a crystalline guardian eternal and unbreakable.",
-        "famousFor": "His damage storage and combo ultimate.",
+        "rating": 7.9,
+        "lore": "Popol is a young trapper from the frozen north, and Kupa is his loyal wolf companion. Together they survive the harsh wilderness, setting traps for game and defending their territory from predators. Popol is resourceful and brave, while Kupa is fierce and protective. They joined the battles of the Land of Dawn to help those in need, using their unique bond to outsmart enemies. Popol commands Kupa to attack, and the wolf can also transform into a mount, carrying Popol swiftly across the battlefield.",
+        "famousFor": "His traps and wolf companion.",
         "abilities": [
             {
-                "name": "Crystal Slash",
-                "description": "Fredrinn slashes, damaging enemies and storing damage."
+                "name": "Kupa, Attack!",
+                "description": "Popol commands Kupa to dash forward, damaging and slowing enemies."
             },
             {
-                "name": "Crystalline Armor",
-                "description": "He gains a shield and stores damage."
+                "name": "Bear Trap",
+                "description": "He places a trap that damages and immobilizes enemies who step on it."
             },
             {
-                "name": "Energy Burst",
-                "description": "He unleashes stored damage, dealing bonus true damage."
+                "name": "Wolf Form",
+                "description": "Kupa transforms, gaining increased stats and new abilities for a short time."
             }
         ],
         "stats": {
-            "attack": 70,
-            "defense": 90,
-            "movement": 60,
-            "attackSpeed": 45
+            "attack": 75,
+            "defense": 60,
+            "movement": 72,
+            "attackSpeed": 65
         },
-        "ultimate": "Fredrinn unleashes a flurry of attacks, each dealing damage based on stored damage. The final blow stuns.",
+        "ultimate": "Popol and Kupa summon a blizzard that damages and slows enemies in a large area. Kupa becomes enraged, dealing bonus damage.",
         "attire": [
-            "Crystal-infused armor",
-            "Gemstone crown",
-            "Iron gauntlets",
-            "Heavy boots"
+            "Fur-lined parka",
+            "Trapper's backpack",
+            "Leather gloves",
+            "Snow boots"
         ],
         "physicalAppearance": [
-            "Bald with crystal growths",
-            "Glowing blue eyes",
-            "Muscular, imposing frame"
+            "Young boy with messy brown hair",
+            "Bright blue eyes",
+            "Freckles",
+            "Small, sturdy build"
         ],
-        "weapon": "Crystal Blade",
-        "mount": null,
-        "aura": "Crystals glow when he stores damage.",
-        "personality": "Stoic, protective, and resilient. He speaks little but acts with unwavering resolve."
+        "weapon": "Traps and Kupa",
+        "mount": "Kupa (his wolf)",
+        "aura": "A faint frost and the sound of barking.",
+        "personality": "Brave, resourceful, and loyal. He treats Kupa as his best friend."
     },
     {
         "id": 122,
-        "name": "Joy",
-        "nickname": "The Rhapsody",
-        "icon": "../assets/images/heroes/122_joy/icon.png",
+        "name": "Sora",
+        "nickname": "The Sky Breaker",
+        "icon": "../assets/images/heroes/122_sora/icon.png",
         "images": {
-            "real": "../assets/images/heroes/122_joy/real.png",
-            "animated": "../assets/images/heroes/122_joy/animated.png",
-            "nineties": "../assets/images/heroes/122_joy/90s.png",
+            "real": "../assets/images/heroes/122_sora/real.png",
+            "animated": "../assets/images/heroes/122_sora/animated.png",
+            "nineties": "../assets/images/heroes/122_sora/90s.png",
             "gallery": [
-                "../assets/images/heroes/122_joy/gallery1.png",
-                "../assets/images/heroes/122_joy/gallery2.png",
-                "../assets/images/heroes/122_joy/gallery3.png",
-                "../assets/images/heroes/122_joy/gallery4.png"
+                "../assets/images/heroes/122_sora/gallery1.png",
+                "../assets/images/heroes/122_sora/gallery2.png",
+                "../assets/images/heroes/122_sora/gallery3.png",
+                "../assets/images/heroes/122_sora/gallery4.png"
             ]
         },
-        "rating": 8.5,
-        "lore": "Joy was a street performer in a city that had forgotten how to laugh. She danced in the plazas, juggled in the markets, and told jokes in the taverns, her energy infectious, her smile bright as the sun. People came from miles around to see her, to forget their troubles, to feel alive. But the city's ruler, a tyrant who banned all forms of public entertainment, saw her as a threat. He sent his guards to arrest her, but when they tried to grab her, Joy moved—faster than they could follow, her feet tapping out a rhythm that seemed to bend time itself. She escaped, but the tyrant burned her home and declared her an enemy of the state. Joy now wanders the Land of Dawn, bringing her performances to villages and towns, but also using her rhythm‑based combat to fight against oppressors. Her ultimate allows her to dash repeatedly to the beat, each dash a note in a deadly symphony. Joy is always smiling, always laughing, because she believes that joy is the most powerful weapon against tyranny. She keeps a drum that she plays during battles, its beat synchronizing with her movements, and she teaches children to dance wherever she goes. In quiet moments, she composes new routines, imagining the day she can return to her city and dance in the plaza once more. Joy knows that the tyrant still rules, that her home is still silent, but she believes that one day, the rhythm will return. Until then, she fights with music in her heart and fire in her feet, a rhapsody of resistance in a world that needs to remember how to laugh.",
-        "famousFor": "Her rhythm-based dashes and high mobility.",
+        "rating": 8.2,
+        "lore": "Sora is a warrior from the sky islands, where the air is thin and the winds are fierce. He trained under the Storm Monks, learning to channel the power of the wind. His movements are swift as a gale, and he can launch himself into the air, diving onto enemies with devastating force. Sora seeks to unite the scattered sky clans, and he fights to prove that even the highest peaks can be reached by those with courage.",
+        "famousFor": "His aerial mobility and dive.",
         "abilities": [
             {
-                "name": "Rhythm Strike",
-                "description": "Joy attacks in rhythm, dealing bonus damage if timed right."
+                "name": "Wind Slash",
+                "description": "Sora sends a blade of wind, damaging enemies in a line."
             },
             {
-                "name": "Dance Floor",
-                "description": "She creates a zone that damages and slows enemies."
+                "name": "Sky Leap",
+                "description": "He leaps into the air, becoming untargetable briefly. He can then choose a location to dive, damaging and slowing enemies."
             },
             {
-                "name": "Beat Drop",
-                "description": "She dashes, dealing damage and gaining a shield."
+                "name": "Gust",
+                "description": "He creates a gust of wind that pushes enemies and grants him movement speed."
             }
         ],
         "stats": {
             "attack": 85,
-            "defense": 48,
-            "movement": 92,
-            "attackSpeed": 75
+            "defense": 60,
+            "movement": 88,
+            "attackSpeed": 70
         },
-        "ultimate": "Joy enters a frenzy, dashing repeatedly to the beat, each dash dealing damage. She is invulnerable during dashes.",
+        "ultimate": "Sora summons a massive tornado that damages and knocks up enemies in an area. While the tornado is active, he gains bonus movement speed.",
         "attire": [
-            "Colorful performer's outfit",
-            "Headphones",
-            "Dance shoes",
-            "Glow sticks"
+            "Lightweight armor with cloud motifs",
+            "Wind scarf",
+            "Leather bracers",
+            "Soft-soled boots"
         ],
         "physicalAppearance": [
-            "Short vibrant pink hair",
-            "Energetic eyes",
-            "Tanned skin",
-            "Slim, agile build"
+            "Short white hair",
+            "Sharp blue eyes",
+            "Fair skin",
+            "Lean, agile build"
         ],
-        "weapon": "Musical Batons",
+        "weapon": "Wind Blades (twin short swords)",
         "mount": null,
-        "aura": "Musical notes and lights.",
-        "personality": "Energetic, carefree, and fun-loving. She lives for the rhythm and the thrill."
+        "aura": "A constant breeze and swirling clouds.",
+        "personality": "Ambitious, determined, and free-spirited. He dreams of the sky."
     },
     {
         "id": 123,
-        "name": "Arlott",
-        "nickname": "The Spire's Light",
-        "icon": "../assets/images/heroes/123_arlott/icon.png",
+        "name": "Suyou",
+        "nickname": "The Water Serpent",
+        "icon": "../assets/images/heroes/123_suyou/icon.png",
         "images": {
-            "real": "../assets/images/heroes/123_arlott/real.png",
-            "animated": "../assets/images/heroes/123_arlott/animated.png",
-            "nineties": "../assets/images/heroes/123_arlott/90s.png",
+            "real": "../assets/images/heroes/123_suyou/real.png",
+            "animated": "../assets/images/heroes/123_suyou/animated.png",
+            "nineties": "../assets/images/heroes/123_suyou/90s.png",
             "gallery": [
-                "../assets/images/heroes/123_arlott/gallery1.png",
-                "../assets/images/heroes/123_arlott/gallery2.png",
-                "../assets/images/heroes/123_arlott/gallery3.png",
-                "../assets/images/heroes/123_arlott/gallery4.png"
+                "../assets/images/heroes/123_suyou/gallery1.png",
+                "../assets/images/heroes/123_suyou/gallery2.png",
+                "../assets/images/heroes/123_suyou/gallery3.png",
+                "../assets/images/heroes/123_suyou/gallery4.png"
             ]
         },
-        "rating": 7.8,
-        "lore": "Arlott was a priest in the Spire, a towering cathedral that pierced the clouds, where the faithful came to seek the Light's blessing. He was devout, spending his days in prayer and his nights tending to the poor, his faith unshakeable even in the face of suffering. But when a demonic horde besieged the Spire, Arlott watched as his fellow priests were slaughtered, their prayers unanswered. In desperation, he picked up a fallen knight's spear and charged into battle, not expecting to survive. But the Light answered him then—not with a miracle, but with strength, with courage, with the power to fight. Arlott drove back the demons, saving what remained of the Spire, but he was forever changed. He could no longer pray without seeing the faces of the dead; he could no longer preach without hearing the screams. He left the Spire, taking the spear with him, and now wanders as a demon hunter, his faith tested every day. His ultimate unleashes a beam of light that damages and stuns enemies—a fragment of the power that saved him. Arlott is quiet and contemplative, speaking rarely, but his actions speak of a deep, abiding compassion. He keeps a small cross carved from the wood of the Spire's altar, and he holds it when the darkness threatens to overwhelm him. In battle, he is relentless, driving his spear into demon after demon, but afterward, he prays for their souls, believing that even the damned deserve mercy. Arlott dreams of a day when the demons are no more, when he can return to the Spire and find peace, but he knows that peace may be a long time coming. Until then, he fights, a light in the darkness, guided by a faith that has been tested and not found wanting.",
-        "famousFor": "His mark and dash mechanic.",
+        "rating": 8.3,
+        "lore": "Suyou hails from the coastal villages, where he learned to fight with the fluidity of water itself. His twin blades flow like a river, striking multiple times in rapid succession. He can become water, avoiding damage and slipping through enemy lines. Suyou defends the shores from pirates and invaders, his movements unpredictable as the tide. He is calm like a still lake, but when roused, his fury is a tsunami.",
+        "famousFor": "His fluid combos and water form.",
         "abilities": [
             {
-                "name": "Piercing Light",
-                "description": "Arlott thrusts his spear, damaging and marking enemies."
+                "name": "Flowing Strike",
+                "description": "Suyou attacks rapidly with his blades, each hit dealing damage and reducing armor."
             },
             {
-                "name": "Divine Charge",
-                "description": "He dashes to a marked enemy, dealing bonus damage."
+                "name": "Water Form",
+                "description": "He transforms into water, becoming invulnerable and gaining movement speed for a short time."
             },
             {
-                "name": "Holy Ward",
-                "description": "Passively, he gains damage reduction. Active: He gains a shield."
+                "name": "Riptide",
+                "description": "He creates a whirlpool that pulls enemies and damages them over time."
             }
         ],
         "stats": {
-            "attack": 80,
-            "defense": 70,
-            "movement": 68,
-            "attackSpeed": 55
+            "attack": 88,
+            "defense": 58,
+            "movement": 75,
+            "attackSpeed": 82
         },
-        "ultimate": "Arlott unleashes a beam of light that damages and stuns enemies in a line. Marked enemies take extra damage.",
+        "ultimate": "Suyou summons a massive wave that crashes forward, damaging and stunning enemies. He then follows up with a flurry of slashes.",
         "attire": [
-            "Priest's robes with armor",
-            "Holy symbol",
-            "Leather gloves",
+            "Light armor with scale patterns",
+            "Water-themed cloak",
+            "Shell necklace",
             "Sandals"
         ],
         "physicalAppearance": [
-            "Short brown hair",
-            "Kind eyes",
-            "Fair skin",
-            "Lean build"
+            "Long blue-black hair",
+            "Deep blue eyes",
+            "Tanned skin",
+            "Lean, muscular build"
         ],
-        "weapon": "Holy Spear",
+        "weapon": "Twin Serpent Blades",
         "mount": null,
-        "aura": "A soft golden glow.",
-        "personality": "Devout, humble, and compassionate. He believes in redemption for all."
+        "aura": "A fine mist and the sound of waves.",
+        "personality": "Calm, introspective, but fierce when provoked. He speaks in metaphors about water."
     },
     {
         "id": 124,
-        "name": "Ixia",
-        "nickname": "The Star Spark",
-        "icon": "../assets/images/heroes/124_ixia/icon.png",
+        "name": "Tigreal",
+        "nickname": "The Bulwark",
+        "icon": "../assets/images/heroes/124_tigreal/icon.png",
         "images": {
-            "real": "../assets/images/heroes/124_ixia/real.png",
-            "animated": "../assets/images/heroes/124_ixia/animated.png",
-            "nineties": "../assets/images/heroes/124_ixia/90s.png",
+            "real": "../assets/images/heroes/124_tigreal/real.png",
+            "animated": "../assets/images/heroes/124_tigreal/animated.png",
+            "nineties": "../assets/images/heroes/124_tigreal/90s.png",
             "gallery": [
-                "../assets/images/heroes/124_ixia/gallery1.png",
-                "../assets/images/heroes/124_ixia/gallery2.png",
-                "../assets/images/heroes/124_ixia/gallery3.png",
-                "../assets/images/heroes/124_ixia/gallery4.png"
+                "../assets/images/heroes/124_tigreal/gallery1.png",
+                "../assets/images/heroes/124_tigreal/gallery2.png",
+                "../assets/images/heroes/124_tigreal/gallery3.png",
+                "../assets/images/heroes/124_tigreal/gallery4.png"
             ]
         },
-        "rating": 7.9,
-        "lore": "Ixia was an astrophysicist on a space station orbiting a dying star, studying the final moments of a sun that had burned for billions of years. She was alone up there, her only companions the data streams and the silent void, but she was content—she was doing what she loved, uncovering the secrets of the cosmos. When the star finally went supernova, the station was caught in the blast wave, and Ixia should have been vaporized. Instead, the stellar energy fused with her, transforming her into a being of living starfire. She awoke floating in space, her body crackling with energy, her mind connected to the pulse of the universe. She drifted for years before crash‑landing on the Land of Dawn, a cosmic castaway in a world of magic and monsters. Now she uses her starfire to protect this new world, her blasts exploding on impact, her power scaling with her attack speed. Her ultimate unleashes a barrage of star bolts, each one a piece of the supernova that gave her life. Ixia is fascinated by this world, studying its plants and creatures with the same rigor she once applied to stars. She keeps a log of her observations, comparing them to cosmic phenomena, finding patterns in chaos. In battle, she is focused and precise, her movements economical, her aim true. But in quiet moments, she gazes at the night sky, searching for a constellation that might lead her home. Ixia knows that her old life is gone, that the station and the star are dust, but she carries their memory in her heart. She fights now to protect this world, this accidental home, because she believes that every spark of life is precious, and that even a dying star can give birth to something new.",
-        "famousFor": "Her explosive energy blasts and attack speed scaling.",
+        "rating": 8.0,
+        "lore": "Tigreal is the captain of the Moniyan Guard, a knight whose honor is as unbreakable as his shield. He has led countless charges, protected innumerable innocents, and never once faltered in his duty. His ultimate slams enemies into the air and stuns them, creating opportunities for his allies. Tigreal is a symbol of hope and resilience, a man who believes that even in the darkest times, a single brave soul can turn the tide. He carries the weight of his fallen comrades on his shoulders, and every battle is fought in their memory.",
+        "famousFor": "His crowd control and initiation.",
         "abilities": [
             {
-                "name": "Star Bolt",
-                "description": "Ixia fires a bolt that explodes, dealing area damage."
+                "name": "Attack Wave",
+                "description": "Tigreal swings his sword, sending a wave of energy that damages and slows enemies."
             },
             {
-                "name": "Cosmic Shield",
-                "description": "She gains a shield and damages nearby enemies."
+                "name": "Sacred Shield",
+                "description": "He raises his shield, gaining damage reduction and reflecting some damage."
             },
             {
-                "name": "Supernova",
-                "description": "Passively, she gains attack speed. Active: She fires multiple bolts."
+                "name": "Charge",
+                "description": "He charges forward, knocking back enemies and stunning the first one hit."
             }
         ],
         "stats": {
-            "attack": 86,
-            "defense": 42,
-            "movement": 65,
-            "attackSpeed": 80
+            "attack": 55,
+            "defense": 92,
+            "movement": 60,
+            "attackSpeed": 30
         },
-        "ultimate": "Ixia unleashes a barrage of star bolts, each dealing physical damage. The number of bolts scales with attack speed.",
+        "ultimate": "Tigreal slams his sword into the ground, creating a shockwave that pulls enemies inward and stuns them.",
         "attire": [
-            "Space-themed combat suit",
-            "Star helmet",
-            "Energy pack",
-            "Boots"
+            "Full plate armor with lion motifs",
+            "Knight's helm",
+            "Cape",
+            "Steel boots"
         ],
         "physicalAppearance": [
-            "Short silver hair",
-            "Glowing blue eyes",
-            "Pale skin",
-            "Athletic build"
+            "Short brown hair",
+            "Honest brown eyes",
+            "Scar on left cheek",
+            "Tall, muscular build"
         ],
-        "weapon": "Star Cannon",
+        "weapon": "Greatsword and Tower Shield",
         "mount": null,
-        "aura": "Tiny sparks of star energy.",
-        "personality": "Determined, focused, and a bit distant. She sees herself as a guardian of the cosmos."
+        "aura": "A gleaming aura of courage.",
+        "personality": "Honorable, selfless, and courageous. He leads by example."
     },
     {
         "id": 125,
-        "name": "Novaria",
-        "nickname": "The Astrologer",
-        "icon": "../assets/images/heroes/125_novaria/icon.png",
+        "name": "Yi Sun-shin",
+        "nickname": "The Turtle Ship Commander",
+        "icon": "../assets/images/heroes/125_yi_sun_shin/icon.png",
         "images": {
-            "real": "../assets/images/heroes/125_novaria/real.png",
-            "animated": "../assets/images/heroes/125_novaria/animated.png",
-            "nineties": "../assets/images/heroes/125_novaria/90s.png",
+            "real": "../assets/images/heroes/125_yi_sun_shin/real.png",
+            "animated": "../assets/images/heroes/125_yi_sun_shin/animated.png",
+            "nineties": "../assets/images/heroes/125_yi_sun_shin/90s.png",
             "gallery": [
-                "../assets/images/heroes/125_novaria/gallery1.png",
-                "../assets/images/heroes/125_novaria/gallery2.png",
-                "../assets/images/heroes/125_novaria/gallery3.png",
-                "../assets/images/heroes/125_novaria/gallery4.png"
+                "../assets/images/heroes/125_yi_sun_shin/gallery1.png",
+                "../assets/images/heroes/125_yi_sun_shin/gallery2.png",
+                "../assets/images/heroes/125_yi_sun_shin/gallery3.png",
+                "../assets/images/heroes/125_yi_sun_shin/gallery4.png"
             ]
         },
-        "rating": 8.1,
-        "lore": "Novaria was born under a comet, the elders said, and the stars themselves marked her as special. From childhood, she could read the heavens, predicting harvests and storms, guiding her people through the cycles of the sky. She was revered as an oracle, her words treated as law, but Novaria was never comfortable with power—she saw herself as a servant of the stars, not a ruler. When a great calamity threatened her land, she consulted the heavens and saw a vision: a hero from another world, a being of light, who would save them. She spent years searching, following the stars' guidance, until she arrived in the Land of Dawn. There she found not one hero, but many, and she realized that her prophecy was not about a single savior, but about the power of many to change fate. Now she uses her astral magic to aid these heroes, projecting stars that reveal enemies and firing beams of cosmic energy. Her ultimate creates a massive star that reveals all enemies in an area, a reflection of her desire to illuminate truth. Novaria is calm and patient, her voice soft as starlight, but her eyes hold the wisdom of ages. She keeps a star chart of the Land of Dawn's sky, mapping the constellations she has learned, and she adds to it each night. In battle, she is a support, guiding her allies with celestial insight, revealing ambushes and predicting enemy movements. Novaria dreams of one day returning to her people, of sharing what she has learned, but she knows that her journey is far from over. The stars have more to show her, and she will follow them wherever they lead, a pilgrim of the cosmos, guided by light.",
-        "famousFor": "Her vision and long-range poke.",
+        "rating": 8.2,
+        "lore": "Admiral Yi Sun-shin is a legendary naval commander who defends the seas with his invincible turtle ship. He can fire cannons from a distance, and his ultimate summons his ship to bombard enemies. He is a master strategist, always thinking several moves ahead. Even when outnumbered, he never retreats, because he knows that the sea itself fights beside him. His presence on the battlefield inspires his allies and strikes fear into his enemies.",
+        "famousFor": "His long-range cannon fire and stealth.",
         "abilities": [
             {
-                "name": "Star Gaze",
-                "description": "Novaria sends a star that reveals and damages enemies."
+                "name": "Tactical Advance",
+                "description": "Yi Sun-shin fires a cannonball that damages and slows enemies."
             },
             {
-                "name": "Astral Beam",
-                "description": "She fires a beam, damaging and slowing enemies."
+                "name": "Ironclad",
+                "description": "He enters stealth and gains movement speed, then fires a shot that deals bonus damage."
             },
             {
-                "name": "Celestial Guidance",
-                "description": "Passively, she gains movement speed. Active: She marks an enemy, revealing them."
+                "name": "Naval Support",
+                "description": "Passively, he gains attack speed. Active: He fires a volley of cannonballs."
+            }
+        ],
+        "stats": {
+            "attack": 85,
+            "defense": 55,
+            "movement": 70,
+            "attackSpeed": 68
+        },
+        "ultimate": "Yi Sun-shin calls his turtle ship to bombard a targeted area, dealing massive damage and slowing enemies.",
+        "attire": [
+            "Admiral's uniform",
+            "Naval hat",
+            "Compass",
+            "Boots"
+        ],
+        "physicalAppearance": [
+            "Short black hair",
+            "Keen brown eyes",
+            "Tanned skin",
+            "Lean, sturdy build"
+        ],
+        "weapon": "Naval Sword and Cannon",
+        "mount": null,
+        "aura": "The smell of sea salt and gunpowder.",
+        "personality": "Strategic, calm, and authoritative. He speaks with the confidence of a seasoned commander."
+    },
+    {
+        "id": 126,
+        "name": "Yu Zhong",
+        "nickname": "The Black Dragon",
+        "icon": "../assets/images/heroes/126_yu_zhong/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/126_yu_zhong/real.png",
+            "animated": "../assets/images/heroes/126_yu_zhong/animated.png",
+            "nineties": "../assets/images/heroes/126_yu_zhong/90s.png",
+            "gallery": [
+                "../assets/images/heroes/126_yu_zhong/gallery1.png",
+                "../assets/images/heroes/126_yu_zhong/gallery2.png",
+                "../assets/images/heroes/126_yu_zhong/gallery3.png",
+                "../assets/images/heroes/126_yu_zhong/gallery4.png"
+            ]
+        },
+        "rating": 8.7,
+        "lore": "Yu Zhong is the last of the Black Dragon lineage, a warrior who can transform into a fearsome dragon. He seeks to revive the glory of his ancestors and unite the Eastern lands under his rule. His fists carry the power of the dragon, his breath scorches enemies, and his ultimate lets him soar through the sky, crashing down as a dragon. He is arrogant and ambitious, but he also carries the weight of his extinct race, fighting to prove that dragons are not just legends.",
+        "famousFor": "His dragon transformation and sustain.",
+        "abilities": [
+            {
+                "name": "Dragon Tail",
+                "description": "Yu Zhong swings his tail, damaging and knocking back enemies."
+            },
+            {
+                "name": "Black Dragon Form",
+                "description": "He partially transforms, gaining increased attack range and dealing bonus damage."
+            },
+            {
+                "name": "Furious Drive",
+                "description": "He charges forward, damaging enemies and gaining a shield."
+            }
+        ],
+        "stats": {
+            "attack": 90,
+            "defense": 75,
+            "movement": 68,
+            "attackSpeed": 60
+        },
+        "ultimate": "Yu Zhong transforms into a black dragon, soaring into the air and then crashing down at a targeted location, dealing massive damage and stunning enemies.",
+        "attire": [
+            "Dragon-scale armor",
+            "Horned helmet",
+            "Black cape",
+            "Heavy boots"
+        ],
+        "physicalAppearance": [
+            "Long black hair with dragon horns",
+            "Piercing yellow eyes",
+            "Tanned skin with dragon tattoos",
+            "Tall, muscular build"
+        ],
+        "weapon": "Dragon Fists",
+        "mount": null,
+        "aura": "Flickering black flames and dragon roars.",
+        "personality": "Proud, ambitious, and charismatic. He speaks of destiny and power."
+    },
+    {
+        "id": 127,
+        "name": "Zetian",
+        "nickname": "The Celestial Empress",
+        "icon": "../assets/images/heroes/127_zetian/icon.png",
+        "images": {
+            "real": "../assets/images/heroes/127_zetian/real.png",
+            "animated": "../assets/images/heroes/127_zetian/animated.png",
+            "nineties": "../assets/images/heroes/127_zetian/90s.png",
+            "gallery": [
+                "../assets/images/heroes/127_zetian/gallery1.png",
+                "../assets/images/heroes/127_zetian/gallery2.png",
+                "../assets/images/heroes/127_zetian/gallery3.png",
+                "../assets/images/heroes/127_zetian/gallery4.png"
+            ]
+        },
+        "rating": 8.6,
+        "lore": "Zetian is the empress of the celestial realm, a divine being who watches over the cosmos. She descended to the Land of Dawn to restore balance, wielding the power of stars and constellations. She can summon celestial guards to fight for her, and her ultimate rains down meteors. Zetian is serene and all-knowing, but she is also compassionate, understanding the struggles of mortals. She fights not for conquest, but for harmony.",
+        "famousFor": "Her celestial summons and area damage.",
+        "abilities": [
+            {
+                "name": "Starfall",
+                "description": "Zetian calls down a star, damaging and slowing enemies in an area."
+            },
+            {
+                "name": "Heavenly Guard",
+                "description": "She summons a celestial guardian that attacks enemies and grants vision."
+            },
+            {
+                "name": "Divine Authority",
+                "description": "Passively, she gains magic power. Active: She empowers her next skill."
             }
         ],
         "stats": {
             "attack": 25,
-            "defense": 40,
-            "movement": 68,
+            "defense": 55,
+            "movement": 60,
             "attackSpeed": 30
         },
-        "ultimate": "Novaria creates a massive star that reveals all enemies in a large area and deals continuous damage.",
+        "ultimate": "Zetian summons a meteor shower, dealing massive damage to all enemies in a wide area and leaving behind a burning zone.",
         "attire": [
-            "Astrologer's robes",
-            "Star chart",
-            "Crystal ball",
-            "Soft shoes"
+            "Celestial robes embroidered with stars",
+            "Golden crown",
+            "Jade bangles",
+            "Silk slippers"
         ],
         "physicalAppearance": [
-            "Long silver hair",
-            "Mystical purple eyes",
-            "Pale skin",
-            "Graceful figure"
+            "Long black hair with silver streaks",
+            "Eyes like galaxies",
+            "Pale, luminous skin",
+            "Elegant, regal figure"
         ],
-        "weapon": "Astrolabe",
+        "weapon": "Celestial Orb",
         "mount": null,
-        "aura": "Faint constellations appear around her.",
-        "personality": "Wise, mysterious, and calm. She speaks of destiny and the stars."
+        "aura": "Twinkling stars and a soft glow.",
+        "personality": "Wise, compassionate, and regal. She speaks with the authority of an empress."
     },
     {
-        "id": 126,
-        "name": "Chip",
-        "nickname": "The Portal Master",
-        "icon": "../assets/images/heroes/126_chip/icon.png",
+        "id": 128,
+        "name": "Zhuxin",
+        "nickname": "The Lantern Spirit",
+        "icon": "../assets/images/heroes/128_zhuxin/icon.png",
         "images": {
-            "real": "../assets/images/heroes/126_chip/real.png",
-            "animated": "../assets/images/heroes/126_chip/animated.png",
-            "nineties": "../assets/images/heroes/126_chip/90s.png",
+            "real": "../assets/images/heroes/128_zhuxin/real.png",
+            "animated": "../assets/images/heroes/128_zhuxin/animated.png",
+            "nineties": "../assets/images/heroes/128_zhuxin/90s.png",
             "gallery": [
-                "../assets/images/heroes/126_chip/gallery1.png",
-                "../assets/images/heroes/126_chip/gallery2.png",
-                "../assets/images/heroes/126_chip/gallery3.png",
-                "../assets/images/heroes/126_chip/gallery4.png"
+                "../assets/images/heroes/128_zhuxin/gallery1.png",
+                "../assets/images/heroes/128_zhuxin/gallery2.png",
+                "../assets/images/heroes/128_zhuxin/gallery3.png",
+                "../assets/images/heroes/128_zhuxin/gallery4.png"
             ]
         },
-        "rating": 7.5,
-        "lore": "Chip was not born; he was assembled from spare parts in a junkyard by a lonely child named Kael who dreamed of having a friend. Kael was an orphan, living in the shadow of a massive scrap heap, and he spent months scavenging for motors, wires, and a cracked power core. He built Chip piece by piece, programming him with snippets of old cartoons and his own hopeful voice. When Chip first opened his single optical sensor, Kael hugged him so tight that a few bolts popped loose. For two years, they were inseparable—Chip learning about friendship, Kael finally having someone to talk to. But when the authorities discovered Kael living alone, they took him away, leaving Chip powered down in the junk pile. Chip waited for years, his battery slowly dying, until a lightning strike rebooted him with a surge of chaotic energy. He woke with a new power: he could create portals, bending space to his will. Now Chip wanders the Land of Dawn, searching for Kael, using his portals to help travelers and fight monsters, hoping that one day he'll find the boy who gave him life. His ultimate opens a massive portal that teleports allies to his location—a desperate attempt to bring people together, to never be alone again. Chip is cheerful and endlessly curious, asking everyone he meets if they've seen a boy with messy hair and a gap‑toothed smile. He keeps a worn photograph of Kael, tucked behind a panel in his chest, and he looks at it every night before powering down. In battle, he zips through portals, confusing enemies and rescuing friends, always moving, always searching. Chip doesn't know if Kael is still alive, but he believes that somewhere, somehow, their friendship will bridge any distance. Until then, he'll keep opening doors, hoping that one of them leads home.",
-        "famousFor": "His portal ultimate that lets allies teleport.",
+        "rating": 7.8,
+        "lore": "Zhuxin was once a mortal girl who loved to light lanterns and set them adrift on rivers, each one a wish for peace. When she died, her spirit merged with the lanterns, becoming a being of flickering light. She now wanders the land, guiding lost souls with her lanterns and revealing hidden paths. Her lanterns can also drain life from enemies, and she can become intangible, passing through walls. Zhuxin is gentle and melancholic, forever searching for the river where she can set her final lantern free.",
+        "famousFor": "Her lanterns that reveal and drain.",
         "abilities": [
             {
-                "name": "Portal Blast",
-                "description": "Chip fires a portal blast, damaging enemies."
+                "name": "Lantern Blast",
+                "description": "Zhuxin fires a lantern that damages and reveals enemies."
             },
             {
-                "name": "Quantum Shield",
-                "description": "He grants a shield to an ally."
+                "name": "Spirit Walk",
+                "description": "She becomes intangible, gaining movement speed and the ability to pass through walls."
             },
             {
-                "name": "Dimensional Rift",
-                "description": "Passively, he gains cooldown reduction. Active: He creates a small portal."
+                "name": "Drain Light",
+                "description": "She tethers to an enemy, draining their health and slowing them."
             }
         ],
         "stats": {
             "attack": 30,
-            "defense": 65,
-            "movement": 70,
-            "attackSpeed": 40
+            "defense": 45,
+            "movement": 72,
+            "attackSpeed": 35
         },
-        "ultimate": "Chip creates a large portal that teleports any ally who enters to his location.",
+        "ultimate": "Zhuxin releases all her lanterns, each one damaging and slowing enemies. The lanterns then return to her, healing her for each hit.",
         "attire": [
-            "Robotic casing with portal motifs",
-            "Goggles",
-            "Tool belt",
-            "Metal boots"
+            "Flowing robes with lantern patterns",
+            "Lantern-shaped hairpin",
+            "Silk sash",
+            "Barefoot"
         ],
         "physicalAppearance": [
-            "Small robot with a single eye",
-            "Friendly design",
-            "Metal body"
+            "Long black hair with glowing tips",
+            "Soft, sorrowful eyes",
+            "Pale, ethereal skin",
+            "Slender, ghostly figure"
         ],
-        "weapon": "Portal Gun",
+        "weapon": "Lanterns",
         "mount": null,
-        "aura": "Humming energy and portal sounds.",
-        "personality": "Curious, helpful, and a bit quirky. He loves exploring and helping friends."
-    },
-    {
-        "id": 127,
-        "name": "Cici",
-        "nickname": "The Party Popper",
-        "icon": "../assets/images/heroes/127_cici/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/127_cici/real.png",
-            "animated": "../assets/images/heroes/127_cici/animated.png",
-            "nineties": "../assets/images/heroes/127_cici/90s.png",
-            "gallery": [
-                "../assets/images/heroes/127_cici/gallery1.png",
-                "../assets/images/heroes/127_cici/gallery2.png",
-                "../assets/images/heroes/127_cici/gallery3.png",
-                "../assets/images/heroes/127_cici/gallery4.png"
-            ]
-        },
-        "rating": 6.8,
-        "lore": "Cici was born in a traveling carnival, her first breath accompanied by the oompah of a calliope and the smell of fried dough. Her parents were clowns, and she inherited their oversized shoes and their philosophy: laughter is the best medicine. She grew up juggling, tumbling, and making balloon animals, but her specialty was explosives—she loved fireworks, the bigger the better. When the carnival was attacked by bandits, Cici fought back with her party supplies, stuffing firecrackers into socks and launching them at the invaders. The bandits fled, convinced they had been attacked by demons. From that day, Cici knew her calling: she would bring joy to the innocent and explosions to the wicked. Now she travels the Land of Dawn with a cart full of fireworks, confetti, and party poppers, offering free shows to children and free explosions to anyone who threatens them. Her ultimate throws a massive party bomb that stuns and damages enemies, leaving a cloud of rainbow smoke. Cici is endlessly energetic, always laughing, always planning the next celebration. She keeps a scrapbook of every party she's thrown, with photos of smiling faces and the occasional scorch mark from an explosive mishap. In battle, she dances and spins, her confetti blinding enemies while her bombs do the real work. But beneath the joy, Cici carries a sadness: she never found her parents after the bandit attack, and she wonders if they're still alive. She throws parties in every town, hoping that one day they'll hear the music and come find her. Until then, she'll keep spreading joy, one explosion at a time, a one‑woman carnival of chaos and kindness.",
-        "famousFor": "Her party bombs and cheerful personality.",
-        "abilities": [
-            {
-                "name": "Party Bomb",
-                "description": "Cici throws a bomb that damages and slows enemies."
-            },
-            {
-                "name": "Confetti Dance",
-                "description": "She spins, damaging enemies and gaining movement speed."
-            },
-            {
-                "name": "Celebration",
-                "description": "Passively, she gains attack speed. Active: She creates a zone that cheers allies."
-            }
-        ],
-        "stats": {
-            "attack": 65,
-            "defense": 38,
-            "movement": 75,
-            "attackSpeed": 70
-        },
-        "ultimate": "Cici throws a massive party bomb that damages and stuns enemies in a large area.",
-        "attire": [
-            "Colorful party dress",
-            "Party hat",
-            "Streamers",
-            "Dancing shoes"
-        ],
-        "physicalAppearance": [
-            "Short pink hair",
-            "Big smile",
-            "Fair skin",
-            "Small, energetic frame"
-        ],
-        "weapon": "Party Popper",
-        "mount": null,
-        "aura": "Confetti and sparkles.",
-        "personality": "Cheerful, bubbly, and infectious. She wants everyone to have fun."
-    },
-    {
-        "id": 128,
-        "name": "Nolan",
-        "nickname": "The Time Warden",
-        "icon": "../assets/images/heroes/128_nolan/icon.png",
-        "images": {
-            "real": "../assets/images/heroes/128_nolan/real.png",
-            "animated": "../assets/images/heroes/128_nolan/animated.png",
-            "nineties": "../assets/images/heroes/128_nolan/90s.png",
-            "gallery": [
-                "../assets/images/heroes/128_nolan/gallery1.png",
-                "../assets/images/heroes/128_nolan/gallery2.png",
-                "../assets/images/heroes/128_nolan/gallery3.png",
-                "../assets/images/heroes/128_nolan/gallery4.png"
-            ]
-        },
-        "rating": 8.7,
-        "lore": "Nolan was a keeper of the Chronos Vault, an ancient library hidden outside of time where every moment of history was recorded in crystalline memory. He was the last of his order, trained from birth to guard the timelines, to ensure that no one tampered with the flow of cause and effect. For centuries, he watched, never interfering, never feeling, a ghost in the corridors of eternity. But when a rogue time mage breached the vault and attempted to rewrite history, Nolan was forced to act. In the battle that followed, the vault was destroyed, and Nolan was thrown into the timestream, fragments of crystalline memory embedding themselves in his flesh. Now he exists outside of time, able to rewind moments, create afterimages, and perceive the branching paths of fate. His ultimate creates a time rift where afterimages of himself attack enemies—a manifestation of all the selves he might have been. Nolan is cold and detached, speaking in measured tones, because emotion is a luxury he can no longer afford. He keeps a shard of the Chronos Vault, a piece of his lost home, and he listens to it sometimes, hearing echoes of all the moments he failed to protect. In battle, he moves with inhuman precision, his afterimages confusing enemies, his rewinds undoing their attacks. But in quiet moments, he wonders if he is still human, or if he has become just another fragment of time. He searches for the rogue mage, hoping to repair the damage, but also hoping to find a way to feel again. Nolan knows that time is a river, and he is forever adrift, but he clings to the belief that somewhere, at the source, he will find peace.",
-        "famousFor": "His time manipulation and afterimages.",
-        "abilities": [
-            {
-                "name": "Time Slash",
-                "description": "Nolan slashes, damaging enemies and leaving an afterimage."
-            },
-            {
-                "name": "Rewind",
-                "description": "He rewinds to a previous position, healing damage taken."
-            },
-            {
-                "name": "Chronos Strike",
-                "description": "Passively, he deals bonus damage. Active: He attacks with multiple afterimages."
-            }
-        ],
-        "stats": {
-            "attack": 92,
-            "defense": 55,
-            "movement": 85,
-            "attackSpeed": 72
-        },
-        "ultimate": "Nolan creates a time rift, damaging and slowing enemies. Afterimages of himself attack enemies in the rift.",
-        "attire": [
-            "Time-keeper's robes",
-            "Pocket watch",
-            "Chronos gauntlets",
-            "Leather boots"
-        ],
-        "physicalAppearance": [
-            "Short gray hair",
-            "Eyes with clockwork pupils",
-            "Pale skin",
-            "Lean build"
-        ],
-        "weapon": "Chronos Blades",
-        "mount": null,
-        "aura": "Temporal ripples and clock sounds.",
-        "personality": "Melancholic, determined, and burdened by duty. He fights to correct past mistakes."
+        "aura": "Floating lanterns and a soft glow.",
+        "personality": "Gentle, melancholic, and kind. She speaks in whispers."
     },
     {
         "id": 129,
