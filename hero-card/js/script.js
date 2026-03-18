@@ -2,6 +2,7 @@
 let heroes = [];
 let currentHeroIndex = 0;
 let filteredHeroes = [];
+let currentImageType = 'real';
 
 // Fetch data
 fetch('data/data.json')
@@ -69,9 +70,23 @@ function showModal(hero) {
     modalContent.innerHTML = buildModalHTML(hero);
     modal.style.display = 'flex';
 
+    // --- NEW: apply saved image type ---
+    const mainImg = document.getElementById('mainHeroImage');
+    const imageType = hero.images[currentImageType] ? currentImageType : 'real';
+    mainImg.src = hero.images[imageType];
+    // If we fell back, update the global variable
+    currentImageType = imageType;
+
+    // Update active button
+    const buttons = document.querySelectorAll('#imageSelector button');
+    buttons.forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.type === currentImageType);
+    });
+    // --- end of new code ---
+
     // Setup image toggles
     setupImageToggles(hero);
-    
+
     // Animate progress bars
     setTimeout(() => {
         document.querySelectorAll('.progress-fill').forEach(bar => {
@@ -186,6 +201,7 @@ function setupImageToggles(hero) {
             btn.classList.add('active');
             const type = btn.dataset.type;
             mainImg.src = hero.images[type];
+            currentImageType = type;   // <-- SAVE the selected type
         });
     });
 }
