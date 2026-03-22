@@ -1,3 +1,5 @@
+Hero Id 1 Alucard
+
 Prompt 1 (Pixel Art Game Icon):
 This character is depicted as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his full body centered against a crumbling gothic cathedral backdrop under a swirling violet sky. His dirty blonde hair is tousled, his icy blue eyes narrowed with stern intensity. He wears a long navy duster coat with bronze trim over a dark vest, a silver-winged brooch glowing faintly on his lapel. His right arm is encased in a segmented silver gauntlet, his left in a simple leather glove. Dark trousers tuck into knee-high combat boots. He grips his colossal greatsword, its blade channeling pulsing blue energy from a skull-etched hilt, resting the tip on the ground as ethereal azure aura wisps curl around his pale ivory features.
 
@@ -14,6 +16,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 2 Layla
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her full hourglass figure centered against a floating city plaza backdrop under a bright sun. Her massive golden-blonde twin-tails cascade past her waist, secured high on her head with gold-rimmed goggles pushed back. Her porcelain-skinned face features large teal eyes framed by long lashes. She wears a short-sleeved white jacket with gold filigree over a violet bodice cinched at her thin waist, accentuating her full bust. A pleated navy mini-skirt reveals shapely thighs clad in dark thigh-high stockings disappearing into white boots with gold wing ornaments. Her fingerless blue gloves with gold plating grip her massive Malefic Cannon, its wooden stock reinforced with glowing gold frames surrounding a pulsing blue energy core, as azure pixelated aura sparks from the weapon.
@@ -31,6 +34,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 3 Miya
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her full hourglass figure centered on a circular stone dais glowing with neon-blue energy rings. Her long silvery-white hair cascades from a high ponytail, a crystalline crescent tiara resting above her pointed elven ears. Her porcelain-skinned face features luminous light blue eyes fixed with focused intensity. She wears a cropped cerulean top exposing her toned midriff and thin waist, a royal blue mantle fastened at her chest. Dark midnight-blue leggings hug her thick thighs, reinforced with silver plating, leading to high dark boots with silver accents. Her intricate bracers gleam as she grips her massive ornate longbow, its sweeping limbs embedded with glowing blue crystals as pixelated azure particles drift from the bow's tips against a deep indigo sky filled with distant skeletal stone structures.
@@ -47,6 +51,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 4 Eudora
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She floats in a calm yet battle-ready stance, her full hourglass figure centered on a glowing circular ritual platform etched with blue runes amidst a frozen wasteland. Her snowy white hair is styled in a sharp windswept pixie cut, a dark metallic crescent headpiece curving upward like stylized horns above her pointed elven ears. Her porcelain-skinned face features piercing almond eyes glowing with faint cyan luminescence. She wears a skintight navy bodysuit with a glowing neon lightning bolt insignia across her full bust, covered by a structured white high-collared coat with four long pointed coattails that flare behind her. Dark gauntlets cover her forearms, her fingers tipped with claw-like metallic points. Her long slender legs, encased in the same navy fabric, hover inches above the platform as jagged peaks pierce the pale blue sky behind her. In her right hand, she grips a translucent crystalline lightning spear that flickers with internal cyan energy, pixelated electrical particles crackling around her elevated form.
@@ -66,6 +71,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 5 Saber
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his full lean athletic figure centered against a void-like digital dystopia backdrop with faint neon gridlines. His snowy white hair is styled in a gravity-defying top-knot held by a trailing red ribbon, his eyes completely concealed behind a glowing wraparound crimson visor. His fair porcelain skin contrasts with the interlocking cerulean and slate-blue armor plates covering his upper body, a prominent triangular red core glowing at his chest. Flared pauldrons widen his silhouette above his flexible black under-layer. His armored greaves protect his shins as he stands firmly on integrated boots with angular toes. In each hand, he grips twin energy-infused katanas—the main blade featuring a black spine and glowing translucent red edge that hums with plasma energy. Faint red pixelated particle effects emanate from his armor as he assumes a perfect defensive stance.
@@ -85,6 +91,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 6 Akai
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his massive barrel-chested figure centered against a bamboo forest clearing at dawn. His classic panda fur pattern shows stark white on his broad face and belly, deep charcoal black across his muscular shoulders and thick limbs. His emerald green eyes peer from beneath a wide conical sedge hat secured by a red cord, swirling reddish-pink face paint marking his cheeks. A ragged red cowl drapes over his neck, fastened by a dark beaded necklace holding a glowing orange gourd with a long black tassel. Baggy brown trousers bunch at his ankles, held by a dark green sash and thick crimson braided rope knotted at the front. Perched on his left shoulder sits a tiny elderly green frog with a pointed white goatee, holding a smoking pipe. In his large paws, he grips a massive green bamboo polearm reinforced with red cord wrappings, leafy sprigs near its top as pixelated golden aura particles drift around them both.
@@ -103,6 +110,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 7 Rafaela
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She floats in a calm yet battle-ready stance, her full hourglass figure centered against the ruins of a celestial temple under a star-speckled lavender sky. Her voluminous wavy dirty-blonde hair cascades past her shoulders to her mid-back, a thin golden circlet resting upon her brow. Her porcelain-skinned face features wide luminous blue almond eyes radiating divine empathy. She wears a white sleeveless Grecian-style dress with a plunging neckline held by a gold-rimmed blue gem at her full bust, a gold-trimmed waistband cinching her slender waist. The short flared skirt transitions from white to lavender-blue with tiny starfield dots, revealing her thick thighs adorned with intricate golden knee-high greaves. Sleek golden bracers encase her forearms. Two sets of wings unfurl behind her—massive white primary wings with glowing golden tips and smaller stylized crystalline golden wings beneath. Floating beside her, an ivory staff topped with a golden lyre-like structure cradles a pulsing cyan crystal, pixelated golden-white aura particles drifting around her.
@@ -120,6 +128,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 8 Franco
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his massive barrel-chested figure centered against a snowy northern vale under a pale grey sky. His magnificent crimson beard flows down to his chest, meticulously bound at the bottom by a simple green band, his thick mustache groomed into two sharp upturned wings. His weathered pale face features small piercing eyes set deep beneath a furrowed brow, a prominent blunt nose between high cheekbones. A dark iron Nordic helmet with a spiked ridge and two massive curved horns crowns his head. A voluminous dark brown fur pelt drapes over his shoulders above a forest green tunic, his right shoulder capped by a circular iron pauldron with embossed knotwork. In his right hand, he grips a heavy-bladed cleaver-axe; in his left, a multi-pronged iron grappling hook on a sturdy chain. Beside him rests a massive dark teal metal chest reinforced with glowing cyan crystalline shards, its stylized owl faceplate pulsing with ethereal energy as pixelated frost particles drift around his weathered form.
@@ -137,6 +146,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 9 Chou
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean athletic figure centered against a neon-lit urban alleyway at night. His striking ash-grey hair is styled in a swept-back undercut with sharp upward-sweeping tufts, his face featuring a sharp angular jawline and high cheekbones. His piercing light amber-gold eyes glow beneath low-slung dark brows, his sun-kissed tan skin catching the neon glow. He wears a high-collared form-fitting jacket split into deep charcoal black and vibrant bumblebee yellow panels, cinched at his trim waist. Black fingerless grappling gloves with gold lettering reading "LONG" around the wrist wraps cover his hands, one arm partially wrapped in white athletic tape beneath. Matching tracksuit trousers with a thick yellow racing stripe end above his ankles, revealing low-top black sneakers with three diagonal yellow stripes. Slung across his back, a large nunchaku with dark reinforced ends and white grip tape center sections, pixelated gold chi particles swirling like pressurized wind around him.
@@ -155,6 +165,9 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+
+Hero Id 10 Nana
+
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. They stand in a calm yet battle-ready stance, their diminutive feline-inspired figure centered against a magical forest glade with glowing mushrooms. Their hot-pink hair is styled in a short voluminous bob with straight-across bangs and a single playful upward-curving lock, two enormous fennec-fox-style ears with tawny-brown exteriors and cream fluffy interiors perched atop their head, white petal-like fur tufts at each base. Their soft rounded face features wide crystalline blue eyes framed by thick dark lashes, plump rosy cheeks, and a small upturned nose against pale porcelain skin. They wear a sleeveless magenta tunic with a high white fur-lined collar, cinched at their tiny waist by a thick golden-yellow belt with an oversized paw-shaped buckle featuring four distinct toe beans. Large flared magenta bracers with white fur trim protect their forearms. Voluminous royal purple harem-style trousers with vertical dark stripes puff out before tucking into simple brown leather boots. Behind them floats a colossal curved boomerang of dark polished wood reinforced with gleaming gold plating, etched with subtle ridges and glowing with faint mystical shimmer, pixelated sparkles of soft pink aura dancing around their massive bushy tail that gradients from rich brown at the base to creamy white at the tip.
 
@@ -172,6 +185,9 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+
+Hero Id 11 Bruno
+
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his powerful V-tapered figure centered against an ancient sun-drenched arena with weathered stone pillars and blue geometric engravings. His electric gold hair is styled in a voluminous swept-back undercut, amber-tinted tactical visors with golden frames obscuring his eyes while conveying predatory focus. His sun-kissed tan skin gleams beneath a deep charcoal grey armored vest featuring a glowing cerulean power core at his solar plexus, polished silver plating over his shoulders. His right arm shows a lean defined bicep leading to a brown tactical glove and metallic bracer, his left arm similarly geared. Below his waist, advanced cybernetic cobalt and silver prosthetics with exposed mechanical joints and glowing blue circular vents replace his legs, terminating in integrated athletic footwear. A hovering Powerball sphere glowing with intense turquoise energy floats before him, etched with glowing circuitry as pixelated dust particles kick up around his sliding stance.
 
@@ -187,6 +203,9 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+
+
+Hero Id 12 Clint
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his balanced athletic figure centered against a dusty frontier town under an orange sunset sky. His sandy-blonde hair falls in messy layered strands to his shoulders beneath a wide-brimmed black cowboy hat featuring a silver V-shaped emblem and a small tan feather. His weathered light tan face displays a strong squared jawline, prominent straight nose, and a short well-groomed beard, his piercing blue-grey eyes sharp and calculating. He wears a short-sleeved white button-up shirt with rolled sleeves over lean forearms, a dark charcoal-grey vest with a shining silver six-pointed sheriff's star pinned to his left chest. A crimson-red bandana is tied loosely around his neck. A dark leather bandolier slung across his chest holds brass-capped rifle cartridges. Dark fingerless leather gloves with reinforced knuckles cover his hands. Dark grey pants with tan fringed leather chaps featuring diamond-shaped knee reinforcements lead to black leather boots with small silver-rowelled spurs. A sleek silver-barreled revolver sits in a low-slung tactical holster on his right hip. Over his left shoulder rests a massive heavy-caliber rifle with polished wood stock and intricately engraved matte-black metal receiver, pixelated dust particles drifting around his stoic form.
@@ -204,6 +223,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 13 Gord
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He glides in a calm yet battle-ready stance atop a levitating neon-blue energy board, his full hyper-defined figure centered against a crumbling celestial temple floating above swirling vortex clouds. His skin transitions from deep regal violet on his lower torso to glowing indigo on his chest and face, lean musculature accentuated by flowing starlight patterns. His sharp ethereal face features a high chiseled jawline and noble straight nose, his eyes consisting of twin orbs of brilliant pulsing white light emitting faint misty vapor. Flickering ethereal cyan flames drift upward from his head in a swept-back wild crest. Obsidian-colored armor plates etched with glowing blue runes wrap his shoulders and neck, a heavy crackling gauntlet on his left arm, a crystalline translucent sleeve on his right. A curved bladed crescent ornament attached to his left shoulder glows faint violet. In his hands, he conjures spheres of swirling white and blue plasma, a flickering corona of cyan and purple sparks dancing around his silhouette as pixelated energy particles trail behind his floating board.
@@ -221,6 +241,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 14 Harley
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He poses with crossed-legged playful arrogance, his petite slender figure centered against a grand Victorian theater stage with velvet curtains and floating playing cards. His golden-orange curls are styled into two prominent symmetrical horizontal rolls above his ears, an oversized dark navy top hat with gold filigree band and glowing red teardrop gemstone perched atop his head. His pale porcelain face features large expressive emerald green almond eyes framed by thin brows and an upturned mischievous smirk. He wears a high-collared black frock coat with deep crimson interior lining flaring at the tails, oversized gold-trimmed cuffs, a ruffled scarlet cravat over a vertically striped purple and black waistcoat. Sleek black leather gloves cover his hands, one holding a mystical playing card with two red spade icons. Charcoal paned breeches with purple stripes lead to white hosiery and black leather dress shoes with small red bows and gold buckles. In his other hand, he leans on a sleek black cane terminating in a large translucent crimson orb glowing with internal flickering light, pixelated red arcane particles dancing around his poised form.
@@ -238,6 +259,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 15 Balmond
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his monstrous boulder-like figure centered against a volcanic wasteland with glowing violet energy veins fracturing dark purple stone. His blood-red hair is styled into thick corded dreadlocks pulled back into a high sweeping ponytail held by bone-like rings with sharp ornamental spikes. His deep crimson-tan skin displays hyper-masculine musculature covered in glowing amber-gold tattoos tracing his pecs and abs like molten lava beneath the surface. His massive squared-off jaw and prominent heavy brow frame piercing solid white pupil-less eyes above a broad flattened nose and grimacing mouth with protruding lower tusks. A heavy dark metallic spiked gorget protects his neck. His left arm bears a massive spiked gauntlet with curved elbow blade; his right arm is wrapped in dark reinforced leather bracers. Heavy dark-plated greaves with jagged clawed boots and flared bone knee guards armor his legs. In his hands, he grips a titanic single-headed battle-axe with an enormous ivory serrated blade, a glowing spherical orange core at its center encased in scorched black metal, pixelated orange embers and heat distortion rising from the weapon as floating rock formations drift through the twilight sky behind him.
@@ -255,6 +277,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 16 Minotaur
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his colossal minotaur figure centered against a volcanic wasteland with glowing magma rivers and floating embers. His fiery orange mane sweeps upward into jagged flame-like tufts above a broad subterranean jawline, a long braided orange beard reaching his upper chest held by small dark bands. His eyes glow with continuous molten orange luminescence beneath a black angular sigil branded on his forehead. Massive dark slate-blue bull horns curve forward and inward around his face, while smaller bone-white spikes erupt from his volcanic stone pauldrons etched with glowing orange veins. His deep terracotta red skin shows hyper-masculine barrel-chested musculature, the area around his mouth transitioning to pale flesh tone. Heavy brawler's gloves with exposed fingers tied in dark leather wrap his hands. A thick rope belt secures a dark loincloth with ornamental metal plating and a central circular glowing gem. His digitigrade legs covered in coarse dark-red fur end in massive split black hooves. In his hands, he grips a gargantuan two-handed war hammer with a blunt volcanic rock head featuring jagged crystalline edges pulsing with radiant orange light, a large bone embedded in its side, pixelated heat haze and orange embers rising from his oppressive form.
@@ -272,6 +295,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 17 Alice
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She floats in a calm yet battle-ready stance, her tall slender athletic figure centered against a hellish fortress with floating obsidian spires under a blood-red sky. Her brilliant white hair is sleekly side-swept, falling elegantly over one side of her face while revealing her sharp aristocratic features. Two large obsidian-black horns curve upward from her crown, thick at the base tapering to wicked points. Her pale porcelain skin contrasts with her attire as her massive leathery bat-like wings unfurl behind her, deep bruised purple and vibrant magenta with glowing vein-like patterns pulsing across translucent membranes, sharp black talons at each joint. Her eyes are narrow and piercing with glowing vibrant crimson hue framed by thin dark brows and subtle eyeshadow. She wears a form-fitting black bodice with plunging neckline and sharp wing-like shoulder protrusions, transitioning to high-gloss crimson-armored plating. Sleek dark sleeves end in sharp metallic gauntlets giving her fingers claw-like appearance. A heavy ornate golden crest sits at her waist above layered petal-like armor plates flaring at the hips, leading to a long split cape with dark exterior and glowing red interior lining ending in tattered flame-like points. Pixelated dark energy particles swirl around her levitating form.
@@ -289,6 +313,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 18 Zilong
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean athletic figure centered against a floating celestial temple platform under a twilight sky filled with glowing dragon-shaped constellations. His deep chocolate brown hair is styled in a dramatic voluminous top-knot tapering into sharp flame-like points, held by a cyan and gold headband mimicking small dragon horns. A teal and gold crown-like circlet with a sharp central peak rests upon his head above his sharp aristocratic face with V-shaped jawline, straight noble nose, and narrow piercing eyes focused with warrior intensity. His fair skin contrasts with his sleek white tunic reinforced by heavy angular teal pauldrons with gold trim sweeping upward like dragon fins. A brilliant crimson cape flows from his shoulders draped over his left side. Intricate gold filigree across his chest plate resembles dragon musculature, narrowing to a gold-belted waist. Segmented teal gauntlets protect his arms. A long split teal and white surcoat heavily bordered in gold with diamond scale patterns falls over dark fitted trousers, leading to sleek form-fitting teal greaves and pointed sabatons. In his hands, he grips a massive ornate spear with a dark matte shaft, its spearhead shaped like a roaring dragon's head with serrated teal and orange fins glowing with internal cyan light, the long golden blade tapering to a lethal point as pixelated cyan energy particles shimmer around both warrior and weapon.
@@ -306,6 +331,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 19 Lolita
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her lean athletic hourglass figure centered against a twilight meadow with floating landmasses silhouetted against a deep cerulean sky. Her vibrant orange hair features a thick side-swept fringe framing her left face, the rest gathered into a single voluminous braid hanging over her right shoulder. Her fair pale peach skin contrasts with her features as her large luminous icy blue eyes gaze forward with focused intensity, pointed elven ears visible. She wears a dark charcoal sleeveless crop top with high collar and subtle V-cut exposing her toned midriff and thin waist, her full bust defined beneath the fabric. Asymmetrical mechanical bracers protect her arms—a tan gauntlet on her right, a dark sleeve transitioning to tan glove on her left. A wide reddish-brown leather belt with utility pouch cinches her waist. Dark form-fitting leggings lead to a stylized layered white skirt-armor with vertical pleats and horizontal grey bands. Sturdy oversized brown boots with metallic grey toe caps and orange-trimmed collars ground her stance. In her hands, she grips a colossal high-tech war hammer with a dark grey and silver metal head featuring glowing amber cores on its sides, a long dark shaft ending in a weighted pommel, pixelated amber energy particles and mist swirling around her as a glowing green magical sigil illuminates the grass beneath her feet.
@@ -323,6 +349,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 20 Hayabusa
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean athletic figure centered against a moonlit Japanese fortress rooftop with cherry blossom petals scattering in the wind. His jet-black hair is styled in thick gravity-defying spikes flaring outward with jagged aggressive energy, a dark face mask concealing the lower half of his visage. His pale cool ivory skin bears a sharp horizontal scar across the bridge of his nose above deep piercing crimson eyes glowing with internal intensity, framed by narrow focused lids. A voluminous crimson scarf flows around his neck like a trail of blood. His upper body is encased in a sleek charcoal-gray tactical vest with segmented rib-like plating, asymmetrical pauldrons with the left featuring a prominent dark bronze guard with sharp curved protrusions. Red cordage wraps around his biceps and waist. Heavy bracers shield his forearms, the left equipped with protruding metallic spikes and mechanical housing. Wide pleated slate-gray hakama trousers cinched by a thick belt with circular metallic buckle and long red decorative sashes lead to tight-fitting black greaves bound by crimson cords, ending in split-toe tabi sandals with thick black soles and red straps. Over his right shoulder, a formidable ninjato with diamond-patterned grip sits diagonally across his back, pixelated crimson shadow particles swirling around his cold lethal form.
@@ -340,6 +367,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 21 Freya
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her tall statuesque hourglass figure centered upon a circular stone dais engraved with glowing blue sigils amidst a jagged ice field under a pale clear blue sky. Her brilliant pale blonde hair is styled in thick intricate braids cascading over her shoulders and down her back, a golden winged circlet with deep blue enamel resting atop her head above her sharp regal jawline and straight noble nose. Her piercing crystalline blue eyes gleam with divine authority against her fair radiant porcelain skin. She wears a polished silvered steel breastplate with deep blue enamel accents and a central golden star motif, broad armored shoulders with elegant flared pauldrons, layered tassets guarding her hips, and elegant gauntlets etched with glowing runes. Her powerful upper body shows full bust and thin waist above long muscular thick thighs encased in ornate greaves. In her right hand, she grips a massive greatsword pulsing with golden celestial energy, its broad blade transitioning from silvered edge to glowing amber core, sun-shaped pommel visible. In her left hand, she bears a heavy kite shield adorned with a stylized golden war-deity face surrounded by sharp wing-like protrusions. Pixelated white and gold shimmering aura crackles around her like static electricity as crystalline mountain peaks rise sharply in the distance.
@@ -357,6 +385,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 22 Karina
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her tall slender hourglass figure centered on a stone ritual circle etched with golden runes amidst a twilight grassland with jagged monumental mountains rising against an indigo sky. Her striking cyan hair is styled in a high voluminous ponytail flowing like liquid energy behind her, two shorter face-framing bangs tapering to her chin, a dark metallic crown with two curved obsidian-like horns sweeping upward from her head. Her pale cool-toned lilac skin contrasts with her features as her pointed elven ears peek through her hair, her piercing luminous violet eyes glowing with inner light above a sharp V-shaped jawline and high prominent cheekbones. She wears a skin-tight obsidian and royal purple one-piece bodysuit with high-neck collar and plunging neckline revealing a glowing green gem embedded in her chest. Sharp silver-rimmed pauldrons flare outward like bat wings from her shoulders. Sleek armored gauntlets with metallic finger guards protect her hands and forearms. Silver-trimmed greaves lead to sleek pointed boots designed for silent movement. In each hand, she grips dual curved twin blades of crystalline semi-translucent material glowing with cyan energy, jagged and serrated near dark leather hilts with silver filigree, pixelated cyan energy trails and violet aura particles swirling around her.
@@ -374,6 +403,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 23 Aurora
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her slender statuesque hourglass figure centered on a circular metallic ritual platform etched with glowing blue runes amidst a vast arctic tundra under a pale clear sky with aurora borealis shimmering faintly. Her voluminous snow-white hair with subtle pale lavender and sky blue tints cascades down her back like a frozen waterfall, a divine halo of jagged ice shards forming a crown-like structure radiating outward above her head. Her pale porcelain skin with crystalline luminescence features a sharp aristocratic jawline and high sculpted cheekbones, her piercing sapphire blue eyes glowing with internal frost without visible pupils. She wears a form-fitting gradient gown transitioning from deep midnight navy at the bodice to translucent crystalline cyan at the hem, with daring side cut-outs revealing her flawless pale midriff. Detached sleeves flare into sharp crystalline fins at her wrists, deep blue elegant gloves covering her hands. Massive geometric ice shards float independently around her waist and back forming an intricate wing-like cape pulsing with cold blue magical energy. The floor-length gown splits into sharp petal-like layers resembling shattered mirror shards as pixelated sub-zero mist and floating snowflakes swirl around her frozen form.
@@ -391,6 +421,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 24 Kagura
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her slender hourglass figure centered on a weathered stone platform etched with glowing geometric runes beneath a gnarled cherry blossom tree with vibrant magenta foliage. Her shimmering pale silver hair falls in smooth straight layers past her shoulders with a clean centered parting, a delicate purple floral hairpiece gathering a small portion at the side. Her fair luminescent skin features a soft oval jawline transitioning to a delicate pointed chin, small straight nose, and large expressive almond-shaped vibrant violet eyes framed by long dark lashes. She wears a modified turquoise kimono with wide flowing sleeves featuring white interior linings and intricate floral patterns, a dark purple obi cinching her thin waist adorned with a large golden circular ornament and red decorative cord. A short pleated skirt of the same blue flows above traditional white socks and dark platform sandals with red straps. In her hands, she holds a large ornate paper umbrella with deep indigo canopy accented by teal circular bands and golden structural ribs radiating like a sunburst, its polished golden rod handle gripped firmly as pixelated ethereal violet aura and floating cherry blossom petals drift around her against a backdrop of colossal floating rock formations and jagged mountain peaks shrouded in teal and lavender mist.
@@ -408,6 +439,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 25 Gatotkaca
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his massive V-tapered figure centered on a spiritual meadow dotted with ancient glowing runes under a twilight sky where orange sunset bleeds into star-studded indigo. His pitch black hair is styled upward into an ornate topknot secured by a golden crown-like accessory tapering to a point, his warm tanned skin radiating celestial energy. His sharp masculine jawline and prominent straight nose frame striking intense amber eyes glowing with molten gold inner light, set beneath thick dark well-groomed eyebrows with unshakable resolve. He wears a black sleeveless ribbed tunic featuring a prominent eight-pointed golden star emblem at his chest, heavy golden pauldrons on his broad boulder-like shoulders, and a regal purple sash flowing from his waist. A red and gold decorative loincloth hangs over dark mid-calf length trousers wrapped at the ankles with leather bindings paired with simple open-toed sandals. Gargantuan beast-like golden gauntlets encase his hands and forearms, shaped like roaring draconic creatures with glowing turquoise eyes, crackling with intense blue lightning and celestial sparks. On his back, a specialized golden wing-like structure flares outward as pixelated golden divine light and volatile blue electricity pulse around his form against jagged violet mountains piercing the horizon.
@@ -425,6 +457,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 26 Hilda
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready wide-legged stance, her powerful amazonian hourglass figure centered on a fractured permafrost disk amidst jagged crystalline blue ice formations under a pale hazy sky with towering needle-like mountain peaks. Her vibrant orange-red mane sweeps back and falls heavily over her left shoulder like cascading flame, thick and voluminous. Her sun-kissed weathered skin with slight ruddiness features a sharp aggressive jawline and high prominent cheekbones, her piercing predatory eyes glowing with fierce unnatural intensity above a straight firm nose and determined stoic mouth. Massive weathered pauldrons of bleached skulls and horns curve aggressively upward from her broad muscular shoulders, draped with dark shaggy brown fur forming a heavy mantle. A minimalist primitive top of dark leather and bone fragments covers her full bust while leaving her toned midriff exposed, thick waist wrapped in a fur-lined loincloth held by a heavy leather belt. Her powerful tree-trunk thighs display dark blue geometric tribal tattoos above rugged brown leather boots heavily cuffed with thick white fur and secured by crisscrossing dark leather straps. In her hands, she leans on a colossal two-handed battleaxe with a long dark polished wood haft spiraled with weathered red cloth grip, its massive crescent moon axe head of dark etched metal with intricate swirling engravings and bone-like protrusions, pixelated frost particles and primal aura swirling around her indomitable form.
@@ -442,6 +475,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 27 Moskov
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance with legs braced wide, his lean athletic V-tapered figure centered on a circular stone dais etched with faint green runes amidst a vast golden-orange desert canyon under a soft hazy sky. His thick mane of royal violet hair flows past his shoulders in jagged unkempt layers, framing his sharp predatory face with high narrow nose bridge and jagged prominent jawline. His pale lavender-grey skin displays tight corded muscle across his chest, dark-violet glowing tribal markings wrapping around his shoulders and biceps like living shadows. His eyes are piercing monochromatic magenta orbs without pupils, staring with cold vengeful focus. He is shirtless, his muscular chest exposed, a heavy segmented gauntlet glowing with pulsing purple energy covering his left arm from hand to mid-bicep. Dark fitted trousers with protective plating encase his lower body, a wide ornate belt with circular silver buckle securing a flowing split-tail dark plum loincloth tattered at the edges. Intricate sharp-toothed greaves lead to heavy boots with jagged claw-like toe plates. In his hands, he grips a massive two-headed spear with dark obsidian-like spiraling shaft, both ends featuring broad wickedly sharp blades with saw-toothed edges, the primary blade infused with a concentrated core of violet energy radiating shimmering aura. In the distance, colossal sandstone cliff-carved ruins with soaring arches and layered terraces dominate the horizon, two small hawk-like birds perched on nearby rocks as pixelated violet energy particles and heat haze shimmer around his spectral form.
@@ -459,6 +493,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 28 Johnson
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready wide grounded stance, his colossal heavily armored juggernaut figure centered on a polished futuristic platform reflecting golden sunset light, surrounded by towering white spires and floating stone arches with blue-and-gold filigree under a vast clear sky with wispy gold-tinged clouds. His head is protected by a sleek aerodynamic helmet with deep purple and white plating and glowing blue optical sensors, a powerful square jawline visible beneath showing rugged tanned skin texture. His eyes burn with sharp electric blue light matching his suit's energy. The upper body features an incredibly broad torso in a vibrant royal purple and stark white exosuit with safety-orange mechanical vents and glowing teal circuitry, a central power core humming at his chest. Massive shoulders and heavily reinforced arms with hydraulic pistons and thick plating lead to large mechanized gauntlets. His legs are built like fortress pillars, ending in massive stomping boots with wide industrial treads and silver claw-like protrusions. In his right hand, he wields a gargantuan high-tech adjustable wrench mace in matte black and metallic charcoal with glowing blue energy cells. In his left hand, he carries a legendary multi-faceted purple shield with silver trim and jagged tooth-like spikes along the bottom edge, glowing with faint violet energy field as pixelated blue light beams shoot into the sky from distant structures behind his indestructible form.
@@ -476,6 +511,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 29 Cyclops
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. They stand in a calm yet battle-ready stance, their stout compact figure centered on a stone ritual circle etched with faint ley lines amidst rolling green plains and jagged slate rock formations under a deep navy and teal twilight sky streaked with falling star trails. Their oversized wide-brimmed wizard's hat in saturated blue with tattered weathered edge sits atop their head, adorned with a prominent polished gold crescent moon emblem above the brow. A thick dark purple cowl shrouds their entire head and facial structure, revealing only a single large glowing eye with vibrant cyan-to-electric-blue iris emitting soft neon luminescence at their center. A heavy layered purple scarf wraps around the neck and chest creating a bulky upper silhouette, over a dark form-fitting tunic cinched by a golden belt with sharp star-like protrusions. Puffed dark indigo harem-style trousers taper down to small pointed golden boots. Dark gloves cover their hands, one holding a swirling concentrated orb of nebulous blue light crackling with arcane sparks. On their back floats a massive ornate hourglass-shaped relic of burnished gold with rotating gears, celestial engravings, and glowing blue filaments pulsing with divine cosmic aura, pixelated cyan energy particles and starlight drifting around their mystical form.
@@ -494,6 +530,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 30 Ruby
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her lean athletic hourglass figure centered on misty cobblestone streets of a medieval fantasy town with steep blue-tiled gabled roofs and timber-framed walls under a hazy blue-toned twilight sky, a single warm-glowing lamp post nearby. Her shoulder-length straight blonde hair with neat bangs is partially tucked under a vibrant crimson-red hooded cape lined with white fur that drapes over her shoulders and flutters behind her. Her fair porcelain skin features a soft rounded jawline and delicate straight nose, her left eye a bright clear blue while her right eye is obscured by a red heart-shaped eyepatch adding mystery. Beneath the cape, she wears a white blouse with puffed sleeves cinched at her thin waist by a dark corset-style bodice with intricate gold lacing. A short pleated crimson skirt with black-and-gold diamond-patterned trim flows above sleek black thigh-high stockings adorned with gold vertical stripes and small red bows, leading to red high-heeled shoes with matching bow details. In her hands, she grips a massive formidable scythe with a jet black reinforced shaft and curved menacing dual-toned black and blood-red blade, featuring a prominent gold-framed heart-shaped ornament near the junction and small gold filigree with sharp protrusions along the blade's back, pixelated mystical red aura particles and mist swirling around her as a distant fortress looms on the horizon.
@@ -511,6 +548,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 31 Sun
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean powerful figure centered on an ancient weathered stone platform carved with geometric labyrinthine patterns jutting over a serene turquoise lake, surrounded by massive spiraling rock formations rising like frozen dragons into a soft pastel teal and lavender sky, a gnarled cherry blossom tree with vibrant pink foliage nearby. His wild vibrant orange-gold mane sweeps back in gravity-defying flame-like tufts, two long slender yellow plumes emerging from his forehead curving upward like celestial horns. His warm sun-kissed bronze skin reveals highly defined abdominal and pectoral muscles, his fierce golden-orange glowing eyes framed by subtle red-pigmented markings stretching toward his temples above a sharp aggressive jawline and prominent athletic nose. Dark grey and silver pauldrons with swirling cloud patterns sit on his shoulders, a massive mechanical gauntlet on his left arm featuring glowing orange pulsing orbs. Dark charcoal hakama trousers cinched by a wide belt with circular silver buckle are overlaid with a long flowing crimson sash draping behind like a royal cape. His legs are wrapped in dark bandages, prehensile monkey-like feet bare. In his hands, he grips an oversized staff of polished silver and gold metals with intricate filigree and bands of glowing orange energy, large spherical amber orbs at both ends encased in metallic housing radiating warm powerful aura, pixelated golden heat haze and celestial fire particles swirling around his divine primate form.
@@ -529,6 +567,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 32 Irithel
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance alongside her massive smilodon companion, her lean athletic hourglass figure centered on a lush glowing meadow beneath a deep indigo sky dominated by a luminous silver moon, weeping willow-like trees with vibrant violet and magenta leaves draped in glowing translucent vines framing the scene. Her voluminous fiery crimson ponytail erupts from the top of her head flowing down like a literal flame, her elongated pointed elven ears sweeping elegantly backward from her temples. Her pale porcelain-smooth skin features a sharp aristocratic high-cheekboned jawline tapering to a delicate chin, her piercing luminous blue eyes glowing with faint inner light above a straight slender nose. A golden metallic pauldron curves upward like a crescent moon on her right shoulder over a crimson and gold bustier, thick protective cream-colored fur bracers with gold bands wrapping her forearms. Form-fitting crimson leggings transition into intricate golden greaves and sharply angled sabaton boots like ornamental talons. On her left arm, a heavy mechanical golden crossbow with sharp bladed edges and glowing accents straps to her forearm. Beside her, the great smilodon Leo stands with massive muscular frame of thick charcoal-gray and silver fur, two oversized curved ivory tusks protruding from his upper jaw, dark mane bristling, primal yellow glowing eyes matching golden armor plates on his paws, pixelated blue spores and mystical flora pulsating around them as jagged mist-shrouded mountains rise against the horizon.
@@ -546,6 +585,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 33 Argus
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean powerful abyssal figure centered on a dark ribbed skeletal ground beneath a swirling purple and violet vortex sky with jagged floating rock formations defying gravity. His deep bruised purple skin with matte texture supports a lean yet exceptionally powerful musculature. A masterfully crafted silver-chrome helmet hides his facial structure, featuring two prominent upward-curving horns glowing with toxic lime-green luminosity at the tips, the eye slits pulsing with that same malevolent green radiance. Heavy jagged silver plating encases his upper body, a massive swept-back pauldron resembling a predatory bird's wing on his left shoulder, while his right side features protrusions of glowing green crystalline growths bursting from his skin. A glowing green sigil core pulses at his chest like a dark energy heartbeat. Segmented lime-green loincloth-style armor hangs below, flanked by heavy pointed silver greaves protecting his shins. His vibrant green three-toed clawed talons plant firmly into the desolate earth. In his hands, he grips a massive single-edged greatsword with intricately detailed bone-like hilt structures, the jagged irregular blade glowing with intense flickering green flame trailing wisps of emerald smoke, pixelated toxic green particles and corrupted energy swirling around his immortal form.
@@ -563,6 +603,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 34 Lesley
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her lean athletic hourglass figure centered on a polished white marble plaza inlaid with a golden sunburst compass before a sprawling white-stone palace with massive sword-shaped pillars draped in blue banners under a golden sun-drenched horizon. Her deep voluminous magenta hair is styled with a side-swept fringe and gathered into a massive thick braid falling past her waist tied with a simple black ribbon, a delicate blue feather ornament tucked into the side. Her pale porcelain skin features a refined oval face with sharp well-defined jawline and straight slender nose, her piercing vivid blue eyes alert above neatly groomed thin eyebrows. She wears a tailored high-collared royal blue military coat with gold-trimmed lapels and white ruffled cravat detailing, form-fitting sleeves leading to dark fingerless leather gloves. Sleek dark navy leggings with ornate gold filigree patterns at her thick thighs disappear into polished black high-heeled boots. In her hands, she grips a massive customized long-range sniper rifle with heavy dark metallic barrel featuring teal glowing accents near muzzle and breech, polished wood and silver-toned metal stock, a small glowing orb accessory at her waist, pixelated disciplined blue energy particles and warm golden light swirling around her composed form.
@@ -579,6 +620,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 35 Zhask
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean athletic biomechanical figure centered on a floating circular dais etched with glowing golden runic patterns amidst jagged mountains and floating rock formations under a twilight sky transitioning from sunset orange to star-studded indigo. His deep ribbed obsidian and charcoal exoskeleton peeks through gaps in his dark violet, silver, and crimson armor plating. His sharp angular head tapers into a singular menacing horn or blade, his small glowing orange-red eyes burning with cold calculated intelligence, mirrored by similar glowing apertures embedded in his chest and knees. Massive upward-sweeping silver and violet pauldrons resembling giant beetle mandibles frame his head, giving his upper body a wide intimidating silhouette. Segmented arm plating transitions into clawed four-fingered hands. Long whip-like appendages or stings extend from his back, twitching with life. Digitigrade legs end in three-toed orange-clawed feet. In his right hand, he wields a massive jagged dark staff pulsing with vibrant violet and pink aura crackling around its head, encrusted with glowing gems matching his eyes, pixelated void energy and cosmic particles warping the air around his alien sovereign form.
@@ -596,6 +638,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 36 Vexana
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her slender hourglass figure centered on a circular stone dais marked with glowing golden ley lines amidst lush dark green grass dotted with glowing blue flora, under a twilight sky transitioning from star-dusted indigo to warm orange and pink along the horizon with jagged purple mountain peaks and floating landmasses. Her magnificent cascade of vibrant glowing cyan hair parts down the middle to frame her face before flowing down her back in soft voluminous waves, a golden minimalist crown integrating with two large curved translucent teal crystalline horns arcing behind her head creating a divine halo effect. Her pale porcelain skin features a sharp elegant jawline and slim aristocratic nose, her piercing luminous teal-blue eyes holding calm immortal depth framed by subtly arched brows. She wears an intricate multi-layered gown with form-fitting dark bodice featuring deep violet-purple center panel cinched by a golden corset-like belt, long tight sleeves extending to gold bands at her wrists. A heavy dark-charcoal outer robe splits high at the thigh revealing luminous teal lining and violet under-skirt above her slender legs leading to elegant dark-pointed high heels with delicate gold ankle straps. In her hands, she holds a long ornate staff of dark weathered material with a glowing crystalline headpiece shaped like a swirling blossoming blue flame emitting soft misty aura, pixelated golden filigree details and ethereal teal light particles swirling around her divine sorceress form.
@@ -613,6 +656,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 37 Kadita
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her slender hourglass figure centered on a large circular stone dais embedded in pristine tropical sand etched with glowing golden runes and sea-inspired patterns, before a crystal-clear turquoise bay reflecting colossal wave-like rock formations overgrown with lush green tropical vegetation under a vast bright blue sky with soft wispy clouds. Her deep violet-indigo hair cascades in voluminous waves past her waist like moving water, adorned with a majestic golden crown featuring wing-like filigree and a glowing blue gemstone at its center. Her pale porcelain skin with luminescent pearl-like quality features a refined heart-shaped silhouette with sharp elegant jawline and high sculpted cheekbones, her striking deep oceanic blue eyes framed by long dark lashes above a straight narrow nose and soft rose-colored lips. She wears a form-fitting sea-foam green bodice with golden trim and central blue jewel, elaborate golden pauldrons trailing long translucent white silk ribbons fluttering behind like jellyfish tentacles, intricate golden bangles and armlets inlaid with turquoise adorning her arms. A high-waisted mermaid-style skirt of iridescent green scales with metallic luster splits to reveal flowing white fabric underneath, ending in golden open-toed footwear. In her right hand, she grips a massive ornate golden trident with teal-wrapped shaft and three formidable jagged tines curving outward like stylized waves, a shimmering turquoise aura rippling around the weapon, pixelated sea-foam particles and divine energy swirling around her immortal form as a massive ancient stone relic emerges from the sand to her left and small white-sailed ships dot the distant horizon.
@@ -630,6 +674,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 38 Selena
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her slender athletic hourglass figure centered on a cracked obsidian-toned ritual platform etched with glowing violet ley lines amidst jagged floating mountain peaks and a volcanic landscape under a bruised purple-tinted sky. Her voluminous silken hot pink mane flows past her shoulders with a clean middle part ending in slightly curled tips, a dark metallic tiara with two obsidian-colored horns curving upwards and slightly back crowning her head. Her deep lavender-purple flawless skin features a narrow aristocratic jawline tapering to a delicate chin, straight thin nose, and high prominent cheekbones, her large almond-shaped eyes glowing with piercing vibrant pink light lacking traditional pupils above thin dark eyebrows arched in cold confidence. She wears a sleek black bodysuit with silver metallic trim following her curves, plunging neckline revealing her purple chest, dramatic flared pauldrons of soft feathery pink material contrasting with rigid spiked dark metal armguards on her forearms terminating in claw-like finger extensions. A fragmented tasset of pointed petal-like dark plates with glowing purple filigree hangs over her hips and thighs above skin-tight purple leggings leading to exquisite dark footwear with pointed armor plates over shins and feet. Floating behind her, a massive swirling vortex of dark matter and jagged stone fragments centered around a pulsating core of violet and indigo light serves as her sentient rift-weapon, pixelated dark energy and faint pink sparks flickering around her sovereign form.
@@ -647,6 +692,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 39 Fanny
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her lithe athletic hourglass figure centered on a grand circular white marble dais inlaid with gold and blue geometric patterns, part of a sprawling futuristic fortress with massive sword-shaped pillars draped in long blue banners under a soft dawn-lit sky with golden mist clinging to lower levels. Her vibrant golden-yellow hair is styled into a dynamic wind-swept aesthetic with thick jagged bangs framing her forehead and temples, pulled back into a high spiky ponytail flaring upward like a flame. Her fair creamy porcelain skin features a sharp regal jawline and high prominent cheekbones, her striking piercing blue-violet eyes framed by meticulously groomed eyebrows above a straight narrow nose and small thin determined lips. She wears a skin-tight deep regal purple one-piece combat suit with vertical ribbing hugging her slender upper body and full bust, transitioning into dark charcoal leggings, a gold-trimmed collar at her neck, and a stylized metallic belt cinching her thin waist with diamond-shaped silver buckle. Bulky purple gauntlets reinforced with silver plating and gold accents encase her forearms, sophisticated greaves with sharp golden wing-like protrusions at the knees taper into sleek dark integrated boots. In each hand, she grips a massive heavy-duty silver broadsword with wide flat fuller sections and intricate guard designs featuring blue circular gems at the crossguard centers, hilts wrapped in high-grip material, pixelated golden dawn light and vibrating energy particles swirling around her coiled-spring form ready for aerial combat.
@@ -664,6 +710,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 40 Lancelot
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his tall lean willowy figure centered on a golden circular dais within a celestial grand cathedral-like fortress featuring massive sword-shaped white marble pillars with gold accents reaching toward a soft dawn-lit sky, floating buttresses and expansive courtyards surrounding him as red flower petals drift through the air. His voluminous golden-blonde hair falls in luxurious wavy layers to his shoulders with a few strands elegantly swept back to reveal his forehead, framing his refined slender face with sharp aristocratic jawline, straight narrow nose, and high cheekbones. His pristine pale ivory skin contrasts with his piercing crystalline blue eyes narrowed with focused intensity. He wears a deep chocolate-brown tight-fitting tunic open at the chest in a V-shape revealing his toned torso and a ruffled white cravat secured by a glowing cyan gemstone at the throat, his narrow waist held by a dark ornate corset-style belt with gold filigree and prominent buckle. A heavy gold-plated pauldron with stylized blue rose adorns his right shoulder, from which a long vibrant sapphire-blue capelet drapes down his back and over his arm. Dark leather-like bracers with gold trim encase his hands. Form-fitting dark charcoal trousers tuck into elaborate knee-high armored boots of polished silver steel with intricate gold floral engravings running down the shins to pointed fashionable toes. In his hand, he grips a slender elegant rapier with long tapering shimmering pale steel blade needle-sharp point and large circular golden handguard with swirling patterns, pixelated floral grace and deadly intent aura surrounding his perfumed knight form.
@@ -681,6 +728,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 41 Harith
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean agile feline-hourglass figure centered on a grand elevated plaza of pristine white marble and gold-inlaid stone circles beneath massive soaring arches and slender spires reaching toward a soft dawn-lit sky, giant ornamental swords embedded in guardrails draped with fluttering blue banners. His brilliant snowy white hair is styled in a wild windswept fashion with thick jagged tufts flaring outward and upward including a prominent central fringe sweeping across his forehead, two large pointed slate-grey cat ears with soft inner tufts emerging from his crown. His fair porcelain-smooth skin features a soft rounded jawline retaining boyishness and a small straight delicate nose, his large expressive eyes shimmering with vibrant deep violet amethyst hue suggesting latent magical power. He wears a high-collared sleeveless white mantle with golden embroidered trim and distinct blue lining draping over his shoulders over a rich cerulean blue short-sleeved tunic fitting snugly to his agile frame. A sturdy dark brown leather utility belt with large ornate silver buckle secures pouches and his magical catalyst. Asymmetrical bracers protect his arms—a thick leather gauntlet with metallic reinforcement on his right, a decorative silver-winged pauldron humming with energy on his left shoulder. Loose-fitting charcoal-grey trousers tuck into specialized brown leather greaves with golden accents and straps wrapping his calves, sandal-style footwear with dark soles and sturdy straps allowing feline agility. A long slender slate-grey feline tail emerges from his trousers providing balance. His primary weapon is a sophisticated floating magical orb of polished silver and gold glowing with pulsing blue light holstered near his belt, pixelated disciplined blue energy ripples and crystalline sparks trailing behind him suggesting mastery over space-time.
@@ -698,6 +746,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 42 Martis
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean muscular V-tapered figure centered on a stone dais marked with golden circular runes amidst jagged mountain peaks piercing a twilight sky transitioning from deep indigo to soft orange horizon with distant stars and wispy clouds. His wild voluminous mane of spiked white locks flows upward and outward like frozen flames past his shoulders, framing his sharp angular jawline and high prominent cheekbones. His pale porcelain skin contrasts with his striking supernatural glowing violet eyes lacking pupils, a small glowing crimson sigil third eye mark embedded in his forehead. He wears ornate obsidian-colored organic armor with upward-curving horn-like shoulder protrusions etched with glowing magenta veins pulsing with energy, his torso partially exposed at the midriff revealing a disciplined core, intricate gauntlets ending in sharp claw-like finger extensions. A tattered deep-purple cape hangs behind him frayed at the edges. Sleek form-fitting black trousers flare slightly at the ankles over heavy pointed metal boots. In his hands, he grips twin massive curved scimitars known as Ashura Teeth with heavy spines and serrated obsidian-colored edges infused with glowing magenta energy, the hilts integrated into his gauntlets, pixelated dark aura and magenta particles swirling around his divine conqueror form as he dwells in the realm between heavens and earth.
@@ -715,6 +764,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 43 Gusion
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his lean athletic mesomorph figure centered on a cobblestone town square at twilight, surrounded by tall timber-framed houses with steep purple-tiled roofs and glowing stained-glass windows, a single ornate streetlamp casting long dramatic shadows, with a massive majestic castle atop a distant cliffside under a deep indigo sky. His stylishly tousled chestnut brown hair features long side-swept bangs partially framing his face, complementing his sharp angular jawline and straight aristocratic nose. His fair smooth skin contrasts with his piercing crystalline light brown amber eyes beneath well-groomed straight eyebrows. He wears a high-collared sleeveless white tunic with rigid structured shoulders over a dark charcoal-grey inner shirt with ornate silver embroidery and vertical buttons, a vibrant purple scarf elegantly draped around his neck. Sleek silver-metallic bracers glowing with faint violet energy conduits protect his forearms, leading to dark fingerless leather gloves. A silver-plated belt with large polished metal buckle cinches his narrow waist, anchoring a specialized hip holster on his right side and a flowing translucent violet coattail draping behind like a spectral cape. Form-fitting black trousers with subtle geometric patterns and silver trim down the outer thighs tuck into knee-high armored dark polished metal boots with silver highlights. In his hand, he holds a glowing ethereal dagger with short crystalline blade emitting soft cyan-blue luminescence, sleek silver hilt designed for reverse grip, pixelated lethal precision aura and twilight shadows swirling around his poised form.
@@ -732,6 +782,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 44 Kimmy
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She hovers in a calm yet battle-ready stance, her lean athletic hourglass figure centered on a polished glass-like platform overlooking a vast futuristic citadel of massive clean white marble structures with gold trimmings and glowing blue energy veins, a colossal central spire emitting a brilliant blue light beam piercing clouds under a serene gradient pale blue and soft gold sky with wispy sun-drenched clouds. Her pale platinum blonde hair is styled in a short rebellious spiky pixie cut flaring upward and outward, giving her a dynamic aerodynamic appearance. Her fair creamy luminous skin features a slender delicate jawline tapering to a refined chin, her large expressive eyes with vibrant pink light magenta iris framed by thin light-colored eyebrows above a small straight nose. She wears a dark charcoal-grey sleeveless turtleneck under a cropped white jacket with puffed translucent sleeves bunching at wrists, gold epaulettes and military pins on the lapel, high collar with purple lining. Sophisticated gold-and-black gauntlets control her weapon system. Sleek dark navy reinforced trousers with white straps and a left thigh holster containing glowing pink canisters lead to sturdy calf-high white boots with gold plating and thick soles. On her back, a sophisticated brass-colored jetpack with twin thrusters emits steady pinkish-red exhaust connected by a thick reinforced black hose to her massive gold and bronze energy cannon with complex tubes, gauges, and large translucent spherical chamber filled with swirling volatile pink energy, pixelated pink luminescence and technological aura swirling around her divine technician form.
@@ -749,6 +800,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 45 Lunox
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She stands in a calm yet battle-ready stance, her slender hourglass figure centered on a circular stone dais etched with glowing golden runes amidst a breathtaking landscape where jagged mountain peaks are bathed in soft pink-and-orange sunset hues on one side and a deep indigo night sky with distant stars and glowing nebulae on the other, lush green grass and weathered stone mixing beneath her feet. Her hair is styled in a sophisticated asymmetrical bob with longer strands tapering toward her collarbones, parted down the center with one half lustrous obsidian black and the other shimmering pale platinum blonde, held by a dark metallic headpiece resembling stylized wings or horns curving upward. Her fair luminous skin features a delicate yet firm jawline, slender elegant nose, and high graceful cheekbones, her eyes shimmering with mystical intensity—one reflecting deep swirling violets of a nebulous void, the other glowing with brilliant warm amber of a newborn star. She wears a form-fitting bodice transitioning from deep velvety purple and black on her right side to pristine radiant white and gold on her left, the right sleeve dark and sleek ending in a shadow-absorbing gloved hand, the left arm adorned with ornate golden filigree and light-reflecting fabrics. A ruffled short skirt flares from her waist with dark pleats on one side and airy white tiers on the other. Her right leg is encased in a dark thigh-high stocking blending into shadows, her left leg bare with fair luminous skin wrapped in delicate golden strappy sandals winding toward her knee. Floating behind her shoulders, a sphere of chaotic dark energy pulses with deep violet aura on her right, while a globe of brilliant solar light radiates golden warmth on her left, pixelated cosmic energy and serene duality particles swirling around her twilight goddess form.
@@ -766,6 +818,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 46 Thamuz
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready wide predatory stance, his colossal hulking figure centered on shattered dark purple and gray crust broken by glowing veins of violet energy, surrounded by jagged floating rock formations and volcanic peaks under a hazy smoke-filled bruised purple and pink sky dominated by a massive swirling vortex rift spiraling toward intense dark blue and purple light. His skin is dark scorched charcoal gray like cooled volcanic rock with glowing cracks of molten orange and yellow seeping through joints and muscle fibers. Two massive upward-curving ridged black horns scorched at the tips crown his terrifying visage, his eyes hollow pits of pure incandescent fire glowing bright yellow-white without pupils, his sharp angular jawline leading to a jagged toothy maw above a skeletal recessed nose bridge. His upper torso broadens into massive jagged shoulders with high pointed collar-like armor plates flaring outward, a central chest cavity wide open revealing a core of swirling white-hot energy like a miniature sun trapped within a blackened iron ribcage. Thick powerful arms encased in heavy articulated gauntlets end in sharp obsidian talons. Thick thighs and heavy digitigrade legs end in cloven hoof-like feet of solid dark stone. Attached to his forearms, dual oversized curved scythe-like glaives feature dark metallic alloy blades transitioning to glowing translucent orange edges, embers and sparks constantly drifting off them, pixelated primordial malice aura and volcanic destruction particles swirling around his dark deity form.
@@ -783,6 +836,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 47 Leomord
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance alongside his formidable warhorse, his lean agile figure centered on a weathered stone dais etched with faint glowing ley lines amidst a twilight landscape of jagged purple-hued mountain peaks piercing a darkening sky where sunset bleeds into deep indigo night, wisps of low-hanging fog clinging to shadowed grass. His deep obsidian black hair falls in straight sleek layers framing his face and reaching to his mid-back, occasionally stirring as if caught in an invisible chilling wind. His pale porcelain white skin with faint ghostly undertone features a sharp aristocratic jawline and high straight nose bridge, his narrow intense haunting luminous ice-blue eyes glowing softly against his pale complexion. He is encased from neck down in magnificent satin-finish silver and charcoal-gray plate armor with sharp angular pauldrons rising like frozen waves etched with subtle grooves housing glowing cyan gemstones at their centers, a dark navy tunic and fitted reinforced leather-like trousers beneath. Intricate articulated gauntlets protect his hands, sleek greaves and sabatons tapering to sharp pointed toes armor his lower body. A heavy dual-toned cape of deep crimson interior and midnight black exterior drapes from his shoulders, tattered at the hem. In his hands, he grips a massive two-handed claymore with exceptionally long slender shimmering silver blade transitioning to translucent glowing cyan toward the edges, its hilt featuring a jagged cross-guard matching his armor, the entire weapon pulsing with rhythmic ghostly aura. Beside him stands his warhorse with dark matte charcoal coat, its mane and tail composed of flowing ethereal spirit-fire in brilliant pale turquoise, armored in silver plates with bladed chanfron, its eyes glowing supernatural blue, pixelated cold stoic aura and spectral particles swirling around this tragic knight and his ethereal mount.
@@ -799,6 +853,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 48 Angela
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. She floats in a calm yet battle-ready stance, her petite slender hourglass figure centered on a weathered stone ritual circle atop a high mountain ridge, jagged violet-hued peaks rising against a darkening sky transitioning from warm orange-gold sunset at the horizon to deep indigo overhead speckled with distant stars and a faint glowing purple nebula, wisps of soft white clouds drifting through valleys below. Her vibrant golden honey-blonde hair is styled into a clean chin-length bob with soft rounded ends and thick bangs framing her forehead, a pair of large neon-cyan bunny ears glowing with internal energy perched atop her head. Her pale ivory doll-like skin with extremely smooth texture features a refined slightly rounded jawline tapering to a soft chin, small pert nose centered between wide expressive luminous sky blue eyes with large pupils and thick dark lashes, thin light blonde eyebrows above. Her petite form has gold-accented spherical mechanical hinges at elbows and shoulders, encased in a high-collared form-fitting bodysuit transitioning from crisp white on shoulders to deep magenta-pink across chest and abdomen, a large turquoise-blue bow at her chest center secured by a gold circular brooch. Wide white bell-shaped cuffs with gold lining flare at her forearms, dark metallic brown gloved hands with nimble fingers. A stylized high-waisted mechanical skirt of rigid white-and-gold armor plates flares like flower petals with magenta silk fabrics draping underneath. Long slender legs partially encased in white armor and glossy magenta plating with golden orb joints at knees lead to elegant high-heeled teal-blue mechanical pumps with small magenta bows and gold soles. Beside her floats a small mechanical puppet mimicking her appearance with blonde bob, bunny ears, and magenta-white color scheme, suspended by glowing golden threads extending from her fingertips infused with shimmering celestial aura crackling with faint blue energy, pixelated divine technology particles and twilight light swirling around this techno-goddess form.
@@ -816,6 +871,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 49 Aldous
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready stance, his powerful athletic figure centered on weathered stone platforms etched with glowing emerald runes amidst fine desert sand in a vast sun-drenched canyon where massive pale sandstone cliffs rise toward a hazy lilac sky, high-altitude bridges and floating structures suggesting ancient advanced architecture, a lone hawk circling in the distance. A deep royal blue hood with golden trim drapes over his head, obscuring his hair, revealing only his sharp chiseled jawline and straight noble nose beneath a golden skeletal half-mask covering his eyes and nose bridge, through whose narrow slits his piercing ethereal fiery amber eyes glow. His pale porcelain-like ivory skin contrasts with scorched obsidian-textured armor plates crisscrossing his partially exposed powerful torso, infused with glowing orange veins resembling cooling magma trapped within basalt. A golden ornate belt with large central buckle secures a royal blue loincloth falling between his legs. Heavy jagged greaves of volcanic material end in pointed claw-like sabatons leaving glowing orange footprints. His right arm is transformed into a massive oversized mechanical-organic gauntlet of black stone and molten energy with a perpetually clenched fist wreathed in swirling intense aura of fire and sparks emanating from finger joints, pulsing with rhythmic glow matching his heartbeat. His left hand remains human-sized encased in a smaller golden-brown armored glove glowing with a smaller spark of orange energy. A majestic deep royal blue cape with golden trim flows behind him, pixelated volcanic fire aura and desert heat haze swirling around this legendary guardian form.
@@ -833,6 +889,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 50 Khufra
 
 Prompt 1 (Pixel Art Game Icon):
 This character is rendered as a 16-bit RPG icon in a dramatic wide shot, styled like a pixel-art Nintendo character from a cinematic game sequence. He stands in a calm yet battle-ready commanding stance, his tall lean figure centered on a vast expanse of fine golden sand amidst monolithic sandstone structures and colossal architectural ruins with massive carved pillars and golden-tipped spires rising into a pale violet and blue sky with wispy clouds caught in the glow of a setting sun, a lone desert bird soaring in the distance emphasizing the desolate scale. His messy wind-swept mane of raven-black strands is styled in a rugged gravity-defying fashion suggesting constant motion, framing his gaunt sharply chiseled face with prominent high-bridged nose and razor-sharp jawline. His pale sickly ashen grey skin contrasts with the vibrant desert, his narrowed predatory eyes glowing with otherworldly intensity, rimmed with thick dark eyeliner extending toward his temples, irises burning with cold spectral light. He wears a sophisticated form-fitting black leather-like tunic with quilted scale-like texture mimicking desert predator hide, accented by high-collared ornate gold and teal armor plating flaring from his neck like a cobra's hood. Massive oversized black gauntlets that appear heavy and stone-like cover his hands. His arms and torso are perpetually entwined in thick enchanted teal bandages lined with golden triangular glyphs, spiraling around him with life of their own hovering in mid-air. Slim-fit dark trousers lead to ornate golden greaves and pointed sabatons. The magical bandages pulse with faint malevolent teal energy, extending like lashes and binding coils, pixelated spectral desert aura and oppressive majesty particles swirling around this fallen ancient monarch form.
@@ -849,6 +906,7 @@ This character is illustrated in a vibrant anime style, a full-body wide shot pl
 
 
 
+Hero Id 51 Granger
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing in the middle of a neo-gothic cobblestone square at dusk. His sharp, angular face is framed by messy black hair with a distinct silver streak, his pale skin contrasting with the dark mask obscuring his lower face. He wears an intricate high-collared charcoal trench coat with crimson lining, silver-studded pauldrons, and a long red scarf, his lean-muscled form clad in lavender trousers tucked into heavy black boots. In his right hand, he aims a long-barreled silver-chrome handgun with dark engravings, while his left hand grips the handle of a massive coffin-shaped metal case with a glowing red emblem. His piercing eyes hold a cold, analytical gaze as he stands in a calm yet battle-ready stance. Behind him, ancient timber-framed houses with amber windows line the left, a whimsical building with a purple roof and circular stained-glass window glows on the right, and a distant multi-tiered stone fortress looms against the deep indigo sky. A supernatural aura of silence and death subtly emanates from his wiry, athletic silhouette.
@@ -866,6 +924,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 52 X.Borg
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a polished reflective blue platform in a futuristic utopian city. His sharp, v-shaped jawline and fair skin contrast vividly with his wild, gravity-defying electric blue hair styled into thick, upward-sweeping spikes like flickering flames, red-tinted aviator goggles pushed up on his forehead. His piercing bright blue eyes blaze with youthful defiance beneath thin dark brows. He wears a high-collared sleeveless red vest with golden-yellow metallic plating and a glowing circular power core on his chest. His right arm is an oversized red mechanical gauntlet transitioning to brilliant golden yellow with sharp clawed fingers, while his left arm is replaced by a large circular cannon drum glowing with internal orange heat. His lean athletic form stands on slender red-and-grey mechanical prosthetic legs below the knees, ending in heavy-duty red boots, with loose grayish-brown cargo trousers gathered at the knees and a dark utility belt around his waist. Behind him, massive white-and-gold structures with glowing blue accents rise elegantly, a colossal spire shooting blue energy into the sky, as his volatile fiery aura contrasts against the pristine ordered world.
@@ -884,6 +943,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 53 Ling
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on an ancient floating stone platform etched with glowing cyan runes. His aristocratic facial structure features a sharp jawline, high cheekbones, and a slim elegant nose, his porcelain-pale skin contrasting with piercing amethyst eyes that glow with inner light. His long silken lavender-silver hair is swept back elegantly, face-framing fringe reaching his jaw, adorned with a teal and gold headpiece resembling a stylized upright feather crest. He wears a high-collared form-fitting cerulean tunic with intricate golden wind-embroidery, dramatic feather-like teal and dark blue sleeves flaring at the forearms, and a golden filigree chest piece with a glowing turquoise orb at its center. His lean lithe form with broad shoulders tapering to a narrow waist is clad in midnight-black trousers tucked into dark brown leather boots with golden trim, an iridescent teal and cyan feather waist-cape draping behind him. In his hand, he holds a slender elegant Jian blade glowing with faint crystalline teal energy, its ornate gold and jade hilt gleaming. Around him, floating rock formations twist like frozen dragons, a giant ancient tree with glowing magenta cherry blossoms drops petals into the misty dawn-lit turquoise sky, his divine tempest aura causing feathers to ripple in an eternal updraft.
@@ -903,6 +963,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 54 Carmilla
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on misty medieval cobblestones at twilight. Her aristocratic face features a sharp high jawline and slim straight nose, her porcelain-pale skin glowing against deep crimson eyes that burn with ethereal intensity. Long silver-white hair cascades like liquid moonlight, styled with a sophisticated side-swept fringe partially veiling one side, a single blood-red rose tucked behind her ear. She wears a high-slit floor-length crimson gown with black accents and gold filigree embroidery hugging her hourglass form—thin waist, full bust, and thick thighs accentuated by the regal cut, the sweetheart neckline and dark frills at her hips adding gothic luxury. A singular asymmetrical bat-like wing curves behind her, transitioning from dark violet to a sharp pointed tip. Translucent dark-veiled sleeves flare at her wrists, complemented by gold bangles and delicate rings, while dark thigh-high stockings with gold detailing and elegant heels follow her slender legs. Behind her, a cobblestone staircase leads to timber-framed houses, a stone balustrade overlooks a misty district, and a massive castle with soaring spires dominates the deep indigo sky, an ornate street lamp casting warm glow against her melancholic vampiric aura.
@@ -922,6 +983,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 55 Atlas
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a circular stone dais etched with glowing blue runes in a frozen wasteland. Its colossal mechanical form features a small streamlined helmet-like head with vertical metallic ridges and a single glowing azure optic eye that pulses with cold light, a reinforced metal chin guard below. The top-heavy physique is dominated by a cavernous circular chest cavity protected by heavy bronze-and-silver framework, housing a swirling vortex of mystical blue energy encased in a transparent rune-etched dome. Massive spherical shoulder pauldrons with spiked protrusions rise above, a tattered deep crimson-purple cape trailing from its neck. Its right arm transitions into a high-intensity harpoon launcher of dark weathered iron with internal coils, ending in a three-pronged rusted golden trident claw carrying magnetic aura. Thick pillar-like legs with reinforced silver plating and massive circular-rivet knees end in heavy metallic hooves gripping the frozen earth. Behind it, jagged snow-capped mountain peaks rise against a pale clear blue sky, autumn leaves caught in a whirlwind around the ancient sentinel as its core hums with silent authority.
@@ -941,6 +1003,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 56 Barats
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this symbiotic duo is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered in an emerald-green meadow at twilight beneath a deep indigo sky fading to lavender. The small rider features a sharp defined jawline partially obscured by a vibrant orange scarf, sun-kissed tan skin, and bright golden-yellow spiked hair pointing upward, oversized mechanical aviator goggles with glowing orange-tinted lenses resting on his forehead. He wears a rugged sleeveless olive-green tactical vest with leather straps and metallic buckles, a bulky tan rucksack on his back overflowing with survival tools and red-blue crystalline canisters, thick dark grey metallic gauntlets covering his forearms. He sits atop a massive bipedal reptilian mount with ochre-orange scales, pale cream underbelly, dark obsidian-like rocky protrusions, a prominent jagged horn on its snout, orange fur-like spikes down its spine, glowing predatory yellow horizontal-pupil eyes, and a long muscular pink tongue hanging playfully from its wide jaw. Heavy metal shackles protect its legs, a thick collar around its neck, as it stands on massive three-toed feet with blunt talons. Behind them, jagged purple-hued mountain peaks pierce the horizon, mossy boulders dot the meadow, and ethereal blue wisps dance in the twilight air, their chaotic synergy of frantic intelligence and raw earthy power radiating outward.
@@ -960,6 +1023,7 @@ In the style of a full anime image, this symbiotic duo is depicted in a dynamic 
 
 
 
+Hero Id 57 Mathilda
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a circular stone dais etched with glowing runes overlooking a vast sun-drenched canyon. Her delicate yet determined face features a softly tapered jawline, straight refined nose, high subtle cheekbones, and large soul-searching amber eyes that glow with warmth against her sun-kissed tan skin, distinctive red tribal markings—two sharp horizontal streaks on each cheek—indicating her noble rank. Her voluminous dark obsidian mane is swept back by a thick patterned maroon and cream headband, long jagged layers flaring like raptor feathers with two prominent strands framing her face. Her lean athletic hourglass figure—thin waist, full bust, and thick thighs—is adorned with an ornate winged mantle featuring wide cream-colored shoulder guards edged in gold and red, flowing into long maroon-striped feather-patterned capes. A large circular teal gemstone in a golden sunburst frame sits at her chest, beneath which she wears a simple dark chocolate-brown fringed tunic cinched with a red and cyan geometric belt. Her slender toned legs are bare with glowing cyan anklets and simple dark sandals. She wields a mystical staff with a dark spiraled shaft and a stylized teal mechanical avian head whose glowing cyan eye mirrors her ornaments. Behind her, a massive sandstone palace carved into towering cliffs features sweeping aerodynamic curves and high open arches, golden eagles perched nearby watching over the valley as her divine messenger aura of wind and swiftness fills the lavender-pale blue sky.
@@ -978,6 +1042,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 58 Brody
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a stone-paved ritual circle etched with glowing golden runes in an ethereal twilight valley. His sharp defined face features a strong chiseled jawline, high prominent cheekbones, a straight well-proportioned nose, and intense piercing dark eyes that glow with inner intensity above his rich deep bronze skin. His obsidian black hair is styled in thick textured dreadlocks swept back from his face, some strands falling naturally around his nape. His lean highly toned muscular physique—broad chest and well-defined abdominal muscles partially exposed—reveals intricate dark vine-like corruption markings creeping up his left torso. His right arm from the elbow down is replaced by a glowing ethereal limb of pure cerulean and neon blue energy, crackling with mystical aura and flowing like liquid starlight at his fingertips. He wears a deep crimson high-collared mantle with ornate gold embroidery and thick golden trim, secured by a large circular gold medallion across his chest, a dark form-fitting vest wrapped around his midsection, a simple gold band on his left arm, and sleek charcoal-grey tactical trousers with gold-lined geometric patterns tucked into dark seamless boots. Behind him, massive jagged purple and blue mountain peaks rise against the twilight sky, wispy clouds drift through the valley, and sparse glowing blue flora dots the ground as his transcendent aura of mythic stillness permeates the forgotten realm.
@@ -995,6 +1060,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 59 Yve
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, floating above a weathered circular stone dais etched with glowing golden ley-line patterns at twilight. Her sharp regal facial structure features a pointed chin and strong high jawline, her face a smooth glowing mask of energy with two brilliant amber slit-like apertures for eyes that burn with cold calculated intelligence. She wears a magnificent tall headdress with sharp vertical protrusions mimicking a crown of stars, framed by gold and dark purple filigree. Her exceptionally slender elongated hourglass physique—very narrow waist emphasized by the sleek form-fitting breastplate—is composed of deep translucent purple nebular mist filled with tiny glittering starlight points. High-collared pauldrons sweep upward like wings in polished bronze-gold and obsidian plating etched with glowing violet runes, her torso encased in armor tapering to that ethereal waist. Her long spindly legs end in sharp needle-like points rather than feet, encased in tapered greaves. Crystalline geometric rings—triangular and circular energy frames—float near her hands as her weaponry, and a flowing ethereal cape of sheer glowing violet energy trails behind her like a comet's tail, a glowing core at her chest pulsing with celestial power. Behind her, jagged purple mountain peaks rise against a deep navy and soft pink star-scattered sky, lush green grass and glowing blue flora dotting the craggy terrain as her cosmic order aura permeates the mystical realm.
@@ -1013,6 +1079,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 60 Paquito
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing in a wide balanced combat stance on a circular stone dais engraved with swirling golden mystical runes. His sharp aggressive jawline and straight prominent nose define his focused demeanor above his warm sun-kissed tan skin, his precision-faded buzz cut appearing as a textured dark shadow against his scalp, revealing a clean forehead and high cheekbones. His sharp intensely dark eyes pierce forward with a gaze mirroring his combat-ready posture. His hyper-athletic v-taper physique features deeply etched abdominal muscles and well-developed pectorals transitioning to broad powerful shoulders, all fully visible as he wears no shirt, a small glowing teal gemstone pendant hanging from a simple cord around his neck resting at the center of his chest. His primary weapons are oversized vibrant red boxing gloves intricately tied at the wrists with thick rustic hemp ropes wrapping several times around his forearms, excess rope dangling freely. He wears dark knee-length combat shorts with striking orange flame-like patterns sweeping upward from the hem, secured by a thick golden-brown braided rope belt, and sturdy high-top red leather boots with white laces and white trim. Behind him, massive jagged rock formations and distant peaks rise against a soft violet, orange, and deep blue twilight sky, low-hanging clouds catching the last embers of the setting sun as his aura of grounded strength and unwavering resolve permeates the serene mountainous valley.
@@ -1031,6 +1098,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 61 Benedetta
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a stone-paved ritual circle overgrown with neon-blue glowing grass in a twilight-bathed highland. Her elegant yet sharp face features a well-defined tapered jawline leading to a slightly pointed chin, a straight slender nose, and sharp almond-shaped eyes with piercing deep cool blue and silver irises reflecting cold unwavering focus above her fair porcelain ivory skin. Her short stylish asymmetrical bob in deep raven black features a prominent thick stark white streak falling over the left side of her face, swept slightly for an edgy battle-ready appearance. Her lean lithe hourglass figure—thin waist, full bust visible through mesh elements, and long powerful thick thighs—is clad in a dark teal crop top with intricate golden embroidery over a black fishnet undershirt, a short deep navy hooded cloak draping over her right shoulder with a tattered vibrant green cape extension fastened by a glowing blue gem brooch. Rugged dark brown leather gauntlets with sharp silver metallic plates protect her forearms. Dark denim-blue tactical trousers held by a sturdy brown leather belt with silver buckle lead to elaborate knee-high silver metallic boots with sharp wing-like protrusions at knees and ankles. She holds a massive long-bladed Odachi nearly her height in a dark purple and silver rune-engraved scabbard, the teal-wrapped hilt and heavy silver pommel visible. Behind her, jagged purple mountain peaks rise against a midnight blue and soft violet star-scattered sky, weathered rock formations frame the scene, and low-hanging mist rolls over distant plains as her quiet intensity and melancholy aura of a Divine Shadow permeates the ancient landscape.
@@ -1049,6 +1117,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 62 Luo Yi
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on an ancient weathered stone platform etched with glowing teal runes beside a crystal-clear mystical lake. Her elegant face features a sharp jawline and high aristocratic cheekbones framing a serene countenance, flawless pale porcelain skin contrasting with narrow upturned piercing deep violet eyes that glow with inner light above a translucent light-purple veil obscuring the lower half of her face. Her hair cascades in vibrant lavender and deep violet silk with a sophisticated middle part, long strands framing her face before flowing past her shoulders with supernatural starlit volume. Her lean graceful hourglass figure—thin waist, full bust, and thick thighs—is adorned in intricate multi-layered celestial white robes with flowing golden embroidery and deep royal purple patterns, wide dramatic gold-trimmed sleeves draping elegantly, a luxurious thick white fur stole over her shoulders. Form-fitting dark leggings transition to elegant open-toed footwear with gold-accented ankle straps. She holds a massive curved staff with an ornate golden handle featuring swirling cloud motifs, the focal point a large translucent white feather-like structure glowing with soft cyan light, a small pulsating glowing orb nestled within golden filigree. Behind her, a gnarled ancient tree with vibrant pink cherry blossoms leans over turquoise waters, massive floating rock formations shrouded in soft mists rise against a hazy pastel sky, her divine mystery and ethereal power aura marking her as guardian of this transcendent realm.
@@ -1067,6 +1136,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 63 Phoveus
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a cracked dark stone plateau etched with glowing purple ley lines beneath a swirling void rift. His rugged aristocratic face features a sharp heavily defined jawline, high prominent cheekbones, a straight masculine nose, and unsettling ethereal purple glowing eyes above his pale cool ivory skin marked by glowing violet mystical sigils crawling across his torso and right arm. His stark white hair is styled in a messy swept-back undercut adding rebellious edge to his divine-warrior aesthetic. His peak-condition titan physique—exceptionally muscular with broad heavy shoulders, powerful exposed chest, and narrow athletic waist—is reinforced by dark jagged obsidian pauldrons with sharp upward-flaring protrusions. His right arm is wrapped in thick glowing purple chains binding him to his massive weapon, his left arm sporting a dark leather bracer with silver plating. Dark weathered trousers held by a sturdy brown leather belt with circular metallic buckle tuck into heavy spiked greaves with sharp forward-facing metal plates. He wields Astaros, a monolithic dark grey stone-like flail bound in thick pulsating purple chains with an intricate glowing violet diamond-shaped core emitting dense abyssal mist. Behind him, jagged floating rock formations drift through a hazy deep violet, bruised orange, and smoky grey twilight sky as a massive swirling dark energy rift bathes the scene in ominous cold glow, his fallen demigod aura of dark celestial authority radiating across the desolate landscape.
@@ -1084,6 +1154,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 64 Natan
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a stone circular platform engraved with swirling celestial planetary patterns. His refined sharp face features a sculpted clean-shaven jawline, high prominent cheekbones, a straight narrow nose, and narrow almond-shaped eyes with a bright luminous glow suggesting cosmic connection above his fair smooth skin. His voluminous windswept silvery-white mane defies gravity with thick textured locks sweeping upward and back as if caught in a permanent temporal gust. His lean athletic physique—slender upper body tapering to a narrow waist—is clad in a dark sleeveless vest with gold filigree embroidery along the lapels and high collar, a white dress shirt visible at the neck, protected by leather-like straps and a metallic belt with a circular golden buckle. His left arm is covered in a sleek dark sleeve ending in a gloved hand, while his right arm is encased in a massive ornate golden mechanical gauntlet with glowing internal light and rotating circular components. Deep slate blue form-fitting trousers transition into high-tech dark boots with gold plating at shins and toes, a long dark split coattail flowing behind him like a cape. From his right gauntlet radiates a glowing golden sickle-like energy blade humming with cosmic aura. Behind him, jagged purple mountain peaks and floating rock formations rise against a deep indigo and soft orange star-scattered sky with wispy lavender clouds, a winding path of soft violet light meandering through the valley below as his divine human aura of spacetime mastery permeates the ethereal twilight landscape.
@@ -1102,6 +1173,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 65 Aulus
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on an ancient weathered stone platform marked with faded golden ley lines in a twilight mountain valley. His weathered sun-kissed tan face features a wide immovable jawline, short stout nose, and narrow piercing amber-gold eyes glowing with fierce intensity beneath a heavy furrowed brow. His voluminous wild explosion of burnt-orange and crimson hair stands upright like flickering flames, with two prominent dark-tufted feline ears emerging from his head confirming his Leonin heritage. His stocky dwarven-like stature boasts a barrel-chested physique with impossibly broad shoulders, thick arms corded with dense muscle, his left forearm encased in a heavy industrial-style dull iron and brass gauntlet with rivets and leather straps. He wears a rugged brown leather apron-vest held by a thick metallic chain over his torso, a singular heavy silver-grey pauldron on his left shoulder, his bare right shoulder displaying reddish-orange fur patches. Wide-legged dark charcoal-grey trousers cinched by a thick utility belt with tiered leather-and-metal faulds cover his short sturdy legs, ending in large bare clawed feet with leather-wrapped greaves and metallic shin guards. Over his right shoulder he carries a colossal battle-axe with a massive dual-toned head—jagged silver blade on one side, heavy hammer-like blunt end on the other—its core glowing with internal volcanic energy bleeding through geometric runic carvings, the thick blackened iron shaft ending in a spiked glowing orange pommel, heat distortion and floating embers surrounding the living relic. Behind him, jagged mountain peaks pierce a twilight sky of deep blue meeting soft pink and purple, a massive monolithic rock formation rises like a natural fortress, and small glowing blue flora flickers in the grass like grounded stars, his indomitable forge spirit radiating palpable heat against the cool serene landscape.
@@ -1119,6 +1191,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 66 Alpha
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a circular stone dais etched with glowing golden ley lines in an ethereal twilight landscape. His sharp masculine jawline and straight prominent nose give him a stern focused expression above his smooth tan skin, while a sleek dark metallic visor covers his upper face, revealing piercing cyan-glowing eyes that suggest enhanced digital perception. His voluminous high-top ponytail of deep chestnut hair erupts from his helmet crest, flowing downward in thick textured locks. His lean powerful athletic physique is encased in advanced modular matte charcoal and brushed silver armor with glowing cyan fissures and a central triangular power core on his chest, large reinforced pauldrons protecting his shoulders, articulated gauntlets maintaining dexterity, a dark carbon-fiber under-suit visible beneath, and a tattered crimson-red cape hanging from his midsection. Armored greaves and specialized high-impact boots complete his grounded stance. He wields a massive dual-ended energy glaive with a dark non-reflective alloy shaft, glowing cyan conduits, and a large crystalline plasma blade pulsing with neon blue aura. A sharp angular wing-like drone floats near his left shoulder, glowing with matching energy. Behind him, lush green plains meet jagged towering rock formations against a deep violet and indigo sky with soft pink and orange sunset horizon, his cyber-deity aura of mechanical evolution permeating the mystical realm.
@@ -1136,6 +1209,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 67 Gloo
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a weathered circular stone dais etched with golden runes in a twilight landscape. Its terrifying head features two prominent upward-curving horns glowing with faint pink light at the tips, a void of darkness where a face should be with two slanted glowing magenta eyes burning with intensity, and no visible nose or jawline. Below, a secondary mouth-like energy core on its chest reveals serrated rib-like structures of glowing cyan teeth. Its top-heavy physique boasts incredibly wide muscular shoulders with massive primary arms ending in oversized three-clawed gauntlets etched with swirling topographical patterns pulsing with hot pink light, while smaller secondary arms with pincer-like appendages sit just below. Its skin is a gradient of lavender and indigo marked by glowing pink veins tracing thick thighs and calves. Jagged obsidian-colored crystalline armor protects its shins, forearms, and shoulders. Heavy digitigrade legs end in three-toed armored talons gripping the earth, a thick lizard-like tail extending from the spine for balance. Its massive glowing claws crackle with volatile dark-magic aura. Behind it, floating celestial fragments and jagged mountain peaks frame a sky transitioning from soft orange sunset to deep star-studded indigo, sparse grass dotting the cold stone as its internal luminescence casts purple and blue reflections across the ancient summoning ground, its God of Ruin aura dominating the tranquil dying world.
@@ -1154,6 +1228,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 68 Beatrix
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a polished reflective platform high above a floating futuristic metropolis. Her soft yet determined jawline and small straight nose complement her youthful energy above her fair smooth skin, her brilliant piercing pink eyes matching the intense neon hue of her choppy chin-length bob with sharp asymmetrical bangs framing her face. Her lean athletic hourglass figure—thin waist, full bust, and thick thighs—is clad in a cropped white tank top with high collar and dark trim leaving her midriff exposed, a sleek articulated robotic sleeve encasing her right arm while her left hand wears a dark fingerless tactical wrap. A heavy-duty dark leather utility belt with prominent gold buckle cinches her waist, a small whimsical plush bear hanging from the right side. Baggy dark tactical joggers cinched below the knees lead into tall bold pink-and-black striped socks matching her hair, finished with sturdy dark leather combat boots with gold accents and reinforced soles. A massive bronze-gold heavy cannon rests confidently on her right shoulder—an oversized industrial-looking firearm with visible cooling fins, thick barrel, and mechanical levers suggesting explosive output. Behind her, massive soaring white towers with glowing blue energy conduits and intricate stone-and-metal bridges stretch across the horizon against a warm golden-hour sky, soft clouds drifting below the platform level as her genius prodigy aura of mechanical expertise dominates the high-tech Eruditio citadel.
@@ -1171,6 +1246,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 69 Edith
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this duo is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a weathered stone plateau at twilight with jagged purple mountains on the horizon. The pilot features a sharp elegant jawline tapering to a soft chin, small straight nose, high subtle cheekbones, and deep captivating turquoise eyes shimmering with inner light above her fair porcelain-smooth skin. Her vibrant golden yellow hair is styled in a voluminous chin-length bob with thick straight-cut bangs, two translucent glowing cyan energy horns curving upward from a crown-like accessory atop her head. Her slender athletic hourglass figure—thin waist, full bust, and thick thighs—is clad in a deep metallic navy blue bodysuit with ornate white and gold armored plating, a prominent white v-shaped breastplate with gold filigree tracing her waist, matching white and gold gauntlets, and integrated metallic gold boots. A faint circular golden halo of energy pulses behind her. Beside her stands a massive stone-gray and brass-gold mecha with incredibly wide top-heavy physique, colossal shoulders housing glowing cyan crystal cores, a small angular head with a single forward-facing golden horn, complex interlocking torso plates with swirling glowing cyan runes, massive three-fingered metallic claws, thick columnar legs, and large wing-like stabilizers hanging from its back. Behind them, jagged purple mountains rise against a sky of soft pinks and deep blues with wispy clouds, sparse grass dotting the ancient battleground as their quiet power and ancient mystery aura permeates the scene.
@@ -1188,6 +1264,7 @@ In the style of a full anime image, this duo is depicted in a dynamic full-body 
 
 
 
+Hero Id 70 Valentina
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on slick cobblestones in a twilight Victorian-fantasy town square. Her sharp aristocratic jawline and high prominent cheekbones give her commanding presence above her pale porcelain marble-like skin, her piercing luminous light violet eyes devoid of pupils framed by subtle dark eyeshadow. Her shimmering stark white hair is styled in a sophisticated asymmetrical bob swept across her forehead and tucked behind one ear. Her tall lithe hourglass figure—exceptionally slender with thin waist, full bust, and thick thighs—is adorned in a high-collared form-fitting obsidian and royal purple bodice with sharp teal crystalline pauldrons rising like mythical bird wings emitting magical luminescence. Long tattered sleeves transition into dark semi-transparent shadow veils trailing behind, delicate fingerless gloves leaving pale fingers free. Seamless dark leggings blend into high-heeled boots. A long split cape of pure solidified shadow pools at her feet in swirling dark violet mist. A hovering mechanical eye—a dark metallic orb encased in a floating teal crest pulsing with concentrated violet core—floats near her left shoulder. Behind her, a towering monolithic castle with disappearing spires rises against a hazy blue-grey sky, steep purple-shingled roofs and glowing amber windows line the square, gas-lit street lamps casting flickering yellow glow against the creeping shadows, her Noble Shadow aura of ancient regal authority and primordial power permeating the quiet scene.
@@ -1206,6 +1283,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 71 Aamon
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on cobblestone streets bathed in amber lamplight in a twilight European-inspired fantasy city. His refined sharp face features a well-defined chiseled jawline, straight high-bridged nose, and piercing icy blue eyes reflecting cold calculated intelligence above his fair porcelain-like skin. His shimmering silvery-white hair is styled in a sophisticated undercut with thick voluminous strands swept gracefully to one side, shorter layers framing his forehead. His lean athletic lithe physique—designed for agility—is clad in a high-collared sleeveless dark navy vest with intricate silver filigree and glowing violet piping tracing his musculature, a form-fitting dark undershirt beneath. His most striking feature is the asymmetrical heavy pauldron and singular flowing translucent sleeve on his left arm woven from magical energy with faint reptilian shimmer. Dark fingerless tactical gloves cover his hands. Pristine white high-waisted trousers tuck into sophisticated black and silver armored boots with sharp angular plating and glowing purple accents at shins and knees. Suspended around him float ethereal crystalline shards—jagged daggers glowing with intense cyan and violet aura, hovering effortlessly as if controlled by his will. Behind him, steep purple-tiled roofs and glowing stained-glass windows line the square, a massive sprawling fortress silhouette looms against the dusky sky, his Silent Assassin aura of aristocratic elegance and lethal precision dominating the noble district of Castle Aberleen.
@@ -1223,6 +1301,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 72 Melissa
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a weathered stone dais engraved with golden circular sigils in a twilight ethereal landscape. Her sharp youthful face features a well-defined slightly pointed jawline and slim petite nose above her fair porcelain-smooth skin, her striking deep blue eyes contrasting with her brilliant white-platinum choppy asymmetrical bob with a prominent sweeping magenta-pink fringe framing her face. Her lean athletic hourglass figure—thin waist, full bust, and thick thighs—is clad in a sophisticated dark purple and black high-collared sleeveless vest with metallic buckles over translucent mesh, a dark fingerless glove on her right arm while her left arm remains bare. A thick dark belt with golden heart-shaped buckle cinches her waist, a long patterned lavender sash flowing down her left side past her knees. Tight dark shorts cover her lower body, her right leg featuring a knee-high black-and-grey striped sock while her left leg is bare, both ending in chunky high-soled magenta creepers with thick black straps. In her hand, she holds a long slender bioluminescent blue needle glowing with soft azure aura. A small spectral cursed doll with rounded white porcelain head, hollow black eyes, tiny wings, and glowing halo floats nearby. Behind her, jagged mountain peaks silhouette against a sky transitioning from warm sunset orange to deep starlit indigo as glowing mystical flora illuminates the lush grass around the dais, her divine-punk aura of cursed needlework permeating the mythological realm.
@@ -1240,6 +1319,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 73 Floryn
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on an ancient circular stone dais etched with glowing golden runes at the edge of a massive desert canyon. Her soft youthful heart-shaped visage features a slender refined jawline and small pert nose above her pristine pale porcelain translucent skin, her wide captivating eyes glowing with vibrant luminous blue framed by thick dark lashes and soft elegant brows. Her voluminous flowing pastel pink hair reaches her mid-back with a playful single curled strand standing upright at the crown like a sprout, two large vibrant blue flowers positioned just above her ears with wing-like petals. Her slender lithe hourglass figure—thin waist, full bust, and thick thighs—is clad in a deep teal green bodice with sharp white V-neckline transitioning into leaf-like sleeves ending in pointed vine-like cuffs. A skirt fashioned after white and blue lotus petals features layered outer white and inner cyan-teal gradients, a golden vine-like belt with glowing blue gem cinching her waist. Her long slender legs remain barefoot with thin green thorny vines wrapping elegantly around her ankles and shins. She holds a glowing blue orb or seed radiating soft magical aura at her side. A small mystical fox-like creature made of glowing translucent blue energy with long swept-back ears and bushy ethereal tail hovers near her outstretched hand. Behind her, a monumental city carved into sun-bleached sandstone cliffs features towering spires and arched bridges against a soft lavender and pale blue sky with wispy clouds, birds circling distant mesas, her protective revitalizing aura of life returning to the barren forgotten world.
@@ -1257,6 +1337,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 74 Julian
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on weathered stone pavers beneath an ornate streetlamp in a twilight fantasy cityscape. His sharp aristocratic jawline and slim straight nose lend a stoic focused expression above his pale porcelain fair skin, his intense narrow eyes with deep red maroon irises mirroring his vibrant crimson-red thick textured hair styled in messy wind-swept spikes leaning forward with shorter sides framing his face. His slender toned hourglass physique—broad shoulders tapering to a narrow waist—is clad in a dark multi-layered tactical outfit with a short dual-toned cape over his right shoulder, charcoal black outside and brilliant feathery cobalt blue inside fastened by an ornate silver brooch at his chest, a grey ribbed gambeson with dark leather straps beneath. Dark red form-fitting trousers transition into sleek black armored greaves covering his calves, ending in pointed avant-garde stylized sabatons with silver accents. Fingerless black gloves with silver plating on the knuckles grip a formidable chain-scythe with an ornate heavy blue metal ring handle connected to thick glowing translucent angular geometric chain links pulsating with light blue aura, terminating in a heavy curved blade. Behind him, steep purple-tiled roofs with glowing amber windows line the square as a grand stone fortress with massive spires looms in the misty distance bathed in moonlight, his quiet lethal precision aura of mastered conflicting elements dominating the epic mythic stage.
@@ -1275,6 +1356,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 75 Xavier
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a stone circular platform engraved with glowing golden ley-line patterns in an ethereal twilight landscape. His refined aristocratic face features a sharp angular jawline, high prominent cheekbones, a straight slender nose, and narrow piercing almond-shaped vibrant cerulean ice-blue eyes above his fair porcelain-like skin. His voluminous messy wavy deep teal slate-blue hair falls with several strands over his forehead. His lean athletic physique—built for agility—is clad in a high-collared asymmetrical white tunic with gold buttons and trim, a deep navy-blue panel on one side, a massive stylized white mantle with teal-to-lavender gradient linings flaring behind his head like predatory bird wings. Ornate gold-plated pauldrons feature a glowing purple orb embedded in the right shoulder. Dark fingerless leather gloves with solid black bracers and gold cuffs cover his hands and forearms. Form-fitting dark navy trousers cinched by a wide brown leather belt with prominent gold buckle and secondary utility strap lead to sophisticated knee-high boots transitioning from dark leather to reinforced silver and gold plating at shins and toes. A long split-tail coat trails behind in sharp blade-like points. A faint shimmering teal and white aura crackles with sparks of energy around him. Behind him, a serene grassy plain transitions to jagged purple mountain ranges against a deep indigo star-scattered sky with wispy pale clouds, his transcendent mage aura of divine celestial guardianship permeating the ancient mystical realm.
@@ -1293,6 +1375,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 76 Fredrinn
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a weathered stone dais overlooking a massive desert canyon with a sprawling golden city built into colossal jagged rock formations. His sharp masculine jawline and high prominent cheekbones frame his straight narrow nose and piercing icy blue eyes glowing with inner mystical energy above his fair sun-kissed skin. His striking silver-white hair is styled in a modern short-tapered undercut swept upward and slightly to the side. His V-taper physique features broad muscular shoulders leading to a narrow athletic waist, with visible deep-set abdominal muscles and a powerful chest partially exposed revealing a glowing blue gem embedded directly in his sternum pulsating with faint light. He wears a long sleeveless white trench coat with gold-trimmed lapels and deep navy-blue inner lining, a dark feathered collar trim adding primal luxury, with massive floating teal and gold crystalline pauldrons hovering above his shoulders glowing with energy. Form-fitting black tactical trousers tuck into heavy knee-high leather combat boots reinforced with gold-plated shin guards and pointed toe-caps. His bare hands grip a massive ornate greatsword forged from translucent glowing cyan crystal with jagged edges widening toward a heavy blunt-force tip, the intricate gold and dark metal hilt featuring stylized wing-like guards, a shimmering blue aura rippling off the blade. Behind him, floating structures and towering obelisks rise against a hazy lavender-tinted sky as giant birds of prey circle the chasm below, his demigod celestial guardian aura of lost grandeur standing as final defense against encroaching mysteries.
@@ -1311,6 +1394,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 77 Joy
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a weathered stone dais engraved with glowing golden runes overlooking a twilight landscape with jagged purple mountains. Their soft yet defined face features a small pert nose and slightly rounded jawline retaining childhood innocence above their fair sun-kissed warm skin, their large expressive vibrant crystalline sky-blue eyes framed by thick dark lashes suggesting lightning-fast perception. A thick unruly mane of golden-yellow hair crowns their head in messy wind-swept tufts flaring like static electricity, two large tufted feline ears emerging with dark brown outer fur and lighter tan inner fuzz. Their lean lithe speedster physique—slender upper body with flexible core, long toned legs built for sprinting—is clad in a teal short-sleeved bolero jacket with gold-embroidered cuffs over a dark form-fitting cropped tank top exposing their midriff, a high-collared pale yellow scarf trailing behind. Dark charcoal athletic shorts held by a muted violet sash belt sit low on their hips, dark purple leggings with crisscross golden filigree covering their legs, ending in pointed golden metallic shoes. Their bare hands grip a unique curved crystalline dagger with thick golden hilt and translucent ivory blade glowing with internal electrical light. Behind them, jagged purple mountains rise against a deep indigo star-scattered sky with wispy clouds catching pink and orange sunset remnants, their crackling playful aura of lightning-fast perception embodying forest spirit and divine rhythm.
@@ -1329,6 +1413,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 78 Arlott
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on weathered cobblestones in a dimly lit European-inspired town at twilight. His exceptionally sharp facial structure features a high chiseled jawline and straight aristocratic nose above his pale ethereal alabaster skin, his heterochromatic eyes with one glowing piercing violet and the other deep fiery crimson set under thin dark brows. His long flowing hair splits vertically in color—right side pure snowy white, left side vivid blood-red—styled in a messy elegant manner suggesting constant movement. His lean athletic V-tapered physique with narrow torso and long powerful legs is clad in dark charcoal and silver armor with a dark metallic breastplate leaving upper chest exposed revealing a delicate purple gem pendant, sharp asymmetrical pauldrons with right side featuring a pronounced wing-like protrusion, a long tattered faded red kama draping over form-fitting dark trousers and armored boots blending into leg guards, sleek black gauntlets protecting his hands and forearms. He wields a massive dual-ended polearm with a long jagged crimson spearhead glowing with internal heat with multiple barbs and serrated edge, the opposite end tapering into a slender glowing violet crystalline point, the dark sturdy shaft of enchanted metal. A swirling volatile aura of purple and red energy flickers like dying embers around his feet and weapon tips. Behind him, steep purple-shingled roofs and glowing stained-glass windows line the square as a massive daunting fortress looms in the misty distance under pale moonlight, his fallen warrior aura of somber lonely dignity and demon-blooded tragedy permeating the atmospheric city.
@@ -1346,6 +1431,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 79 Ixia
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a polished futuristic balcony overlooking the sprawling white marble and gold-trimmed cityscape of Eruditio. Her sharp confident jawline and straight petite nose lend defiant intelligence above her healthy sun-kissed tan skin, her captivating luminous violet-pink eyes set within a focused almond-shaped frame giving her a piercing gaze. Her vibrant saturated purple hair is styled in a voluminous asymmetrical undercut with one side closely shaved and the rest swept upward and over in a thick gravity-defying wave with jagged textured ends. Her lean athletic hourglass figure—thin waist, full bust, and thick thighs—is clad in a dark form-fitting cropped tactical vest over a short-sleeved black base layer exposing her toned midriff, a short tattered crimson-red cowl wrapped around her neck and shoulders. A dark fingerless glove covers her right hand while her left arm features rugged wrapped appearance near the wrist. High-waisted vibrant red trousers feature a solid crimson right leg and darker patterned left leg with buckled straps, a heavy-duty brown leather utility belt with chunky silver buckle and dangling golden chain cinching her waist. Heavy dark combat boots with thick soles and multiple buckles reach mid-calf. Two massive heavy-industrial floating cannons hover on either side of her, matte charcoal and deep violet with glowing magenta cores pulsing with raw energy, segmented with sharp crystalline protrusions and metallic fins emitting crackling electricity. Behind her, soaring spires and floating platforms vanish into a hazy sunlit horizon under a brilliant clear blue sky with golden-edged clouds, a massive beam of blue light shooting upward from a distant central tower, her gritty self-made scrapper aura contrasting against the pristine progress of Eruditio.
@@ -1363,6 +1449,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 80 Novaria
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a circular glowing Star Chart platform etched into rock above a vast sun-drenched desert canyon with celestial ruins. Her elegant sharp jawline and refined slender nose give her aristocratic grace above her luminous pale lavender-blue skin with smooth glowing-from-within porcelain quality. Her wide almond-shaped eyes glow with brilliant solid cyan light lacking pupils, thin elegantly arched eyebrows matching her vibrant flowing pastel pink and lavender mane with clean straight fringe framing her forehead and long silken layers cascading down her back reacting to cosmic wind. Her exceptionally slender athletic hourglass figure—thin waist, full bust, and thick thighs—hovers weightlessly, encased in an intricate bio-mechanical deep cerulean and neon cyan suit with glowing geometric circuitry tracing her musculature and arms transitioning to darker crystalline material at forearms, fingerless extensions allowing energy manipulation. Long tapering legs end in delicate pointed feet covered by the same glowing patterned suit pulsing with azure energy. Two large hovering mechanical arms or astral shards of dark obsidian-like stone infused with glowing cyan cores curve around her waist and hips like a protective mantle. Above her upturned palm floats a concentrated sphere of dark cosmic energy—a miniature black hole surrounded by orbiting dark matter fragments, emitting a faint distorted aura bending light. Behind her, massive sandstone-colored structures with flowing organic curves and golden trimmings rise from cliffs resembling temples and observatories against a warm orange and soft blue gradient sky, two majestic eagle-like birds perched on a nearby ridge observing her, her celestial cosmic origin aura of stardust and ethereal light permeating the ancient world.
@@ -1380,6 +1467,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 81 Chip
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, hovering on a floating semi-spherical metallic pod above a stone-paved arena floor etched with glowing gold circular patterns and ancient runes. His small compact body features a soft rounded jawline and tiny dark triangular nose above a confident smug expression, his bright expressive amber-gold eyes partially obscured by rectangular glowing purple visors with black frame resting above his brow line, tucked into messy tufted straw-colored yellow spiked hair between his oversized pointed ears with pinkish-orange inner flesh and light fur tufts. His soft cream underbelly and paws contrast with dense plush sandy tan golden-brown fur transitioning to off-white around his lower face and chest. He wears a dark brown leather-like harness vest snug around his upper torso with a glowing teal circular power core embedded at the center of his chest. His lower body is tucked into the matte white and deep navy blue semi-spherical cockpit pod featuring a large circular green light at the front like a cyclopean eye, glowing green hexagonal accents, and two massive ring-shaped mechanical arms flanking either side with heavy segmented white plating and dark grey inner machinery, glowing teal energy portals swirling with flickering cyan electricity within the voids. Small toggle switches, purple and red buttons, and a joystick are visible on the dashboard. Behind him, jagged purple mountains rise against a deep indigo star-scattered sky with swirling nebulae under a soft orange sunset glow, his technological mystical aura of reality-bending power contrasting with his small mischievous fennec form.
@@ -1397,6 +1485,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 82 Cici
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on weathered cobblestones in a whimsical fantasy town during the blue hour of dusk. Her delicate youthful face features a soft jawline and small straight nose above her fair peach-toned skin, her large striking deep pink rose-lilac eyes sparkling with curiosity framed by thick dark lashes. Her massive voluminous mane of sky-blue hair transitions into swirling oceanic curls styled in two high thick pigtails that loop into dramatic gravity-defying spirals, with straight-cut bangs and longer face-framing strands, two glowing pink petal-like ornaments connected by a thin dark headband atop her head. Her lean athletic hourglass figure—thin waist, full bust, and thick thighs—is clad in a vibrant golden-yellow tunic with high dark-rimmed collar and white ruffled undershirt, intricate orange piping, short puffed white sleeves, dark fingerless gloves with golden trim. Dark semi-sheer leggings reach mid-thigh with thin red garter bows, oversized slouchy golden quilted boots with large round pink button pods transitioning to sleek pink-and-white sneakers. She holds a large enchanted pink yo-yo by a long glowing white string, the metallic yo-yo with thick central groove trailing faint luminescent sparks. Behind her, medieval stonework and steep-angled timber-frame houses with deep purple rooftops line the square, a prominent building with glowing circular sun-like window radiating warm golden light, a massive tiered castle on a distant cliff with spires reaching into a hazy moonlit sky, her bouncy performer aura of playful vitality beaming against the sleepy cityscape.
@@ -1414,6 +1503,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 83 Nolan
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a reflective metallic platform overlooking a vast Eruditio laboratory complex with towering white marble pillars and floating platforms. His sharp aristocratic jawline and prominent straight nose lend a stern focused expression above his pale porcelain fair skin, his piercing icy light blue eyes framed by thin focused eyebrows suggesting a lifetime of navigating tears in reality. His striking mane of short swept-back blonde locks reveals a high intelligent forehead with a practical slightly windswept look. His lean high-performance athletic physique—wiry and agile rather than bulky—is clad in a high-collared asymmetrical white cape draping elegantly over his left shoulder secured by an ornate gold pauldron on his right, the cape featuring subtle grey circular star map motifs, a dark navy deep purple form-fitting tactical suit with gold piping and reinforced knee plating covering his torso and legs, his right arm heavily armored with a golden bracer integrated with his weapon's power source, his left hand gloved in simple dark material, a sturdy brown leather belt with circular gold buckle around his waist. He grips a massive gravity-defying cosmic blade in his right hand, the hilt a complex assembly of golden rings and mechanical gears shaped like a crescent moon, the blade appearing as a concentrated fracture in space-time shimmering with intense volatile purple and violet neon energy leaving trails of cosmic dust. Behind him, glowing blue energy conduits and a massive vertical beam of blue light shoot into a sky filled with soft golden-hour clouds, his weary cosmic wanderer aura of epic lonely guardianship permeating the sterile yet holy environment.
@@ -1432,6 +1522,9 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+
+Hero Id 84 Vale
+
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a circular stone platform etched with a glowing green and gold mandala overlooking a vast sun-drenched desert canyon with ancient ruins. His impeccably defined angular jawline and high prominent cheekbones give him regal detachment above his deep rich bronze skin, his eyes glowing with intense supernatural amber-gold light lacking traditional pupils. His striking voluminous shock of snowy white hair is styled in a windswept messy fringe defying gravity with thick locks peaking upward and outward as if in perpetual updraft. His lean high-performance V-taper physique—defined by tight corded muscle—is largely bare, showcasing intricate glowing golden markings swirling across his shoulders and collarbone. A heavy ornate golden collar encrusted with small jewels rests above his well-developed pectorals. Four massive translucent golden silk banners float magically around him tipped with heavy sharp-edged golden anchors resembling stylized sun-stars, the fabric etched with glowing magical calligraphy swirling around his arms and torso like solid wind. Thick dark metallic bracers with golden trim channel elemental power through his open beckoning palms. High-waisted pristine off-white traditional martial trousers are cinched by a vibrant orange and yellow layered sash hanging down his side, baggy thighs tapering at shins into golden decorative bands. He stands barefoot on his toes as if hovering. Behind him, massive sandstone cliffs rise into a soft lilac and gold sky while sprawling white-stone ruins with soaring arches and massive domed temples stretch across the desert floor, two majestic eagles perched nearby as silent guardians, his wind-god aura of mythic divinity radiating across the holy desolate landscape.
 
@@ -1448,6 +1541,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 85 Valir
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a weathered sandstone platform overlooking a sprawling ancient desert civilization with a massive palace carved into pale cliffs. His sharp masculine jawline and high prominent cheekbones lend a regal fierce expression above his warm sun-kissed tan skin, his piercing incandescent amber eyes glowing with internal fire beneath dark furrowed brows, his straight narrow nose leading to a stern set mouth. His vibrant fiery crown of orange and golden-yellow hair sweeps upward and backward in sharp jagged spikes mimicking flickering flames. His lean highly athletic warrior-monk physique displays well-defined pectoral muscles and a toned abdominal region left exposed, a shimmering heat haze aura rippling around his silhouette. A dark brown leather-like pauldron with curved horn-like protrusions arches upward on his right shoulder secured by a sturdy strap crossing his bare chest diagonally, ornate golden bracers etched with ancient patterns cover his forearms. Wide pleated charcoal harem-style trousers are cinched by a thick decorative belt with a large leather pouch, a vibrant crimson sash with jagged flame-like hemlines and golden embroidery hanging over. Sturdy dark brown mid-calf leather boots complete his look. His right hand is wreathed in a swirling intense ball of living flame casting dynamic shadows, and at his side hangs a curved golden bladed ritual weapon with a molten orange core. Behind him, soaring organic arches and circular motifs adorn the weathered cliff palace under a soft lavender and blue twilight sky dotted with distant rock formations and baobab trees, small white birds circling the ruins as drifting embers fill the air, his Son of the Flames lineage aura of overwhelming power dominating the sand and stone world.
@@ -1465,6 +1559,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 86 Khaleed
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a circular engraved stone platform resembling an ancient sundial overlooking a vast desert landscape with towering sandstone ruins. His sharp masculine facial structure features a strong well-defined jawline and straight prominent nose above his deep sun-kissed tan skin, his piercing intense dark amber eyes framed by thick dark eyebrows lending a serious focused expression, a well-groomed dark beard and mustache following his jaw contours. His structured white turban is wrapped with precision featuring a prominent teal and gold band at the forehead, vibrant yellow plume-like ornaments emerging from the top and side centered by a glowing green gemstone. His elite athlete physique—lean and muscular with broad shoulders and powerful upper body—is partially exposed revealing his muscular chest and abdomen, adorned with a heavy teal scarf with horizontal gold stripes draping over his shoulders, a white sleeveless tunic transitioning into a long flowing split-cape with white exterior gold trim and deep teal interior blowing majestically. Leather and bronze-colored bracers protect his forearms with teal fabric wrap on his left arm, loose off-white harem-style trousers tucked into ornate golden greaves, traditional white and gold pointed-toe slippers on his feet. He wields a massive curved scimitar with thick heavy blade featuring a dark metallic sheen and glowing orange amber edge near the intricately designed golden guard hilt with dark wrapped grip and weighted pommel. Behind him, massive towering sandstone structures with grand arches and floating stone elements rise against a clear pale blue sky with wispy sunlit clouds, hardy desert trees dotting orange-gold dunes, two large falcons perched on rocky outcrops as silent sentinels, his ancient divine authority aura of a legendary guardian king commanding the mythic desert realm.
@@ -1483,6 +1578,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
+Hero Id 87 Esmeralda
 
 First Prompt (Game Icon Style):
 In the style of a pixel-art Nintendo game icon, this character is depicted in a full-body wide shot as if from a dramatic movie frame, standing centered on a raised circular stone dais etched with glowing golden runes overlooking a vast desert canyon with massive pale sandstone ruins. Her finely sculpted jawline tapers into a delicate firm chin complementing her straight high-bridged nose above her rich warm olive sun-kissed skin, her striking almond eyes glowing with luminous light teal seafoam green hue framed by dense dark lashes and perfectly arched eyebrows. Her voluminous midnight black hair flows in thick waves to her mid-back with a single vibrant turquoise streak sweeping across her forehead tucked under a golden circlet headband. Her athletic graceful hourglass figure—thin waist cinched, full bust prominent, thick thighs toned—is clad in a structured metallic gold corset-style bodice with intricate filigree patterns enhancing her chest and waist, a short wrap-around skirt with jagged fringed hemline allowing maximum leg movement, intricate golden lattice-work greaves wrapping from feet to just below knees ending in pointed purple-topped footwear, heavy ornate golden gauntlets and bicep cuffs etched with ancient symbols on her arms and legs. Two massive celestial silk scarves of deep shimmering violet encrusted with glowing galactic particles float around her like a protective orbit, trailing pink and purple sparks, acting as her primary weapons manipulated through dance or telekinesis. Behind her, massive pale sandstone structures with organic curved shapes and sharp monumental spires rise against a soft hazy lavender and blue sky illuminated by a warm setting sun, sparse greenery and baobab trees dotting the river-fed valley floor, two large dark-feathered birds of prey perched on rocks watching the horizon, her regal supernatural aura of ancient power radiating across the arid kingdom.
@@ -1500,93 +1596,7 @@ In the style of a full anime image, this character is depicted in a dynamic full
 
 
 
-Hero Id 1 Alucard
-Hero Id 2 Layla
-Hero Id 3 Miya
-Hero Id 4 Eudora
-Hero Id 5 Saber
-Hero Id 6 Akai
-Hero Id 7 Rafaela
-Hero Id 8 Franco
-Hero Id 9 Chou
-Hero Id 10 Nana
-Hero Id 11 Bruno
-Hero Id 12 Clint
-Hero Id 13 Gord
-Hero Id 14 Harley
-Hero Id 15 Balmond
-Hero Id 16 Minotaur
-Hero Id 17 Alice
-Hero Id 18 Zilong
-Hero Id 19 Lolita
-Hero Id 20 Hayabusa
-Hero Id 21 Freya
-Hero Id 22 Karina
-Hero Id 23 Aurora
-Hero Id 24 Kagura
-Hero Id 25 Gatotkaca
-Hero Id 26 Hilda
-Hero Id 27 Moskov
-Hero Id 28 Johnson
-Hero Id 29 Cyclops
-Hero Id 30 Ruby
-Hero Id 31 Sun
-Hero Id 32 Irithel
-Hero Id 33 Argus
-Hero Id 34 Lesley
-Hero Id 35 Zhask
-Hero Id 36 Vexana
-Hero Id 37 Kadita
-Hero Id 38 Selena
-Hero Id 39 Fanny
-Hero Id 40 Lancelot
-Hero Id 41 Harith
-Hero Id 42 Martis
-Hero Id 43 Gusion
-Hero Id 44 Kimmy
-Hero Id 45 Lunox
-Hero Id 46 Thamuz
-Hero Id 47 Leomord
-Hero Id 48 Angela
-Hero Id 49 Aldous
-Hero Id 50 Khufra
-Hero Id 51 Granger
-Hero Id 52 X.Borg
-Hero Id 53 Ling
-Hero Id 54 Carmilla
-Hero Id 55 Atlas
-Hero Id 56 Barats
-Hero Id 57 Mathilda
-Hero Id 58 Brody
-Hero Id 59 Yve
-Hero Id 60 Paquito
-Hero Id 61 Benedetta
-Hero Id 62 Luo Yi
-Hero Id 63 Phoveus
-Hero Id 64 Natan
-Hero Id 65 Aulus
-Hero Id 66 Alpha
-Hero Id 67 Gloo
-Hero Id 68 Beatrix
-Hero Id 69 Edith
-Hero Id 70 Valentina
-Hero Id 71 Aamon
-Hero Id 72 Melissa
-Hero Id 73 Floryn
-Hero Id 74 Julian
-Hero Id 75 Xavier
-Hero Id 76 Fredrinn
-Hero Id 77 Joy
-Hero Id 78 Arlott
-Hero Id 79 Ixia
-Hero Id 80 Novaria
-Hero Id 81 Chip
-Hero Id 82 Cici
-Hero Id 83 Nolan
-Hero Id 84 Vale
-Hero Id 85 Valir
-Hero Id 86 Khaleed
-Hero Id 87 Esmeralda
+
 Hero Id 88 Uranus
 
 First Prompt (Game Icon Style):
