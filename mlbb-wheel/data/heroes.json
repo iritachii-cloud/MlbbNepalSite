@@ -13,7 +13,7 @@
     "release_date": "2017-02-15",
     "difficulty": "medium",
     "image": "../assets/images/heroes/001_alucard/iconimage.png",
-    "sound": "../assets/sounds/001_alucard/select.ogg",
+    "sound": "../assets/images/heroes/001_alucard/select.ogg",
     "tags": [
       "sustain",
       "duelist",
@@ -41,7 +41,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/002_layla/iconimage.png",
-    "sound": "../assets/sounds/002_layla/select.ogg",
+    "sound": "../assets/images/heroes/002_layla/select.ogg",
     "tags": [
       "long range",
       "late game"
@@ -67,7 +67,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/003_miya/iconimage.png",
-    "sound": "../assets/sounds/003_miya/select.ogg",
+    "sound": "../assets/images/heroes/003_miya/select.ogg",
     "tags": [
       "attack speed",
       "split push"
@@ -93,7 +93,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/004_eudora/iconimage.png",
-    "sound": "../assets/sounds/004_eudora/select.ogg",
+    "sound": "../assets/images/heroes/004_eudora/select.ogg",
     "tags": [
       "burst",
       "stun"
@@ -119,7 +119,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/005_saber/iconimage.png",
-    "sound": "../assets/sounds/005_saber/select.ogg",
+    "sound": "../assets/images/heroes/005_saber/select.ogg",
     "tags": [
       "burst",
       "crowd control"
@@ -146,7 +146,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/006_akai/iconimage.png",
-    "sound": "../assets/sounds/006_akai/select.ogg",
+    "sound": "../assets/images/heroes/006_akai/select.ogg",
     "tags": [
       "initiator",
       "crowd control"
@@ -173,7 +173,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/007_rafaela/iconimage.png",
-    "sound": "../assets/sounds/007_rafaela/select.ogg",
+    "sound": "../assets/images/heroes/007_rafaela/select.ogg",
     "tags": [
       "heal",
       "speed boost"
@@ -200,7 +200,7 @@
     "release_date": "2016-08-09",
     "difficulty": "medium",
     "image": "../assets/images/heroes/008_franco/iconimage.png",
-    "sound": "../assets/sounds/008_franco/select.ogg",
+    "sound": "../assets/images/heroes/008_franco/select.ogg",
     "tags": [
       "hook",
       "crowd control"
@@ -226,7 +226,7 @@
     "release_date": "2016-10-20",
     "difficulty": "hard",
     "image": "../assets/images/heroes/009_chou/iconimage.png",
-    "sound": "../assets/sounds/009_chou/select.ogg",
+    "sound": "../assets/images/heroes/009_chou/select.ogg",
     "tags": [
       "crowd control",
       "duelist"
@@ -254,7 +254,7 @@
     "release_date": "2016-11-15",
     "difficulty": "easy",
     "image": "../assets/images/heroes/010_nana/iconimage.png",
-    "sound": "../assets/sounds/010_nana/select.ogg",
+    "sound": "../assets/images/heroes/010_nana/select.ogg",
     "tags": [
       "crowd control",
       "annoying"
@@ -281,7 +281,7 @@
     "release_date": "2016-12-12",
     "difficulty": "medium",
     "image": "../assets/images/heroes/011_bruno/iconimage.png",
-    "sound": "../assets/sounds/011_bruno/select.ogg",
+    "sound": "../assets/images/heroes/011_bruno/select.ogg",
     "tags": [
       "crit",
       "mobility"
@@ -307,7 +307,7 @@
     "release_date": "2017-01-18",
     "difficulty": "medium",
     "image": "../assets/images/heroes/012_clint/iconimage.png",
-    "sound": "../assets/sounds/012_clint/select.ogg",
+    "sound": "../assets/images/heroes/012_clint/select.ogg",
     "tags": [
       "burst",
       "poking"
@@ -333,7 +333,7 @@
     "release_date": "2017-02-22",
     "difficulty": "medium",
     "image": "../assets/images/heroes/013_gord/iconimage.png",
-    "sound": "../assets/sounds/013_gord/select.ogg",
+    "sound": "../assets/images/heroes/013_gord/select.ogg",
     "tags": [
       "area damage",
       "laser"
@@ -360,7 +360,7 @@
     "release_date": "2017-03-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/014_harley/iconimage.png",
-    "sound": "../assets/sounds/014_harley/select.ogg",
+    "sound": "../assets/images/heroes/014_harley/select.ogg",
     "tags": [
       "burst",
       "mobility"
@@ -387,7 +387,7 @@
     "release_date": "2017-04-12",
     "difficulty": "easy",
     "image": "../assets/images/heroes/015_balmond/iconimage.png",
-    "sound": "../assets/sounds/015_balmond/select.ogg",
+    "sound": "../assets/images/heroes/015_balmond/select.ogg",
     "tags": [
       "sustain",
       "execute"
@@ -415,7 +415,7 @@
     "release_date": "2017-05-10",
     "difficulty": "medium",
     "image": "../assets/images/heroes/016_minotaur/iconimage.png",
-    "sound": "../assets/sounds/016_minotaur/select.ogg",
+    "sound": "../assets/images/heroes/016_minotaur/select.ogg",
     "tags": [
       "heal",
       "crowd control",
@@ -443,7 +443,7 @@
     "release_date": "2017-06-14",
     "difficulty": "medium",
     "image": "../assets/images/heroes/017_alice/iconimage.png",
-    "sound": "../assets/sounds/017_alice/select.ogg",
+    "sound": "../assets/images/heroes/017_alice/select.ogg",
     "tags": [
       "sustain",
       "area damage"
@@ -471,7 +471,7 @@
     "release_date": "2017-07-19",
     "difficulty": "easy",
     "image": "../assets/images/heroes/018_zilong/iconimage.png",
-    "sound": "../assets/sounds/018_zilong/select.ogg",
+    "sound": "../assets/images/heroes/018_zilong/select.ogg",
     "tags": [
       "split push",
       "attack speed"
@@ -498,7 +498,7 @@
     "release_date": "2017-08-23",
     "difficulty": "medium",
     "image": "../assets/images/heroes/019_lolita/iconimage.png",
-    "sound": "../assets/sounds/019_lolita/select.ogg",
+    "sound": "../assets/images/heroes/019_lolita/select.ogg",
     "tags": [
       "reflect",
       "crowd control"
@@ -524,7 +524,7 @@
     "release_date": "2017-09-27",
     "difficulty": "hard",
     "image": "../assets/images/heroes/020_hayabusa/iconimage.png",
-    "sound": "../assets/sounds/020_hayabusa/select.ogg",
+    "sound": "../assets/images/heroes/020_hayabusa/select.ogg",
     "tags": [
       "mobility",
       "burst",
@@ -551,7 +551,7 @@
     "release_date": "2017-10-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/021_freya/iconimage.png",
-    "sound": "../assets/sounds/021_freya/select.ogg",
+    "sound": "../assets/images/heroes/021_freya/select.ogg",
     "tags": [
       "burst",
       "aerial"
@@ -579,7 +579,7 @@
     "release_date": "2017-11-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/022_karina/iconimage.png",
-    "sound": "../assets/sounds/022_karina/select.ogg",
+    "sound": "../assets/images/heroes/022_karina/select.ogg",
     "tags": [
       "reset",
       "true damage"
@@ -605,7 +605,7 @@
     "release_date": "2017-12-20",
     "difficulty": "medium",
     "image": "../assets/images/heroes/023_aurora/iconimage.png",
-    "sound": "../assets/sounds/023_aurora/select.ogg",
+    "sound": "../assets/images/heroes/023_aurora/select.ogg",
     "tags": [
       "crowd control",
       "burst"
@@ -631,7 +631,7 @@
     "release_date": "2018-01-24",
     "difficulty": "hard",
     "image": "../assets/images/heroes/024_kagura/iconimage.png",
-    "sound": "../assets/sounds/024_kagura/select.ogg",
+    "sound": "../assets/images/heroes/024_kagura/select.ogg",
     "tags": [
       "mobility",
       "burst",
@@ -659,7 +659,7 @@
     "release_date": "2018-02-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/025_gatotkaca/iconimage.png",
-    "sound": "../assets/sounds/025_gatotkaca/select.ogg",
+    "sound": "../assets/images/heroes/025_gatotkaca/select.ogg",
     "tags": [
       "counter-attack",
       "crowd control"
@@ -687,7 +687,7 @@
     "release_date": "2018-03-21",
     "difficulty": "easy",
     "image": "../assets/images/heroes/026_hilda/iconimage.png",
-    "sound": "../assets/sounds/026_hilda/select.ogg",
+    "sound": "../assets/images/heroes/026_hilda/select.ogg",
     "tags": [
       "sustain",
       "roaming"
@@ -714,7 +714,7 @@
     "release_date": "2018-04-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/027_moskov/iconimage.png",
-    "sound": "../assets/sounds/027_moskov/select.ogg",
+    "sound": "../assets/images/heroes/027_moskov/select.ogg",
     "tags": [
       "penetration",
       "mobility"
@@ -740,7 +740,7 @@
     "release_date": "2018-05-30",
     "difficulty": "medium",
     "image": "../assets/images/heroes/028_johnson/iconimage.png",
-    "sound": "../assets/sounds/028_johnson/select.ogg",
+    "sound": "../assets/images/heroes/028_johnson/select.ogg",
     "tags": [
       "initiator",
       "global",
@@ -767,7 +767,7 @@
     "release_date": "2018-06-27",
     "difficulty": "easy",
     "image": "../assets/images/heroes/029_cyclops/iconimage.png",
-    "sound": "../assets/sounds/029_cyclops/select.ogg",
+    "sound": "../assets/images/heroes/029_cyclops/select.ogg",
     "tags": [
       "burst",
       "cooldown reduction"
@@ -794,7 +794,7 @@
     "release_date": "2018-07-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/030_ruby/iconimage.png",
-    "sound": "../assets/sounds/030_ruby/select.ogg",
+    "sound": "../assets/images/heroes/030_ruby/select.ogg",
     "tags": [
       "crowd control",
       "lifesteal"
@@ -821,7 +821,7 @@
     "release_date": "2018-08-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/031_sun/iconimage.png",
-    "sound": "../assets/sounds/031_sun/select.ogg",
+    "sound": "../assets/images/heroes/031_sun/select.ogg",
     "tags": [
       "split push",
       "clone"
@@ -848,7 +848,7 @@
     "release_date": "2018-09-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/032_irithel/iconimage.png",
-    "sound": "../assets/sounds/032_irithel/select.ogg",
+    "sound": "../assets/images/heroes/032_irithel/select.ogg",
     "tags": [
       "attack speed",
       "mobile"
@@ -874,7 +874,7 @@
     "release_date": "2018-10-31",
     "difficulty": "medium",
     "image": "../assets/images/heroes/033_argus/iconimage.png",
-    "sound": "../assets/sounds/033_argus/select.ogg",
+    "sound": "../assets/images/heroes/033_argus/select.ogg",
     "tags": [
       "immortal",
       "split push"
@@ -901,7 +901,7 @@
     "release_date": "2018-11-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/034_lesley/iconimage.png",
-    "sound": "../assets/sounds/034_lesley/select.ogg",
+    "sound": "../assets/images/heroes/034_lesley/select.ogg",
     "tags": [
       "true damage",
       "stealth"
@@ -927,7 +927,7 @@
     "release_date": "2018-12-19",
     "difficulty": "hard",
     "image": "../assets/images/heroes/035_zhask/iconimage.png",
-    "sound": "../assets/sounds/035_zhask/select.ogg",
+    "sound": "../assets/images/heroes/035_zhask/select.ogg",
     "tags": [
       "summon",
       "push"
@@ -953,7 +953,7 @@
     "release_date": "2019-01-23",
     "difficulty": "medium",
     "image": "../assets/images/heroes/036_vexana/iconimage.png",
-    "sound": "../assets/sounds/036_vexana/select.ogg",
+    "sound": "../assets/images/heroes/036_vexana/select.ogg",
     "tags": [
       "summon",
       "crowd control"
@@ -979,7 +979,7 @@
     "release_date": "2019-02-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/037_kadita/iconimage.png",
-    "sound": "../assets/sounds/037_kadita/select.ogg",
+    "sound": "../assets/images/heroes/037_kadita/select.ogg",
     "tags": [
       "burst",
       "invulnerable"
@@ -1006,7 +1006,7 @@
     "release_date": "2019-03-20",
     "difficulty": "hard",
     "image": "../assets/images/heroes/038_selena/iconimage.png",
-    "sound": "../assets/sounds/038_selena/select.ogg",
+    "sound": "../assets/images/heroes/038_selena/select.ogg",
     "tags": [
       "crowd control",
       "burst",
@@ -1034,7 +1034,7 @@
     "release_date": "2019-04-24",
     "difficulty": "hard",
     "image": "../assets/images/heroes/039_fanny/iconimage.png",
-    "sound": "../assets/sounds/039_fanny/select.ogg",
+    "sound": "../assets/images/heroes/039_fanny/select.ogg",
     "tags": [
       "mobility",
       "energy-based"
@@ -1060,7 +1060,7 @@
     "release_date": "2019-05-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/040_lancelot/iconimage.png",
-    "sound": "../assets/sounds/040_lancelot/select.ogg",
+    "sound": "../assets/images/heroes/040_lancelot/select.ogg",
     "tags": [
       "mobility",
       "invulnerable"
@@ -1087,7 +1087,7 @@
     "release_date": "2019-06-26",
     "difficulty": "hard",
     "image": "../assets/images/heroes/041_harith/iconimage.png",
-    "sound": "../assets/sounds/041_harith/select.ogg",
+    "sound": "../assets/images/heroes/041_harith/select.ogg",
     "tags": [
       "mobility",
       "shield"
@@ -1113,7 +1113,7 @@
     "release_date": "2019-07-31",
     "difficulty": "medium",
     "image": "../assets/images/heroes/042_martis/iconimage.png",
-    "sound": "../assets/sounds/042_martis/select.ogg",
+    "sound": "../assets/images/heroes/042_martis/select.ogg",
     "tags": [
       "crowd control",
       "execute"
@@ -1141,7 +1141,7 @@
     "release_date": "2019-08-28",
     "difficulty": "hard",
     "image": "../assets/images/heroes/043_gusion/iconimage.png",
-    "sound": "../assets/sounds/043_gusion/select.ogg",
+    "sound": "../assets/images/heroes/043_gusion/select.ogg",
     "tags": [
       "burst",
       "reset"
@@ -1169,7 +1169,7 @@
     "release_date": "2019-09-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/044_kimmy/iconimage.png",
-    "sound": "../assets/sounds/044_kimmy/select.ogg",
+    "sound": "../assets/images/heroes/044_kimmy/select.ogg",
     "tags": [
       "hybrid",
       "kiting"
@@ -1196,7 +1196,7 @@
     "release_date": "2019-10-30",
     "difficulty": "hard",
     "image": "../assets/images/heroes/045_lunox/iconimage.png",
-    "sound": "../assets/sounds/045_lunox/select.ogg",
+    "sound": "../assets/images/heroes/045_lunox/select.ogg",
     "tags": [
       "dual form",
       "true damage"
@@ -1222,7 +1222,7 @@
     "release_date": "2019-11-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/046_thamuz/iconimage.png",
-    "sound": "../assets/sounds/046_thamuz/select.ogg",
+    "sound": "../assets/images/heroes/046_thamuz/select.ogg",
     "tags": [
       "sustain",
       "area damage"
@@ -1248,7 +1248,7 @@
     "release_date": "2019-12-18",
     "difficulty": "medium",
     "image": "../assets/images/heroes/047_leomord/iconimage.png",
-    "sound": "../assets/sounds/047_leomord/select.ogg",
+    "sound": "../assets/images/heroes/047_leomord/select.ogg",
     "tags": [
       "mount",
       "burst"
@@ -1275,7 +1275,7 @@
     "release_date": "2020-01-22",
     "difficulty": "medium",
     "image": "../assets/images/heroes/048_angela/iconimage.png",
-    "sound": "../assets/sounds/048_angela/select.ogg",
+    "sound": "../assets/images/heroes/048_angela/select.ogg",
     "tags": [
       "heal",
       "possession"
@@ -1301,7 +1301,7 @@
     "release_date": "2020-02-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/049_aldous/iconimage.png",
-    "sound": "../assets/sounds/049_aldous/select.ogg",
+    "sound": "../assets/images/heroes/049_aldous/select.ogg",
     "tags": [
       "stacking",
       "true damage"
@@ -1327,7 +1327,7 @@
     "release_date": "2020-03-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/050_khufra/iconimage.png",
-    "sound": "../assets/sounds/050_khufra/select.ogg",
+    "sound": "../assets/images/heroes/050_khufra/select.ogg",
     "tags": [
       "crowd control",
       "initiator"
@@ -1353,7 +1353,7 @@
     "release_date": "2020-04-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/051_granger/iconimage.png",
-    "sound": "../assets/sounds/051_granger/select.ogg",
+    "sound": "../assets/images/heroes/051_granger/select.ogg",
     "tags": [
       "burst",
       "reload"
@@ -1380,7 +1380,7 @@
     "release_date": "2020-05-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/052_xborg/iconimage.png",
-    "sound": "../assets/sounds/052_xborg/select.ogg",
+    "sound": "../assets/images/heroes/052_xborg/select.ogg",
     "tags": [
       "true damage",
       "armor"
@@ -1406,7 +1406,7 @@
     "release_date": "2020-06-24",
     "difficulty": "hard",
     "image": "../assets/images/heroes/053_ling/iconimage.png",
-    "sound": "../assets/sounds/053_ling/select.ogg",
+    "sound": "../assets/images/heroes/053_ling/select.ogg",
     "tags": [
       "mobility",
       "wall climbing"
@@ -1432,7 +1432,7 @@
     "release_date": "2020-07-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/054_carmilla/iconimage.png",
-    "sound": "../assets/sounds/054_carmilla/select.ogg",
+    "sound": "../assets/images/heroes/054_carmilla/select.ogg",
     "tags": [
       "link",
       "crowd control"
@@ -1459,7 +1459,7 @@
     "release_date": "2020-08-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/055_atlas/iconimage.png",
-    "sound": "../assets/sounds/055_atlas/select.ogg",
+    "sound": "../assets/images/heroes/055_atlas/select.ogg",
     "tags": [
       "crowd control",
       "initiator"
@@ -1486,7 +1486,7 @@
     "release_date": "2020-09-23",
     "difficulty": "medium",
     "image": "../assets/images/heroes/056_barats/iconimage.png",
-    "sound": "../assets/sounds/056_barats/select.ogg",
+    "sound": "../assets/images/heroes/056_barats/select.ogg",
     "tags": [
       "stacking",
       "crowd control"
@@ -1514,7 +1514,7 @@
     "release_date": "2020-10-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/057_mathilda/iconimage.png",
-    "sound": "../assets/sounds/057_mathilda/select.ogg",
+    "sound": "../assets/images/heroes/057_mathilda/select.ogg",
     "tags": [
       "mobility",
       "shield"
@@ -1540,7 +1540,7 @@
     "release_date": "2020-11-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/058_brody/iconimage.png",
-    "sound": "../assets/sounds/058_brody/select.ogg",
+    "sound": "../assets/images/heroes/058_brody/select.ogg",
     "tags": [
       "burst",
       "slow"
@@ -1566,7 +1566,7 @@
     "release_date": "2020-12-16",
     "difficulty": "medium",
     "image": "../assets/images/heroes/059_yve/iconimage.png",
-    "sound": "../assets/sounds/059_yve/select.ogg",
+    "sound": "../assets/images/heroes/059_yve/select.ogg",
     "tags": [
       "zone control",
       "slow"
@@ -1593,7 +1593,7 @@
     "release_date": "2021-01-20",
     "difficulty": "medium",
     "image": "../assets/images/heroes/060_paquito/iconimage.png",
-    "sound": "../assets/sounds/060_paquito/select.ogg",
+    "sound": "../assets/images/heroes/060_paquito/select.ogg",
     "tags": [
       "combo",
       "burst"
@@ -1620,7 +1620,7 @@
     "release_date": "2021-02-24",
     "difficulty": "hard",
     "image": "../assets/images/heroes/061_benedetta/iconimage.png",
-    "sound": "../assets/sounds/061_benedetta/select.ogg",
+    "sound": "../assets/images/heroes/061_benedetta/select.ogg",
     "tags": [
       "mobility",
       "invulnerable"
@@ -1647,7 +1647,7 @@
     "release_date": "2021-03-31",
     "difficulty": "medium",
     "image": "../assets/images/heroes/062_luoyi/iconimage.png",
-    "sound": "../assets/sounds/062_luoyi/select.ogg",
+    "sound": "../assets/images/heroes/062_luoyi/select.ogg",
     "tags": [
       "crowd control",
       "teleport"
@@ -1673,7 +1673,7 @@
     "release_date": "2021-04-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/063_phoveus/iconimage.png",
-    "sound": "../assets/sounds/063_phoveus/select.ogg",
+    "sound": "../assets/images/heroes/063_phoveus/select.ogg",
     "tags": [
       "anti-dash",
       "sustain"
@@ -1699,7 +1699,7 @@
     "release_date": "2021-05-26",
     "difficulty": "hard",
     "image": "../assets/images/heroes/064_natan/iconimage.png",
-    "sound": "../assets/sounds/064_natan/select.ogg",
+    "sound": "../assets/images/heroes/064_natan/select.ogg",
     "tags": [
       "mobility",
       "hybrid"
@@ -1726,7 +1726,7 @@
     "release_date": "2021-06-30",
     "difficulty": "easy",
     "image": "../assets/images/heroes/065_aulus/iconimage.png",
-    "sound": "../assets/sounds/065_aulus/select.ogg",
+    "sound": "../assets/images/heroes/065_aulus/select.ogg",
     "tags": [
       "late game",
       "attack speed"
@@ -1752,7 +1752,7 @@
     "release_date": "2017-08-15",
     "difficulty": "medium",
     "image": "../assets/images/heroes/066_alpha/iconimage.png",
-    "sound": "../assets/sounds/066_alpha/select.ogg",
+    "sound": "../assets/images/heroes/066_alpha/select.ogg",
     "tags": [
       "sustain",
       "poking"
@@ -1779,7 +1779,7 @@
     "release_date": "2021-08-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/067_gloo/iconimage.png",
-    "sound": "../assets/sounds/067_gloo/select.ogg",
+    "sound": "../assets/images/heroes/067_gloo/select.ogg",
     "tags": [
       "split",
       "drain"
@@ -1806,7 +1806,7 @@
     "release_date": "2021-09-22",
     "difficulty": "hard",
     "image": "../assets/images/heroes/068_beatrix/iconimage.png",
-    "sound": "../assets/sounds/068_beatrix/select.ogg",
+    "sound": "../assets/images/heroes/068_beatrix/select.ogg",
     "tags": [
       "versatile",
       "burst"
@@ -1833,7 +1833,7 @@
     "release_date": "2021-10-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/069_edith/iconimage.png",
-    "sound": "../assets/sounds/069_edith/select.ogg",
+    "sound": "../assets/images/heroes/069_edith/select.ogg",
     "tags": [
       "dual form",
       "hybrid"
@@ -1860,7 +1860,7 @@
     "release_date": "2021-11-24",
     "difficulty": "hard",
     "image": "../assets/images/heroes/070_valentina/iconimage.png",
-    "sound": "../assets/sounds/070_valentina/select.ogg",
+    "sound": "../assets/images/heroes/070_valentina/select.ogg",
     "tags": [
       "copy",
       "versatile"
@@ -1886,7 +1886,7 @@
     "release_date": "2021-12-15",
     "difficulty": "medium",
     "image": "../assets/images/heroes/071_aamon/iconimage.png",
-    "sound": "../assets/sounds/071_aamon/select.ogg",
+    "sound": "../assets/images/heroes/071_aamon/select.ogg",
     "tags": [
       "invisible",
       "burst"
@@ -1912,7 +1912,7 @@
     "release_date": "2022-01-19",
     "difficulty": "medium",
     "image": "../assets/images/heroes/072_melissa/iconimage.png",
-    "sound": "../assets/sounds/072_melissa/select.ogg",
+    "sound": "../assets/images/heroes/072_melissa/select.ogg",
     "tags": [
       "zone control",
       "kiting"
@@ -1938,7 +1938,7 @@
     "release_date": "2022-02-23",
     "difficulty": "easy",
     "image": "../assets/images/heroes/073_floryn/iconimage.png",
-    "sound": "../assets/sounds/073_floryn/select.ogg",
+    "sound": "../assets/images/heroes/073_floryn/select.ogg",
     "tags": [
       "global heal",
       "purify"
@@ -1965,7 +1965,7 @@
     "release_date": "2022-03-30",
     "difficulty": "hard",
     "image": "../assets/images/heroes/074_julian/iconimage.png",
-    "sound": "../assets/sounds/074_julian/select.ogg",
+    "sound": "../assets/images/heroes/074_julian/select.ogg",
     "tags": [
       "evolution",
       "versatile"
@@ -1992,7 +1992,7 @@
     "release_date": "2022-04-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/075_xavier/iconimage.png",
-    "sound": "../assets/sounds/075_xavier/select.ogg",
+    "sound": "../assets/images/heroes/075_xavier/select.ogg",
     "tags": [
       "poke",
       "zone control"
@@ -2019,7 +2019,7 @@
     "release_date": "2022-05-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/076_fredrinn/iconimage.png",
-    "sound": "../assets/sounds/076_fredrinn/select.ogg",
+    "sound": "../assets/images/heroes/076_fredrinn/select.ogg",
     "tags": [
       "damage storage",
       "crowd control"
@@ -2046,7 +2046,7 @@
     "release_date": "2022-06-22",
     "difficulty": "hard",
     "image": "../assets/images/heroes/077_joy/iconimage.png",
-    "sound": "../assets/sounds/077_joy/select.ogg",
+    "sound": "../assets/images/heroes/077_joy/select.ogg",
     "tags": [
       "rhythm",
       "mobility"
@@ -2073,7 +2073,7 @@
     "release_date": "2022-07-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/078_arlott/iconimage.png",
-    "sound": "../assets/sounds/078_arlott/select.ogg",
+    "sound": "../assets/images/heroes/078_arlott/select.ogg",
     "tags": [
       "mark",
       "dash"
@@ -2099,7 +2099,7 @@
     "release_date": "2022-08-31",
     "difficulty": "medium",
     "image": "../assets/images/heroes/079_ixia/iconimage.png",
-    "sound": "../assets/sounds/079_ixia/select.ogg",
+    "sound": "../assets/images/heroes/079_ixia/select.ogg",
     "tags": [
       "area damage",
       "attack speed"
@@ -2125,7 +2125,7 @@
     "release_date": "2022-09-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/080_novaria/iconimage.png",
-    "sound": "../assets/sounds/080_novaria/select.ogg",
+    "sound": "../assets/images/heroes/080_novaria/select.ogg",
     "tags": [
       "vision",
       "poke"
@@ -2152,7 +2152,7 @@
     "release_date": "2022-10-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/081_chip/iconimage.png",
-    "sound": "../assets/sounds/081_chip/select.ogg",
+    "sound": "../assets/images/heroes/081_chip/select.ogg",
     "tags": [
       "global",
       "portal"
@@ -2178,7 +2178,7 @@
     "release_date": "2022-11-30",
     "difficulty": "easy",
     "image": "../assets/images/heroes/082_cici/iconimage.png",
-    "sound": "../assets/sounds/082_cici/select.ogg",
+    "sound": "../assets/images/heroes/082_cici/select.ogg",
     "tags": [
       "area damage",
       "mobile"
@@ -2204,7 +2204,7 @@
     "release_date": "2022-12-21",
     "difficulty": "hard",
     "image": "../assets/images/heroes/083_nolan/iconimage.png",
-    "sound": "../assets/sounds/083_nolan/select.ogg",
+    "sound": "../assets/images/heroes/083_nolan/select.ogg",
     "tags": [
       "time manipulation",
       "burst"
@@ -2230,7 +2230,7 @@
     "release_date": "2023-01-18",
     "difficulty": "easy",
     "image": "../assets/images/heroes/084_vale/iconimage.png",
-    "sound": "../assets/sounds/084_vale/select.ogg",
+    "sound": "../assets/images/heroes/084_vale/select.ogg",
     "tags": [
       "crowd control",
       "burst"
@@ -2256,7 +2256,7 @@
     "release_date": "2023-02-22",
     "difficulty": "easy",
     "image": "../assets/images/heroes/085_valir/iconimage.png",
-    "sound": "../assets/sounds/085_valir/select.ogg",
+    "sound": "../assets/images/heroes/085_valir/select.ogg",
     "tags": [
       "push",
       "burn"
@@ -2282,7 +2282,7 @@
     "release_date": "2023-03-29",
     "difficulty": "easy",
     "image": "../assets/images/heroes/086_khaleed/iconimage.png",
-    "sound": "../assets/sounds/086_khaleed/select.ogg",
+    "sound": "../assets/images/heroes/086_khaleed/select.ogg",
     "tags": [
       "sustain",
       "mobility"
@@ -2309,7 +2309,7 @@
     "release_date": "2023-04-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/087_esmeralda/iconimage.png",
-    "sound": "../assets/sounds/087_esmeralda/select.ogg",
+    "sound": "../assets/images/heroes/087_esmeralda/select.ogg",
     "tags": [
       "shield steal",
       "sustain"
@@ -2336,7 +2336,7 @@
     "release_date": "2023-05-31",
     "difficulty": "easy",
     "image": "../assets/images/heroes/088_uranus/iconimage.png",
-    "sound": "../assets/sounds/088_uranus/select.ogg",
+    "sound": "../assets/images/heroes/088_uranus/select.ogg",
     "tags": [
       "regeneration",
       "slow"
@@ -2362,7 +2362,7 @@
     "release_date": "2023-06-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/089_terizla/iconimage.png",
-    "sound": "../assets/sounds/089_terizla/select.ogg",
+    "sound": "../assets/images/heroes/089_terizla/select.ogg",
     "tags": [
       "true damage",
       "sustain"
@@ -2389,7 +2389,7 @@
     "release_date": "2023-07-26",
     "difficulty": "easy",
     "image": "../assets/images/heroes/090_bane/iconimage.png",
-    "sound": "../assets/sounds/090_bane/select.ogg",
+    "sound": "../assets/images/heroes/090_bane/select.ogg",
     "tags": [
       "hybrid",
       "sustain"
@@ -2417,7 +2417,7 @@
     "release_date": "2023-08-30",
     "difficulty": "medium",
     "image": "../assets/images/heroes/091_kaja/iconimage.png",
-    "sound": "../assets/sounds/091_kaja/select.ogg",
+    "sound": "../assets/images/heroes/091_kaja/select.ogg",
     "tags": [
       "suppress",
       "mobility"
@@ -2443,7 +2443,7 @@
     "release_date": "2023-09-27",
     "difficulty": "hard",
     "image": "../assets/images/heroes/092_hanzo/iconimage.png",
-    "sound": "../assets/sounds/092_hanzo/select.ogg",
+    "sound": "../assets/images/heroes/092_hanzo/select.ogg",
     "tags": [
       "spirit form",
       "burst"
@@ -2469,7 +2469,7 @@
     "release_date": "2023-10-25",
     "difficulty": "easy",
     "image": "../assets/images/heroes/093_hanabi/iconimage.png",
-    "sound": "../assets/sounds/093_hanabi/select.ogg",
+    "sound": "../assets/images/heroes/093_hanabi/select.ogg",
     "tags": [
       "bounce",
       "shield"
@@ -2495,7 +2495,7 @@
     "release_date": "2023-11-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/094_yin/iconimage.png",
-    "sound": "../assets/sounds/094_yin/select.ogg",
+    "sound": "../assets/images/heroes/094_yin/select.ogg",
     "tags": [
       "domain",
       "duel"
@@ -2523,7 +2523,7 @@
     "release_date": "2023-12-20",
     "difficulty": "medium",
     "image": "../assets/images/heroes/095_masha/iconimage.png",
-    "sound": "../assets/sounds/095_masha/select.ogg",
+    "sound": "../assets/images/heroes/095_masha/select.ogg",
     "tags": [
       "multiple HP",
       "attack speed"
@@ -2550,7 +2550,7 @@
     "release_date": "2024-01-24",
     "difficulty": "hard",
     "image": "../assets/images/heroes/096_wanwan/iconimage.png",
-    "sound": "../assets/sounds/096_wanwan/select.ogg",
+    "sound": "../assets/images/heroes/096_wanwan/select.ogg",
     "tags": [
       "mobility",
       "true damage"
@@ -2576,7 +2576,7 @@
     "release_date": "2024-02-28",
     "difficulty": "hard",
     "image": "../assets/images/heroes/097_claude/iconimage.png",
-    "sound": "../assets/sounds/097_claude/select.ogg",
+    "sound": "../assets/images/heroes/097_claude/select.ogg",
     "tags": [
       "clone",
       "mobility"
@@ -2602,7 +2602,7 @@
     "release_date": "2024-03-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/098_karrie/iconimage.png",
-    "sound": "../assets/sounds/098_karrie/select.ogg",
+    "sound": "../assets/images/heroes/098_karrie/select.ogg",
     "tags": [
       "true damage",
       "tank killer"
@@ -2629,7 +2629,7 @@
     "release_date": "2024-04-24",
     "difficulty": "medium",
     "image": "../assets/images/heroes/099_roger/iconimage.png",
-    "sound": "../assets/sounds/099_roger/select.ogg",
+    "sound": "../assets/images/heroes/099_roger/select.ogg",
     "tags": [
       "transformation",
       "hybrid"
@@ -2657,7 +2657,7 @@
     "release_date": "2024-05-29",
     "difficulty": "medium",
     "image": "../assets/images/heroes/100_diggie/iconimage.png",
-    "sound": "../assets/sounds/100_diggie/select.ogg",
+    "sound": "../assets/images/heroes/100_diggie/select.ogg",
     "tags": [
       "anti-cc",
       "bomb"
@@ -2683,7 +2683,7 @@
     "release_date": "2024-06-26",
     "difficulty": "easy",
     "image": "../assets/images/heroes/101_estes/iconimage.png",
-    "sound": "../assets/sounds/101_estes/select.ogg",
+    "sound": "../assets/images/heroes/101_estes/select.ogg",
     "tags": [
       "heal",
       "aura"
@@ -2709,7 +2709,7 @@
     "release_date": "2024-07-31",
     "difficulty": "easy",
     "image": "../assets/images/heroes/102_belerick/iconimage.png",
-    "sound": "../assets/sounds/102_belerick/select.ogg",
+    "sound": "../assets/images/heroes/102_belerick/select.ogg",
     "tags": [
       "damage share",
       "taunt"
@@ -2736,7 +2736,7 @@
     "release_date": "2024-08-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/103_badang/iconimage.png",
-    "sound": "../assets/sounds/103_badang/select.ogg",
+    "sound": "../assets/images/heroes/103_badang/select.ogg",
     "tags": [
       "wall",
       "crowd control"
@@ -2762,7 +2762,7 @@
     "release_date": "2024-09-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/104_lapulapu/iconimage.png",
-    "sound": "../assets/sounds/104_lapulapu/select.ogg",
+    "sound": "../assets/images/heroes/104_lapulapu/select.ogg",
     "tags": [
       "dual form",
       "area damage"
@@ -2788,7 +2788,7 @@
     "release_date": "2024-10-30",
     "difficulty": "medium",
     "image": "../assets/images/heroes/105_jawhead/iconimage.png",
-    "sound": "../assets/sounds/105_jawhead/select.ogg",
+    "sound": "../assets/images/heroes/105_jawhead/select.ogg",
     "tags": [
       "throw",
       "lock on"
@@ -2816,7 +2816,7 @@
     "release_date": "2024-11-27",
     "difficulty": "medium",
     "image": "../assets/images/heroes/106_guinevere/iconimage.png",
-    "sound": "../assets/sounds/106_guinevere/select.ogg",
+    "sound": "../assets/images/heroes/106_guinevere/select.ogg",
     "tags": [
       "knock up",
       "burst"
@@ -2842,7 +2842,7 @@
     "release_date": "2024-12-18",
     "difficulty": "medium",
     "image": "../assets/images/heroes/107_dyrroth/iconimage.png",
-    "sound": "../assets/sounds/107_dyrroth/select.ogg",
+    "sound": "../assets/images/heroes/107_dyrroth/select.ogg",
     "tags": [
       "mark",
       "armor reduction"
@@ -2870,7 +2870,7 @@
     "release_date": "2025-01-22",
     "difficulty": "medium",
     "image": "../assets/images/heroes/108_minsitthar/iconimage.png",
-    "sound": "../assets/sounds/108_minsitthar/select.ogg",
+    "sound": "../assets/images/heroes/108_minsitthar/select.ogg",
     "tags": [
       "anti-dash",
       "crowd control"
@@ -2897,7 +2897,7 @@
     "release_date": "2025-02-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/109_silvanna/iconimage.png",
-    "sound": "../assets/sounds/109_silvanna/select.ogg",
+    "sound": "../assets/images/heroes/109_silvanna/select.ogg",
     "tags": [
       "trap",
       "burst"
@@ -2923,7 +2923,7 @@
     "release_date": "2019-11-13",
     "difficulty": "medium",
     "image": "../assets/images/heroes/110_baxia/iconimage.png",
-    "sound": "../assets/sounds/110_baxia/select.ogg",
+    "sound": "../assets/images/heroes/110_baxia/select.ogg",
     "tags": [
       "reflect",
       "crowd control"
@@ -2950,7 +2950,7 @@
     "release_date": "2020-05-06",
     "difficulty": "medium",
     "image": "../assets/images/heroes/111_cecilion/iconimage.png",
-    "sound": "../assets/sounds/111_cecilion/select.ogg",
+    "sound": "../assets/images/heroes/111_cecilion/select.ogg",
     "tags": [
       "scaling",
       "area damage"
@@ -2976,7 +2976,7 @@
     "release_date": "2018-09-12",
     "difficulty": "easy",
     "image": "../assets/images/heroes/112_chang_e/iconimage.png",
-    "sound": "../assets/sounds/112_chang_e/select.ogg",
+    "sound": "../assets/images/heroes/112_chang_e/select.ogg",
     "tags": [
       "poke",
       "shield"
@@ -3004,7 +3004,7 @@
     "release_date": "2018-12-19",
     "difficulty": "medium",
     "image": "../assets/images/heroes/113_faramis/iconimage.png",
-    "sound": "../assets/sounds/113_faramis/select.ogg",
+    "sound": "../assets/images/heroes/113_faramis/select.ogg",
     "tags": [
       "revive",
       "burst"
@@ -3031,7 +3031,7 @@
     "release_date": "2017-10-18",
     "difficulty": "easy",
     "image": "../assets/images/heroes/114_grock/iconimage.png",
-    "sound": "../assets/sounds/114_grock/select.ogg",
+    "sound": "../assets/images/heroes/114_grock/select.ogg",
     "tags": [
       "crowd control",
       "terrain"
@@ -3058,7 +3058,7 @@
     "release_date": "2018-03-28",
     "difficulty": "medium",
     "image": "../assets/images/heroes/115_helcurt/iconimage.png",
-    "sound": "../assets/sounds/115_helcurt/select.ogg",
+    "sound": "../assets/images/heroes/115_helcurt/select.ogg",
     "tags": [
       "silence",
       "burst"
@@ -3085,7 +3085,7 @@
     "release_date": "2017-12-06",
     "difficulty": "easy",
     "image": "../assets/images/heroes/116_hylos/iconimage.png",
-    "sound": "../assets/sounds/116_hylos/select.ogg",
+    "sound": "../assets/images/heroes/116_hylos/select.ogg",
     "tags": [
       "sustain",
       "slow"
@@ -3112,7 +3112,7 @@
     "release_date": "2020-01-15",
     "difficulty": "medium",
     "image": "../assets/images/heroes/117_lylia/iconimage.png",
-    "sound": "../assets/sounds/117_lylia/select.ogg",
+    "sound": "../assets/images/heroes/117_lylia/select.ogg",
     "tags": [
       "area damage",
       "time manipulation"
@@ -3138,7 +3138,7 @@
     "release_date": "2017-04-26",
     "difficulty": "medium",
     "image": "../assets/images/heroes/118_natalia/iconimage.png",
-    "sound": "../assets/sounds/118_natalia/select.ogg",
+    "sound": "../assets/images/heroes/118_natalia/select.ogg",
     "tags": [
       "stealth",
       "burst"
@@ -3165,7 +3165,7 @@
     "release_date": "2017-06-21",
     "difficulty": "easy",
     "image": "../assets/images/heroes/119_odette/iconimage.png",
-    "sound": "../assets/sounds/119_odette/select.ogg",
+    "sound": "../assets/images/heroes/119_odette/select.ogg",
     "tags": [
       "area damage",
       "dance"
@@ -3192,7 +3192,7 @@
     "release_date": "2018-06-13",
     "difficulty": "medium",
     "image": "../assets/images/heroes/120_pharsa/iconimage.png",
-    "sound": "../assets/sounds/120_pharsa/select.ogg",
+    "sound": "../assets/images/heroes/120_pharsa/select.ogg",
     "tags": [
       "long range",
       "burst"
@@ -3218,7 +3218,7 @@
     "release_date": "2019-07-17",
     "difficulty": "medium",
     "image": "../assets/images/heroes/121_popol_kupa/iconimage.png",
-    "sound": "../assets/sounds/121_popol_kupa/select.ogg",
+    "sound": "../assets/images/heroes/121_popol_kupa/select.ogg",
     "tags": [
       "traps",
       "pet"
@@ -3245,7 +3245,7 @@
     "release_date": "2024-05-22",
     "difficulty": "medium",
     "image": "../assets/images/heroes/122_sora/iconimage.png",
-    "sound": "../assets/sounds/122_sora/select.ogg",
+    "sound": "../assets/images/heroes/122_sora/select.ogg",
     "tags": [
       "mobility",
       "dive"
@@ -3273,7 +3273,7 @@
     "release_date": "2024-08-14",
     "difficulty": "hard",
     "image": "../assets/images/heroes/123_suyou/iconimage.png",
-    "sound": "../assets/sounds/123_suyou/select.ogg",
+    "sound": "../assets/images/heroes/123_suyou/select.ogg",
     "tags": [
       "combo",
       "mobility"
@@ -3299,7 +3299,7 @@
     "release_date": "2016-08-09",
     "difficulty": "easy",
     "image": "../assets/images/heroes/124_tigreal/iconimage.png",
-    "sound": "../assets/sounds/124_tigreal/select.ogg",
+    "sound": "../assets/images/heroes/124_tigreal/select.ogg",
     "tags": [
       "crowd control",
       "initiator"
@@ -3326,7 +3326,7 @@
     "release_date": "2017-09-06",
     "difficulty": "medium",
     "image": "../assets/images/heroes/125_yi_sun_shin/iconimage.png",
-    "sound": "../assets/sounds/125_yi_sun_shin/select.ogg",
+    "sound": "../assets/images/heroes/125_yi_sun_shin/select.ogg",
     "tags": [
       "burst",
       "stealth"
@@ -3353,7 +3353,7 @@
     "release_date": "2020-10-14",
     "difficulty": "medium",
     "image": "../assets/images/heroes/126_yu_zhong/iconimage.png",
-    "sound": "../assets/sounds/126_yu_zhong/select.ogg",
+    "sound": "../assets/images/heroes/126_yu_zhong/select.ogg",
     "tags": [
       "sustain",
       "transformation"
@@ -3379,7 +3379,7 @@
     "release_date": "2025-02-19",
     "difficulty": "hard",
     "image": "../assets/images/heroes/127_zetian/iconimage.png",
-    "sound": "../assets/sounds/127_zetian/select.ogg",
+    "sound": "../assets/images/heroes/127_zetian/select.ogg",
     "tags": [
       "area damage",
       "summon"
@@ -3405,7 +3405,7 @@
     "release_date": "2025-06-25",
     "difficulty": "medium",
     "image": "../assets/images/heroes/128_zhuxin/iconimage.png",
-    "sound": "../assets/sounds/128_zhuxin/select.ogg",
+    "sound": "../assets/images/heroes/128_zhuxin/select.ogg",
     "tags": [
       "vision",
       "drain"
@@ -3433,7 +3433,7 @@
     "release_date": "2026-10-21",
     "difficulty": "hard",
     "image": "../assets/images/heroes/129_marcel/iconimage.png",
-    "sound": "../assets/sounds/129_marcel/select.ogg",
+    "sound": "../assets/images/heroes/129_marcel/select.ogg",
     "tags": [
       "time",
       "utility"
@@ -3460,7 +3460,7 @@
     "release_date": "2026-11-18",
     "difficulty": "medium",
     "image": "../assets/images/heroes/130_obsidia/iconimage.png",
-    "sound": "../assets/sounds/130_obsidia/select.ogg",
+    "sound": "../assets/images/heroes/130_obsidia/select.ogg",
     "tags": [
       "void",
       "burst"
@@ -3486,7 +3486,7 @@
     "release_date": "2026-12-16",
     "difficulty": "medium",
     "image": "../assets/images/heroes/131_lukas/iconimage.png",
-    "sound": "../assets/sounds/131_lukas/select.ogg",
+    "sound": "../assets/images/heroes/131_lukas/select.ogg",
     "tags": [
       "beast",
       "hunt"
@@ -3514,7 +3514,7 @@
     "release_date": "2027-01-13",
     "difficulty": "hard",
     "image": "../assets/images/heroes/132_kalea/iconimage.png",
-    "sound": "../assets/sounds/132_kalea/select.ogg",
+    "sound": "../assets/images/heroes/132_kalea/select.ogg",
     "tags": [
       "prismatic",
       "versatile"
