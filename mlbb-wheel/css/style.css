@@ -551,8 +551,8 @@ input[type=range]::-webkit-slider-thumb {
 }
 
 .music-btn.circle-btn {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     background: var(--gradient-brand, linear-gradient(135deg, #3b82f6, #8b5cf6));
     color: white;
@@ -670,6 +670,8 @@ input[type=range]::-webkit-slider-thumb {
     font-size: 1.5rem;
     cursor: pointer;
     transition: transform 0.2s, color 0.2s;
+    padding: 0;
+    box-shadow: none;
 }
 
 .modal-controls button:hover {
