@@ -438,3 +438,22 @@ input[type=range]::-webkit-slider-thumb {
         font-size: 2.5rem;
     }
 }
+
+@media (max-width: 480px) {
+    #wheelCanvas {
+        width: 200px;
+        height: 200px;
+    }
+
+    #randomizeRoles,.selected-role,#spinWheelBtn,.hero-list li,#spinSlotBtn,#randomizeHeroes{
+        font-size: 0.5rem;
+    }
+
+    .hero-list ul{
+        grid-template-columns: 1fr;
+    }
+
+    .reel {
+        font-size: 1.5rem;
+    }
+}
