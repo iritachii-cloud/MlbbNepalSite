@@ -4,36 +4,6 @@ let slideInterval;
 let eventsData = [];
 let rosterData = [];
 
-// Audio control
-const audio = document.getElementById('themeSong');
-const musicBtn = document.getElementById('musicToggle');
-let isPlaying = false;
-
-function initAudio() {
-    // Attempt autoplay, but due to browser policies we'll show button
-    audio.volume = 0.5;
-    // Try to autoplay
-    audio.play().catch(() => {
-        // Autoplay blocked; show button to start
-        musicBtn.innerHTML = '<i class="fas fa-play"></i> Play Theme';
-        isPlaying = false;
-    });
-    musicBtn.addEventListener('click', () => {
-        if (isPlaying) {
-            audio.pause();
-            musicBtn.innerHTML = '<i class="fas fa-play"></i> Play Theme';
-            isPlaying = false;
-        } else {
-            audio.play();
-            musicBtn.innerHTML = '<i class="fas fa-pause"></i> Pause Theme';
-            isPlaying = true;
-        }
-    });
-    audio.addEventListener('ended', () => {
-        // loop handled by loop attribute
-    });
-}
-
 fetch('data/data.json')
     .then(res => res.json())
     .then(data => {
@@ -46,7 +16,6 @@ fetch('data/data.json')
         initSliderControls();
         initFadeInOnScroll();
         attachRosterModal();
-        initAudio();
     })
     .catch(err => console.error('Error loading data:', err));
 
@@ -158,7 +127,6 @@ function attachRosterModal() {
 }
 
 function showRosterModal(member) {
-    // Set basic info
     document.getElementById('rosterModalName').innerText = member.name;
     document.getElementById('rosterModalRole').innerText = member.role;
     document.getElementById('rosterModalHero').innerText = member.favHero;
@@ -169,7 +137,6 @@ function showRosterModal(member) {
     document.getElementById('rosterModalQA').innerText = member.qaAnswer;
     document.getElementById('rosterModalAvatar').src = member.image;
 
-    // Render skill bars
     const skillsContainer = document.getElementById('rosterModalSkills');
     skillsContainer.innerHTML = '';
     if (member.skills && member.skills.length) {
@@ -187,7 +154,6 @@ function showRosterModal(member) {
             `;
             skillsContainer.appendChild(skillDiv);
         });
-        // Animate bars after modal opens
         setTimeout(() => {
             document.querySelectorAll('#rosterModalSkills .skill-bar-fill').forEach((bar, idx) => {
                 const value = member.skills[idx].value;

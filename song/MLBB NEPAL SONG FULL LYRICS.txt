@@ -1,0 +1,137 @@
+Title: Chiheisen no Mukō e (地平線の向こうへ / Beyond the Horizon)
+
+[Genre: Epic Math Rock / Cinematic Folk Rock / Anime OP]
+[Tempo: 96 BPM, with tempo shifts in bridge]
+[Key: D Minor, modulating to F Major in final chorus]
+[Vocal: Female, powerful and versatile; clear, soaring highs; intimate, whispered lows]
+[Mood: Epic, spiritual, triumphant, nostalgic, uniting tradition with modern glory]
+
+Instrumentation Key (for audio engine)
+Flute: Wooden flute, airy and rich (like bansuri)
+Large Drum: Deep, resonant drum with a heavy, booming tone (like dhimay)
+Small Hand Cymbals: Bright, rhythmic metallic percussion (like jhyali)
+Frame Drum: Shallow drum with a sharp, slapping attack (like damphu)
+Electric Guitar: Clean arpeggios and distorted power chords
+Acoustic Guitar: Fingerpicked, warm tones
+Bass Guitar: Deep, driving
+Drums: Full kit with toms and cymbals
+Orchestral Strings: Sweeping, cinematic
+Synth Pads: Ambient, atmospheric
+
+[INTRO]
+
+[A single Large Drum beats slowly, like a heartbeat. A Flute plays a solemn, ascending melody, echoing in an open space. The sound of wind and distant chimes. A Frame Drum enters with a sharp, rhythmic pattern, joined by Small Hand Cymbals playing a bright, syncopated rhythm. Acoustic Guitar begins a fingerpicked arpeggio, shimmering. The Flute repeats the melody, now layered with Electric Guitar playing a clean, sustained chord.]
+[Instrumental Intro – builds slowly, creating a sense of ancient ritual and modern anticipation]
+
+[VERSE 1]
+
+[The Drums enter with a steady, driving beat on the hi-hat and snare. Bass Guitar plays a melodic line. Small Hand Cymbals keep a constant shimmer. Flute weaves a counter-melody.]
+[Sung with quiet determination, as if remembering a dream]
+霞の向こう 古の声
+石畳に 刻まれた英雄
+その手に掲げる 旗は誰がため
+山脈越え 川を渡り
+一つの名を 叫び続けた
+[The Flute plays a quick, rising flourish.]
+
+[PRE-CHORUS]
+
+[Electric Guitar switches to a distorted, powerful chord progression. Drums intensify with toms and cymbals. Frame Drum and Small Hand Cymbals accelerate. Bass locks into a driving root pattern.]
+[Voice grows stronger, more urgent]
+闇の中で 光る刃
+誰かの盾 誰かの希望
+目を閉じれば 浮かぶ姿
+それは 獅子か 猿か 仏か
+
+[CHORUS]
+
+[Full band explodes. Distorted Electric Guitars play wide, open chords. Flute plays a soaring, triumphant melody over the top. Large Drum hits on every downbeat. Small Hand Cymbals and Frame Drum create a complex, celebratory rhythm. Orchestral Strings swell.]
+[Sung with full power, anthemic]
+地平線の向こうへ 駆け抜ける
+砕けた願い 星になる
+獅子王の槍 猿王の棒
+仏の掌 全てを包む
+この手に刻む 誇りと共に
+今、立ち上がれ
+
+[POST-CHORUS]
+
+[Music reduces to Acoustic Guitar, Flute, and Small Hand Cymbals playing a gentle rhythm. Vocal harmonies layer softly.]
+[Sung with a sense of reverence]
+
+la la la…
+風の彼方
+la la la…
+響く太鼓
+
+[VERSE 2]
+
+[The rhythm section returns with a math-rock inspired groove. Electric Guitar plays a clean, intricate riff with palm muting. Drums are syncopated, with fills on the toms. Flute plays a playful, rhythmic melody. Frame Drum adds sharp accents.]
+[Voice is confident, with a hint of challenge]
+幾千の戦場 幾千の夜
+その指が描く 勝利の軌跡
+飛び越えた壁 砕いた鎖
+今 見えるのは まだ見ぬ頂
+[The Flute plays a rapid, ascending scale.]
+
+[PRE-CHORUS 2]
+
+[Electric Guitar becomes heavily distorted. Drums drive with a fast, relentless beat. Small Hand Cymbals create a frantic energy. Bass plays a powerful, pulsing line.]
+[Voice is fierce, building tension]
+運命の輪 回る時
+選ぶのは この手だけ
+たとえ全て 敵に回しても
+君だけは 守り抜く
+
+[CHORUS 2]
+
+[Similar to first chorus but with additional Orchestral Strings and a more layered vocal harmony. Flute melody is more complex, interweaving with guitars.]
+[Full power, triumphant]
+
+地平線の向こうへ 駆け抜ける
+砕けた願い 星になる
+獅子王の槍 猿王の棒
+仏の掌 全てを包む
+
+この手に刻む 誇りと共に
+今、立ち上がれ
+
+[BRIDGE]
+
+[Music drops to near silence. A single Large Drum beats slowly. A Flute plays a simple, ancient melody. Acoustic Guitar plays sparse, open chords. Small Hand Cymbals produce a soft, sustained shimmer. The vocal is whispered, close-mic'd, full of emotion.]
+[Whispered, intimate, like a prayer]
+山の頂 雲の上
+光が集う その場所で
+出会う者たち 皆兄弟
+争いも 時を経て 和解となる
+[The Frame Drum begins a slow, hypnotic beat. Small Hand Cymbals join with a delicate rhythm. The Flute plays a melody that slowly builds in intensity.]
+もう、迷わない
+
+[FINAL CHORUS – KEY CHANGE]
+
+[The song modulates to F Major. Full band with maximum intensity. Distorted Guitars are massive. Flute plays a triumphant, rapid solo. Large Drum and Frame Drum create a powerful, layered rhythm. Small Hand Cymbals shimmer constantly. Orchestral Strings are sweeping. Vocal is at its peak, with a powerful belt and layered harmonies. This is the climax.]
+[Epic, anthemic, unifying]
+新しい夜明けへ 手を伸ばす
+祈りの音 空に舞う
+獅子王の道 猿王の夢
+仏の慈愛 胸に抱いて
+
+この手に刻む 誇りと共に
+今、飛び立つよ
+
+[OUTRO]
+
+[All instruments drop out except a single Flute playing the main melody, fading into the distance. The Large Drum beats one final time, echoing. The sound of wind and distant chimes. A soft, ambient synth pad sustains.]
+
+[Sung softly, fading]
+
+la la la…
+光の彼方
+la la la…
+響く鼓動
+
+[Final Flute note hangs in the air, then fades to silence.]
+
+[Whispered, fading]
+永遠に… 共に
+(Together… forever)
