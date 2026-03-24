@@ -3,14 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MLBB Nepal Events</title>
+    <title>Nepal Esports | MLBB Nepal</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <!-- Sticky Navigation -->
+    <div class="audio-control">
+        <button id="musicToggle" class="music-btn"><i class="fas fa-music"></i> Play Theme</button>
+    </div>
+    <audio id="themeSong" loop preload="auto">
+        <source src="assets/audio/theme.mp3" type="audio/mpeg">
+    </audio>
+
     <header class="sticky-header">
         <nav class="navbar">
-            <div class="logo">MLBB Nepal</div>
+            <div class="logo">NEPAL MLBB</div>
             <ul class="nav-links">
                 <li class="dropdown">
                     <a href="#">Pages</a>
@@ -24,9 +31,9 @@
                     <a href="#">Sections</a>
                     <ul class="dropdown-menu">
                         <li><a href="#hero">Hero</a></li>
-                        <li><a href="#about">About</a></li>
+                        <li><a href="#roster">Roster</a></li>
                         <li><a href="#events">Events</a></li>
-                        <li><a href="#inquiry">Inquiry</a></li>
+                        <li><a href="#contact">Contact</a></li>
                     </ul>
                 </li>
             </ul>
@@ -34,39 +41,34 @@
     </header>
 
     <main>
-        <!-- Hero Slider Section -->
         <section id="hero" class="hero-section">
             <div class="slider-container">
                 <div class="slider" id="heroSlider"></div>
-                <button class="slider-nav prev">&#10094;</button>
-                <button class="slider-nav next">&#10095;</button>
+                <button class="slider-nav prev">❮</button>
+                <button class="slider-nav next">❯</button>
                 <div class="slider-dots"></div>
             </div>
         </section>
 
-        <!-- About Section -->
-        <section id="about" class="about-section fade-in">
+        <section id="roster" class="roster-section fade-in">
             <div class="container">
-                <h2>About Us</h2>
-                <div id="aboutDescription"></div>
-                <div class="team-grid" id="teamGrid"></div>
+                <h2>The Vanguard</h2>
+                <div id="rosterDescription" class="section-description"></div>
+                <div class="roster-grid" id="rosterGrid"></div>
             </div>
         </section>
 
-        <!-- Events Section -->
         <section id="events" class="events-section fade-in">
             <div class="container">
-                <h2>Our Events</h2>
+                <h2>Campaigns</h2>
                 <div class="events-grid" id="eventsGrid"></div>
             </div>
         </section>
 
-        <!-- Inquiry Section -->
-        <section id="inquiry" class="inquiry-section fade-in">
+        <section id="contact" class="contact-section fade-in">
             <div class="container">
-                <h2>Connect With Us</h2>
-                <p>Have questions or want to collaborate? Reach out!</p>
-                <!-- Simple contact form (static for now) -->
+                <h2>Join the Legion</h2>
+                <p>Scouting for new talent? Partnerships? Send us a message.</p>
                 <form id="contactForm">
                     <input type="text" placeholder="Your Name" required>
                     <input type="email" placeholder="Your Email" required>
@@ -77,7 +79,7 @@
         </section>
     </main>
 
-    <!-- Popup Modal for Event Details -->
+    <!-- Event Modal -->
     <div id="eventModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
@@ -87,7 +89,47 @@
         </div>
     </div>
 
-    <!-- Fullscreen Image Popup for Slider -->
+    <!-- Roster Modal with Image and Skill Bars -->
+    <div id="rosterModal" class="modal">
+        <div class="modal-content roster-modal">
+            <span class="close">&times;</span>
+            <div class="modal-header">
+                <div class="modal-avatar">
+                    <img id="rosterModalAvatar" src="" alt="Member">
+                </div>
+                <div class="modal-title">
+                    <h3 id="rosterModalName"></h3>
+                    <p id="rosterModalRole" class="modal-role"></p>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="modal-detail">
+                    <strong>Signature Hero</strong> <span id="rosterModalHero"></span>
+                </div>
+                <div class="modal-detail">
+                    <strong>Motto</strong> <span id="rosterModalMotto"></span>
+                </div>
+                <div class="modal-skills">
+                    <h4>⚡ Skills & Attributes</h4>
+                    <div id="rosterModalSkills"></div>
+                </div>
+                <div class="modal-detail">
+                    <strong>Vision</strong> <span id="rosterModalVision"></span>
+                </div>
+                <div class="modal-detail">
+                    <strong>Experience</strong> <span id="rosterModalExp"></span>
+                </div>
+                <div class="modal-detail">
+                    <strong>Fun Fact</strong> <span id="rosterModalFun"></span>
+                </div>
+                <div class="modal-qa">
+                    <strong>🇳🇵 What drives you?</strong>
+                    <span id="rosterModalQA"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="imagePopup" class="image-popup">
         <span class="close">&times;</span>
         <img src="" alt="Full view">

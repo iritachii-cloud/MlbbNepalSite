@@ -5,39 +5,215 @@
     "assets/images/slider/slide3.jpg",
     "assets/images/slider/slide4.jpg"
   ],
-  "about": {
-    "description": "We are not just a community; we are a family bound by the blood, sweat, and tears shed in the Land of Dawn. Born from the bustling streets of Kathmandu and spreading across the Himalayan foothills, our mission is to elevate Mobile Legends: Bang Bang esports in Nepal to unprecedented glory. We believe that every player, from the casual weekend warrior to the aspiring pro, deserves a platform to shine. Our journey began in a small internet café with a handful of dreamers, and today we stand as the vanguard of Nepalese MLBB, organizing tournaments, coaching camps, and community events that ignite the competitive spirit. We exaggerate not out of vanity, but out of the sheer passion that courses through our veins every time we hear 'An ally has been slain'. We are the heartbeat of Nepalese esports, and we will stop at nothing to see our flag raised high on the world stage.",
-    "team": [
-      {
-        "name": "Aarav Thapa",
-        "role": "Founder & Head Coach",
-        "image": "assets/images/team/aarav.jpg"
-      },
-      {
-        "name": "Sita Gurung",
-        "role": "Team Captain & Mid Lane Maestro",
-        "image": "assets/images/team/sita.jpg"
-      },
-      {
-        "name": "Bikash Rai",
-        "role": "Community Manager & Shoutcaster",
-        "image": "assets/images/team/bikash.jpg"
-      },
-      {
-        "name": "Nisha Shrestha",
-        "role": "Analyst & Content Creator",
-        "image": "assets/images/team/nisha.jpg"
-      }
-    ]
-  },
+  "roster": [
+    {
+      "id": 1,
+      "name": "Fanny Thapa",
+      "role": "Team Captain | Hyper-Carry",
+      "image": "assets/images/team/fanny.jpg",
+      "favHero": "Fanny",
+      "motto": "Like a cable, I never let go.",
+      "vision": "To put Nepal on the global MLBB map and inspire a generation.",
+      "experience": "7 years competitive, 3 national titles, 100+ tournaments.",
+      "funFact": "Once won a tournament final with 5% battery and a prayer.",
+      "qaAnswer": "I started in a Pokhara cyber cafe. Now we're the biggest org in Nepal. This journey is for every Nepali gamer who dares to dream.",
+      "caliber": "legend",
+      "skills": [
+        {"name": "Mechanical Skill", "value": 98},
+        {"name": "Game Sense", "value": 96},
+        {"name": "Leadership", "value": 95},
+        {"name": "Coding IRL", "value": 70},
+        {"name": "Momos Devouring", "value": 100}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gusion Gurung",
+      "role": "Mid Lane Assassin",
+      "image": "assets/images/team/gusion.jpg",
+      "favHero": "Gusion",
+      "motto": "Daggers in hand, victory in fate.",
+      "vision": "To provide international-level coaching to Nepali players.",
+      "experience": "5 years, 500+ Mythical Glory, Best Mid Laner 2024.",
+      "funFact": "My Gusion combo is so fast opponents call it 'Holi colors'.",
+      "qaAnswer": "I grew up in a small village in Dang. I want to show kids from remote areas that they can make it big.",
+      "caliber": "elite",
+      "skills": [
+        {"name": "Mechanical Skill", "value": 97},
+        {"name": "Decision Making", "value": 92},
+        {"name": "Mid Lane Control", "value": 96},
+        {"name": "Public Speaking", "value": 85},
+        {"name": "Dhido Cooking", "value": 90}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chou Rai",
+      "role": "EXP Laner | Offlaner",
+      "image": "assets/images/team/chou.jpg",
+      "favHero": "Chou",
+      "motto": "Kick first, ask never.",
+      "vision": "To bring sports psychology to Nepali esports.",
+      "experience": "6 years, 200+ tournament matches, 15+ game-winning kicks.",
+      "funFact": "Opponents once begged me 'don't kick' after my Chou saved a base race.",
+      "qaAnswer": "I grew up in Jhapa tea gardens. I want to prove that soil doesn't determine your destiny.",
+      "caliber": "master",
+      "skills": [
+        {"name": "Split Push", "value": 94},
+        {"name": "1v1 Ability", "value": 95},
+        {"name": "Map Awareness", "value": 91},
+        {"name": "Fitness", "value": 88},
+        {"name": "Dal Bhat Power", "value": 99}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lylia Shrestha",
+      "role": "Mage | Area Control",
+      "image": "assets/images/team/lylia.jpg",
+      "favHero": "Lylia",
+      "motto": "Spread gloom, but smile while doing it.",
+      "vision": "To establish a women's MLBB league in Nepal.",
+      "experience": "4 years, first female Mythical Glory player in Nepal.",
+      "funFact": "My Lylia burst made an opponent say 'There goes my Dashain bonus'.",
+      "qaAnswer": "I want to prove that women can dominate in gaming too. It's time to change perceptions.",
+      "caliber": "elite",
+      "skills": [
+        {"name": "Burst Combo", "value": 96},
+        {"name": "Positioning", "value": 94},
+        {"name": "Macro Play", "value": 93},
+        {"name": "Team Motivation", "value": 92},
+        {"name": "Sari Draping", "value": 85}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Wanwan Karki",
+      "role": "Gold Laner | Hyper-carry",
+      "image": "assets/images/team/wanwan.jpg",
+      "favHero": "Wanwan",
+      "motto": "Weaknesses are just targets.",
+      "vision": "To make Nepali esports data-driven with analytics.",
+      "experience": "3 years, youngest Mythical Glory, Rookie of the Year 2024.",
+      "funFact": "Once got a quad-kill and the enemy team said 'forgive us'.",
+      "qaAnswer": "I'm from Bhaktapur. I want to show that small cities can produce world-class players.",
+      "caliber": "rising",
+      "skills": [
+        {"name": "Mechanical Skill", "value": 98},
+        {"name": "Late Game Carry", "value": 97},
+        {"name": "Risk Assessment", "value": 90},
+        {"name": "Drawing", "value": 88},
+        {"name": "JuJu Bhairab", "value": 95}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Atlas Bhandari",
+      "role": "Tank | Engagement Specialist",
+      "image": "assets/images/team/atlas.jpg",
+      "favHero": "Atlas",
+      "motto": "I take the hits, you take the glory.",
+      "vision": "To create respect for tank/support players in Nepal.",
+      "experience": "8 years MOBA, 300+ tournament matches, 70% winrate on Atlas.",
+      "funFact": "My Atlas ult once caught all 5 enemies. They called it 'khichdi'.",
+      "qaAnswer": "My father taught me to be a pillar for others. That's what I do as a tank.",
+      "caliber": "legend",
+      "skills": [
+        {"name": "Set-up", "value": 98},
+        {"name": "Peeling", "value": 96},
+        {"name": "Shotcalling", "value": 94},
+        {"name": "Patience", "value": 99},
+        {"name": "Khukuri Handling", "value": 90}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Selena Magar",
+      "role": "Roamer | Vision Control",
+      "image": "assets/images/team/selena.jpg",
+      "favHero": "Selena",
+      "motto": "Map control wins wars.",
+      "vision": "To elevate Nepali esports broadcasting to world-class.",
+      "experience": "5 years roaming, 80% kill participation, Best Roamer 2025.",
+      "funFact": "My Selena traps give enemy junglers nightmares.",
+      "qaAnswer": "Born in the eastern hills, I never imagined this. I want to show that dreams know no geography.",
+      "caliber": "master",
+      "skills": [
+        {"name": "Map Control", "value": 97},
+        {"name": "Invasion", "value": 95},
+        {"name": "Communication", "value": 94},
+        {"name": "Trekking", "value": 92},
+        {"name": "Ghumti", "value": 100}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Khaleed Shahi",
+      "role": "Jungler | Early Aggressor",
+      "image": "assets/images/team/khaleed.jpg",
+      "favHero": "Khaleed",
+      "motto": "Invade, dominate, repeat.",
+      "vision": "To establish international training camps in Nepal.",
+      "experience": "4 years, fastest jungle clear record, 90% first blood rate.",
+      "funFact": "My sandstorm makes enemies feel like they're in a desert.",
+      "qaAnswer": "From a remote Karnali village, I want to show that mobile gaming can be an opportunity, not just timepass.",
+      "caliber": "pro",
+      "skills": [
+        {"name": "Early Game", "value": 97},
+        {"name": "Objective Control", "value": 94},
+        {"name": "Counter-Jungle", "value": 95},
+        {"name": "Survival Skills", "value": 96},
+        {"name": "Yarsa", "value": 85}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mathilda Tamang",
+      "role": "Support | Utility Roamer",
+      "image": "assets/images/team/mathilda.jpg",
+      "favHero": "Mathilda",
+      "motto": "Support, protect, win.",
+      "vision": "To create a safe and empowering space for female gamers.",
+      "experience": "4 years support, 80% winrate, most assists in national league.",
+      "funFact": "My Mathilda saved three allies at 1 HP to turn the game.",
+      "qaAnswer": "My mom never stopped me from gaming. I want to honor that trust.",
+      "caliber": "elite",
+      "skills": [
+        {"name": "Peel & Protect", "value": 98},
+        {"name": "Rotations", "value": 95},
+        {"name": "Itemization", "value": 93},
+        {"name": "Empathy", "value": 97},
+        {"name": "Yomari Making", "value": 92}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Paquito Limbu",
+      "role": "Fighter | Bruiser",
+      "image": "assets/images/team/paquito.jpg",
+      "favHero": "Paquito",
+      "motto": "First punch, then smile.",
+      "vision": "To build a culture of healthy competition and sportsmanship.",
+      "experience": "5 years, 20+ tournament wins, 1000+ games on Paquito.",
+      "funFact": "My Paquito combo made an opponent say 'That's not a punch, it's a rockfall'.",
+      "qaAnswer": "From Ilam tea gardens, I want to show that hard work pays off, no matter where you start.",
+      "caliber": "master",
+      "skills": [
+        {"name": "Burst Damage", "value": 96},
+        {"name": "Dueling", "value": 94},
+        {"name": "Team Fights", "value": 92},
+        {"name": "Endurance", "value": 97},
+        {"name": "Tongba", "value": 90}
+      ]
+    }
+  ],
   "events": [
     {
       "id": 1,
       "title": "Himalayan Clash: Season 1",
       "date": "2025-01-18",
       "heading": "The Inaugural Battle for Supremacy",
-      "description": "It was a chilly January morning when 32 teams from all over Nepal descended upon the capital, their fingers itching to prove who truly ruled the Land of Dawn. The Himalayan Clash wasn't just a tournament; it was a statement. For three days, the venue hummed with the energy of hundreds of fans, the clack of mechanical keyboards, and the roar of crowd as underdogs rose and titans fell. The grand finals between Kathmandu Knights and Pokhara Pioneers went to a heart-stopping game seven, where a single lord steal turned the tide and etched the Knights' names into history. But beyond the results, it was the camaraderie – players exchanging jerseys, coaches sharing strategies, and the entire community coming together to celebrate the game we love. We saw a 15-year-old prodigy from a remote village almost topple a seasoned pro, proving that talent knows no geography. The Himalayan Clash set the stage for everything that followed, and we still get chills remembering the confetti raining down on the champions.",
-      "shortDescription": "The first major MLBB tournament in Nepal, featuring 32 teams, three days of intense battles, and a legendary grand finals.",
+      "description": "32 teams, 3 days, one champion. The finals went to a heart-stopping game 7 where a last-minute Lord steal changed history. This tournament set the standard for Nepali esports.",
       "image": "assets/images/events/event1.jpg"
     },
     {
@@ -45,8 +221,7 @@
       "title": "Nepal Esports Festival 2025",
       "date": "2025-03-22",
       "heading": "Where Gaming Meets Culture",
-      "description": "Imagine a venue where the aroma of momos mingles with the glow of gaming rigs, where traditional Newari music plays between matches, and where cosplayers dressed as Guinevere and Gusion roam freely. That was the Nepal Esports Festival – our most ambitious project yet. We transformed a convention hall into a gamer's paradise, complete with a main stage for the MLBB invitational, a free-play zone for casual gamers, and even a 'retro corner' where old-school gamers could relive the days of Dota 1. The MLBB invitational brought together the top 8 Nepalese teams in a round-robin format, with matches so close that analysts lost their voices from shouting. Off stage, we hosted workshops on game mechanics, mental coaching, and content creation. The highlight? A surprise appearance by a famous Filipino caster who flew in just to cast the finals, and a heartwarming moment when a group of hearing-impaired fans communicated their love for the game through sign language interpreters we had arranged. The festival proved that esports is more than a competition – it's a celebration of community, culture, and the unbreakable spirit of Nepalese youth.",
-      "shortDescription": "A massive celebration blending MLBB esports with Nepalese culture, featuring an invitational tournament, cosplay, workshops, and unforgettable moments.",
+      "description": "Gaming, Nepali music, art, and food under one roof. Cosplayers, workshops, and international commentary made this a landmark event for cultural exchange through gaming.",
       "image": "assets/images/events/event2.jpg"
     },
     {
@@ -54,8 +229,7 @@
       "title": "Road to M7: Nepal Qualifiers",
       "date": "2025-06-10",
       "heading": "Chasing the World Stage",
-      "description": "When Moonton announced the M7 World Championships, we knew Nepal had to have a shot. With the backing of local sponsors and the blessing of the national sports council, we organized the official Nepalese qualifiers – a grueling two-month journey that saw over 100 teams fight for a single slot at the regional finals. The stakes were unimaginable: the winner would not only represent Nepal but also carry the hopes of millions. We documented every step – from the open qualifiers where office workers and students clashed after hours, to the playoffs where former teammates faced off as bitter rivals. The final was held at a 2,000-seat auditorium, sold out weeks in advance. When 'Nepal Gaming Stars' secured the winning push in game four, the crowd erupted in a chant of 'Nepal, Nepal' that brought tears to the players' eyes. Though they eventually fell in the regional finals, their journey inspired a new generation. We saw kids as young as eight begging their parents to let them play, and schools starting their own esports clubs. The Road to M7 was more than a qualifier – it was a testament that Nepal belongs on the global stage.",
-      "shortDescription": "The official Nepalese qualifiers for the M7 World Championships, featuring over 100 teams and a sold-out final that united the nation.",
+      "description": "Over 100 teams fought for a single slot at regionals. The sold-out finals saw 'Nepal Gaming Stars' win, igniting nationwide pride. Though they fell at regionals, the journey inspired a new generation.",
       "image": "assets/images/events/event3.jpg"
     }
   ]
