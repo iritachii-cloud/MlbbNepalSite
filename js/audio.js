@@ -3,6 +3,7 @@
     // ==================== CONFIGURATION ====================
     const THEMES = [
         { name: "Epic Battle",   file: "theme1.mp3", image: "../assets/images/album/theme1.jpg" },
+        { name: "聖律覇装 (Seiritsu Hasō)",   file: "theme-lightborn.mp3", image: "../assets/images/album/theme-lightborn.jpg" },
         { name: "The Prince Goes Home Tonight",    file: "theme2.mp3", image: "../assets/images/album/theme2.jpg" },
         { name: "The Taste of Virtual Love",   file: "theme3.mp3", image: "../assets/images/album/theme3.jpg" },
         { name: "赤き狩人の刃 (The Crimson Hunter’s Blade)",   file: "themealucard.mp3", image: "../assets/images/album/themealucard.jpg" },
@@ -28,6 +29,12 @@
         { name: "機巧の鉄槌 (The Mechanical Iron Hammer)",   file: "theme-lolita.mp3", image: "../assets/images/album/theme-lolita.jpg" },
         { name: "影刃の守護者 (The Shadow Blade's Guardian)",   file: "theme-hayabusa.mp3", image: "../assets/images/album/theme-hayabusa.jpg" },
         { name: "氷河の戦乙女 (The Glacier's Valkyrie)",   file: "theme-freya.mp3", image: "../assets/images/album/theme-freya.jpg" },
+        { name: "虚空の聖刃 (The Void's Sacred Blade)",   file: "theme-karina.mp3", image: "../assets/images/album/theme-karina.jpg" },
+        { name: "氷冠の孤晶 (The Frozen Crown’s Solitary Crystal)",   file: "theme-aurora.mp3", image: "../assets/images/album/theme-aurora.jpg" },
+        { name: "金箍棒の叛逆者 (The Rebel of the Golden-Banded Staff)",   file: "theme-sun.mp3", image: "../assets/images/album/theme-sun.jpg" },
+        { name: "金箍棒の叛逆者 (The Rebel of the Golden-Banded Staff)",   file: "theme-selena.mp3", image: "../assets/images/album/theme-selena.jpg" },
+        { name: "恋するストリングス (Love's Tether / The Strings That Love)",   file: "theme-angela.mp3", image: "../assets/images/album/theme-angela.jpg" },
+        { name: "生命の種 (The Seed of Life)",   file: "theme-floryn.mp3", image: "../assets/images/album/theme-floryn.jpg" },
         { name: "潮風の舞い (Dance of the Sea Breeze)",   file: "theme-kalea.mp3", image: "../assets/images/album/theme-kalea.jpg" }
     ];
     const DEFAULT_THEME_INDEX = 0;
