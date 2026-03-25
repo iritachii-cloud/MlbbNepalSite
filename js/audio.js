@@ -3,7 +3,7 @@
     // ==================== CONFIGURATION ====================
     const THEMES = [
         { name: "Epic Battle",   file: "theme1.mp3", image: "../assets/images/album/theme1.jpg" },
-        { name: "聖律覇装 (Seiritsu Hasō)",   file: "theme-lightborn.mp3", image: "../assets/images/album/theme-lightborn.jpg" },
+        { name: "聖律覇装 (Sacred Law Armament - LightBorn Theme)",   file: "theme-lightborn.mp3", image: "../assets/images/album/theme-lightborn.jpg" },
         { name: "The Prince Goes Home Tonight",    file: "theme2.mp3", image: "../assets/images/album/theme2.jpg" },
         { name: "The Taste of Virtual Love",   file: "theme3.mp3", image: "../assets/images/album/theme3.jpg" },
         { name: "赤き狩人の刃 (The Crimson Hunter’s Blade)",   file: "themealucard.mp3", image: "../assets/images/album/themealucard.jpg" },
