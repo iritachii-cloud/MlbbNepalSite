@@ -12,7 +12,23 @@
         { name: "紫影の刃舞 (The Violet Shadow Blade Dance)",   file: "themegusion.mp3", image: "../assets/images/album/themegusion.jpg" },
         { name: "月影の弓華 (The Moonlit Bow Blossom)",   file: "thememiya.mp3", image: "../assets/images/album/thememiya.jpg" },
         { name: "魔砲の閃光 (The Malefic Cannon Flash)",   file: "themelayla.mp3", image: "../assets/images/album/themelayla.jpg" },
-        { name: "血の女王の舞踏 (The Blood Queen’s Dance)",   file: "themealice.mp3", image: "../assets/images/album/themealice.jpg" }
+        { name: "雷獄の華雷 (The Thunder Prison's Flowering Lightning)",   file: "themeeudora.mp3", image: "../assets/images/album/themeeudora.jpg" },
+        { name: "斬光の双刃 (The Slashing Light's Twin Blades)",   file: "themesaber.mp3", image: "../assets/images/album/themesaber.jpg" },
+        { name: "竹嵐の剛拳 (The Bamboo Storm's Iron Fist)",   file: "theme-akai.mp3", image: "../assets/images/album/theme-akai.jpg" },
+        { name: "光翼の聖天使 (The Light-Winged Holy Angel)",   file: "theme-rafaela.mp3", image: "../assets/images/album/theme-rafaela.jpg" },
+        { name: "北溟の鉤爪 (The Northern Sea's Hook Claw)",   file: "theme-franco.mp3", image: "../assets/images/album/theme-franco.jpg" },
+        { name: "逆襲の龍王 (The Counter‑Attacking Dragon King)",   file: "theme-chou.mp3", image: "../assets/images/album/theme-chou.jpg" },
+        { name: "ブーメラン☆キャット (Boomerang☆Cat)",   file: "theme-nana.mp3", image: "../assets/images/album/theme-nana.jpg" },
+        { name: "栄光の一蹴 (The Glory Kick)",   file: "theme-bruno.mp3", image: "../assets/images/album/theme-bruno.jpg" },
+        { name: "荒野の正義 (Justice of the Wasteland)",   file: "theme-clint.mp3", image: "../assets/images/album/theme-clint.jpg" },
+        { name: "ふわふわバルモンド (Fluffy Balmond)",   file: "theme-balmond.mp3", image: "../assets/images/album/theme-balmond.jpg" },
+        { name: "迷宮の咆哮 (The Labyrinth’s Roar)",   file: "theme-minotaur.mp3", image: "../assets/images/album/theme-minotaur.jpg" },
+        { name: "血の女王の舞踏 (The Blood Queen’s Dance)",   file: "themealice.mp3", image: "../assets/images/album/themealice.jpg" },
+        { name: "龍槍の継承者 (The Heir of the Dragon Spear)",   file: "theme-zilong.mp3", image: "../assets/images/album/theme-zilong.jpg" },
+        { name: "機巧の鉄槌 (The Mechanical Iron Hammer)",   file: "theme-lolita.mp3", image: "../assets/images/album/theme-lolita.jpg" },
+        { name: "影刃の守護者 (The Shadow Blade's Guardian)",   file: "theme-hayabusa.mp3", image: "../assets/images/album/theme-hayabusa.jpg" },
+        { name: "氷河の戦乙女 (The Glacier's Valkyrie)",   file: "theme-freya.mp3", image: "../assets/images/album/theme-freya.jpg" },
+        { name: "潮風の舞い (Dance of the Sea Breeze)",   file: "theme-kalea.mp3", image: "../assets/images/album/theme-kalea.jpg" }
     ];
     const DEFAULT_THEME_INDEX = 0;
     const FADE_DURATION = 1000;
