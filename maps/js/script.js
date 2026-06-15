@@ -95,6 +95,48 @@ const WORLD_LABELS={
   lantis:[603,346,142],barren:[749,354,190],azrya:[526,557,154],shadow:[793,485,145],
   cadia:[1029,164,166],vonetis:[1000,620,182]
 };
+const REGIONAL_ATLAS={
+  northern:{
+    boundary:"M72 220L122 190L150 135L225 122L268 82L355 94L414 58L500 80L575 55L642 94L730 78L778 118L858 113L902 160L1000 172L1050 225L1118 252L1090 610L1015 640L935 622L850 674L760 650L680 692L590 665L500 704L410 664L315 682L250 638L165 626L105 570Z",
+    extras:[["Aurora Road",720,455,"A frozen pilgrimage road lit by blue witchfire.","Road"],["Fallen Golem Field",790,625,"Megalith wreckage scattered across the southern ice.","Ruins"],["Kraken Reach",1030,165,"Dangerous waters beyond Kastiya where tentacles break the ice.","Sea"],["Frostbound Pass",430,510,"The guarded southern passage out of the Vale.","Pass"],["Glacial Crown",445,145,"A ring of ancient peaks above the central ice shelf.","Mountains"]]
+  },
+  moniyan:{
+    boundary:"M78 182L145 150L205 105L300 116L360 82L455 105L535 72L625 100L720 86L785 128L880 118L955 166L1055 190L1110 270L1088 355L1120 430L1060 492L1045 585L960 612L885 666L790 646L705 695L615 665L530 704L445 672L355 690L285 645L195 630L145 570L80 525L105 445L70 370L102 292Z",
+    extras:[["Imperial Palace",615,385,"The radiant seat of the Moniyan crown within Lumina.","Palace"],["Oracle Plaza",650,445,"Ceremonial plaza where imperial decrees are proclaimed.","Plaza"],["Cathedral of Light",735,400,"A monumental sanctuary of the Church of Light.","Sanctuary"],["Lightborn Citadel",760,455,"Fortress and command hall of the Lightborn defenders.","Citadel"],["Radiant Market",455,405,"The empire's busiest crossroads of merchants and pilgrims.","Market"],["Lakeside Palaces",805,465,"Noble estates overlooking Azure Lake.","Palace"]]
+  },
+  agelta:{
+    boundary:"M70 175L130 130L230 118L290 78L390 100L470 72L555 100L640 82L720 120L810 105L895 145L1000 135L1085 205L1120 300L1090 390L1118 488L1050 540L1015 620L920 635L845 690L750 665L655 700L565 672L475 702L390 660L290 680L220 630L135 612L105 548L62 500L82 420L55 340L88 270Z",
+    extras:[["Twin-City Causeway",350,390,"The wind-and-fire road joining Wind Fort to Fire Throat.","Causeway"],["Khufra's Sealed Tomb",215,430,"The deepest sealed chamber beneath the Tivacan ruins.","Tomb"],["Astral Observatory",885,205,"A star-reading tower within Stargate Valley.","Observatory"],["Canyon Gate",510,575,"The guarded sandstone entrance to Los Pecados.","Gate"],["Seven-Ring Arena",675,500,"The ritual heart of the Minoan Labyrinth.","Arena"],["Emerald Caravanserai",500,285,"A protected rest stop along the Emerald Road.","Outpost"]]
+  },
+  eruditio:{
+    boundary:"M105 175L190 132L280 145L345 92L440 110L520 70L605 105L700 82L785 120L875 105L955 155L1045 170L1100 245L1082 335L1110 420L1060 485L1042 580L950 610L875 662L780 642L700 690L610 660L515 695L430 655L335 670L265 625L175 615L130 555L75 505L100 425L65 345L92 265Z",
+    extras:[["Academy of Arcane Sciences",735,335,"Experimental academy joining magic to modern science.","Academy"],["Central Aether Rail",530,430,"Elevated transit line connecting Eruditio's major districts.","Railway"],["Chrono Plaza",640,530,"A civic square built around a synchronized time engine.","Plaza"],["Inventors Guild",430,575,"Workshop district where prototypes become legends.","Guild"],["Aether Foundry",870,500,"A high-energy factory powered by refined aether.","Foundry"],["Rangers Watchtower",930,610,"Forward observation tower of the Eruditio Rangers.","Watchtower"]]
+  },
+  lantis:{
+    boundary:"M300 700L245 655L268 590L220 525L258 465L225 390L275 330L270 255L330 210L355 130L430 112L485 55L550 108L605 62L665 118L730 70L790 132L855 145L875 220L930 268L915 345L970 405L925 475L945 548L880 590L855 660L775 650L720 705L645 675L575 720L500 680L420 710L365 665Z",
+    extras:[["Frostward Ridge",455,225,"The snowbound northern face of the great divide.","Ridge"],["Rantha Approach",760,600,"Southern road descending toward the Rantha Mountains.","Pass"],["Vigil Road",385,455,"A patrol route linking the Sanctum and western watchposts.","Road"],["Eastwatch Redoubt",820,390,"A fortified ledge facing the Barren Lands.","Fortress"],["Stoneheart Vale",560,520,"A sheltered valley between the tallest Lantis peaks.","Valley"]]
+  },
+  barren:{
+    boundary:"M82 205L145 160L230 170L295 110L390 125L470 75L560 105L650 82L725 125L820 105L890 155L990 165L1065 230L1105 315L1080 395L1115 475L1055 535L1030 615L935 630L860 682L770 655L680 695L590 665L500 704L410 665L320 680L245 635L155 620L112 555L65 500L88 420L55 340L90 275Z",
+    extras:[["Bridge of Sighs",525,430,"The haunted stone bridge leading into Necrokeep.","Bridge"],["Jagged Bone Throne",620,350,"Vexana's throne at the fortress's cursed centre.","Throne"],["Faramis' Spire",690,300,"The alchemical tower of the Shadow Walker.","Spire"],["Leomord's Black Yard",555,510,"A silent mustering ground for the undead cavalry.","War Yard"],["Askati Gate",480,220,"The ruined northern gate beneath the petrified forest.","Gate"],["Stormeye Crater",930,455,"The violent centre of the permanent eastern storm.","Crater"]]
+  },
+  azrya:{
+    boundary:"M75 210L145 165L225 170L290 112L380 125L455 80L540 105L625 72L700 115L790 98L860 145L950 155L1030 210L1095 280L1072 360L1110 440L1060 505L1040 590L950 620L875 675L785 650L700 700L610 665L520 705L435 670L345 688L275 642L185 625L135 568L72 520L92 435L58 350L95 275Z",
+    extras:[["Archer's Perch",650,285,"A high silverwood platform overlooking the Tree of Life.","Watchpost"],["Weeping Willow Grove",430,570,"Moonlit willows surrounding still enchanted pools.","Grove"],["Lightning Meadow",315,520,"A luminous meadow where blue sparks dance over flowers.","Meadow"],["Ancient Rune-Stone Circle",760,520,"A ring of old stones inscribed in Elven runes.","Sanctuary"],["Flower-Petal Glade",280,405,"A bright glade filled with drifting magical petals.","Glade"],["Moonwell",700,610,"A sacred spring reflecting the lunar sky.","Spring"]]
+  },
+  shadow:{
+    boundary:"M155 145L245 115L330 135L415 78L505 112L590 65L675 110L760 80L835 132L930 120L1000 180L1070 205L1105 290L1080 370L1115 460L1060 520L1035 610L945 635L865 685L780 655L690 700L600 665L510 705L425 665L335 680L260 630L180 610L130 550L75 500L100 420L65 335L105 260Z",
+    extras:[["Mana Veins",505,555,"Cyan energy channels branching from the Crack of the Abyss.","Abyssal Rift"],["Obsidian Gate",600,405,"The inverted entrance to the Night Palace.","Gate"],["Blood Crystal Court",315,285,"Alice's crimson ceremonial court before the Sanguine Lair.","Court"],["Infernal Forge",840,560,"A colossal forge feeding the Molten Realm.","Forge"],["Chasm Watch",710,475,"A precarious platform observing the Crack below.","Watchpost"]]
+  },
+  cadia:{
+    boundary:"M86 250L140 180L225 170L285 115L375 130L445 82L530 112L605 70L685 115L775 92L845 145L940 150L1010 210L1085 250L1105 330L1080 400L1110 475L1050 535L1020 610L930 625L850 680L760 650L680 695L585 665L500 705L420 665L330 682L255 635L170 620L125 555L70 510L95 430L62 350Z",
+    extras:[["Genbu's Rest",720,570,"A secluded riverland sanctuary associated with Baxia.","Sanctuary"],["Shadow Sect",820,245,"The hidden northern compound of the Shadow Sect.","Sect City"],["Scarlet Sect",900,300,"A crimson garden-fortress of the Scarlet Sect.","Sect City"],["Onmyodo Sect",850,365,"A spiritual enclave of seals and shikigami.","Sect City"],["Demon Sect",925,430,"The forbidden cliffside stronghold of the Demon Sect.","Sect City"],["Sky River",460,470,"A broad river descending from the sacred central peaks.","River"],["Dragon Gate",520,190,"Monumental northern gate of the Dragon Isles.","Gate"]]
+  },
+  vonetis:{
+    boundary:"M55 95H1145V690H55Z",
+    extras:[["Siren's Reef",925,500,"A dangerous coral kingdom watched by three guardians.","Reef"],["Sunken Temple",955,555,"Ancient temple halls visible beneath clear southern water.","Temple"],["Coral Archway",855,525,"A monumental reef arch marking sacred waters.","Landmark"],["Tidal Pool",1010,465,"A luminous pool shaped by the archipelago's tides.","Pool"],["War Canoe Harbor",470,420,"Perlas harbor for the island warriors' great canoes.","Harbor"],["Market Plaza",620,430,"Perlas's lively open-air trade plaza.","Market"],["Blue Channel",690,215,"Deep-water route beneath Blue Flame Island's mist.","Sea Route"]]
+  }
+};
 
 function defs(detail=false, region=null){
   const c=region?.color||"#6fa487";
@@ -157,30 +199,52 @@ function worldTerrain(){
   </g>`;
 }
 function islands(){return `<path class="island" d="M1090 585q22-16 45 5q-19 24-44 7zM1040 635q15-12 32 3q-14 18-31 5zM200 700q18-14 38 3q-17 20-37 5z"/>`;}
-function terrain(region){
-  const mountains=Array.from({length:10},(_,i)=>`<path class="mountain" opacity=".45" d="M${155+i*92} ${155+(i%3)*38}l18-32 20 32 14-21 23 35h-76z"/>`).join("");
-  const trees=Array.from({length:18},(_,i)=>`<path class="tree" opacity=".42" transform="translate(${120+(i*67)%970} ${250+(i*83)%360}) scale(${.6+(i%3)*.13})" d="M0-18L-13 4H-5L-10 15H10L5 4H13Z"/>`).join("");
-  if(["northern","lantis","cadia"].includes(region)) return mountains;
-  if(["azrya","moniyan","barren"].includes(region)) return trees+mountains;
-  if(region==="vonetis") return islands()+Array.from({length:8},(_,i)=>`<ellipse class="island" cx="${180+i*120}" cy="${230+(i%3)*150}" rx="${55+(i%2)*20}" ry="${24+(i%3)*8}"/>`).join("");
-  if(region==="shadow") return `<path d="M590 160L525 680M660 170L620 690" stroke="#69e1df" stroke-width="10" opacity=".35" filter="url(#regionGlow)"/>${mountains}`;
-  return mountains;
-}
 function detailBoundary(id){
-  const shapes={northern:"M100 170Q260 60 570 80Q930 50 1100 205L1030 650Q730 710 450 670Q170 710 85 480Z",moniyan:"M110 130Q410 60 720 120Q1080 120 1100 360Q1060 670 700 690Q320 710 90 520Z",agelta:"M90 120Q360 50 780 100Q1090 160 1110 500Q930 710 520 690Q160 700 70 480Z",eruditio:"M145 115Q420 35 800 110Q1080 160 1060 560Q780 700 360 660Q120 570 145 115Z",lantis:"M210 690Q150 450 330 120Q530 20 650 150Q780 10 950 170Q1080 420 930 700Z",barren:"M90 150Q350 70 740 115Q1080 180 1110 510Q910 700 480 680Q130 650 70 420Z",azrya:"M90 170Q350 50 720 90Q1090 160 1100 520Q880 710 480 690Q120 650 70 430Z",shadow:"M160 100Q510 30 900 100Q1110 270 1020 670Q680 720 250 650Q80 420 160 100Z",cadia:"M120 180Q300 30 650 80Q1030 20 1100 330Q1080 650 720 700Q360 690 100 520Z",vonetis:"M70 110Q400 35 820 95Q1120 180 1100 590Q790 730 360 680Q80 600 70 110Z"};return shapes[id]||shapes.moniyan;
+  return REGIONAL_ATLAS[id]?.boundary||REGIONAL_ATLAS.moniyan.boundary;
+}
+function getRegionLandmarks(id){return [...regions[id].landmarks,...(REGIONAL_ATLAS[id]?.extras||[])]}
+function regionalRoutes(id,landmarks){
+  const hub=landmarks[0], branches=landmarks.slice(1).map((l,i)=>i%2===0?`M${hub[1]} ${hub[2]}Q${(hub[1]+l[1])/2+(i%3-1)*45} ${(hub[2]+l[2])/2-(i%2)*35} ${l[1]} ${l[2]}`:"").join("");
+  const className=id==="vonetis"?"detail-route regional-sea-route":"detail-route regional-road";
+  return `<g class="regional-routes"><path class="${className}" d="${branches}"/></g>`;
+}
+function terrainIcons(points,type,scale=.7){
+  if(type==="mountain") return mountainRange(points,scale);
+  if(type==="forest") return forestPatch(points,scale);
+  return "";
+}
+function regionalScene(id){
+  const scenes={
+    northern:`<g class="regional-scene ice-scene">${terrainIcons([[220,245],[285,210],[365,235],[500,175],[650,210],[760,250],[890,220]],"mountain",.9)}<path class="ice-ridge" d="M115 345L235 315L330 350L445 310L555 352L675 320L805 365L950 330L1080 375"/><path class="glacier-river" d="M270 180C330 280 300 390 420 470C510 530 530 620 610 690"/><g class="ice-floes">${[[130,145],[190,115],[930,155],[1020,205],[165,580],[990,585]].map(([x,y],i)=>`<path style="--delay:${i*-1.2}s" d="M${x-28} ${y}l18-15 30 4 14 20-25 13-32-5z"/>`).join("")}</g><g class="snowfall">${Array.from({length:20},(_,i)=>`<circle style="--delay:${i*-.35}s" cx="${90+(i*59)%1040}" cy="${115+(i*83)%540}" r="${2+i%3}"/>`).join("")}</g></g>`,
+    moniyan:`<g class="regional-scene moniyan-scene">${terrainIcons([[160,210],[230,175],[900,210],[980,250],[270,600],[920,585]],"mountain",.7)}${terrainIcons([[210,380],[285,430],[330,520],[860,365],[930,430],[380,610]],"forest",.65)}<path class="royal-river" d="M365 120C430 220 395 315 480 390C555 455 600 540 585 675"/><ellipse class="azure-lake" cx="820" cy="510" rx="130" ry="78"/><g class="farmland">${Array.from({length:8},(_,i)=>`<path d="M${165+i*68} 300q35-24 70 0t70 0M${145+i*72} 335q35-24 70 0t70 0"/>`).join("")}</g><g class="city-glow"><circle cx="540" cy="350" r="72"/><circle cx="815" cy="510" r="48"/></g></g>`,
+    agelta:`<g class="regional-scene agelta-scene">${terrainIcons([[910,210],[970,250],[1020,315],[955,390]],"mountain",.78)}<g class="dune-field">${Array.from({length:13},(_,i)=>`<path style="--delay:${i*-.4}s" d="M${90+(i*79)%950} ${180+(i*67)%460}q38-30 76 0t76 0"/>`).join("")}</g><path class="emerald-road" d="M150 585C300 480 390 390 560 310S800 220 970 155"/><path class="canyon" d="M110 390L270 355L355 430L490 445L590 550L760 565L900 650"/><g class="oasis-art"><ellipse cx="760" cy="590" rx="78" ry="36"/><circle cx="730" cy="545" r="12"/><circle cx="785" cy="550" r="10"/></g><g class="heat-haze">${Array.from({length:7},(_,i)=>`<path style="--delay:${i*-.5}s" d="M${160+i*135} 620q25-35 50 0t50 0"/>`).join("")}</g></g>`,
+    eruditio:`<g class="regional-scene eruditio-scene"><g class="tech-grid">${Array.from({length:8},(_,i)=>`<path d="M${180+i*115} 130V650M130 ${170+i*65}H1070"/>`).join("")}</g><g class="aether-rail"><path d="M210 245C390 310 510 260 575 300S770 420 930 590"/><path d="M300 570C430 500 600 520 850 425"/></g><g class="gear-field">${[[250,245],[380,500],[575,300],[720,245],[850,425],[930,590]].map(([x,y],i)=>`<g style="--delay:${i*-.7}s" transform="translate(${x} ${y})"><circle r="${26+i%3*8}"/><path d="M-35 0H35M0-35V35M-25-25L25 25M25-25L-25 25"/></g>`).join("")}</g><g class="aether-pulses">${Array.from({length:12},(_,i)=>`<circle style="--delay:${i*-.25}s" cx="${160+(i*89)%900}" cy="${150+(i*113)%500}" r="3"/>`).join("")}</g></g>`,
+    lantis:`<g class="regional-scene lantis-scene">${terrainIcons([[340,180],[420,140],[500,180],[580,120],[660,170],[740,125],[820,190],[380,300],[470,270],[560,320],[650,270],[750,320],[430,450],[520,410],[620,455],[720,420],[500,590],[610,560],[710,610]],"mountain",1.15)}<path class="mountain-pass" d="M260 540C390 500 430 420 565 390S720 315 880 260"/><path class="mountain-pass lightward" d="M300 620C440 590 560 520 620 610"/><g class="mountain-mist">${Array.from({length:7},(_,i)=>`<path style="--delay:${i*-.6}s" d="M${230+i*115} ${235+(i%3)*145}q65-35 130 0t130 0"/>`).join("")}</g></g>`,
+    barren:`<g class="regional-scene barren-scene">${terrainIcons([[180,230],[245,205],[900,220],[980,275],[250,610],[800,620]],"forest",.7)}<g class="dead-forest">${Array.from({length:18},(_,i)=>`<path d="M${120+(i*61)%980} ${170+(i*97)%500}v-25m0 10l-10-12m10 5l11-13"/>`).join("")}</g><path class="blight-rift" d="M250 520L340 475L420 505L510 440L590 470L680 390L760 430L880 360"/><g class="stormeye"><circle cx="870" cy="430" r="75"/><circle cx="870" cy="430" r="48"/><circle cx="870" cy="430" r="19"/></g><g class="ashfall">${Array.from({length:18},(_,i)=>`<circle style="--delay:${i*-.3}s" cx="${100+(i*67)%1000}" cy="${130+(i*107)%560}" r="${1+i%3}"/>`).join("")}</g></g>`,
+    azrya:`<g class="regional-scene azrya-scene">${terrainIcons([[145,230],[210,190],[285,235],[860,210],[945,250],[995,330],[180,520],[260,590],[850,590],[960,520],[380,230],[725,245]],"forest",1.05)}<ellipse class="moonlake-art" cx="590" cy="605" rx="135" ry="62"/><g class="life-tree"><path d="M575 440V230M575 300L485 220M575 315L670 225M575 355L455 330M575 365L710 330"/><circle cx="575" cy="235" r="75"/></g><g class="moonbeams">${Array.from({length:7},(_,i)=>`<path style="--delay:${i*-.5}s" d="M${210+i*130} 100L${310+i*100} 650"/>`).join("")}</g><g class="forest-motes">${Array.from({length:24},(_,i)=>`<circle style="--delay:${i*-.23}s" cx="${100+(i*73)%1000}" cy="${140+(i*101)%520}" r="${2+i%2}"/>`).join("")}</g></g>`,
+    shadow:`<g class="regional-scene shadow-scene">${terrainIcons([[170,190],[260,155],[890,190],[990,245],[250,620],[870,620]],"mountain",.8)}<path class="major-abyss" d="M600 115L555 215L625 290L565 380L635 470L570 590L610 690"/><path class="minor-abyss" d="M330 260L410 330L385 430M790 300L720 375L760 480"/><g class="lava-field">${Array.from({length:6},(_,i)=>`<path d="M${780+i*45} 560q35-55 70 0t70 0"/>`).join("")}</g><g class="abyss-orbit"><circle cx="600" cy="500" r="105"/><circle cx="600" cy="500" r="145"/></g><g class="abyss-sparks">${Array.from({length:22},(_,i)=>`<circle style="--delay:${i*-.2}s" cx="${180+(i*83)%850}" cy="${140+(i*109)%520}" r="${2+i%3}"/>`).join("")}</g></g>`,
+    cadia:`<g class="regional-scene cadia-scene">${terrainIcons([[250,210],[330,170],[420,205],[560,155],[660,190],[790,175],[900,230],[980,280]],"mountain",.78)}${terrainIcons([[180,430],[260,500],[370,560],[730,520],[845,460],[940,530]],"forest",.72)}<path class="cadia-river" d="M520 130C490 230 560 280 520 360S580 500 520 650"/><path class="cadia-river branch" d="M520 360C400 380 345 470 255 520M520 360C665 370 750 440 900 470"/><g class="cloud-banks">${Array.from({length:7},(_,i)=>`<path style="--delay:${i*-.7}s" d="M${120+i*145} ${150+(i%3)*175}q45-35 90 0t90 0"/>`).join("")}</g><g class="dragon-current"><path d="M380 420C470 300 660 290 790 395S940 520 1010 450"/></g></g>`,
+    vonetis:`<g class="regional-scene vonetis-scene"><g class="reef-field">${Array.from({length:18},(_,i)=>`<circle cx="${95+(i*73)%1050}" cy="${130+(i*109)%520}" r="${8+i%4*4}"/>`).join("")}</g><g class="regional-islands"><path d="M445 300Q565 220 680 300L650 455Q550 500 455 440Z"/><path d="M505 90Q575 55 650 105L625 190Q555 220 500 170Z"/><path d="M250 550Q335 500 415 555L390 650Q305 685 240 625Z"/><path d="M800 410Q900 350 1010 420L980 570Q870 610 790 535Z"/><path d="M120 270Q210 225 285 285L260 390Q175 420 110 350Z"/></g><g class="sea-currents">${Array.from({length:8},(_,i)=>`<path style="--delay:${i*-.5}s" d="M${80+i*125} ${200+(i%4)*110}q60-35 120 0t120 0"/>`).join("")}</g><g class="blue-flame"><path d="M560 155q-30-45 5-75q45 35 5 78q35-10 50 25q-45 28-60-28z"/></g></g>`
+  };
+  return scenes[id]||scenes.moniyan;
 }
 function detailSvg(id){
-  const r=regions[id];
-  const routePoints=r.landmarks.map(x=>`${x[1]},${x[2]}`).join(" ");
-  const marks=r.landmarks.map((l,i)=>`<g class="landmark" data-landmark="${i}" transform="translate(${l[1]} ${l[2]})"><circle class="pulse" r="10"/><path class="pin" d="${markerIcon(l[4])}"/><text y="-17">${l[0]}</text><text class="minor" y="-6">${l[4]}</text></g>`).join("");
-  return `${defs(true,r)}<rect class="ocean-base" width="1200" height="760"/><rect class="ocean-lines" width="1200" height="760"/><path class="world-coast" fill="url(#detailLand)" d="${detailBoundary(id)}"/><path fill="url(#detailGrid)" opacity=".8" d="${detailBoundary(id)}"/>${terrain(id)}<polyline class="detail-route" points="${routePoints}"/><text class="map-title-svg" x="600" y="52">${r.name.toUpperCase()}</text><text class="map-subtitle-svg" x="600" y="73">${r.subtitle.toUpperCase()}</text>${marks}`;
+  const r=regions[id], landmarks=getRegionLandmarks(id), boundary=detailBoundary(id);
+  const landBase=id==="vonetis"?"":`<path class="regional-underlay" d="${boundary}"/><path class="regional-land" fill="url(#detailLand)" d="${boundary}"/><path class="regional-grain" fill="url(#worldGrain)" d="${boundary}"/>`;
+  const coast=id==="vonetis"?"":`<path class="regional-coast" d="${boundary}"/>`;
+  const marks=landmarks.map((l,i)=>{
+    const supplemental=i>=regions[id].landmarks.length, width=Math.max(72,Math.min(142,l[0].length*6.2+22));
+    return `<g class="landmark ${supplemental?"supplemental-poi":"major-poi"}" data-landmark="${i}" transform="translate(${l[1]} ${l[2]})"><circle class="pulse" r="${supplemental?7:11}"/><path class="pin" d="${markerIcon(l[4])}"/><g class="landmark-label" transform="translate(0 -20)"><rect x="${-width/2}" y="-13" width="${width}" height="22" rx="3"/><text y="1">${l[0]}</text></g><text class="minor" y="16">${l[4]}</text></g>`;
+  }).join("");
+  return `${defs(true,r)}<defs><clipPath id="regionalClip"><path d="${boundary}"/></clipPath></defs><rect class="regional-ocean ocean-base" width="1200" height="760"/><rect class="ocean-lines" width="1200" height="760"/><g class="regional-map region-${id}">${landBase}<g clip-path="url(#regionalClip)">${regionalScene(id)}${regionalRoutes(id,landmarks)}</g>${coast}</g><g class="regional-cartouche"><path d="M390 20H810L840 48L810 80H390L360 48Z"/><text class="map-title-svg" x="600" y="49">${r.name.toUpperCase()}</text><text class="map-subtitle-svg" x="600" y="68">${r.subtitle.toUpperCase()}</text></g><g class="regional-landmarks">${marks}</g>`;
 }
 function renderWorld(){
-  currentRegion=null;selectedLandmark=null;svg.innerHTML=worldSvg();title.textContent="World Overview";resetView();bindMapItems();setInspectorWorld();updateRail();
+  currentRegion=null;selectedLandmark=null;svg.dataset.region="world";svg.innerHTML=worldSvg();title.textContent="World Overview";setMapUrl();resetView();bindMapItems();setInspectorWorld();updateRail();
 }
 function renderRegion(id){
-  currentRegion=id;selectedLandmark=null;const r=regions[id];svg.innerHTML=detailSvg(id);title.textContent=r.name;resetView();bindMapItems();setInspectorRegion(id);updateRail();
+  currentRegion=id;selectedLandmark=null;const r=regions[id];svg.dataset.region=id;svg.innerHTML=detailSvg(id);title.textContent=r.name;setMapUrl(id);resetView();bindMapItems();setInspectorRegion(id);updateRail();
 }
+function setMapUrl(region=""){const query=region?`?region=${encodeURIComponent(region)}`:"";try{history.replaceState({region},"",`${location.pathname}${query}`)}catch{}}
 function bindMapItems(){
   svg.classList.toggle("labels-hidden",!labelsVisible);
   svg.querySelectorAll("[data-region]").forEach(el=>el.addEventListener("click",e=>{if(!moved){e.stopPropagation();renderRegion(el.dataset.region)}}));
@@ -190,10 +254,10 @@ function setInspectorWorld(){
   inspector("World Atlas","Land of Dawn","Select a glowing region label to open its dedicated map. The overview places the Northern Vale across the far north; Moniyan centre-west; the Barren Lands and Shadow Abyss east; Agelta southwest; Azrya south-centre; Cadia offshore east; and Vonetis across the far southern sea.",worldOrder.map(id=>regions[id].name),[]);
 }
 function setInspectorRegion(id){
-  const r=regions[id];inspector("Regional Map",r.name,r.summary,r.landmarks.map(x=>x[0]),[{label:"Return to world map",fn:renderWorld}]);
+  const r=regions[id],landmarks=getRegionLandmarks(id);inspector(`${landmarks.length} mapped locations`,r.name,r.summary,landmarks.map(x=>x[0]),[{label:"Return to world map",fn:renderWorld}]);
 }
 function selectLandmark(index){
-  selectedLandmark=index;svg.querySelectorAll(".landmark").forEach((x,i)=>x.classList.toggle("active",i===index));const l=regions[currentRegion].landmarks[index];
+  selectedLandmark=index;svg.querySelectorAll(".landmark").forEach((x,i)=>x.classList.toggle("active",i===index));const l=getRegionLandmarks(currentRegion)[index];
   inspector(l[4],l[0],l[3],[regions[currentRegion].name,l[4]], [{label:`View all ${regions[currentRegion].name} landmarks`,fn:()=>setInspectorRegion(currentRegion)},{label:"Return to world map",fn:renderWorld}]);
 }
 function inspector(typeText,titleText,text,tags,actions){
@@ -218,4 +282,5 @@ document.getElementById("zoomIn").addEventListener("click",()=>zoom(.8));documen
 document.getElementById("toggleLabels").addEventListener("click",()=>{labelsVisible=!labelsVisible;svg.classList.toggle("labels-hidden",!labelsVisible)});
 document.getElementById("fullscreenMap").addEventListener("click",()=>document.getElementById("mapFrame").requestFullscreen?.());
 addEventListener("keydown",e=>{if(e.key==="+")zoom(.8);if(e.key==="-")zoom(1.2);if(e.key==="0")resetView();if(e.key==="Escape"&&currentRegion)renderWorld()});
-renderWorld();
+const initialRegion=new URLSearchParams(location.search).get("region");
+regions[initialRegion]?renderRegion(initialRegion):renderWorld();
