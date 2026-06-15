@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "region": "1 Global",
+    "title": "THE COMPLETE LAND OF DAWN MAP COLLECTION (14 MAPS)",
+    "summary": "Shadow Abyss Regional Map – The Kingdom of Darkness, with the Crack of the Abyss, Sanguine Lair, Molten Realm, and Night?",
+    "source": "PromptsAi/MLBB/Map 1 Global.litcoffee",
+    "palette": {
+      "hue": 28
+    }
+  },
+  {
+    "id": 2,
+    "region": "Agelta Drylands",
+    "title": "LOS PECADOS CITY MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE",
+    "summary": "LOS PECADOS CITY MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE (Upload your Agelta Drylands regional map as a strict reference for the city’s exact position in the southern desert, near the edge of the Western?",
+    "source": "PromptsAi/MLBB/Map Agelta Drylands Region.litcoffee",
+    "palette": {
+      "hue": 71
+    }
+  },
+  {
+    "id": 3,
+    "region": "Azrya Woodlands",
+    "title": "TREE OF LIFE & THE LUNAR TEMPLE MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE",
+    "summary": "TREE OF LIFE & THE LUNAR TEMPLE MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE (Upload your Azrya Woodlands regional map as a strict reference for the Tree of Life’s exact central position, its roots spreading through the entire forest, and the Lunar Temple perched within its highest, moon‑kissed?",
+    "source": "PromptsAi/MLBB/Map Azrya Woodlands Region.litcoffee",
+    "palette": {
+      "hue": 114
+    }
+  },
+  {
+    "id": 4,
+    "region": "Barren Lands",
+    "title": "NECROKEEP — FORTRESS OF DESPAIR",
+    "summary": "NECROKEEP — FORTRESS OF DESPAIR 16:9 NEO‑UKIYO‑E MASTERPIECE (Close‑Up Regional Landmark Map with Legendary Characters) 1. REFERENCE IMAGE & GEOGRAPHICAL?",
+    "source": "PromptsAi/MLBB/Map Barren Lands Region.litcoffee",
+    "palette": {
+      "hue": 157
+    }
+  },
+  {
+    "id": 5,
+    "region": "Cadia Riverlands",
+    "title": "DRAGON ALTAR MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE",
+    "summary": "DRAGON ALTAR MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE (Upload your Cadia Riverlands regional map as a strict reference for the Altar’s precise location at the mountainous heart of the island, shrouded in perpetual?",
+    "source": "PromptsAi/MLBB/Map Cadia Riverlands Region.litcoffee",
+    "palette": {
+      "hue": 200
+    }
+  },
+  {
+    "id": 6,
+    "region": "Cadia Scarlet Shadows",
+    "title": "SCARLET SHADOW — THE HIDDEN CANYON OF THE FOUR SECTS",
+    "summary": "SCARLET SHADOW — THE HIDDEN CANYON OF THE FOUR SECTS 16:9 NEO‑UKIYO‑E MASTERPIECE (Complete Sect City Layout with Shadow, Scarlet, Onmyōdō & Demon Sects – featuring Hayabusa, Hanabi, Kagura & Hanzo) 1. REFERENCE IMAGE & GEOGRAPHICAL?",
+    "source": "PromptsAi/MLBB/Map Cadia Scarlet Shadows Map.litcoffee",
+    "palette": {
+      "hue": 243
+    }
+  },
+  {
+    "id": 7,
+    "region": "Eruditio",
+    "title": "LABORATORY 1718 — THE HIDDEN FOUNDRY OF SOULS",
+    "summary": "LABORATORY 1718 — THE HIDDEN FOUNDRY OF SOULS 16:9 NEO‑UKIYO‑E MASTERPIECE (Close‑Up Subterranean Landmark Map with Dr. Rooney, Saber, Alpha, Angela & X.Borg) 1. REFERENCE IMAGE & GEOGRAPHICAL?",
+    "source": "PromptsAi/MLBB/Map Eruditio Region.litcoffee",
+    "palette": {
+      "hue": 286
+    }
+  },
+  {
+    "id": 8,
+    "region": "Moniyan Empire Lumina City",
+    "title": "LUMINA CITY – THE HEART OF THE EMPIRE OF LIGHT",
+    "summary": "LUMINA CITY – THE HEART OF THE EMPIRE OF LIGHT 16:9 NEO‑UKIYO‑E MASTERPIECE (Urban Layout Map with Aurelius II, King Aurelius II, Tigreal, Silvanna, Alucard, Granger, Fanny, Lancelot, Odette & Old Man Hennessey) 1. REFERENCE IMAGE & GEOGRAPHICAL?",
+    "source": "PromptsAi/MLBB/Map Moniyan Empire Lumina City.litcoffee",
+    "palette": {
+      "hue": 329
+    }
+  },
+  {
+    "id": 9,
+    "region": "Moniyan Empire",
+    "title": "LUMINA CITY MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE",
+    "summary": "LUMINA CITY MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE (Upload your world map image as a strict reference for the city’s precise location relative to the Moniyan Plains, Azure Lake, and the empire’s road?",
+    "source": "PromptsAi/MLBB/Map Moniyan Empire Region.litcoffee",
+    "palette": {
+      "hue": 12
+    }
+  },
+  {
+    "id": 10,
+    "region": "Northern Vale",
+    "title": "QUEEN’S PEAK MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE",
+    "summary": "QUEEN’S PEAK MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE (Upload your Northern Vale regional map as a strict reference for the peak’s precise location in the northwestern Vale, towering above the Frozen Sea and the Megalith?",
+    "source": "PromptsAi/MLBB/Map Northern Vale Region.litcoffee",
+    "palette": {
+      "hue": 55
+    }
+  },
+  {
+    "id": 11,
+    "region": "Shadow Abyss",
+    "title": "NIGHT PALACE MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE",
+    "summary": "NIGHT PALACE MAP — 16:9 NEO‑UKIYO‑E MASTERPIECE (Upload your Shadow Abyss regional map as a strict reference for the palace’s precise location at the heart of the Abyss, between the Sanguine Lair and the Molten Realm, suspended above the Crack of the?",
+    "source": "PromptsAi/MLBB/Map Shadow Abyss Region.litcoffee",
+    "palette": {
+      "hue": 98
+    }
+  },
+  {
+    "id": 12,
+    "region": "Vontesis Sea & Aechipelago",
+    "title": "PERLAS — THE CROSSROADS OF THE VONETIS SEA",
+    "summary": "PERLAS — THE CROSSROADS OF THE VONETIS SEA 16:9 NEO‑UKIYO‑E MASTERPIECE (Close‑Up Regional Landmark Map with Lapu‑Lapu — The Greatest Warrior) 1. REFERENCE IMAGE & GEOGRAPHICAL?",
+    "source": "PromptsAi/MLBB/Map Vontesis Sea & Aechipelago Region.litcoffee",
+    "palette": {
+      "hue": 141
+    }
+  }
+]

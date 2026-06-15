@@ -3527,5 +3527,32 @@
       "Blade of Despair",
       "Holy Crystal"
     ]
+  },
+  {
+    "id": 133,
+    "name": "Hirara",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin",
+    "nickname": "Fallen Scarlet",
+    "short_description": "A Scarlet Shadow geisha ninja who merges paired-fan techniques into lethal flowing combinations.",
+    "lore": "Hirara walks beneath the Meisen with the paired fans of the Great Armament Ukifune, turning crimson leaves and deathly shadow into a merciless dance.",
+    "release_date": "2026-06-17",
+    "difficulty": "hard",
+    "image": "../assets/commingsoon.png",
+    "sound": "",
+    "tags": [
+      "burst",
+      "mobility",
+      "combo"
+    ],
+    "preferred_lane": [
+      "Jungle"
+    ],
+    "signature_items": [
+      "Hunter Strike",
+      "Blade of the Heptaseas"
+    ]
   }
 ]

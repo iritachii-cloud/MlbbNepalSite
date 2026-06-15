@@ -1,0 +1,15 @@
+<!doctype html><html lang="en"><head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><title>Hero Slot | MLBB Nepal</title>
+  <link rel="icon" href="../assets/logo.png"><link rel="stylesheet" href="../assets/css/app.css"><link rel="stylesheet" href="css/style.css">
+</head><body data-base="../"><header class="site-header"><nav class="nav"><a class="brand" href="../index.html"><img src="../assets/logo.png" alt="Logo">HERO SLOT</a><div class="nav-links"><a href="../index.html">Home</a><a href="../mlbb-wheel/index.html">Wheel</a><a class="active" href="index.html">Slot</a><a href="../hero-card/index.html">Heroes</a><a href="../npc-card/index.html">NPCs</a><a href="../maps/index.html">Maps</a></div><button class="icon-btn" data-theme-toggle>Theme Lab</button></nav></header>
+<main><section class="page-hero container"><div class="eyebrow">Phase 02 / Hero Draft</div><h1 class="display">Roll your <span class="gradient-text">hero.</span></h1><p class="lead">One reel. Your rules. Select one role, mix several, combine lanes, or unleash the entire roster.</p><div class="status-pill">Pool: <strong id="activeRole">All heroes</strong></div></section>
+<section class="container slot-layout">
+  <aside class="draft-console panel"><div class="eyebrow">Draft parameters</div><h2>Build the pool</h2><button class="btn primary all-heroes" id="allHeroes">Select all heroes</button>
+    <h3>Combat roles</h3><div class="filter-checks" id="roleFilters"></div><h3>Preferred lanes</h3><div class="filter-checks" id="laneFilters"></div>
+    <label class="timer-control">Spin duration <strong id="durationValue">6 seconds</strong><input id="spinDuration" type="range" min="3" max="45" value="6"></label>
+  </aside>
+  <div class="slot-center"><div class="slot-machine panel"><div class="marquee">MLBB NEPAL // SINGLE REEL CHAOS UNIT</div><div class="reel"><div id="reelCard"></div></div><div class="slot-lights"></div><button id="spinSlot" class="lever btn primary">Pull the lever</button></div><p id="slotStatus" class="lead">Loading hero database...</p></div>
+  <aside class="pool-panel panel"><div class="pool-head"><div><div class="eyebrow">Eligible roster</div><h2><span id="poolCount">0</span> heroes</h2></div><button id="shufflePool" class="mini-btn">Shuffle</button></div><div id="poolBreakdown" class="pool-breakdown"></div><div id="heroPoolList" class="hero-pool-list"></div></aside>
+</section></main>
+<div class="modal" id="heroResultModal"><div class="modal-card panel"><button class="close-modal" data-close-modal="heroResultModal">&times;</button><div class="eyebrow">Draft complete</div><img id="resultImage" src="../assets/commingsoon.png" alt=""><h2 id="resultName">Hero</h2><p id="resultNickname" class="lead"></p><div class="actions"><button class="btn primary" id="reroll">Roll again</button><a class="btn" href="../hero-card/index.html">Explore cards</a></div></div></div>
+<script src="../assets/js/app.js"></script><script src="js/script.js"></script></body></html>

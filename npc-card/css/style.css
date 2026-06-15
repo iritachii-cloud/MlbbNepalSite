@@ -1,0 +1,313 @@
+.npc-section {
+    padding-bottom: 90px
+}
+
+.npc-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 28px;
+    padding: 15px
+}
+
+.npc-toolbar input,
+.npc-toolbar select {
+    padding: 13px;
+    color: var(--text);
+    border: 1px solid var(--line);
+    background: var(--surface)
+}
+
+.npc-toolbar input {
+    flex: 1
+}
+
+.npc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 28px;
+    perspective: 1200px
+}
+
+.npc-card {
+    --h: 270;
+    position: relative;
+    min-height: 455px;
+    padding: 7px;
+    color: white;
+    border: 0;
+    background: linear-gradient(145deg, hsl(var(--h) 88% 58%), hsl(calc(var(--h) + 55) 78% 42%));
+    clip-path: polygon(0 28px, 28px 0, 78% 0, 83% 8px, 96% 8px, 100% 22px, 100% 91%, 92% 100%, 15% 100%, 10% 94%, 0 94%);
+    text-align: left;
+    isolation: isolate;
+    transition: .35s;
+    transform-style: preserve-3d
+}
+
+.npc-card::before {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    z-index: -1;
+    background: linear-gradient(160deg, #17121e, #08070c 65%);
+    clip-path: inherit
+}
+
+.npc-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(120deg, transparent 30%, rgba(255, 255, 255, .32), transparent 62%);
+    transform: translateX(-120%);
+    transition: .6s;
+    pointer-events: none
+}
+
+.npc-card:hover {
+    transform: translateY(-15px);
+    filter: drop-shadow(0 22px 24px hsl(var(--h) 80% 45%/.4))
+}
+
+.npc-card:hover::after {
+    transform: translateX(120%)
+}
+
+.npc-image {
+    position: relative;
+    display: block;
+    height: 285px;
+    margin: 4px;
+    overflow: hidden;
+    clip-path: polygon(0 15px, 15px 0, 100% 0, 100% 84%, 88% 100%, 0 100%);
+    background: linear-gradient(145deg, hsl(var(--h) 70% 45%), #121018)
+}
+
+.npc-image::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(0deg, #09070e, transparent 50%)
+}
+
+.npc-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: .5s;
+    object-position: top;
+}
+
+.npc-card:hover img {
+    transform: scale(1.06)
+}
+
+.npc-id {
+    position: absolute;
+    z-index: 4;
+    right: 15px;
+    top: 13px;
+    padding: 5px 7px;
+    color: white;
+    background: hsl(var(--h) 70% 32%);
+    font: 800 .62rem "Oxanium"
+}
+
+.npc-meta {
+    display: block;
+    padding: 12px 13px 18px
+}
+
+.npc-name-line {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px
+}
+
+.npc-name-line h2 {
+    margin: 4px 0 0;
+    font: 800 1.25rem "Oxanium";
+    text-transform: uppercase
+}
+
+.npc-name-line b {
+    display: grid;
+    place-items: center;
+    min-width: 40px;
+    height: 40px;
+    border: 1px solid hsl(var(--h) 85% 65%);
+    background: hsl(var(--h) 60% 30%/.65);
+    font: 800 .8rem "Oxanium";
+    clip-path: polygon(50% 0, 100% 25%, 86% 100%, 14% 100%, 0 25%)
+}
+
+.npc-meta h3 {
+    margin: 3px 0;
+    color: #c7bfd0;
+    font: 600 .7rem "Oxanium";
+    text-transform: uppercase
+}
+
+.npc-rating {
+    color: #ffd15c;
+    font: 700 .78rem "Oxanium"
+}
+
+.npc-mini-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin-top: 10px
+}
+
+.npc-mini-stats em {
+    padding: 5px 2px;
+    border-top: 1px solid hsl(var(--h) 80% 60%);
+    color: #bdb6c8;
+    font: normal 600 .52rem "Oxanium";
+    text-align: center
+}
+
+.npc-detail {
+    width: min(1100px, 100%);
+    max-height: 92vh;
+    overflow: auto
+}
+
+.npc-profile {
+    display: grid;
+    grid-template-columns: minmax(270px, .72fr) 1.28fr;
+    gap: 34px
+}
+
+.npc-visual {
+    position: sticky;
+    top: 0;
+    align-self: start
+}
+
+.npc-visual>img {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    clip-path: polygon(0 30px, 30px 0, 100% 0, 100% 90%, 90% 100%, 0 100%);
+    filter: drop-shadow(0 24px 25px var(--glow))
+}
+
+.npc-visual .rating-seal {
+    margin-top: 12px;
+    padding: 13px;
+    border: 1px solid var(--line);
+    font: 800 1.1rem "Oxanium";
+    text-align: center
+}
+
+.npc-info h2 {
+    margin: 6px 0;
+    font: 800 clamp(2.2rem, 7vw, 5rem)/.95 "Oxanium";
+    text-transform: uppercase
+}
+
+.npc-info>h3 {
+    margin-top: 28px;
+    color: var(--accent);
+    font: 700 1rem "Oxanium";
+    text-transform: uppercase
+}
+
+.npc-info p {
+    color: var(--muted);
+    line-height: 1.8
+}
+
+.npc-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px
+}
+
+.npc-stat {
+    display: grid;
+    grid-template-columns: 85px 1fr;
+    gap: 9px;
+    align-items: center;
+    color: var(--muted);
+    font-size: .7rem;
+    text-transform: uppercase
+}
+
+.npc-stat i {
+    height: 7px;
+    background: var(--line);
+    overflow: hidden
+}
+
+.npc-stat b {
+    display: block;
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    animation: grow .8s ease
+}
+
+.affiliations {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px
+}
+
+.affiliations span,
+.source-tag {
+    padding: 7px 9px;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    font-size: .7rem
+}
+
+.npc-nav {
+    position: fixed;
+    top: 50%;
+    z-index: 3;
+    width: 44px;
+    height: 44px;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    color: var(--text);
+    background: var(--surface-2);
+    font-size: 2rem
+}
+
+.npc-nav.prev {
+    left: 12px
+}
+
+.npc-nav.next {
+    right: 12px
+}
+
+@keyframes grow {
+    from {
+        width: 0 !important
+    }
+}
+
+@media(max-width:760px) {
+    .npc-profile {
+        grid-template-columns: 1fr
+    }
+
+    .npc-visual {
+        position: relative
+    }
+
+    .npc-toolbar {
+        flex-wrap: wrap
+    }
+
+    .npc-toolbar input {
+        flex-basis: 100%
+    }
+
+    .npc-stats {
+        grid-template-columns: 1fr
+    }
+}

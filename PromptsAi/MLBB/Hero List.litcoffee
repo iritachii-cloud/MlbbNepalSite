@@ -130,3 +130,4 @@ Marcel — The Soul Photographer
 Obsidia — The Sovereign of Dark’s End
 Lukas — The Beast of Light
 Kalea — The Surging Wave
+Hirara — The Fallen Scarlet
