@@ -78,17 +78,41 @@ const title=document.getElementById("mapTitle");
 let currentRegion=null, selectedLandmark=null, labelsVisible=true;
 let view={x:0,y:0,w:1200,h:760}, drag=null, moved=false;
 
+const MAINLAND_PATH="M65 342C42 326 48 296 78 282L121 270C127 237 161 234 185 215L214 175C239 149 278 147 304 126L346 96L392 105L430 91L466 97L510 72L552 82L590 74L623 103L662 111L703 104L746 129L762 166L800 177L824 205L816 239L843 263L832 293L859 318L882 354L870 385L893 414L878 448L850 462L858 493L831 518L799 517L782 552L746 567L720 555L690 590L652 600L623 584L597 613L559 605L532 619L497 604L467 621L432 607L413 580L378 607L341 603L315 584L278 599L246 580L229 550L190 553L156 531L150 502L115 490L93 463L101 436L71 418L65 390L79 368Z";
+const CADIA_PATH="M920 139C943 95 986 91 1018 70C1060 52 1113 69 1125 105C1160 121 1167 158 1145 183C1163 217 1136 251 1103 250C1075 281 1029 270 1007 247C969 261 929 237 930 203C900 187 897 158 920 139Z";
+const WORLD_REGION_PATHS={
+  northern:"M150 48H850V225C790 235 742 217 690 232C626 248 576 218 520 231C449 250 394 219 333 229C259 239 203 226 150 239Z",
+  moniyan:"M135 218C235 193 332 214 414 217C492 220 554 235 588 286L570 420C512 463 442 477 365 466C291 457 217 430 165 386Z",
+  eruditio:"M55 268C113 245 180 251 229 279L250 356C216 391 163 414 103 397C67 366 54 318 55 268Z",
+  agelta:"M40 374C129 349 207 365 282 399C339 426 386 460 433 488L420 690H45Z",
+  lantis:"M540 187C577 191 617 195 642 218C632 303 654 381 674 468C658 510 626 546 589 560C568 496 548 435 539 370C548 306 535 248 540 187Z",
+  barren:"M626 213C705 209 782 230 846 275L910 435C846 478 772 505 677 489C649 417 626 330 626 213Z",
+  azrya:"M392 448C473 440 550 456 613 514C646 557 670 607 675 680H365Z",
+  shadow:"M668 431C755 414 842 425 933 458L962 690H650C652 600 652 512 668 431Z"
+};
+const WORLD_LABELS={
+  northern:[480,151,146],moniyan:[357,326,152],eruditio:[151,329,118],agelta:[251,510,150],
+  lantis:[603,346,142],barren:[749,354,190],azrya:[526,557,154],shadow:[793,485,145],
+  cadia:[1029,164,166],vonetis:[1000,620,182]
+};
+
 function defs(detail=false, region=null){
   const c=region?.color||"#6fa487";
   return `<defs>
-    <linearGradient id="oceanGradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123d4b"/><stop offset=".48" stop-color="#0a2938"/><stop offset="1" stop-color="#071b29"/></linearGradient>
-    <pattern id="wavePattern" width="42" height="22" patternUnits="userSpaceOnUse"><path d="M0 12 Q10 2 21 12 T42 12" fill="none" stroke="#8bc3c8" stroke-width="1"/></pattern>
+    <linearGradient id="oceanGradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#276f77"/><stop offset=".45" stop-color="#164d59"/><stop offset="1" stop-color="#092f3e"/></linearGradient>
+    <radialGradient id="mainLandGradient"><stop stop-color="#b8a96c"/><stop offset=".58" stop-color="#817d52"/><stop offset="1" stop-color="#4d563f"/></radialGradient>
+    <linearGradient id="cadiaLand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#54885c"/><stop offset="1" stop-color="#264d42"/></linearGradient>
+    <pattern id="wavePattern" width="44" height="24" patternUnits="userSpaceOnUse"><path d="M0 13Q11 3 22 13T44 13" fill="none" stroke="#a3d0c8" stroke-width="1"/></pattern>
+    <pattern id="worldGrain" width="90" height="90" patternUnits="userSpaceOnUse"><path d="M2 17Q24 9 45 20T88 18M8 56Q31 43 54 56T91 52" fill="none" stroke="#fff1c2" stroke-opacity=".08"/><circle cx="24" cy="40" r="1" fill="#201c13" opacity=".18"/><circle cx="70" cy="75" r="1.4" fill="#201c13" opacity=".15"/></pattern>
     <pattern id="detailGrid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M0 17 Q8 8 17 17 T34 17" fill="none" stroke="${c}" stroke-opacity=".16"/></pattern>
     <radialGradient id="detailLand"><stop stop-color="${c}" stop-opacity=".95"/><stop offset=".68" stop-color="${c}" stop-opacity=".62"/><stop offset="1" stop-color="#332d25"/></radialGradient>
-    ${worldOrder.map(id=>`<linearGradient id="g-${id}" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${regions[id].color}" stop-opacity=".98"/><stop offset="1" stop-color="${regions[id].color}" stop-opacity=".5"/></linearGradient>`).join("")}
+    ${worldOrder.map(id=>`<linearGradient id="g-${id}" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${regions[id].color}" stop-opacity=".82"/><stop offset="1" stop-color="${regions[id].color}" stop-opacity=".38"/></linearGradient>`).join("")}
+    <clipPath id="mainlandClip"><path d="${MAINLAND_PATH}"/></clipPath>
+    <clipPath id="cadiaClip"><path d="${CADIA_PATH}"/></clipPath>
     <filter id="landShadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity=".5"/></filter>
     <filter id="regionGlow"><feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#fff1b3" flood-opacity=".8"/></filter>
     <filter id="textGlow"><feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ffe092" flood-opacity=".9"/></filter>
+    <filter id="rugged"><feTurbulence baseFrequency=".018" numOctaves="3" seed="8" type="fractalNoise" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="5"/></filter>
   </defs>`;
 }
 function markerIcon(type){
@@ -99,9 +123,38 @@ function markerIcon(type){
   return "M0-9L8 0 0 9-8 0Z";
 }
 function worldSvg(){
-  const routes=`<path class="trade-route" d="M395 315 Q265 330 190 345 M395 315 Q490 165 525 120 M395 315 Q510 405 560 585 M395 315 Q600 300 755 385 M755 385 Q890 350 985 350"/><path class="trade-route sea-route" d="M395 315 Q810 75 1035 145 M395 315 Q555 630 655 725 M1035 145 Q900 500 655 725"/>`;
-  const regionMarkup=worldOrder.map(id=>{const r=regions[id];return `<g data-region="${id}"><path class="region-shape world-coast" fill="url(#g-${id})" d="${r.worldPath}"/><g class="region-label-group" transform="translate(${r.label[0]} ${r.label[1]})"><text class="region-label">${r.name}</text><text class="region-sub" y="15">${r.subtitle}</text></g></g>`}).join("");
-  return `${defs()}<rect class="ocean-base" width="1200" height="760"/><rect class="ocean-lines" width="1200" height="760"/><text class="map-title-svg" x="600" y="38">THE LAND OF DAWN</text><text class="map-subtitle-svg" x="600" y="58">AN INTERACTIVE LORE ATLAS</text>${routes}${regionMarkup}<g opacity=".7">${islands()}</g>`;
+  const mainlandRegions=["northern","moniyan","eruditio","agelta","lantis","barren","azrya","shadow"].map(id=>`<g class="world-region" data-region="${id}"><path class="region-shape world-region-fill" fill="url(#g-${id})" d="${WORLD_REGION_PATHS[id]}"/></g>`).join("");
+  const labels=worldOrder.map(id=>worldLabel(id)).join("");
+  const borders=`<g class="world-borders"><path d="M142 229C257 217 337 236 423 223C501 210 563 241 626 225C701 206 757 235 816 245"/><path d="M172 386C251 376 313 410 370 449C435 475 507 449 570 420"/><path d="M229 279C233 315 240 346 250 356"/><path d="M540 187C552 260 536 328 570 420C590 481 603 521 601 592"/><path d="M626 225C625 314 647 405 677 489"/><path d="M433 488C496 450 557 470 613 514"/><path d="M677 489C731 450 807 438 881 426"/></g>`;
+  const routes=`<g class="world-routes"><path class="trade-route" d="M350 330C275 338 220 349 154 340M350 330C416 258 474 205 510 158M350 330C426 392 482 478 526 552M350 330C470 326 573 328 721 350M721 350C765 394 786 442 793 486"/><path class="trade-route sea-route" d="M510 158C720 98 889 122 1017 161M526 552C721 635 838 638 1000 620"/></g>`;
+  return `${defs()}<rect class="ocean-base" width="1200" height="760"/><rect class="ocean-lines" width="1200" height="760"/><g class="world-map-art"><path class="mainland-underlay" d="${MAINLAND_PATH}"/><path class="mainland-base" d="${MAINLAND_PATH}"/><g clip-path="url(#mainlandClip)">${mainlandRegions}<rect class="world-grain" width="1200" height="760"/>${worldTerrain()}</g><path class="mainland-coast" d="${MAINLAND_PATH}"/>${borders}${routes}${cadiaWorld()}${vonetisWorld()}</g><g class="world-labels">${labels}</g><g class="title-cartouche"><path d="M425 24H775L800 48L775 72H425L400 48Z"/><text class="map-title-svg" x="600" y="48">THE LAND OF DAWN</text><text class="map-subtitle-svg" x="600" y="65">AN INTERACTIVE LORE ATLAS</text></g>`;
+}
+function worldLabel(id){
+  const r=regions[id], [x,y,w]=WORLD_LABELS[id];
+  return `<g class="region-label-group" data-region="${id}" transform="translate(${x} ${y})"><path class="label-plaque" d="M${-w/2} -19H${w/2-13}L${w/2} -6V19H${-w/2+13}L${-w/2} 6Z"/><path class="label-sigil" d="M${-w/2+8} -14L${-w/2+31} -14L${-w/2+35} 0L${-w/2+20} 15L${-w/2+5} 0Z"/><text class="region-label" x="12" y="-2">${r.name}</text><text class="region-sub" x="12" y="11">${r.subtitle}</text></g>`;
+}
+function cadiaWorld(){
+  return `<g class="world-region offshore-region" data-region="cadia"><path class="offshore-underlay" d="${CADIA_PATH}"/><path class="region-shape offshore-land cadia-land" d="${CADIA_PATH}"/><g clip-path="url(#cadiaClip)" class="cadia-terrain">${mountainRange([[952,130],[987,110],[1034,101],[1080,120],[1111,158]],.62)}${forestPatch([[965,193],[1002,216],[1075,196],[1118,210]],.5)}<path class="river" d="M1045 110C1030 148 1060 178 1020 220"/></g><path class="offshore-coast" d="${CADIA_PATH}"/></g>`;
+}
+function vonetisWorld(){
+  const paths=["M905 591C922 570 956 574 967 596C954 619 923 622 905 591Z","M972 628C995 597 1038 603 1052 633C1036 661 991 661 972 628Z","M1065 580C1084 558 1116 564 1128 588C1115 611 1080 612 1065 580Z","M1091 661C1106 646 1135 648 1143 669C1129 687 1104 685 1091 661Z","M866 651C880 636 905 640 914 659C900 674 877 674 866 651Z"];
+  return `<g class="world-region offshore-region vonetis-group" data-region="vonetis">${paths.map(d=>`<path class="offshore-underlay" d="${d}"/><path class="region-shape offshore-land vonetis-land" d="${d}"/><path class="offshore-coast" d="${d}"/>`).join("")}</g>`;
+}
+function mountainRange(points,scale=1){return points.map(([x,y],i)=>`<g class="terrain-symbol mountain-cluster" transform="translate(${x} ${y}) scale(${scale*(.8+(i%3)*.13)})"><path d="M-18 13L-4-15L8 4L16-9L31 13Z"/><path d="M-4-15L0-6L5-9L8 4" class="snow-line"/></g>`).join("")}
+function forestPatch(points,scale=1){return points.map(([x,y],i)=>`<g class="terrain-symbol forest-cluster" transform="translate(${x} ${y}) scale(${scale*(.85+(i%2)*.16)})"><path d="M0-15L-11 3H-5L-10 13H10L5 3H11Z"/><path d="M15-10L6 5H11L7 14H24L20 5H25Z"/></g>`).join("")}
+function worldTerrain(){
+  return `<g class="world-terrain">
+    ${mountainRange([[285,146],[330,125],[375,117],[420,112],[465,110],[510,117],[556,126],[602,143]],.72)}
+    ${mountainRange([[566,214],[576,259],[585,304],[595,350],[607,399],[621,447],[638,492]],.63)}
+    ${mountainRange([[686,261],[722,273],[758,286],[798,305]],.52)}
+    ${forestPatch([[235,280],[278,267],[315,288],[387,260],[438,279],[478,310]],.58)}
+    ${forestPatch([[439,505],[474,530],[510,501],[548,538],[575,571]],.72)}
+    ${forestPatch([[688,388],[728,404],[768,392],[822,410]],.5)}
+    <g class="desert-dunes"><path d="M108 472Q151 441 194 472T280 472M92 510Q137 480 182 510T272 510M145 551Q189 525 234 551T323 551"/></g>
+    <path class="river" d="M405 145C390 207 447 228 425 291C407 345 452 388 435 451C426 486 449 516 474 542"/>
+    <path class="river" d="M675 259C702 299 685 338 716 374C749 410 728 449 752 486"/>
+    <path class="abyss-rift" d="M817 438L793 463L821 481L791 509L809 541"/>
+  </g>`;
 }
 function islands(){return `<path class="island" d="M1090 585q22-16 45 5q-19 24-44 7zM1040 635q15-12 32 3q-14 18-31 5zM200 700q18-14 38 3q-17 20-37 5z"/>`;}
 function terrain(region){
