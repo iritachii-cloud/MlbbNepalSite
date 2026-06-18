@@ -4,16 +4,16 @@
     "name": "Alucard",
     "sourceImage": "../assets/images/heroes/001_alucard/real.png",
     "dark": {
-      "primary": "#1a2c3a",
-      "secondary": "#0d151c",
-      "accent": "#c9a03d",
-      "glow": "#4a8cba"
+      "primary": "#1a2a4a",
+      "secondary": "#2c2c2c",
+      "accent": "#cd7f32",
+      "glow": "#00bfff"
     },
     "light": {
-      "primary": "#2a4a5e",
-      "secondary": "#16242e",
-      "accent": "#d4af37",
-      "glow": "#5ea3d4"
+      "primary": "#d4e8f0",
+      "secondary": "#c0c0c0",
+      "accent": "#1a2a4a",
+      "glow": "#87ceeb"
     }
   },
   {
@@ -21,16 +21,16 @@
     "name": "Layla",
     "sourceImage": "../assets/images/heroes/002_layla/real.png",
     "dark": {
-      "primary": "#0a2a5a",
-      "secondary": "#1a3a6a",
+      "primary": "#4a148c",
+      "secondary": "#0d47a1",
       "accent": "#ffd700",
-      "glow": "#00bfff"
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#1a4a8a",
-      "secondary": "#2a5a9a",
-      "accent": "#ffeb3b",
-      "glow": "#1e90ff"
+      "primary": "#ffffff",
+      "secondary": "#1565c0",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -38,16 +38,16 @@
     "name": "Miya",
     "sourceImage": "../assets/images/heroes/003_miya/real.png",
     "dark": {
-      "primary": "#0a2a4a",
-      "secondary": "#1a3a5a",
-      "accent": "#c0e0ff",
-      "glow": "#87ceeb"
+      "primary": "#1a237e",
+      "secondary": "#9e9e9e",
+      "accent": "#0288d1",
+      "glow": "#b3e5fc"
     },
     "light": {
-      "primary": "#1a4a6a",
-      "secondary": "#2a5a7a",
-      "accent": "#e0f0ff",
-      "glow": "#add8e6"
+      "primary": "#f5f5f5",
+      "secondary": "#e1bee7",
+      "accent": "#0d47a1",
+      "glow": "#90caf9"
     }
   },
   {
@@ -55,16 +55,16 @@
     "name": "Eudora",
     "sourceImage": "../assets/images/heroes/004_eudora/real.png",
     "dark": {
-      "primary": "#1a2a5a",
-      "secondary": "#0a1a3a",
-      "accent": "#ffdc4a",
-      "glow": "#e0e0ff"
+      "primary": "#0d0d2b",
+      "secondary": "#78909c",
+      "accent": "#00e5ff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#2a4a8a",
-      "secondary": "#1a2a5a",
-      "accent": "#ffea80",
-      "glow": "#f0f0ff"
+      "primary": "#fafafa",
+      "secondary": "#bbdefb",
+      "accent": "#2979ff",
+      "glow": "#82b1ff"
     }
   },
   {
@@ -72,16 +72,16 @@
     "name": "Saber",
     "sourceImage": "../assets/images/heroes/005_saber/real.png",
     "dark": {
-      "primary": "#2a3a5a",
-      "secondary": "#1a2a3a",
-      "accent": "#ff2a2a",
-      "glow": "#ff4444"
+      "primary": "#2c3e6b",
+      "secondary": "#b71c1c",
+      "accent": "#78909c",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#3a4a6a",
-      "secondary": "#2a3a5a",
-      "accent": "#ff4a4a",
-      "glow": "#ff6666"
+      "primary": "#1a8bcc",
+      "secondary": "#cfd8dc",
+      "accent": "#d32f2f",
+      "glow": "#ff1744"
     }
   },
   {
@@ -89,16 +89,16 @@
     "name": "Akai",
     "sourceImage": "../assets/images/heroes/006_akai/real.png",
     "dark": {
-      "primary": "#2a2a2a",
+      "primary": "#1b5e20",
       "secondary": "#1a1a1a",
-      "accent": "#d44a4a",
-      "glow": "#ff6a6a"
+      "accent": "#b71c1c",
+      "glow": "#00e676"
     },
     "light": {
-      "primary": "#4a4a4a",
-      "secondary": "#3a3a3a",
-      "accent": "#e06060",
-      "glow": "#ff8080"
+      "primary": "#a5d6a7",
+      "secondary": "#fff8e1",
+      "accent": "#c62828",
+      "glow": "#4caf50"
     }
   },
   {
@@ -106,16 +106,16 @@
     "name": "Rafaela",
     "sourceImage": "../assets/images/heroes/007_rafaela/real.png",
     "dark": {
-      "primary": "#f5e6d3",
-      "secondary": "#e0d0c0",
-      "accent": "#ffd700",
-      "glow": "#ffe4b5"
+      "primary": "#ffd700",
+      "secondary": "#1a237e",
+      "accent": "#f5f5f5",
+      "glow": "#ffd740"
     },
     "light": {
-      "primary": "#fff5ee",
-      "secondary": "#f0e6d6",
-      "accent": "#ffec80",
-      "glow": "#fff0d0"
+      "primary": "#fffde7",
+      "secondary": "#81d4fa",
+      "accent": "#ffd700",
+      "glow": "#4fc3f7"
     }
   },
   {
@@ -123,16 +123,16 @@
     "name": "Franco",
     "sourceImage": "../assets/images/heroes/008_franco/real.png",
     "dark": {
-      "primary": "#4a3a2a",
-      "secondary": "#2a2a2a",
-      "accent": "#cc5533",
-      "glow": "#ff6633"
+      "primary": "#424242",
+      "secondary": "#b71c1c",
+      "accent": "#8d6e63",
+      "glow": "#4fc3f7"
     },
     "light": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#dd6644",
-      "glow": "#ff7755"
+      "primary": "#b0bec5",
+      "secondary": "#d84315",
+      "accent": "#37474f",
+      "glow": "#90caf9"
     }
   },
   {
@@ -140,16 +140,16 @@
     "name": "Chou",
     "sourceImage": "../assets/images/heroes/009_chou/real.png",
     "dark": {
-      "primary": "#2a2a2a",
-      "secondary": "#1a1a1a",
-      "accent": "#ffcc00",
-      "glow": "#ffdd33"
+      "primary": "#212121",
+      "secondary": "#fdd835",
+      "accent": "#9e9e9e",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#3a3a3a",
-      "secondary": "#2a2a2a",
-      "accent": "#ffdd33",
-      "glow": "#ffee66"
+      "primary": "#fafafa",
+      "secondary": "#ffeb3b",
+      "accent": "#212121",
+      "glow": "#ffd54f"
     }
   },
   {
@@ -157,16 +157,16 @@
     "name": "Nana",
     "sourceImage": "../assets/images/heroes/010_nana/real.png",
     "dark": {
-      "primary": "#8a4a6a",
-      "secondary": "#5a2a4a",
-      "accent": "#ffaa88",
-      "glow": "#ffccaa"
+      "primary": "#880e4f",
+      "secondary": "#ffd700",
+      "accent": "#4a148c",
+      "glow": "#ff4081"
     },
     "light": {
-      "primary": "#aa6a8a",
-      "secondary": "#7a4a6a",
-      "accent": "#ffccaa",
-      "glow": "#ffddcc"
+      "primary": "#e91e63",
+      "secondary": "#fff8e1",
+      "accent": "#7b1fa2",
+      "glow": "#ff4081"
     }
   },
   {
@@ -174,16 +174,16 @@
     "name": "Bruno",
     "sourceImage": "../assets/images/heroes/011_bruno/real.png",
     "dark": {
-      "primary": "#2a4a6a",
-      "secondary": "#1a3a5a",
-      "accent": "#ff6600",
-      "glow": "#ff8833"
+      "primary": "#263238",
+      "secondary": "#ffd700",
+      "accent": "#00bcd4",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#3a5a7a",
-      "secondary": "#2a4a6a",
-      "accent": "#ff7733",
-      "glow": "#ffaa66"
+      "primary": "#b0bec5",
+      "secondary": "#ffc107",
+      "accent": "#37474f",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -191,16 +191,16 @@
     "name": "Clint",
     "sourceImage": "../assets/images/heroes/012_clint/real.png",
     "dark": {
-      "primary": "#5a4a3a",
-      "secondary": "#3a2a1a",
-      "accent": "#cc8844",
-      "glow": "#ddaa66"
+      "primary": "#212121",
+      "secondary": "#d7ccc8",
+      "accent": "#b71c1c",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#7a6a5a",
-      "secondary": "#5a4a3a",
-      "accent": "#dd9955",
-      "glow": "#eebb77"
+      "primary": "#f5f5dc",
+      "secondary": "#5d4037",
+      "accent": "#c62828",
+      "glow": "#ffd700"
     }
   },
   {
@@ -208,16 +208,16 @@
     "name": "Gord",
     "sourceImage": "../assets/images/heroes/013_gord/real.png",
     "dark": {
-      "primary": "#2a3a6a",
-      "secondary": "#1a2a4a",
-      "accent": "#44aaff",
-      "glow": "#66ccff"
+      "primary": "#311b92",
+      "secondary": "#0d0d0d",
+      "accent": "#00e5ff",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#3a4a7a",
-      "secondary": "#2a3a6a",
-      "accent": "#55bbff",
-      "glow": "#88ddff"
+      "primary": "#3f51b5",
+      "secondary": "#e1bee7",
+      "accent": "#00bcd4",
+      "glow": "#64b5f6"
     }
   },
   {
@@ -225,16 +225,16 @@
     "name": "Harley",
     "sourceImage": "../assets/images/heroes/014_harley/real.png",
     "dark": {
-      "primary": "#4a2a2a",
-      "secondary": "#2a1a1a",
-      "accent": "#dd3333",
-      "glow": "#ff5555"
+      "primary": "#000000",
+      "secondary": "#b71c1c",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#6a3a3a",
-      "secondary": "#4a2a2a",
-      "accent": "#ee4444",
-      "glow": "#ff6666"
+      "primary": "#ffffff",
+      "secondary": "#7b1fa2",
+      "accent": "#d32f2f",
+      "glow": "#f44336"
     }
   },
   {
@@ -242,16 +242,16 @@
     "name": "Balmond",
     "sourceImage": "../assets/images/heroes/015_balmond/real.png",
     "dark": {
-      "primary": "#6a3a2a",
-      "secondary": "#4a2a1a",
-      "accent": "#ff6633",
-      "glow": "#ff8855"
+      "primary": "#b71c1c",
+      "secondary": "#1a1a1a",
+      "accent": "#d7ccc8",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a5a4a",
-      "secondary": "#6a3a2a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#d84315",
+      "secondary": "#fff8e1",
+      "accent": "#c62828",
+      "glow": "#ff6d00"
     }
   },
   {
@@ -259,16 +259,16 @@
     "name": "Minotaur",
     "sourceImage": "../assets/images/heroes/016_minotaur/real.png",
     "dark": {
-      "primary": "#6a4a3a",
-      "secondary": "#4a2a1a",
-      "accent": "#ff8844",
-      "glow": "#ffaa66"
+      "primary": "#8d6e63",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a6a5a",
-      "secondary": "#6a4a3a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#d84315",
+      "secondary": "#fff8e1",
+      "accent": "#8d6e63",
+      "glow": "#ff6d00"
     }
   },
   {
@@ -276,16 +276,16 @@
     "name": "Alice",
     "sourceImage": "../assets/images/heroes/017_alice/real.png",
     "dark": {
-      "primary": "#4a2a4a",
-      "secondary": "#2a1a2a",
-      "accent": "#ff3366",
-      "glow": "#ff5588"
+      "primary": "#1a1a1a",
+      "secondary": "#b71c1c",
+      "accent": "#ffd700",
+      "glow": "#9c27b0"
     },
     "light": {
-      "primary": "#6a3a6a",
-      "secondary": "#4a2a4a",
-      "accent": "#ff4488",
-      "glow": "#ff66aa"
+      "primary": "#f5f5f5",
+      "secondary": "#b0bec5",
+      "accent": "#7b1fa2",
+      "glow": "#e91e63"
     }
   },
   {
@@ -293,16 +293,16 @@
     "name": "Zilong",
     "sourceImage": "../assets/images/heroes/018_zilong/real.png",
     "dark": {
-      "primary": "#2a4a4a",
-      "secondary": "#1a3a3a",
-      "accent": "#ffcc44",
-      "glow": "#ffdd66"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#3a6a6a",
-      "secondary": "#2a5a5a",
-      "accent": "#ffdd55",
-      "glow": "#ffee88"
+      "primary": "#4db6ac",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#4fc3f7"
     }
   },
   {
@@ -310,16 +310,16 @@
     "name": "Lolita",
     "sourceImage": "../assets/images/heroes/019_lolita/real.png",
     "dark": {
-      "primary": "#6a4a2a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffaa66",
-      "glow": "#ffcc88"
+      "primary": "#e65100",
+      "secondary": "#263238",
+      "accent": "#9e9e9e",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#8a6a4a",
-      "secondary": "#6a5a4a",
-      "accent": "#ffbb77",
-      "glow": "#ffddaa"
+      "primary": "#ffcc80",
+      "secondary": "#cfd8dc",
+      "accent": "#ef6c00",
+      "glow": "#ffd54f"
     }
   },
   {
@@ -327,16 +327,16 @@
     "name": "Hayabusa",
     "sourceImage": "../assets/images/heroes/020_hayabusa/real.png",
     "dark": {
-      "primary": "#2a2a3a",
-      "secondary": "#1a1a2a",
-      "accent": "#ff4444",
-      "glow": "#ff6666"
+      "primary": "#b71c1c",
+      "secondary": "#1a1a1a",
+      "accent": "#9e9e9e",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#3a3a5a",
-      "secondary": "#2a2a4a",
-      "accent": "#ff5555",
-      "glow": "#ff7777"
+      "primary": "#c62828",
+      "secondary": "#37474f",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -344,16 +344,16 @@
     "name": "Freya",
     "sourceImage": "../assets/images/heroes/021_freya/real.png",
     "dark": {
-      "primary": "#4a6a8a",
-      "secondary": "#2a4a6a",
-      "accent": "#ffdd88",
-      "glow": "#ffeeaa"
+      "primary": "#78909c",
+      "secondary": "#ffd700",
+      "accent": "#0d47a1",
+      "glow": "#ffd740"
     },
     "light": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#ffee99",
-      "glow": "#ffffbb"
+      "primary": "#cfd8dc",
+      "secondary": "#ffd700",
+      "accent": "#1565c0",
+      "glow": "#ffc107"
     }
   },
   {
@@ -361,16 +361,16 @@
     "name": "Karina",
     "sourceImage": "../assets/images/heroes/022_karina/real.png",
     "dark": {
-      "primary": "#3a2a4a",
-      "secondary": "#2a1a3a",
-      "accent": "#ff44aa",
-      "glow": "#ff66cc"
+      "primary": "#1a1a1a",
+      "secondary": "#4a148c",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a3a6a",
-      "secondary": "#4a2a5a",
-      "accent": "#ff55bb",
-      "glow": "#ff77dd"
+      "primary": "#e1bee7",
+      "secondary": "#cfd8dc",
+      "accent": "#7b1fa2",
+      "glow": "#00bcd4"
     }
   },
   {
@@ -378,16 +378,16 @@
     "name": "Aurora",
     "sourceImage": "../assets/images/heroes/023_aurora/real.png",
     "dark": {
-      "primary": "#4a6aaa",
-      "secondary": "#2a4a8a",
-      "accent": "#e0f0ff",
-      "glow": "#c0e0ff"
+      "primary": "#0d47a1",
+      "secondary": "#e0e0e0",
+      "accent": "#9e9e9e",
+      "glow": "#b3e5fc"
     },
     "light": {
-      "primary": "#6a8acc",
-      "secondary": "#4a6aaa",
-      "accent": "#f0f8ff",
-      "glow": "#d0e8ff"
+      "primary": "#fafafa",
+      "secondary": "#81d4fa",
+      "accent": "#0d47a1",
+      "glow": "#4fc3f7"
     }
   },
   {
@@ -395,16 +395,16 @@
     "name": "Kagura",
     "sourceImage": "../assets/images/heroes/024_kagura/real.png",
     "dark": {
-      "primary": "#4a4a6a",
-      "secondary": "#2a2a4a",
-      "accent": "#ff88cc",
-      "glow": "#ffaadd"
+      "primary": "#00695c",
+      "secondary": "#4a148c",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a6a8a",
-      "secondary": "#4a4a6a",
-      "accent": "#ff99dd",
-      "glow": "#ffbbee"
+      "primary": "#0288d1",
+      "secondary": "#e1bee7",
+      "accent": "#ffd700",
+      "glow": "#26c6da"
     }
   },
   {
@@ -412,16 +412,16 @@
     "name": "Gatotkaca",
     "sourceImage": "../assets/images/heroes/025_gatotkaca/real.png",
     "dark": {
-      "primary": "#4a3a2a",
-      "secondary": "#2a2a1a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#ffd700",
+      "secondary": "#b71c1c",
+      "accent": "#1a1a1a",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#8d6e63",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#00e5ff"
     }
   },
   {
@@ -429,16 +429,16 @@
     "name": "Hilda",
     "sourceImage": "../assets/images/heroes/026_hilda/real.png",
     "dark": {
-      "primary": "#6a4a3a",
-      "secondary": "#4a2a1a",
-      "accent": "#ff8844",
-      "glow": "#ffaa66"
+      "primary": "#b71c1c",
+      "secondary": "#5d4037",
+      "accent": "#d7ccc8",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#8a6a5a",
-      "secondary": "#6a4a3a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#fff8e1",
+      "secondary": "#d84315",
+      "accent": "#c62828",
+      "glow": "#ff6d00"
     }
   },
   {
@@ -446,16 +446,16 @@
     "name": "Moskov",
     "sourceImage": "../assets/images/heroes/027_moskov/real.png",
     "dark": {
-      "primary": "#4a2a4a",
-      "secondary": "#2a1a2a",
-      "accent": "#aa44ff",
-      "glow": "#cc66ff"
+      "primary": "#4a148c",
+      "secondary": "#1a1a1a",
+      "accent": "#9e9e9e",
+      "glow": "#e91e63"
     },
     "light": {
-      "primary": "#6a3a6a",
-      "secondary": "#4a2a4a",
-      "accent": "#bb55ff",
-      "glow": "#dd77ff"
+      "primary": "#e1bee7",
+      "secondary": "#37474f",
+      "accent": "#7b1fa2",
+      "glow": "#f06292"
     }
   },
   {
@@ -463,16 +463,16 @@
     "name": "Johnson",
     "sourceImage": "../assets/images/heroes/028_johnson/real.png",
     "dark": {
-      "primary": "#3a4a5a",
-      "secondary": "#2a3a4a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#4a148c",
+      "secondary": "#ffffff",
+      "accent": "#00bcd4",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a6a7a",
-      "secondary": "#4a5a6a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#b0bec5",
+      "secondary": "#fafafa",
+      "accent": "#7b1fa2",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -480,16 +480,16 @@
     "name": "Cyclops",
     "sourceImage": "../assets/images/heroes/029_cyclops/real.png",
     "dark": {
-      "primary": "#4a3a6a",
-      "secondary": "#2a1a4a",
-      "accent": "#44aaff",
-      "glow": "#66ccff"
+      "primary": "#4a148c",
+      "secondary": "#ffd700",
+      "accent": "#00bcd4",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a5a8a",
-      "secondary": "#4a3a6a",
-      "accent": "#55bbff",
-      "glow": "#88ddff"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#7b1fa2",
+      "glow": "#26c6da"
     }
   },
   {
@@ -497,16 +497,16 @@
     "name": "Ruby",
     "sourceImage": "../assets/images/heroes/030_ruby/real.png",
     "dark": {
-      "primary": "#6a2a2a",
-      "secondary": "#4a1a1a",
-      "accent": "#ff4444",
-      "glow": "#ff6666"
+      "primary": "#b71c1c",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#8a4a4a",
-      "secondary": "#6a2a2a",
-      "accent": "#ff5555",
-      "glow": "#ff7777"
+      "primary": "#d32f2f",
+      "secondary": "#ffffff",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -514,16 +514,16 @@
     "name": "Sun",
     "sourceImage": "../assets/images/heroes/031_sun/real.png",
     "dark": {
-      "primary": "#8a6a3a",
-      "secondary": "#6a4a2a",
-      "accent": "#ffcc44",
-      "glow": "#ffdd66"
+      "primary": "#ffd700",
+      "secondary": "#b71c1c",
+      "accent": "#1a1a1a",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#aa8a5a",
-      "secondary": "#8a6a3a",
-      "accent": "#ffdd55",
-      "glow": "#ffee88"
+      "primary": "#fff8e1",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#ff6d00"
     }
   },
   {
@@ -531,16 +531,16 @@
     "name": "Irithel",
     "sourceImage": "../assets/images/heroes/032_irithel/real.png",
     "dark": {
-      "primary": "#4a2a2a",
-      "secondary": "#2a1a1a",
-      "accent": "#ff6644",
-      "glow": "#ff8866"
+      "primary": "#b71c1c",
+      "secondary": "#ffd700",
+      "accent": "#1a1a1a",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#6a4a4a",
-      "secondary": "#4a2a2a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#fff8e1",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#ff6d00"
     }
   },
   {
@@ -548,16 +548,16 @@
     "name": "Argus",
     "sourceImage": "../assets/images/heroes/033_argus/real.png",
     "dark": {
-      "primary": "#4a2a5a",
-      "secondary": "#2a1a3a",
-      "accent": "#ff44aa",
-      "glow": "#ff66cc"
+      "primary": "#311b92",
+      "secondary": "#9e9e9e",
+      "accent": "#00e676",
+      "glow": "#76ff03"
     },
     "light": {
-      "primary": "#6a4a7a",
-      "secondary": "#4a2a5a",
-      "accent": "#ff55bb",
-      "glow": "#ff77dd"
+      "primary": "#e1bee7",
+      "secondary": "#cfd8dc",
+      "accent": "#7b1fa2",
+      "glow": "#69f0ae"
     }
   },
   {
@@ -565,16 +565,16 @@
     "name": "Lesley",
     "sourceImage": "../assets/images/heroes/034_lesley/real.png",
     "dark": {
-      "primary": "#2a2a4a",
-      "secondary": "#1a1a2a",
-      "accent": "#ff66aa",
-      "glow": "#ff88cc"
+      "primary": "#0d47a1",
+      "secondary": "#9e9e9e",
+      "accent": "#00897b",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#3a3a6a",
-      "secondary": "#2a2a4a",
-      "accent": "#ff77bb",
-      "glow": "#ff99dd"
+      "primary": "#1a237e",
+      "secondary": "#cfd8dc",
+      "accent": "#1565c0",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -582,16 +582,16 @@
     "name": "Zhask",
     "sourceImage": "../assets/images/heroes/035_zhask/real.png",
     "dark": {
-      "primary": "#3a2a5a",
-      "secondary": "#2a1a3a",
-      "accent": "#66ffcc",
-      "glow": "#88ffee"
+      "primary": "#4a148c",
+      "secondary": "#9e9e9e",
+      "accent": "#b71c1c",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#5a4a7a",
-      "secondary": "#3a2a5a",
-      "accent": "#77ffdd",
-      "glow": "#aaffee"
+      "primary": "#e1bee7",
+      "secondary": "#cfd8dc",
+      "accent": "#e91e63",
+      "glow": "#ce93d8"
     }
   },
   {
@@ -599,16 +599,16 @@
     "name": "Vexana",
     "sourceImage": "../assets/images/heroes/036_vexana/real.png",
     "dark": {
-      "primary": "#3a4a6a",
-      "secondary": "#2a3a5a",
-      "accent": "#ff66cc",
-      "glow": "#ff88dd"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#b71c1c",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a6a8a",
-      "secondary": "#3a4a6a",
-      "accent": "#ff77dd",
-      "glow": "#ff99ee"
+      "primary": "#4db6ac",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#26c6da"
     }
   },
   {
@@ -616,16 +616,16 @@
     "name": "Kadita",
     "sourceImage": "../assets/images/heroes/037_kadita/real.png",
     "dark": {
-      "primary": "#2a6a6a",
-      "secondary": "#1a4a4a",
-      "accent": "#44ccff",
-      "glow": "#66ddff"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#4a8a8a",
-      "secondary": "#2a6a6a",
-      "accent": "#55ddff",
-      "glow": "#88eeff"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#0d47a1",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -633,16 +633,16 @@
     "name": "Selena",
     "sourceImage": "../assets/images/heroes/038_selena/real.png",
     "dark": {
-      "primary": "#4a2a6a",
-      "secondary": "#2a1a4a",
-      "accent": "#ff44ff",
-      "glow": "#ff66ff"
+      "primary": "#1a1a1a",
+      "secondary": "#880e4f",
+      "accent": "#9e9e9e",
+      "glow": "#9c27b0"
     },
     "light": {
-      "primary": "#6a4a8a",
-      "secondary": "#4a2a6a",
-      "accent": "#ff55ff",
-      "glow": "#ff77ff"
+      "primary": "#e1bee7",
+      "secondary": "#f06292",
+      "accent": "#7b1fa2",
+      "glow": "#e91e63"
     }
   },
   {
@@ -650,16 +650,16 @@
     "name": "Fanny",
     "sourceImage": "../assets/images/heroes/039_fanny/real.png",
     "dark": {
-      "primary": "#4a2a3a",
-      "secondary": "#2a1a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#4a148c",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a4a5a",
-      "secondary": "#4a2a3a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#7b1fa2",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -667,16 +667,16 @@
     "name": "Lancelot",
     "sourceImage": "../assets/images/heroes/040_lancelot/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#88aaff",
-      "glow": "#aaccff"
+      "primary": "#ffd700",
+      "secondary": "#1a237e",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#99bbff",
-      "glow": "#bbddff"
+      "primary": "#fffde7",
+      "secondary": "#ffd700",
+      "accent": "#1a237e",
+      "glow": "#4fc3f7"
     }
   },
   {
@@ -684,16 +684,16 @@
     "name": "Harith",
     "sourceImage": "../assets/images/heroes/041_harith/real.png",
     "dark": {
-      "primary": "#4a5a6a",
-      "secondary": "#2a3a4a",
-      "accent": "#66ccff",
-      "glow": "#88ddff"
+      "primary": "#0d47a1",
+      "secondary": "#ffffff",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a7a8a",
-      "secondary": "#4a5a6a",
-      "accent": "#77ddff",
-      "glow": "#aaeeff"
+      "primary": "#fafafa",
+      "secondary": "#1565c0",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -701,16 +701,16 @@
     "name": "Martis",
     "sourceImage": "../assets/images/heroes/042_martis/real.png",
     "dark": {
-      "primary": "#4a2a2a",
-      "secondary": "#2a1a1a",
-      "accent": "#ff3366",
-      "glow": "#ff5588"
+      "primary": "#1a1a1a",
+      "secondary": "#880e4f",
+      "accent": "#9e9e9e",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#6a4a4a",
-      "secondary": "#4a2a2a",
-      "accent": "#ff4488",
-      "glow": "#ff66aa"
+      "primary": "#37474f",
+      "secondary": "#f06292",
+      "accent": "#212121",
+      "glow": "#f44336"
     }
   },
   {
@@ -718,16 +718,16 @@
     "name": "Gusion",
     "sourceImage": "../assets/images/heroes/043_gusion/real.png",
     "dark": {
-      "primary": "#3a3a5a",
-      "secondary": "#2a2a3a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#4a148c",
+      "secondary": "#9e9e9e",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a5a7a",
-      "secondary": "#3a3a5a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#fafafa",
+      "secondary": "#cfd8dc",
+      "accent": "#7b1fa2",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -735,16 +735,16 @@
     "name": "Kimmy",
     "sourceImage": "../assets/images/heroes/044_kimmy/real.png",
     "dark": {
-      "primary": "#6a4a5a",
-      "secondary": "#4a2a3a",
-      "accent": "#ff66cc",
-      "glow": "#ff88dd"
+      "primary": "#ffd700",
+      "secondary": "#ffffff",
+      "accent": "#880e4f",
+      "glow": "#9c27b0"
     },
     "light": {
-      "primary": "#8a6a7a",
-      "secondary": "#6a4a5a",
-      "accent": "#ff77dd",
-      "glow": "#ff99ee"
+      "primary": "#fafafa",
+      "secondary": "#ffd700",
+      "accent": "#e91e63",
+      "glow": "#e040fb"
     }
   },
   {
@@ -752,16 +752,16 @@
     "name": "Lunox",
     "sourceImage": "../assets/images/heroes/045_lunox/real.png",
     "dark": {
-      "primary": "#4a3a2a",
-      "secondary": "#2a2a1a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#1a1a1a",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#9c27b0"
     },
     "light": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#ffffff",
+      "secondary": "#ffd700",
+      "accent": "#212121",
+      "glow": "#ffd700"
     }
   },
   {
@@ -769,16 +769,16 @@
     "name": "Thamuz",
     "sourceImage": "../assets/images/heroes/046_thamuz/real.png",
     "dark": {
-      "primary": "#5a2a1a",
-      "secondary": "#3a1a0a",
-      "accent": "#ff6633",
-      "glow": "#ff8855"
+      "primary": "#1a1a1a",
+      "secondary": "#e65100",
+      "accent": "#b71c1c",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#7a4a3a",
-      "secondary": "#5a2a1a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#37474f",
+      "secondary": "#ff6d00",
+      "accent": "#212121",
+      "glow": "#ff9100"
     }
   },
   {
@@ -786,16 +786,16 @@
     "name": "Leomord",
     "sourceImage": "../assets/images/heroes/047_leomord/real.png",
     "dark": {
-      "primary": "#4a5a6a",
-      "secondary": "#2a3a4a",
-      "accent": "#66aaff",
-      "glow": "#88ccff"
+      "primary": "#9e9e9e",
+      "secondary": "#1a237e",
+      "accent": "#00bcd4",
+      "glow": "#4fc3f7"
     },
     "light": {
-      "primary": "#6a7a8a",
-      "secondary": "#4a5a6a",
-      "accent": "#77bbff",
-      "glow": "#aaddff"
+      "primary": "#b0bec5",
+      "secondary": "#1565c0",
+      "accent": "#cfd8dc",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -803,16 +803,16 @@
     "name": "Angela",
     "sourceImage": "../assets/images/heroes/048_angela/real.png",
     "dark": {
-      "primary": "#8a6a8a",
-      "secondary": "#6a4a6a",
-      "accent": "#ff88cc",
-      "glow": "#ffaadd"
+      "primary": "#880e4f",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#aa8aaa",
-      "secondary": "#8a6a8a",
-      "accent": "#ff99dd",
-      "glow": "#ffbbee"
+      "primary": "#e91e63",
+      "secondary": "#ffffff",
+      "accent": "#ffd700",
+      "glow": "#f48fb1"
     }
   },
   {
@@ -820,16 +820,16 @@
     "name": "Aldous",
     "sourceImage": "../assets/images/heroes/049_aldous/real.png",
     "dark": {
-      "primary": "#4a3a2a",
-      "secondary": "#2a2a1a",
-      "accent": "#ff8844",
-      "glow": "#ffaa66"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#e65100",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#1565c0",
+      "glow": "#ffc107"
     }
   },
   {
@@ -837,16 +837,16 @@
     "name": "Khufra",
     "sourceImage": "../assets/images/heroes/050_khufra/real.png",
     "dark": {
-      "primary": "#6a5a3a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#1a1a1a",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a7a5a",
-      "secondary": "#6a5a3a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#0d47a1",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -854,16 +854,16 @@
     "name": "Granger",
     "sourceImage": "../assets/images/heroes/051_granger/real.png",
     "dark": {
-      "primary": "#3a2a2a",
-      "secondary": "#2a1a1a",
-      "accent": "#ff3344",
-      "glow": "#ff5566"
+      "primary": "#212121",
+      "secondary": "#b71c1c",
+      "accent": "#9e9e9e",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#5a4a4a",
-      "secondary": "#3a2a2a",
-      "accent": "#ff4455",
-      "glow": "#ff6677"
+      "primary": "#607d8b",
+      "secondary": "#cfd8dc",
+      "accent": "#212121",
+      "glow": "#f44336"
     }
   },
   {
@@ -871,16 +871,16 @@
     "name": "X.Borg",
     "sourceImage": "../assets/images/heroes/052_xborg/real.png",
     "dark": {
-      "primary": "#5a3a2a",
-      "secondary": "#3a2a1a",
-      "accent": "#ff6633",
-      "glow": "#ff8855"
+      "primary": "#b71c1c",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#7a5a4a",
-      "secondary": "#5a3a2a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#c62828",
+      "secondary": "#ffd700",
+      "accent": "#37474f",
+      "glow": "#ff9100"
     }
   },
   {
@@ -888,16 +888,16 @@
     "name": "Ling",
     "sourceImage": "../assets/images/heroes/053_ling/real.png",
     "dark": {
-      "primary": "#4a6a8a",
-      "secondary": "#2a4a6a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#00897b",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#1565c0",
+      "secondary": "#ffd700",
+      "accent": "#0097a7",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -905,16 +905,16 @@
     "name": "Carmilla",
     "sourceImage": "../assets/images/heroes/054_carmilla/real.png",
     "dark": {
-      "primary": "#5a2a4a",
-      "secondary": "#3a1a2a",
-      "accent": "#ff66cc",
-      "glow": "#ff88dd"
+      "primary": "#b71c1c",
+      "secondary": "#9e9e9e",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#7a4a6a",
-      "secondary": "#5a2a4a",
-      "accent": "#ff77dd",
-      "glow": "#ff99ee"
+      "primary": "#d32f2f",
+      "secondary": "#cfd8dc",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -922,16 +922,16 @@
     "name": "Atlas",
     "sourceImage": "../assets/images/heroes/055_atlas/real.png",
     "dark": {
-      "primary": "#3a5a7a",
-      "secondary": "#2a3a5a",
-      "accent": "#66aaff",
-      "glow": "#88ccff"
+      "primary": "#9e9e9e",
+      "secondary": "#b71c1c",
+      "accent": "#0d47a1",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a7a9a",
-      "secondary": "#3a5a7a",
-      "accent": "#77bbff",
-      "glow": "#aaddff"
+      "primary": "#b0bec5",
+      "secondary": "#c62828",
+      "accent": "#1a237e",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -939,16 +939,16 @@
     "name": "Barats",
     "sourceImage": "../assets/images/heroes/056_barats/real.png",
     "dark": {
-      "primary": "#5a4a3a",
-      "secondary": "#3a2a1a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#d7ccc8",
+      "secondary": "#b71c1c",
+      "accent": "#ffd700",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#7a6a5a",
-      "secondary": "#5a4a3a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#f5f5dc",
+      "secondary": "#c62828",
+      "accent": "#ffd700",
+      "glow": "#ff6d00"
     }
   },
   {
@@ -956,16 +956,16 @@
     "name": "Mathilda",
     "sourceImage": "../assets/images/heroes/057_mathilda/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#b71c1c",
+      "secondary": "#00695c",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#c62828",
+      "secondary": "#26c6da",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -973,16 +973,16 @@
     "name": "Brody",
     "sourceImage": "../assets/images/heroes/058_brody/real.png",
     "dark": {
-      "primary": "#3a4a5a",
-      "secondary": "#2a3a4a",
-      "accent": "#ff6644",
-      "glow": "#ff8866"
+      "primary": "#b71c1c",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a6a7a",
-      "secondary": "#3a4a5a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#c62828",
+      "secondary": "#37474f",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -990,16 +990,16 @@
     "name": "Yve",
     "sourceImage": "../assets/images/heroes/059_yve/real.png",
     "dark": {
-      "primary": "#4a4a8a",
-      "secondary": "#2a2a5a",
-      "accent": "#cc88ff",
-      "glow": "#ddaaff"
+      "primary": "#311b92",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#6a6aaa",
-      "secondary": "#4a4a8a",
-      "accent": "#dd99ff",
-      "glow": "#eebbff"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#7b1fa2",
+      "glow": "#ce93d8"
     }
   },
   {
@@ -1007,16 +1007,16 @@
     "name": "Paquito",
     "sourceImage": "../assets/images/heroes/060_paquito/real.png",
     "dark": {
-      "primary": "#5a3a2a",
-      "secondary": "#3a2a1a",
-      "accent": "#ff4433",
-      "glow": "#ff6655"
+      "primary": "#b71c1c",
+      "secondary": "#212121",
+      "accent": "#ffd700",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#7a5a4a",
-      "secondary": "#5a3a2a",
-      "accent": "#ff5544",
-      "glow": "#ff8877"
+      "primary": "#c62828",
+      "secondary": "#fafafa",
+      "accent": "#ffd700",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1024,16 +1024,16 @@
     "name": "Benedetta",
     "sourceImage": "../assets/images/heroes/061_benedetta/real.png",
     "dark": {
-      "primary": "#3a4a6a",
-      "secondary": "#2a3a4a",
-      "accent": "#cc88ff",
-      "glow": "#ddaaff"
+      "primary": "#00695c",
+      "secondary": "#9e9e9e",
+      "accent": "#4a148c",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#5a6a8a",
-      "secondary": "#3a4a6a",
-      "accent": "#dd99ff",
-      "glow": "#eebbff"
+      "primary": "#2e7d32",
+      "secondary": "#cfd8dc",
+      "accent": "#7b1fa2",
+      "glow": "#ce93d8"
     }
   },
   {
@@ -1041,16 +1041,16 @@
     "name": "Luo Yi",
     "sourceImage": "../assets/images/heroes/062_luoyi/real.png",
     "dark": {
-      "primary": "#4a4a6a",
-      "secondary": "#2a2a4a",
-      "accent": "#ff88aa",
-      "glow": "#ffaacc"
+      "primary": "#4a148c",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a6a8a",
-      "secondary": "#4a4a6a",
-      "accent": "#ff99bb",
-      "glow": "#ffbbdd"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#7b1fa2",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1058,16 +1058,16 @@
     "name": "Yu Zhong",
     "sourceImage": "../assets/images/heroes/063_yu_zhong/real.png",
     "dark": {
-      "primary": "#4a3a5a",
-      "secondary": "#2a1a3a",
-      "accent": "#ff6644",
-      "glow": "#ff8866"
+      "primary": "#4a148c",
+      "secondary": "#b71c1c",
+      "accent": "#9e9e9e",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#6a5a7a",
-      "secondary": "#4a3a5a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#e1bee7",
+      "secondary": "#c62828",
+      "accent": "#cfd8dc",
+      "glow": "#f44336"
     }
   },
   {
@@ -1075,16 +1075,16 @@
     "name": "Phoveus",
     "sourceImage": "../assets/images/heroes/064_phoveus/real.png",
     "dark": {
-      "primary": "#5a4a3a",
-      "secondary": "#3a2a1a",
-      "accent": "#aa66ff",
-      "glow": "#cc88ff"
+      "primary": "#4a148c",
+      "secondary": "#9e9e9e",
+      "accent": "#b71c1c",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#7a6a5a",
-      "secondary": "#5a4a3a",
-      "accent": "#bb77ff",
-      "glow": "#dd99ff"
+      "primary": "#e1bee7",
+      "secondary": "#cfd8dc",
+      "accent": "#c62828",
+      "glow": "#ce93d8"
     }
   },
   {
@@ -1092,16 +1092,16 @@
     "name": "Natan",
     "sourceImage": "../assets/images/heroes/065_natan/real.png",
     "dark": {
-      "primary": "#4a5a8a",
-      "secondary": "#2a3a6a",
-      "accent": "#44ccff",
-      "glow": "#66ddff"
+      "primary": "#ffd700",
+      "secondary": "#1a237e",
+      "accent": "#9e9e9e",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#6a7aaa",
-      "secondary": "#4a5a8a",
-      "accent": "#55ddff",
-      "glow": "#88eeff"
+      "primary": "#fffde7",
+      "secondary": "#1a237e",
+      "accent": "#ffd700",
+      "glow": "#ffd740"
     }
   },
   {
@@ -1109,16 +1109,16 @@
     "name": "Aulus",
     "sourceImage": "../assets/images/heroes/066_aulus/real.png",
     "dark": {
-      "primary": "#6a4a2a",
-      "secondary": "#4a2a1a",
-      "accent": "#ff8844",
-      "glow": "#ffaa66"
+      "primary": "#b71c1c",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a6a4a",
-      "secondary": "#6a4a2a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#c62828",
+      "secondary": "#ffd700",
+      "accent": "#cfd8dc",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1126,16 +1126,16 @@
     "name": "Alpha",
     "sourceImage": "../assets/images/heroes/067_alpha/real.png",
     "dark": {
-      "primary": "#4a5a6a",
-      "secondary": "#2a3a4a",
-      "accent": "#ff3344",
-      "glow": "#ff5566"
+      "primary": "#9e9e9e",
+      "secondary": "#b71c1c",
+      "accent": "#00bcd4",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a7a8a",
-      "secondary": "#4a5a6a",
-      "accent": "#ff4455",
-      "glow": "#ff6677"
+      "primary": "#b0bec5",
+      "secondary": "#c62828",
+      "accent": "#1a237e",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1143,16 +1143,16 @@
     "name": "Gloo",
     "sourceImage": "../assets/images/heroes/068_gloo/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#66ffaa",
-      "glow": "#88ffcc"
+      "primary": "#4a148c",
+      "secondary": "#b71c1c",
+      "accent": "#9e9e9e",
+      "glow": "#e91e63"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#77ffbb",
-      "glow": "#aaffdd"
+      "primary": "#e1bee7",
+      "secondary": "#c62828",
+      "accent": "#cfd8dc",
+      "glow": "#f06292"
     }
   },
   {
@@ -1160,16 +1160,16 @@
     "name": "Beatrix",
     "sourceImage": "../assets/images/heroes/069_beatrix/real.png",
     "dark": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#880e4f",
+      "secondary": "#9e9e9e",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a7a6a",
-      "secondary": "#6a5a4a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#e91e63",
+      "secondary": "#cfd8dc",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1177,16 +1177,16 @@
     "name": "Edith",
     "sourceImage": "../assets/images/heroes/070_edith/real.png",
     "dark": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#ffd700",
+      "secondary": "#78909c",
+      "accent": "#00bcd4",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaaac",
-      "secondary": "#6a8aaa",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#fff8e1",
+      "secondary": "#b0bec5",
+      "accent": "#ffd700",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -1194,16 +1194,16 @@
     "name": "Valentina",
     "sourceImage": "../assets/images/heroes/071_valentina/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#ff66cc",
-      "glow": "#ff88dd"
+      "primary": "#4a148c",
+      "secondary": "#9e9e9e",
+      "accent": "#00bcd4",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#ff77dd",
-      "glow": "#ff99ee"
+      "primary": "#e1bee7",
+      "secondary": "#cfd8dc",
+      "accent": "#7b1fa2",
+      "glow": "#ce93d8"
     }
   },
   {
@@ -1211,16 +1211,16 @@
     "name": "Aamon",
     "sourceImage": "../assets/images/heroes/072_aamon/real.png",
     "dark": {
-      "primary": "#4a5a7a",
-      "secondary": "#2a3a5a",
-      "accent": "#88aaff",
-      "glow": "#aaccff"
+      "primary": "#9e9e9e",
+      "secondary": "#0d47a1",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a7a9a",
-      "secondary": "#4a5a7a",
-      "accent": "#99bbff",
-      "glow": "#bbddff"
+      "primary": "#fafafa",
+      "secondary": "#1565c0",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1228,16 +1228,16 @@
     "name": "Melissa",
     "sourceImage": "../assets/images/heroes/073_melissa/real.png",
     "dark": {
-      "primary": "#6a4a5a",
-      "secondary": "#4a2a3a",
-      "accent": "#ff88aa",
-      "glow": "#ffaacc"
+      "primary": "#b71c1c",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a6a7a",
-      "secondary": "#6a4a5a",
-      "accent": "#ff99bb",
-      "glow": "#ffbbdd"
+      "primary": "#fafafa",
+      "secondary": "#c62828",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1245,16 +1245,16 @@
     "name": "Floryn",
     "sourceImage": "../assets/images/heroes/074_floryn/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#880e4f",
+      "secondary": "#1b5e20",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#f8bbd0",
+      "secondary": "#a5d6a7",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1262,16 +1262,16 @@
     "name": "Julian",
     "sourceImage": "../assets/images/heroes/075_julian/real.png",
     "dark": {
-      "primary": "#4a3a5a",
-      "secondary": "#2a1a3a",
-      "accent": "#ff4488",
-      "glow": "#ff66aa"
+      "primary": "#b71c1c",
+      "secondary": "#9e9e9e",
+      "accent": "#0d47a1",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a5a7a",
-      "secondary": "#4a3a5a",
-      "accent": "#ff5599",
-      "glow": "#ff77bb"
+      "primary": "#c62828",
+      "secondary": "#cfd8dc",
+      "accent": "#1565c0",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1279,16 +1279,16 @@
     "name": "Xavier",
     "sourceImage": "../assets/images/heroes/076_xavier/real.png",
     "dark": {
-      "primary": "#5a5a8a",
-      "secondary": "#3a3a6a",
-      "accent": "#aaccff",
-      "glow": "#ccddff"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a7aaa",
-      "secondary": "#5a5a8a",
-      "accent": "#bbddff",
-      "glow": "#ddeeff"
+      "primary": "#fafafa",
+      "secondary": "#ffd700",
+      "accent": "#00838f",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1296,16 +1296,16 @@
     "name": "Fredrinn",
     "sourceImage": "../assets/images/heroes/077_fredrinn/real.png",
     "dark": {
-      "primary": "#3a4a6a",
-      "secondary": "#2a3a4a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#006064",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#5a6a8a",
-      "secondary": "#3a4a6a",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#81d4fa",
+      "secondary": "#ffd700",
+      "accent": "#1a237e",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1313,16 +1313,16 @@
     "name": "Joy",
     "sourceImage": "../assets/images/heroes/078_joy/real.png",
     "dark": {
-      "primary": "#8a6a4a",
-      "secondary": "#6a4a2a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#fdd835",
+      "secondary": "#4a148c",
+      "accent": "#00695c",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#aa8a6a",
-      "secondary": "#8a6a4a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#ffeb3b",
+      "secondary": "#e1bee7",
+      "accent": "#26c6da",
+      "glow": "#ffc107"
     }
   },
   {
@@ -1330,16 +1330,16 @@
     "name": "Arlott",
     "sourceImage": "../assets/images/heroes/079_arlott/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#ff6688",
-      "glow": "#ff88aa"
+      "primary": "#b71c1c",
+      "secondary": "#9e9e9e",
+      "accent": "#4a148c",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#ff7799",
-      "glow": "#ff99bb"
+      "primary": "#c62828",
+      "secondary": "#cfd8dc",
+      "accent": "#7b1fa2",
+      "glow": "#f44336"
     }
   },
   {
@@ -1347,16 +1347,16 @@
     "name": "Ixia",
     "sourceImage": "../assets/images/heroes/080_ixia/real.png",
     "dark": {
-      "primary": "#6a4a5a",
-      "secondary": "#4a2a3a",
-      "accent": "#ff88aa",
-      "glow": "#ffaacc"
+      "primary": "#880e4f",
+      "secondary": "#b71c1c",
+      "accent": "#9e9e9e",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#8a6a7a",
-      "secondary": "#6a4a5a",
-      "accent": "#ff99bb",
-      "glow": "#ffbbdd"
+      "primary": "#e91e63",
+      "secondary": "#c62828",
+      "accent": "#cfd8dc",
+      "glow": "#e040fb"
     }
   },
   {
@@ -1364,16 +1364,16 @@
     "name": "Novaria",
     "sourceImage": "../assets/images/heroes/081_novaria/real.png",
     "dark": {
-      "primary": "#4a5aaa",
-      "secondary": "#2a3a8a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#006064",
+      "secondary": "#9e9e9e",
+      "accent": "#880e4f",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a7acc",
-      "secondary": "#4a5aaa",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#81d4fa",
+      "secondary": "#cfd8dc",
+      "accent": "#f06292",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1381,16 +1381,16 @@
     "name": "Chip",
     "sourceImage": "../assets/images/heroes/082_chip/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#00695c",
+      "secondary": "#9e9e9e",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#26c6da",
+      "secondary": "#cfd8dc",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1398,16 +1398,16 @@
     "name": "Cici",
     "sourceImage": "../assets/images/heroes/083_cici/real.png",
     "dark": {
-      "primary": "#8a6a8a",
-      "secondary": "#6a4a6a",
-      "accent": "#ff88cc",
-      "glow": "#ffaadd"
+      "primary": "#0d47a1",
+      "secondary": "#fdd835",
+      "accent": "#880e4f",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#aa8aaa",
-      "secondary": "#8a6a8a",
-      "accent": "#ff99dd",
-      "glow": "#ffbbee"
+      "primary": "#0288d1",
+      "secondary": "#ffeb3b",
+      "accent": "#e91e63",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1415,16 +1415,16 @@
     "name": "Nolan",
     "sourceImage": "../assets/images/heroes/084_nolan/real.png",
     "dark": {
-      "primary": "#4a5a8a",
-      "secondary": "#2a3a6a",
-      "accent": "#88aaff",
-      "glow": "#aaccff"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#9c27b0"
     },
     "light": {
-      "primary": "#6a7aaa",
-      "secondary": "#4a5a8a",
-      "accent": "#99bbff",
-      "glow": "#bbddff"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#fafafa",
+      "glow": "#b388ff"
     }
   },
   {
@@ -1432,16 +1432,16 @@
     "name": "Vale",
     "sourceImage": "../assets/images/heroes/085_vale/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#ffd700",
+      "secondary": "#d7ccc8",
+      "accent": "#e65100",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#fff8e1",
+      "secondary": "#ffd700",
+      "accent": "#ef6c00",
+      "glow": "#ffd740"
     }
   },
   {
@@ -1449,16 +1449,16 @@
     "name": "Valir",
     "sourceImage": "../assets/images/heroes/086_valir/real.png",
     "dark": {
-      "primary": "#8a4a2a",
-      "secondary": "#6a2a1a",
-      "accent": "#ff8833",
-      "glow": "#ffaa55"
+      "primary": "#e65100",
+      "secondary": "#b71c1c",
+      "accent": "#ffd700",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#aa6a4a",
-      "secondary": "#8a4a2a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#ff6d00",
+      "secondary": "#c62828",
+      "accent": "#ffd700",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1466,16 +1466,16 @@
     "name": "Khaleed",
     "sourceImage": "../assets/images/heroes/087_khaleed/real.png",
     "dark": {
-      "primary": "#8a6a3a",
-      "secondary": "#6a4a2a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#aa8a5a",
-      "secondary": "#8a6a3a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#fafafa",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1483,16 +1483,16 @@
     "name": "Esmeralda",
     "sourceImage": "../assets/images/heroes/088_esmeralda/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#66ffcc",
-      "glow": "#88ffee"
+      "primary": "#4a148c",
+      "secondary": "#ffd700",
+      "accent": "#00695c",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#77ffdd",
-      "glow": "#aaffee"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#26c6da",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1500,16 +1500,16 @@
     "name": "Uranus",
     "sourceImage": "../assets/images/heroes/089_uranus/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#ffd700",
+      "secondary": "#8d6e63",
+      "accent": "#0d47a1",
+      "glow": "#ffd740"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#ffc107",
+      "secondary": "#ffd700",
+      "accent": "#1a237e",
+      "glow": "#ffd54f"
     }
   },
   {
@@ -1517,16 +1517,16 @@
     "name": "Terizla",
     "sourceImage": "../assets/images/heroes/090_terizla/real.png",
     "dark": {
-      "primary": "#5a3a2a",
-      "secondary": "#3a2a1a",
-      "accent": "#ff6644",
-      "glow": "#ff8866"
+      "primary": "#b71c1c",
+      "secondary": "#9e9e9e",
+      "accent": "#00e676",
+      "glow": "#76ff03"
     },
     "light": {
-      "primary": "#7a5a4a",
-      "secondary": "#5a3a2a",
-      "accent": "#ff7755",
-      "glow": "#ffaa88"
+      "primary": "#c62828",
+      "secondary": "#cfd8dc",
+      "accent": "#1b5e20",
+      "glow": "#69f0ae"
     }
   },
   {
@@ -1534,16 +1534,16 @@
     "name": "Bane",
     "sourceImage": "../assets/images/heroes/091_bane/real.png",
     "dark": {
-      "primary": "#5a5a3a",
-      "secondary": "#3a3a2a",
-      "accent": "#66ffaa",
-      "glow": "#88ffcc"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#b71c1c",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a7a5a",
-      "secondary": "#5a5a3a",
-      "accent": "#77ffbb",
-      "glow": "#aaffdd"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -1551,16 +1551,16 @@
     "name": "Kaja",
     "sourceImage": "../assets/images/heroes/092_kaja/real.png",
     "dark": {
-      "primary": "#8a8a6a",
-      "secondary": "#6a6a4a",
-      "accent": "#ffcc44",
-      "glow": "#ffdd66"
+      "primary": "#ffd700",
+      "secondary": "#4a148c",
+      "accent": "#0d47a1",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#aaaa8a",
-      "secondary": "#8a8a6a",
-      "accent": "#ffdd55",
-      "glow": "#ffee88"
+      "primary": "#fffde7",
+      "secondary": "#e1bee7",
+      "accent": "#1a237e",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1568,16 +1568,16 @@
     "name": "Hanzo",
     "sourceImage": "../assets/images/heroes/093_hanzo/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#ff4488",
-      "glow": "#ff66aa"
+      "primary": "#880e4f",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#ff5599",
-      "glow": "#ff77bb"
+      "primary": "#e91e63",
+      "secondary": "#37474f",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -1585,16 +1585,16 @@
     "name": "Hanabi",
     "sourceImage": "../assets/images/heroes/094_hanabi/real.png",
     "dark": {
-      "primary": "#6a2a4a",
-      "secondary": "#4a1a2a",
-      "accent": "#ff66aa",
-      "glow": "#ff88cc"
+      "primary": "#b71c1c",
+      "secondary": "#1a237e",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#8a4a6a",
-      "secondary": "#6a2a4a",
-      "accent": "#ff77bb",
-      "glow": "#ff99dd"
+      "primary": "#c62828",
+      "secondary": "#1a237e",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -1602,16 +1602,16 @@
     "name": "Yin",
     "sourceImage": "../assets/images/heroes/095_yin/real.png",
     "dark": {
-      "primary": "#4a3a5a",
-      "secondary": "#2a1a3a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#e65100",
+      "secondary": "#ffd700",
+      "accent": "#b71c1c",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#6a5a7a",
-      "secondary": "#4a3a5a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#ff6d00",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1619,16 +1619,16 @@
     "name": "Masha",
     "sourceImage": "../assets/images/heroes/096_masha/real.png",
     "dark": {
-      "primary": "#6a4a2a",
-      "secondary": "#4a2a1a",
-      "accent": "#ff8844",
-      "glow": "#ffaa66"
+      "primary": "#ffd700",
+      "secondary": "#5d4037",
+      "accent": "#b71c1c",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a6a4a",
-      "secondary": "#6a4a2a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#ffc107",
+      "secondary": "#fff8e1",
+      "accent": "#c62828",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1636,16 +1636,16 @@
     "name": "Wanwan",
     "sourceImage": "../assets/images/heroes/097_wanwan/real.png",
     "dark": {
-      "primary": "#8a6a4a",
-      "secondary": "#6a4a2a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#b71c1c",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#aa8a6a",
-      "secondary": "#8a6a4a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1653,16 +1653,16 @@
     "name": "Claude",
     "sourceImage": "../assets/images/heroes/098_claude/real.png",
     "dark": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#880e4f",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a7a6a",
-      "secondary": "#6a5a4a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#e91e63",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1670,16 +1670,16 @@
     "name": "Karrie",
     "sourceImage": "../assets/images/heroes/099_karrie/real.png",
     "dark": {
-      "primary": "#5a5a8a",
-      "secondary": "#3a3a6a",
-      "accent": "#aaccff",
-      "glow": "#ccddff"
+      "primary": "#006064",
+      "secondary": "#9e9e9e",
+      "accent": "#ffffff",
+      "glow": "#9c27b0"
     },
     "light": {
-      "primary": "#7a7aaa",
-      "secondary": "#5a5a8a",
-      "accent": "#bbddff",
-      "glow": "#ddeeff"
+      "primary": "#81d4fa",
+      "secondary": "#cfd8dc",
+      "accent": "#fafafa",
+      "glow": "#b388ff"
     }
   },
   {
@@ -1687,16 +1687,16 @@
     "name": "Roger",
     "sourceImage": "../assets/images/heroes/100_roger/real.png",
     "dark": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#ffd700",
+      "secondary": "#b71c1c",
+      "accent": "#827717",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a7a6a",
-      "secondary": "#6a5a4a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#ffeb3b",
+      "secondary": "#c62828",
+      "accent": "#2e7d32",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1704,16 +1704,16 @@
     "name": "Diggie",
     "sourceImage": "../assets/images/heroes/101_diggie/real.png",
     "dark": {
-      "primary": "#8a8a5a",
-      "secondary": "#6a6a3a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#5d4037",
+      "secondary": "#ffd700",
+      "accent": "#e65100",
+      "glow": "#ffd700"
     },
     "light": {
-      "primary": "#aaaa7a",
-      "secondary": "#8a8a5a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#fff8e1",
+      "secondary": "#ffd700",
+      "accent": "#795548",
+      "glow": "#ffd740"
     }
   },
   {
@@ -1721,16 +1721,16 @@
     "name": "Estes",
     "sourceImage": "../assets/images/heroes/102_estes/real.png",
     "dark": {
-      "primary": "#4a6a8a",
-      "secondary": "#2a4a6a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#4a148c",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#cfd8dc",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1738,16 +1738,16 @@
     "name": "Belerick",
     "sourceImage": "../assets/images/heroes/103_belerick/real.png",
     "dark": {
-      "primary": "#5a6a4a",
-      "secondary": "#3a4a2a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#1b5e20",
+      "secondary": "#5d4037",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a8a6a",
-      "secondary": "#5a6a4a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#2e7d32",
+      "secondary": "#fff8e1",
+      "accent": "#ffd700",
+      "glow": "#81c784"
     }
   },
   {
@@ -1755,16 +1755,16 @@
     "name": "Badang",
     "sourceImage": "../assets/images/heroes/104_badang/real.png",
     "dark": {
-      "primary": "#6a4a3a",
-      "secondary": "#4a2a1a",
-      "accent": "#ff8844",
-      "glow": "#ffaa66"
+      "primary": "#0d47a1",
+      "secondary": "#9e9e9e",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a6a5a",
-      "secondary": "#6a4a3a",
-      "accent": "#ff9955",
-      "glow": "#ffbb77"
+      "primary": "#1a237e",
+      "secondary": "#cfd8dc",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1772,16 +1772,16 @@
     "name": "Lapu-Lapu",
     "sourceImage": "../assets/images/heroes/105_lapulapu/real.png",
     "dark": {
-      "primary": "#8a5a3a",
-      "secondary": "#6a3a1a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#b71c1c",
+      "secondary": "#ffd700",
+      "accent": "#0d47a1",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#aa7a5a",
-      "secondary": "#8a5a3a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#c62828",
+      "secondary": "#ffd700",
+      "accent": "#1a237e",
+      "glow": "#f44336"
     }
   },
   {
@@ -1789,16 +1789,16 @@
     "name": "Jawhead",
     "sourceImage": "../assets/images/heroes/106_jawhead/real.png",
     "dark": {
-      "primary": "#6a6a4a",
-      "secondary": "#4a4a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#e65100",
+      "secondary": "#9e9e9e",
+      "accent": "#0d47a1",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#8a8a6a",
-      "secondary": "#6a6a4a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#ff6d00",
+      "secondary": "#cfd8dc",
+      "accent": "#1a237e",
+      "glow": "#ffd740"
     }
   },
   {
@@ -1806,16 +1806,16 @@
     "name": "Guinevere",
     "sourceImage": "../assets/images/heroes/107_guinevere/real.png",
     "dark": {
-      "primary": "#6a4a6a",
-      "secondary": "#4a2a4a",
-      "accent": "#ff88cc",
-      "glow": "#ffaadd"
+      "primary": "#4a148c",
+      "secondary": "#ffd700",
+      "accent": "#e65100",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a6a8a",
-      "secondary": "#6a4a6a",
-      "accent": "#ff99dd",
-      "glow": "#ffbbee"
+      "primary": "#e1bee7",
+      "secondary": "#ffd700",
+      "accent": "#ef6c00",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1823,16 +1823,16 @@
     "name": "Dyrroth",
     "sourceImage": "../assets/images/heroes/108_dyrroth/real.png",
     "dark": {
-      "primary": "#5a2a4a",
-      "secondary": "#3a1a2a",
-      "accent": "#ff4488",
-      "glow": "#ff66aa"
+      "primary": "#4a148c",
+      "secondary": "#b71c1c",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#7a4a6a",
-      "secondary": "#5a2a4a",
-      "accent": "#ff5599",
-      "glow": "#ff77bb"
+      "primary": "#e1bee7",
+      "secondary": "#c62828",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -1840,16 +1840,16 @@
     "name": "Minsitthar",
     "sourceImage": "../assets/images/heroes/109_minsitthar/real.png",
     "dark": {
-      "primary": "#8a6a3a",
-      "secondary": "#6a4a2a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#ffd700",
+      "secondary": "#1b5e20",
+      "accent": "#b71c1c",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#aa8a5a",
-      "secondary": "#8a6a3a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#fffde7",
+      "secondary": "#2e7d32",
+      "accent": "#c62828",
+      "glow": "#ffd740"
     }
   },
   {
@@ -1857,16 +1857,16 @@
     "name": "Silvanna",
     "sourceImage": "../assets/images/heroes/110_silvanna/real.png",
     "dark": {
-      "primary": "#5a6a8a",
-      "secondary": "#3a4a6a",
-      "accent": "#88aaff",
-      "glow": "#aaccff"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a8aaa",
-      "secondary": "#5a6a8a",
-      "accent": "#99bbff",
-      "glow": "#bbddff"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#fafafa",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1874,16 +1874,16 @@
     "name": "Baxia",
     "sourceImage": "../assets/images/heroes/111_baxia/real.png",
     "dark": {
-      "primary": "#6a6a4a",
-      "secondary": "#4a4a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#e65100",
+      "secondary": "#8d6e63",
+      "accent": "#1b5e20",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a8a6a",
-      "secondary": "#6a6a4a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#ff6d00",
+      "secondary": "#ffd700",
+      "accent": "#2e7d32",
+      "glow": "#ff9100"
     }
   },
   {
@@ -1891,16 +1891,16 @@
     "name": "Cecilion",
     "sourceImage": "../assets/images/heroes/112_cecilion/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#ff66aa",
-      "glow": "#ff88cc"
+      "primary": "#b71c1c",
+      "secondary": "#ffd700",
+      "accent": "#1a1a1a",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#ff77bb",
-      "glow": "#ff99dd"
+      "primary": "#d32f2f",
+      "secondary": "#ffd700",
+      "accent": "#37474f",
+      "glow": "#f44336"
     }
   },
   {
@@ -1908,16 +1908,16 @@
     "name": "Chang'e",
     "sourceImage": "../assets/images/heroes/113_chang_e/real.png",
     "dark": {
-      "primary": "#6a8a8a",
-      "secondary": "#4a6a6a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#1b5e20",
+      "secondary": "#ffd700",
+      "accent": "#880e4f",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaaaa",
-      "secondary": "#6a8a8a",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#a5d6a7",
+      "secondary": "#ffd700",
+      "accent": "#e91e63",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1925,16 +1925,16 @@
     "name": "Faramis",
     "sourceImage": "../assets/images/heroes/114_faramis/real.png",
     "dark": {
-      "primary": "#4a5a6a",
-      "secondary": "#2a3a4a",
-      "accent": "#66ccaa",
-      "glow": "#88ffcc"
+      "primary": "#00695c",
+      "secondary": "#9e9e9e",
+      "accent": "#00e676",
+      "glow": "#76ff03"
     },
     "light": {
-      "primary": "#6a7a8a",
-      "secondary": "#4a5a6a",
-      "accent": "#77ddbb",
-      "glow": "#aaffdd"
+      "primary": "#26c6da",
+      "secondary": "#cfd8dc",
+      "accent": "#1b5e20",
+      "glow": "#69f0ae"
     }
   },
   {
@@ -1942,16 +1942,16 @@
     "name": "Grock",
     "sourceImage": "../assets/images/heroes/115_grock/real.png",
     "dark": {
-      "primary": "#6a5a4a",
-      "secondary": "#4a3a2a",
-      "accent": "#ffaa44",
-      "glow": "#ffcc66"
+      "primary": "#78909c",
+      "secondary": "#1b5e20",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8a7a6a",
-      "secondary": "#6a5a4a",
-      "accent": "#ffbb55",
-      "glow": "#ffdd88"
+      "primary": "#b0bec5",
+      "secondary": "#2e7d32",
+      "accent": "#ffd700",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1959,16 +1959,16 @@
     "name": "Helcurt",
     "sourceImage": "../assets/images/heroes/116_helcurt/real.png",
     "dark": {
-      "primary": "#5a5a8a",
-      "secondary": "#3a3a6a",
-      "accent": "#aa66ff",
-      "glow": "#cc88ff"
+      "primary": "#4a148c",
+      "secondary": "#1a1a1a",
+      "accent": "#9e9e9e",
+      "glow": "#b388ff"
     },
     "light": {
-      "primary": "#7a7aaa",
-      "secondary": "#5a5a8a",
-      "accent": "#bb77ff",
-      "glow": "#dd99ff"
+      "primary": "#e1bee7",
+      "secondary": "#37474f",
+      "accent": "#cfd8dc",
+      "glow": "#ce93d8"
     }
   },
   {
@@ -1976,16 +1976,16 @@
     "name": "Hylos",
     "sourceImage": "../assets/images/heroes/117_hylos/real.png",
     "dark": {
-      "primary": "#6a8a8a",
-      "secondary": "#4a6a6a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaaaa",
-      "secondary": "#6a8a8a",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#cfd8dc",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -1993,16 +1993,16 @@
     "name": "Lylia",
     "sourceImage": "../assets/images/heroes/118_lylia/real.png",
     "dark": {
-      "primary": "#6a4a5a",
-      "secondary": "#4a2a3a",
-      "accent": "#ff88aa",
-      "glow": "#ffaacc"
+      "primary": "#4a148c",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#e91e63"
     },
     "light": {
-      "primary": "#8a6a7a",
-      "secondary": "#6a4a5a",
-      "accent": "#ff99bb",
-      "glow": "#ffbbdd"
+      "primary": "#e1bee7",
+      "secondary": "#fafafa",
+      "accent": "#ffd700",
+      "glow": "#f06292"
     }
   },
   {
@@ -2010,16 +2010,16 @@
     "name": "Natalia",
     "sourceImage": "../assets/images/heroes/119_natalia/real.png",
     "dark": {
-      "primary": "#4a4a6a",
-      "secondary": "#2a2a4a",
-      "accent": "#ff88aa",
-      "glow": "#ffaacc"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#6a6a8a",
-      "secondary": "#4a4a6a",
-      "accent": "#ff99bb",
-      "glow": "#ffbbdd"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#fafafa",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -2027,16 +2027,16 @@
     "name": "Odette",
     "sourceImage": "../assets/images/heroes/120_odette/real.png",
     "dark": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#aaccff",
-      "glow": "#ccddff"
+      "primary": "#0d47a1",
+      "secondary": "#9e9e9e",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaaac",
-      "secondary": "#6a8aaa",
-      "accent": "#bbddff",
-      "glow": "#ddeeff"
+      "primary": "#fafafa",
+      "secondary": "#cfd8dc",
+      "accent": "#1a237e",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -2044,16 +2044,16 @@
     "name": "Pharsa",
     "sourceImage": "../assets/images/heroes/121_pharsa/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#ff88cc",
-      "glow": "#ffaadd"
+      "primary": "#b71c1c",
+      "secondary": "#1a1a1a",
+      "accent": "#ffd700",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#ff99dd",
-      "glow": "#ffbbee"
+      "primary": "#c62828",
+      "secondary": "#fafafa",
+      "accent": "#ffd700",
+      "glow": "#f44336"
     }
   },
   {
@@ -2061,16 +2061,16 @@
     "name": "Popol & Kupa",
     "sourceImage": "../assets/images/heroes/122_popol_kupa/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#0d47a1",
+      "secondary": "#5d4037",
+      "accent": "#ffd700",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#81d4fa",
+      "secondary": "#fff8e1",
+      "accent": "#1a237e",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -2078,16 +2078,16 @@
     "name": "Sora",
     "sourceImage": "../assets/images/heroes/123_sora/real.png",
     "dark": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#0d47a1",
+      "secondary": "#ffd700",
+      "accent": "#ffffff",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaaac",
-      "secondary": "#6a8aaa",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#fafafa",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -2095,16 +2095,16 @@
     "name": "Suyou",
     "sourceImage": "../assets/images/heroes/124_suyou/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#880e4f",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#e91e63",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -2112,16 +2112,16 @@
     "name": "Tigreal",
     "sourceImage": "../assets/images/heroes/125_tigreal/real.png",
     "dark": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#88ccff",
-      "glow": "#aaddff"
+      "primary": "#9e9e9e",
+      "secondary": "#0d47a1",
+      "accent": "#ffd700",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#8aaaac",
-      "secondary": "#6a8aaa",
-      "accent": "#99ddff",
-      "glow": "#bbeeff"
+      "primary": "#b0bec5",
+      "secondary": "#1a237e",
+      "accent": "#ffd700",
+      "glow": "#ffd740"
     }
   },
   {
@@ -2129,16 +2129,16 @@
     "name": "Yi Sun-shin",
     "sourceImage": "../assets/images/heroes/126_yi_sun_shin/real.png",
     "dark": {
-      "primary": "#8a6a3a",
-      "secondary": "#6a4a2a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#b71c1c",
+      "secondary": "#ffd700",
+      "accent": "#0d47a1",
+      "glow": "#ff1744"
     },
     "light": {
-      "primary": "#aa8a5a",
-      "secondary": "#8a6a3a",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#c62828",
+      "secondary": "#ffd700",
+      "accent": "#1a237e",
+      "glow": "#f44336"
     }
   },
   {
@@ -2146,16 +2146,16 @@
     "name": "Zetian",
     "sourceImage": "../assets/images/heroes/127_zetian/real.png",
     "dark": {
-      "primary": "#8a6a8a",
-      "secondary": "#6a4a6a",
-      "accent": "#ff88cc",
-      "glow": "#ffaadd"
+      "primary": "#ffd700",
+      "secondary": "#b71c1c",
+      "accent": "#00897b",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#aa8aaa",
-      "secondary": "#8a6a8a",
-      "accent": "#ff99dd",
-      "glow": "#ffbbee"
+      "primary": "#fffde7",
+      "secondary": "#c62828",
+      "accent": "#26c6da",
+      "glow": "#ffd740"
     }
   },
   {
@@ -2163,16 +2163,16 @@
     "name": "Zhuxin",
     "sourceImage": "../assets/images/heroes/128_zhuxin/real.png",
     "dark": {
-      "primary": "#6a8a6a",
-      "secondary": "#4a6a4a",
-      "accent": "#aaffaa",
-      "glow": "#ccffcc"
+      "primary": "#1a1a1a",
+      "secondary": "#880e4f",
+      "accent": "#ffd700",
+      "glow": "#e91e63"
     },
     "light": {
-      "primary": "#8aaa8a",
-      "secondary": "#6a8a6a",
-      "accent": "#bbffbb",
-      "glow": "#ddffdd"
+      "primary": "#fafafa",
+      "secondary": "#f06292",
+      "accent": "#ffd700",
+      "glow": "#ff4081"
     }
   },
   {
@@ -2180,16 +2180,16 @@
     "name": "Marcel",
     "sourceImage": "../assets/images/heroes/129_marcel/real.png",
     "dark": {
-      "primary": "#5a4a6a",
-      "secondary": "#3a2a4a",
-      "accent": "#ff66aa",
-      "glow": "#ff88cc"
+      "primary": "#1a237e",
+      "secondary": "#ffd700",
+      "accent": "#9e9e9e",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#7a6a8a",
-      "secondary": "#5a4a6a",
-      "accent": "#ff77bb",
-      "glow": "#ff99dd"
+      "primary": "#1565c0",
+      "secondary": "#ffd700",
+      "accent": "#cfd8dc",
+      "glow": "#42a5f5"
     }
   },
   {
@@ -2197,16 +2197,16 @@
     "name": "Obsidia",
     "sourceImage": "../assets/images/heroes/130_obsidia/real.png",
     "dark": {
-      "primary": "#5a4a8a",
-      "secondary": "#3a2a6a",
-      "accent": "#aa66ff",
-      "glow": "#cc88ff"
+      "primary": "#1a1a1a",
+      "secondary": "#4a148c",
+      "accent": "#ffd700",
+      "glow": "#e91e63"
     },
     "light": {
-      "primary": "#7a6aaa",
-      "secondary": "#5a4a8a",
-      "accent": "#bb77ff",
-      "glow": "#dd99ff"
+      "primary": "#e1bee7",
+      "secondary": "#cfd8dc",
+      "accent": "#ffd700",
+      "glow": "#f06292"
     }
   },
   {
@@ -2214,16 +2214,16 @@
     "name": "Lukas",
     "sourceImage": "../assets/images/heroes/131_lukas/real.png",
     "dark": {
-      "primary": "#6a8aaa",
-      "secondary": "#4a6a8a",
-      "accent": "#ffcc66",
-      "glow": "#ffdd88"
+      "primary": "#ffd700",
+      "secondary": "#1a237e",
+      "accent": "#b71c1c",
+      "glow": "#ffc107"
     },
     "light": {
-      "primary": "#8aaaac",
-      "secondary": "#6a8aaa",
-      "accent": "#ffdd77",
-      "glow": "#ffeeaa"
+      "primary": "#fffde7",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#ffd740"
     }
   },
   {
@@ -2231,16 +2231,16 @@
     "name": "Kalea",
     "sourceImage": "../assets/images/heroes/132_kalea/real.png",
     "dark": {
-      "primary": "#6a8a8a",
-      "secondary": "#4a6a6a",
-      "accent": "#66ffcc",
-      "glow": "#88ffee"
+      "primary": "#00695c",
+      "secondary": "#ffd700",
+      "accent": "#b71c1c",
+      "glow": "#00e5ff"
     },
     "light": {
-      "primary": "#8aaaaa",
-      "secondary": "#6a8a8a",
-      "accent": "#77ffdd",
-      "glow": "#aaffee"
+      "primary": "#26c6da",
+      "secondary": "#ffd700",
+      "accent": "#c62828",
+      "glow": "#4dd0e1"
     }
   },
   {
@@ -2248,16 +2248,16 @@
     "name": "Hirara",
     "sourceImage": "../assets/images/heroes/133_hirara/real.png",
     "dark": {
-      "primary": "#6a4a5a",
-      "secondary": "#4a2a3a",
-      "accent": "#ff6688",
-      "glow": "#ff88aa"
+      "primary": "#00695c",
+      "secondary": "#b71c1c",
+      "accent": "#ffd700",
+      "glow": "#ff6d00"
     },
     "light": {
-      "primary": "#8a6a7a",
-      "secondary": "#6a4a5a",
-      "accent": "#ff7799",
-      "glow": "#ff99bb"
+      "primary": "#26c6da",
+      "secondary": "#c62828",
+      "accent": "#ffd700",
+      "glow": "#ff9100"
     }
   }
 ]
