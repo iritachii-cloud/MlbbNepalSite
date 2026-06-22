@@ -107,7 +107,7 @@ function render() {
       <button class="npc-card" style="${npcStyle(npc)}" data-frame="${npcFrame(npc)}" data-index="${index}">
         <span class="npc-id">NPC ${String(npc.id).padStart(2, "0")}</span>
         <span class="npc-image">
-          <img src="${html(images.real)}" alt="${html(npc.name)}">
+          <img src="${html(images.animated)}" alt="${html(npc.name)}">
           <i></i>
         </span>
         <span class="npc-meta">

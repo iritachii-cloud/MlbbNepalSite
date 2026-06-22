@@ -15,13 +15,17 @@
       "resilience": 53,
       "mystery": 61
     },
-    "image": "../assets/npc/001_lillian_osborne/real.jpeg",
+    "image": "../assets/npc/001_lillian_osborne/animated.jpeg",
     "images": {
       "real": "../assets/npc/001_lillian_osborne/real.jpeg",
       "animated": "../assets/npc/001_lillian_osborne/animated.jpeg",
       "nineties": "../assets/npc/001_lillian_osborne/nineties.jpeg",
       "gallery": [
-        "../assets/npc/001_lillian_osborne/gallery1.jpeg"
+        "../assets/npc/001_lillian_osborne/gallery1.jpeg",
+        "../assets/npc/001_lillian_osborne/gallery2.jpeg",
+        "../assets/npc/001_lillian_osborne/gallery3.jpeg",
+        "../assets/npc/001_lillian_osborne/gallery4.jpeg",
+        "../assets/npc/001_lillian_osborne/gallery5.jpeg"
       ]
     },
     "category": "Scientist",
@@ -48,7 +52,7 @@
       "resilience": 62,
       "mystery": 78
     },
-    "image": "../assets/npc/002_duan_meng/real.jpeg",
+    "image": "../assets/npc/002_duan_meng/animated.jpeg",
     "images": {
       "real": "../assets/npc/002_duan_meng/real.jpeg",
       "animated": "../assets/npc/002_duan_meng/animated.jpeg",
@@ -82,7 +86,7 @@
       "resilience": 97,
       "mystery": 82
     },
-    "image": "../assets/npc/003_zhixu/real.jpeg",
+    "image": "../assets/npc/003_zhixu/animated.jpeg",
     "images": {
       "real": "../assets/npc/003_zhixu/real.jpeg",
       "animated": "../assets/npc/003_zhixu/animated.jpeg",
@@ -115,7 +119,7 @@
       "resilience": 40,
       "mystery": 65
     },
-    "image": "../assets/npc/004_beta/real.jpeg",
+    "image": "../assets/npc/004_beta/animated.jpeg",
     "images": {
       "real": "../assets/npc/004_beta/real.jpeg",
       "animated": "../assets/npc/004_beta/animated.jpeg",
@@ -149,7 +153,7 @@
       "resilience": 95,
       "mystery": 75
     },
-    "image": "../assets/npc/005_alpha_0/real.jpeg",
+    "image": "../assets/npc/005_alpha_0/animated.jpeg",
     "images": {
       "real": "../assets/npc/005_alpha_0/real.jpeg",
       "animated": "../assets/npc/005_alpha_0/animated.jpeg",
@@ -182,7 +186,7 @@
       "resilience": 88,
       "mystery": 72
     },
-    "image": "../assets/npc/006_dr_rooney/real.jpeg",
+    "image": "../assets/npc/006_dr_rooney/animated.jpeg",
     "images": {
       "real": "../assets/npc/006_dr_rooney/real.jpeg",
       "animated": "../assets/npc/006_dr_rooney/animated.jpeg",
@@ -217,7 +221,7 @@
       "resilience": 92,
       "mystery": 85
     },
-    "image": "../assets/npc/007_dr_baker/real.jpeg",
+    "image": "../assets/npc/007_dr_baker/animated.jpeg",
     "images": {
       "real": "../assets/npc/007_dr_baker/real.jpeg",
       "animated": "../assets/npc/007_dr_baker/animated.jpeg",
@@ -251,7 +255,7 @@
       "resilience": 90,
       "mystery": 80
     },
-    "image": "../assets/npc/008_dr_octavius/real.jpeg",
+    "image": "../assets/npc/008_dr_octavius/animated.jpeg",
     "images": {
       "real": "../assets/npc/008_dr_octavius/real.jpeg",
       "animated": "../assets/npc/008_dr_octavius/animated.jpeg",
@@ -285,7 +289,7 @@
       "resilience": 88,
       "mystery": 78
     },
-    "image": "../assets/npc/009_professor_giraad/real.jpeg",
+    "image": "../assets/npc/009_professor_giraad/animated.jpeg",
     "images": {
       "real": "../assets/npc/009_professor_giraad/real.jpeg",
       "animated": "../assets/npc/009_professor_giraad/animated.jpeg",
@@ -318,7 +322,7 @@
       "resilience": 95,
       "mystery": 70
     },
-    "image": "../assets/npc/010_emperor_gaius/real.jpeg",
+    "image": "../assets/npc/010_emperor_gaius/animated.jpeg",
     "images": {
       "real": "../assets/npc/010_emperor_gaius/real.jpeg",
       "animated": "../assets/npc/010_emperor_gaius/animated.jpeg",
@@ -352,7 +356,7 @@
       "resilience": 99,
       "mystery": 45
     },
-    "image": "../assets/npc/011_minister_gareth/real.jpeg",
+    "image": "../assets/npc/011_minister_gareth/animated.jpeg",
     "images": {
       "real": "../assets/npc/011_minister_gareth/real.jpeg",
       "animated": "../assets/npc/011_minister_gareth/animated.jpeg",
@@ -386,7 +390,7 @@
       "resilience": 87,
       "mystery": 75
     },
-    "image": "../assets/npc/012_duke_baroque/real.jpeg",
+    "image": "../assets/npc/012_duke_baroque/animated.jpeg",
     "images": {
       "real": "../assets/npc/012_duke_baroque/real.jpeg",
       "animated": "../assets/npc/012_duke_baroque/animated.jpeg",
@@ -420,7 +424,7 @@
       "resilience": 85,
       "mystery": 88
     },
-    "image": "../assets/npc/013_archduke_waldo_vance/real.jpeg",
+    "image": "../assets/npc/013_archduke_waldo_vance/animated.jpeg",
     "images": {
       "real": "../assets/npc/013_archduke_waldo_vance/real.jpeg",
       "animated": "../assets/npc/013_archduke_waldo_vance/animated.jpeg",
@@ -454,7 +458,7 @@
       "resilience": 100,
       "mystery": 99
     },
-    "image": "../assets/npc/014_chronos/real.jpeg",
+    "image": "../assets/npc/014_chronos/animated.jpeg",
     "images": {
       "real": "../assets/npc/014_chronos/real.jpeg",
       "animated": "../assets/npc/014_chronos/animated.jpeg",
@@ -487,7 +491,7 @@
       "resilience": 96,
       "mystery": 85
     },
-    "image": "../assets/npc/015_the_lord_of_light/real.jpeg",
+    "image": "../assets/npc/015_the_lord_of_light/animated.jpeg",
     "images": {
       "real": "../assets/npc/015_the_lord_of_light/real.jpeg",
       "animated": "../assets/npc/015_the_lord_of_light/animated.jpeg",
@@ -521,7 +525,7 @@
       "resilience": 94,
       "mystery": 97
     },
-    "image": "../assets/npc/016_the_lord_of_abyss/real.jpeg",
+    "image": "../assets/npc/016_the_lord_of_abyss/animated.jpeg",
     "images": {
       "real": "../assets/npc/016_the_lord_of_abyss/real.jpeg",
       "animated": "../assets/npc/016_the_lord_of_abyss/animated.jpeg",
@@ -554,7 +558,7 @@
       "resilience": 98,
       "mystery": 95
     },
-    "image": "../assets/npc/017_the_great_dragon/real.jpeg",
+    "image": "../assets/npc/017_the_great_dragon/animated.jpeg",
     "images": {
       "real": "../assets/npc/017_the_great_dragon/real.jpeg",
       "animated": "../assets/npc/017_the_great_dragon/animated.jpeg",
@@ -588,7 +592,7 @@
       "resilience": 95,
       "mystery": 99
     },
-    "image": "../assets/npc/018_the_ancient_ones/real.jpeg",
+    "image": "../assets/npc/018_the_ancient_ones/animated.jpeg",
     "images": {
       "real": "../assets/npc/018_the_ancient_ones/real.jpeg",
       "animated": "../assets/npc/018_the_ancient_ones/animated.jpeg",
@@ -621,7 +625,7 @@
       "resilience": 98,
       "mystery": 55
     },
-    "image": "../assets/npc/019_commander_arton/real.jpeg",
+    "image": "../assets/npc/019_commander_arton/animated.jpeg",
     "images": {
       "real": "../assets/npc/019_commander_arton/real.jpeg",
       "animated": "../assets/npc/019_commander_arton/animated.jpeg",
@@ -655,7 +659,7 @@
       "resilience": 96,
       "mystery": 80
     },
-    "image": "../assets/npc/020_the_high_priest_of_the_monastery/real.jpeg",
+    "image": "../assets/npc/020_the_high_priest_of_the_monastery/animated.jpeg",
     "images": {
       "real": "../assets/npc/020_the_high_priest_of_the_monastery/real.jpeg",
       "animated": "../assets/npc/020_the_high_priest_of_the_monastery/animated.jpeg",
@@ -689,7 +693,7 @@
       "resilience": 97,
       "mystery": 50
     },
-    "image": "../assets/npc/021_the_wildsand_clan_chief/real.jpeg",
+    "image": "../assets/npc/021_the_wildsand_clan_chief/animated.jpeg",
     "images": {
       "real": "../assets/npc/021_the_wildsand_clan_chief/real.jpeg",
       "animated": "../assets/npc/021_the_wildsand_clan_chief/animated.jpeg",
@@ -722,7 +726,7 @@
       "resilience": 88,
       "mystery": 85
     },
-    "image": "../assets/npc/022_waldo_kane/real.jpeg",
+    "image": "../assets/npc/022_waldo_kane/animated.jpeg",
     "images": {
       "real": "../assets/npc/022_waldo_kane/real.jpeg",
       "animated": "../assets/npc/022_waldo_kane/animated.jpeg",
@@ -755,7 +759,7 @@
       "resilience": 98,
       "mystery": 94
     },
-    "image": "../assets/npc/023_the_great_serpent/real.jpeg",
+    "image": "../assets/npc/023_the_great_serpent/animated.jpeg",
     "images": {
       "real": "../assets/npc/023_the_great_serpent/real.jpeg",
       "animated": "../assets/npc/023_the_great_serpent/animated.jpeg",
@@ -789,7 +793,7 @@
       "resilience": 96,
       "mystery": 85
     },
-    "image": "../assets/npc/024_master_longma/real.jpeg",
+    "image": "../assets/npc/024_master_longma/animated.jpeg",
     "images": {
       "real": "../assets/npc/024_master_longma/real.jpeg",
       "animated": "../assets/npc/024_master_longma/animated.jpeg",
@@ -823,7 +827,7 @@
       "resilience": 100,
       "mystery": 88
     },
-    "image": "../assets/npc/025_master_tobei/real.jpeg",
+    "image": "../assets/npc/025_master_tobei/animated.jpeg",
     "images": {
       "real": "../assets/npc/025_master_tobei/real.jpeg",
       "animated": "../assets/npc/025_master_tobei/animated.jpeg",
@@ -857,7 +861,7 @@
       "resilience": 100,
       "mystery": 93
     },
-    "image": "../assets/npc/026_elder_morn/real.jpeg",
+    "image": "../assets/npc/026_elder_morn/animated.jpeg",
     "images": {
       "real": "../assets/npc/026_elder_morn/real.jpeg",
       "animated": "../assets/npc/026_elder_morn/animated.jpeg",
@@ -891,7 +895,7 @@
       "resilience": 95,
       "mystery": 80
     },
-    "image": "../assets/npc/027_grandfather_thomas/real.jpeg",
+    "image": "../assets/npc/027_grandfather_thomas/animated.jpeg",
     "images": {
       "real": "../assets/npc/027_grandfather_thomas/real.jpeg",
       "animated": "../assets/npc/027_grandfather_thomas/animated.jpeg",
@@ -925,7 +929,7 @@
       "resilience": 88,
       "mystery": 96
     },
-    "image": "../assets/npc/028_zhuo_yan/real.jpeg",
+    "image": "../assets/npc/028_zhuo_yan/animated.jpeg",
     "images": {
       "real": "../assets/npc/028_zhuo_yan/real.jpeg",
       "animated": "../assets/npc/028_zhuo_yan/animated.jpeg",
@@ -959,7 +963,7 @@
       "resilience": 88,
       "mystery": 85
     },
-    "image": "../assets/npc/029_alistair_vane/real.jpeg",
+    "image": "../assets/npc/029_alistair_vane/animated.jpeg",
     "images": {
       "real": "../assets/npc/029_alistair_vane/real.jpeg",
       "animated": "../assets/npc/029_alistair_vane/animated.jpeg",
@@ -992,7 +996,7 @@
       "resilience": 92,
       "mystery": 60
     },
-    "image": "../assets/npc/030_aurelius_ii/real.jpeg",
+    "image": "../assets/npc/030_aurelius_ii/animated.jpeg",
     "images": {
       "real": "../assets/npc/030_aurelius_ii/real.jpeg",
       "animated": "../assets/npc/030_aurelius_ii/animated.jpeg",
@@ -1026,7 +1030,7 @@
       "resilience": 97,
       "mystery": 55
     },
-    "image": "../assets/npc/031_lord_gideon_vance/real.jpeg",
+    "image": "../assets/npc/031_lord_gideon_vance/animated.jpeg",
     "images": {
       "real": "../assets/npc/031_lord_gideon_vance/real.jpeg",
       "animated": "../assets/npc/031_lord_gideon_vance/animated.jpeg",
@@ -1059,7 +1063,7 @@
       "resilience": 95,
       "mystery": 97
     },
-    "image": "../assets/npc/032_empress_yueying/real.jpeg",
+    "image": "../assets/npc/032_empress_yueying/animated.jpeg",
     "images": {
       "real": "../assets/npc/032_empress_yueying/real.jpeg",
       "animated": "../assets/npc/032_empress_yueying/animated.jpeg",
@@ -1093,7 +1097,7 @@
       "resilience": 96,
       "mystery": 65
     },
-    "image": "../assets/npc/033_old_man_hennessey/real.jpeg",
+    "image": "../assets/npc/033_old_man_hennessey/animated.jpeg",
     "images": {
       "real": "../assets/npc/033_old_man_hennessey/real.jpeg",
       "animated": "../assets/npc/033_old_man_hennessey/animated.jpeg",
@@ -1127,7 +1131,7 @@
       "resilience": 99,
       "mystery": 70
     },
-    "image": "../assets/npc/034_sir_joseph/real.jpeg",
+    "image": "../assets/npc/034_sir_joseph/animated.jpeg",
     "images": {
       "real": "../assets/npc/034_sir_joseph/real.jpeg",
       "animated": "../assets/npc/034_sir_joseph/animated.jpeg",
@@ -1161,7 +1165,7 @@
       "resilience": 90,
       "mystery": 80
     },
-    "image": "../assets/npc/035_matriarch_eleanor_von_wertz/real.jpeg",
+    "image": "../assets/npc/035_matriarch_eleanor_von_wertz/animated.jpeg",
     "images": {
       "real": "../assets/npc/035_matriarch_eleanor_von_wertz/real.jpeg",
       "animated": "../assets/npc/035_matriarch_eleanor_von_wertz/animated.jpeg",
@@ -1194,7 +1198,7 @@
       "resilience": 100,
       "mystery": 92
     },
-    "image": "../assets/npc/036_xuanzang/real.jpeg",
+    "image": "../assets/npc/036_xuanzang/animated.jpeg",
     "images": {
       "real": "../assets/npc/036_xuanzang/real.jpeg",
       "animated": "../assets/npc/036_xuanzang/animated.jpeg",
@@ -1228,7 +1232,7 @@
       "resilience": 88,
       "mystery": 85
     },
-    "image": "../assets/npc/037_yu_huang/real.jpeg",
+    "image": "../assets/npc/037_yu_huang/animated.jpeg",
     "images": {
       "real": "../assets/npc/037_yu_huang/real.jpeg",
       "animated": "../assets/npc/037_yu_huang/animated.jpeg",
@@ -1261,7 +1265,7 @@
       "resilience": 75,
       "mystery": 65
     },
-    "image": "../assets/npc/038_liu/real.jpeg",
+    "image": "../assets/npc/038_liu/animated.jpeg",
     "images": {
       "real": "../assets/npc/038_liu/real.jpeg",
       "animated": "../assets/npc/038_liu/animated.jpeg",
@@ -1295,7 +1299,7 @@
       "resilience": 97,
       "mystery": 65
     },
-    "image": "../assets/npc/039_commander_alvaro_de_la_cruz/real.jpeg",
+    "image": "../assets/npc/039_commander_alvaro_de_la_cruz/animated.jpeg",
     "images": {
       "real": "../assets/npc/039_commander_alvaro_de_la_cruz/real.jpeg",
       "animated": "../assets/npc/039_commander_alvaro_de_la_cruz/animated.jpeg",
@@ -1329,7 +1333,7 @@
       "resilience": 94,
       "mystery": 75
     },
-    "image": "../assets/npc/040_bianca/real.jpeg",
+    "image": "../assets/npc/040_bianca/animated.jpeg",
     "images": {
       "real": "../assets/npc/040_bianca/real.jpeg",
       "animated": "../assets/npc/040_bianca/animated.jpeg",
@@ -1363,7 +1367,7 @@
       "resilience": 96,
       "mystery": 90
     },
-    "image": "../assets/npc/041_master_kaelen/real.jpeg",
+    "image": "../assets/npc/041_master_kaelen/animated.jpeg",
     "images": {
       "real": "../assets/npc/041_master_kaelen/real.jpeg",
       "animated": "../assets/npc/041_master_kaelen/animated.jpeg",
@@ -1397,7 +1401,7 @@
       "resilience": 88,
       "mystery": 85
     },
-    "image": "../assets/npc/042_duke_regulus_von_paxley/real.jpeg",
+    "image": "../assets/npc/042_duke_regulus_von_paxley/animated.jpeg",
     "images": {
       "real": "../assets/npc/042_duke_regulus_von_paxley/real.jpeg",
       "animated": "../assets/npc/042_duke_regulus_von_paxley/animated.jpeg",
@@ -1430,7 +1434,7 @@
       "resilience": 94,
       "mystery": 88
     },
-    "image": "../assets/npc/043_duchess_aurelia_von_paxley/real.jpeg",
+    "image": "../assets/npc/043_duchess_aurelia_von_paxley/animated.jpeg",
     "images": {
       "real": "../assets/npc/043_duchess_aurelia_von_paxley/real.jpeg",
       "animated": "../assets/npc/043_duchess_aurelia_von_paxley/animated.jpeg",
@@ -1463,7 +1467,7 @@
       "resilience": 98,
       "mystery": 90
     },
-    "image": "../assets/npc/044_elena/real.jpeg",
+    "image": "../assets/npc/044_elena/animated.jpeg",
     "images": {
       "real": "../assets/npc/044_elena/real.jpeg",
       "animated": "../assets/npc/044_elena/animated.jpeg",
@@ -1496,7 +1500,7 @@
       "resilience": 99,
       "mystery": 88
     },
-    "image": "../assets/npc/045_master_tien/real.jpeg",
+    "image": "../assets/npc/045_master_tien/animated.jpeg",
     "images": {
       "real": "../assets/npc/045_master_tien/real.jpeg",
       "animated": "../assets/npc/045_master_tien/animated.jpeg",
