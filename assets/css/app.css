@@ -369,6 +369,93 @@ img {
   animation: fade .25s ease;
 }
 
+.image-viewer {
+  position: fixed;
+  inset: 0;
+  z-index: 180;
+  display: none;
+  place-items: center;
+  padding: 82px 22px 26px;
+  background:
+    radial-gradient(circle at 20% 18%, color-mix(in srgb, var(--primary) 28%, transparent), transparent 34rem),
+    radial-gradient(circle at 82% 80%, color-mix(in srgb, var(--secondary) 24%, transparent), transparent 36rem),
+    rgba(3, 2, 8, .94);
+  backdrop-filter: blur(18px);
+}
+
+.image-viewer.show {
+  display: grid;
+  animation: fade .22s ease;
+}
+
+.image-viewer-top {
+  position: absolute;
+  inset: 18px 18px auto;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: var(--text);
+}
+
+.image-viewer-top h2 {
+  margin: 2px 0 0;
+  font: 800 clamp(1.1rem, 3vw, 2rem) "Oxanium";
+  text-transform: uppercase;
+}
+
+.image-viewer-top .status-pill {
+  margin-left: auto;
+  color: var(--accent);
+}
+
+.image-viewer-close,
+.image-viewer-nav {
+  border: 1px solid var(--line);
+  color: var(--text);
+  background: color-mix(in srgb, var(--surface-2) 86%, transparent);
+  box-shadow: 0 0 26px var(--glow);
+}
+
+.image-viewer-close {
+  width: 44px;
+  height: 44px;
+  font-size: 1.8rem;
+}
+
+.image-viewer-nav {
+  position: fixed;
+  top: 50%;
+  z-index: 3;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  font-size: 2.4rem;
+}
+
+.image-viewer-nav.prev {
+  left: 18px;
+}
+
+.image-viewer-nav.next {
+  right: 18px;
+}
+
+.image-viewer img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 26px 42px var(--glow));
+}
+
+.expandable-image {
+  cursor: zoom-in;
+}
+
+.image-viewer-open {
+  overflow: hidden;
+}
+
 .modal-card {
   width: min(560px, 100%);
   text-align: center;

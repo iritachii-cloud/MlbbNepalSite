@@ -148,7 +148,7 @@ body::after {
 }
 
 .npc-card:hover {
-    transform: translateY(-14px) rotateX(2deg);
+    /* transform: translateY(-14px) rotateX(2deg); */
     filter: drop-shadow(0 24px 28px var(--npc-glow));
 }
 
@@ -363,6 +363,7 @@ body::after {
     margin-top: 12px;
     overflow-x: auto;
     scrollbar-width: thin;
+    max-width: 300px;
 }
 
 .npc-image-tabs button {
@@ -575,6 +576,6 @@ body::after {
 
     .npc-nav {
         top: auto;
-        bottom: 16px;
+        bottom: 50px;
     }
 }

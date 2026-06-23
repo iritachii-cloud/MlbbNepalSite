@@ -19,7 +19,7 @@
     "images": {
       "real": "../assets/npc/001_lillian_osborne/real.jpeg",
       "animated": "../assets/npc/001_lillian_osborne/animated.jpeg",
-      "nineties": "../assets/npc/001_lillian_osborne/nineties.jpeg",
+      "90s": "../assets/npc/001_lillian_osborne/90s.jpeg",
       "gallery": [
         "../assets/npc/001_lillian_osborne/gallery1.jpeg",
         "../assets/npc/001_lillian_osborne/gallery2.jpeg",
@@ -56,7 +56,7 @@
     "images": {
       "real": "../assets/npc/002_duan_meng/real.jpeg",
       "animated": "../assets/npc/002_duan_meng/animated.jpeg",
-      "nineties": "../assets/npc/002_duan_meng/nineties.jpeg",
+      "90s": "../assets/npc/002_duan_meng/90s.jpeg",
       "gallery": [
         "../assets/npc/002_duan_meng/gallery1.jpeg"
       ]
@@ -90,7 +90,7 @@
     "images": {
       "real": "../assets/npc/003_zhixu/real.jpeg",
       "animated": "../assets/npc/003_zhixu/animated.jpeg",
-      "nineties": "../assets/npc/003_zhixu/nineties.jpeg",
+      "90s": "../assets/npc/003_zhixu/90s.jpeg",
       "gallery": [
         "../assets/npc/003_zhixu/gallery1.jpeg"
       ]
@@ -123,7 +123,7 @@
     "images": {
       "real": "../assets/npc/004_beta/real.jpeg",
       "animated": "../assets/npc/004_beta/animated.jpeg",
-      "nineties": "../assets/npc/004_beta/nineties.jpeg",
+      "90s": "../assets/npc/004_beta/90s.jpeg",
       "gallery": [
         "../assets/npc/004_beta/gallery1.jpeg"
       ]
@@ -157,7 +157,7 @@
     "images": {
       "real": "../assets/npc/005_alpha_0/real.jpeg",
       "animated": "../assets/npc/005_alpha_0/animated.jpeg",
-      "nineties": "../assets/npc/005_alpha_0/nineties.jpeg",
+      "90s": "../assets/npc/005_alpha_0/90s.jpeg",
       "gallery": [
         "../assets/npc/005_alpha_0/gallery1.jpeg"
       ]
@@ -190,7 +190,7 @@
     "images": {
       "real": "../assets/npc/006_dr_rooney/real.jpeg",
       "animated": "../assets/npc/006_dr_rooney/animated.jpeg",
-      "nineties": "../assets/npc/006_dr_rooney/nineties.jpeg",
+      "90s": "../assets/npc/006_dr_rooney/90s.jpeg",
       "gallery": [
         "../assets/npc/006_dr_rooney/gallery1.jpeg"
       ]
@@ -225,7 +225,7 @@
     "images": {
       "real": "../assets/npc/007_dr_baker/real.jpeg",
       "animated": "../assets/npc/007_dr_baker/animated.jpeg",
-      "nineties": "../assets/npc/007_dr_baker/nineties.jpeg",
+      "90s": "../assets/npc/007_dr_baker/90s.jpeg",
       "gallery": [
         "../assets/npc/007_dr_baker/gallery1.jpeg"
       ]
@@ -259,7 +259,7 @@
     "images": {
       "real": "../assets/npc/008_dr_octavius/real.jpeg",
       "animated": "../assets/npc/008_dr_octavius/animated.jpeg",
-      "nineties": "../assets/npc/008_dr_octavius/nineties.jpeg",
+      "90s": "../assets/npc/008_dr_octavius/90s.jpeg",
       "gallery": [
         "../assets/npc/008_dr_octavius/gallery1.jpeg"
       ]
@@ -293,7 +293,7 @@
     "images": {
       "real": "../assets/npc/009_professor_giraad/real.jpeg",
       "animated": "../assets/npc/009_professor_giraad/animated.jpeg",
-      "nineties": "../assets/npc/009_professor_giraad/nineties.jpeg",
+      "90s": "../assets/npc/009_professor_giraad/90s.jpeg",
       "gallery": [
         "../assets/npc/009_professor_giraad/gallery1.jpeg"
       ]
@@ -326,7 +326,7 @@
     "images": {
       "real": "../assets/npc/010_emperor_gaius/real.jpeg",
       "animated": "../assets/npc/010_emperor_gaius/animated.jpeg",
-      "nineties": "../assets/npc/010_emperor_gaius/nineties.jpeg",
+      "90s": "../assets/npc/010_emperor_gaius/90s.jpeg",
       "gallery": [
         "../assets/npc/010_emperor_gaius/gallery1.jpeg"
       ]
@@ -360,7 +360,7 @@
     "images": {
       "real": "../assets/npc/011_minister_gareth/real.jpeg",
       "animated": "../assets/npc/011_minister_gareth/animated.jpeg",
-      "nineties": "../assets/npc/011_minister_gareth/nineties.jpeg",
+      "90s": "../assets/npc/011_minister_gareth/90s.jpeg",
       "gallery": [
         "../assets/npc/011_minister_gareth/gallery1.jpeg"
       ]
@@ -394,7 +394,7 @@
     "images": {
       "real": "../assets/npc/012_duke_baroque/real.jpeg",
       "animated": "../assets/npc/012_duke_baroque/animated.jpeg",
-      "nineties": "../assets/npc/012_duke_baroque/nineties.jpeg",
+      "90s": "../assets/npc/012_duke_baroque/90s.jpeg",
       "gallery": [
         "../assets/npc/012_duke_baroque/gallery1.jpeg"
       ]
@@ -428,7 +428,7 @@
     "images": {
       "real": "../assets/npc/013_archduke_waldo_vance/real.jpeg",
       "animated": "../assets/npc/013_archduke_waldo_vance/animated.jpeg",
-      "nineties": "../assets/npc/013_archduke_waldo_vance/nineties.jpeg",
+      "90s": "../assets/npc/013_archduke_waldo_vance/90s.jpeg",
       "gallery": [
         "../assets/npc/013_archduke_waldo_vance/gallery1.jpeg"
       ]
@@ -462,7 +462,7 @@
     "images": {
       "real": "../assets/npc/014_chronos/real.jpeg",
       "animated": "../assets/npc/014_chronos/animated.jpeg",
-      "nineties": "../assets/npc/014_chronos/nineties.jpeg",
+      "90s": "../assets/npc/014_chronos/90s.jpeg",
       "gallery": [
         "../assets/npc/014_chronos/gallery1.jpeg"
       ]
@@ -495,7 +495,7 @@
     "images": {
       "real": "../assets/npc/015_the_lord_of_light/real.jpeg",
       "animated": "../assets/npc/015_the_lord_of_light/animated.jpeg",
-      "nineties": "../assets/npc/015_the_lord_of_light/nineties.jpeg",
+      "90s": "../assets/npc/015_the_lord_of_light/90s.jpeg",
       "gallery": [
         "../assets/npc/015_the_lord_of_light/gallery1.jpeg"
       ]
@@ -529,7 +529,7 @@
     "images": {
       "real": "../assets/npc/016_the_lord_of_abyss/real.jpeg",
       "animated": "../assets/npc/016_the_lord_of_abyss/animated.jpeg",
-      "nineties": "../assets/npc/016_the_lord_of_abyss/nineties.jpeg",
+      "90s": "../assets/npc/016_the_lord_of_abyss/90s.jpeg",
       "gallery": [
         "../assets/npc/016_the_lord_of_abyss/gallery1.jpeg"
       ]
@@ -562,7 +562,7 @@
     "images": {
       "real": "../assets/npc/017_the_great_dragon/real.jpeg",
       "animated": "../assets/npc/017_the_great_dragon/animated.jpeg",
-      "nineties": "../assets/npc/017_the_great_dragon/nineties.jpeg",
+      "90s": "../assets/npc/017_the_great_dragon/90s.jpeg",
       "gallery": [
         "../assets/npc/017_the_great_dragon/gallery1.jpeg"
       ]
@@ -596,7 +596,7 @@
     "images": {
       "real": "../assets/npc/018_the_ancient_ones/real.jpeg",
       "animated": "../assets/npc/018_the_ancient_ones/animated.jpeg",
-      "nineties": "../assets/npc/018_the_ancient_ones/nineties.jpeg",
+      "90s": "../assets/npc/018_the_ancient_ones/90s.jpeg",
       "gallery": [
         "../assets/npc/018_the_ancient_ones/gallery1.jpeg"
       ]
@@ -629,7 +629,7 @@
     "images": {
       "real": "../assets/npc/019_commander_arton/real.jpeg",
       "animated": "../assets/npc/019_commander_arton/animated.jpeg",
-      "nineties": "../assets/npc/019_commander_arton/nineties.jpeg",
+      "90s": "../assets/npc/019_commander_arton/90s.jpeg",
       "gallery": [
         "../assets/npc/019_commander_arton/gallery1.jpeg"
       ]
@@ -663,7 +663,7 @@
     "images": {
       "real": "../assets/npc/020_the_high_priest_of_the_monastery/real.jpeg",
       "animated": "../assets/npc/020_the_high_priest_of_the_monastery/animated.jpeg",
-      "nineties": "../assets/npc/020_the_high_priest_of_the_monastery/nineties.jpeg",
+      "90s": "../assets/npc/020_the_high_priest_of_the_monastery/90s.jpeg",
       "gallery": [
         "../assets/npc/020_the_high_priest_of_the_monastery/gallery1.jpeg"
       ]
@@ -697,7 +697,7 @@
     "images": {
       "real": "../assets/npc/021_the_wildsand_clan_chief/real.jpeg",
       "animated": "../assets/npc/021_the_wildsand_clan_chief/animated.jpeg",
-      "nineties": "../assets/npc/021_the_wildsand_clan_chief/nineties.jpeg",
+      "90s": "../assets/npc/021_the_wildsand_clan_chief/90s.jpeg",
       "gallery": [
         "../assets/npc/021_the_wildsand_clan_chief/gallery1.jpeg"
       ]
@@ -730,7 +730,7 @@
     "images": {
       "real": "../assets/npc/022_waldo_kane/real.jpeg",
       "animated": "../assets/npc/022_waldo_kane/animated.jpeg",
-      "nineties": "../assets/npc/022_waldo_kane/nineties.jpeg",
+      "90s": "../assets/npc/022_waldo_kane/90s.jpeg",
       "gallery": [
         "../assets/npc/022_waldo_kane/gallery1.jpeg"
       ]
@@ -763,7 +763,7 @@
     "images": {
       "real": "../assets/npc/023_the_great_serpent/real.jpeg",
       "animated": "../assets/npc/023_the_great_serpent/animated.jpeg",
-      "nineties": "../assets/npc/023_the_great_serpent/nineties.jpeg",
+      "90s": "../assets/npc/023_the_great_serpent/90s.jpeg",
       "gallery": [
         "../assets/npc/023_the_great_serpent/gallery1.jpeg"
       ]
@@ -797,7 +797,7 @@
     "images": {
       "real": "../assets/npc/024_master_longma/real.jpeg",
       "animated": "../assets/npc/024_master_longma/animated.jpeg",
-      "nineties": "../assets/npc/024_master_longma/nineties.jpeg",
+      "90s": "../assets/npc/024_master_longma/90s.jpeg",
       "gallery": [
         "../assets/npc/024_master_longma/gallery1.jpeg"
       ]
@@ -831,7 +831,7 @@
     "images": {
       "real": "../assets/npc/025_master_tobei/real.jpeg",
       "animated": "../assets/npc/025_master_tobei/animated.jpeg",
-      "nineties": "../assets/npc/025_master_tobei/nineties.jpeg",
+      "90s": "../assets/npc/025_master_tobei/90s.jpeg",
       "gallery": [
         "../assets/npc/025_master_tobei/gallery1.jpeg"
       ]
@@ -865,7 +865,7 @@
     "images": {
       "real": "../assets/npc/026_elder_morn/real.jpeg",
       "animated": "../assets/npc/026_elder_morn/animated.jpeg",
-      "nineties": "../assets/npc/026_elder_morn/nineties.jpeg",
+      "90s": "../assets/npc/026_elder_morn/90s.jpeg",
       "gallery": [
         "../assets/npc/026_elder_morn/gallery1.jpeg"
       ]
@@ -899,7 +899,7 @@
     "images": {
       "real": "../assets/npc/027_grandfather_thomas/real.jpeg",
       "animated": "../assets/npc/027_grandfather_thomas/animated.jpeg",
-      "nineties": "../assets/npc/027_grandfather_thomas/nineties.jpeg",
+      "90s": "../assets/npc/027_grandfather_thomas/90s.jpeg",
       "gallery": [
         "../assets/npc/027_grandfather_thomas/gallery1.jpeg"
       ]
@@ -933,7 +933,7 @@
     "images": {
       "real": "../assets/npc/028_zhuo_yan/real.jpeg",
       "animated": "../assets/npc/028_zhuo_yan/animated.jpeg",
-      "nineties": "../assets/npc/028_zhuo_yan/nineties.jpeg",
+      "90s": "../assets/npc/028_zhuo_yan/90s.jpeg",
       "gallery": [
         "../assets/npc/028_zhuo_yan/gallery1.jpeg"
       ]
@@ -967,7 +967,7 @@
     "images": {
       "real": "../assets/npc/029_alistair_vane/real.jpeg",
       "animated": "../assets/npc/029_alistair_vane/animated.jpeg",
-      "nineties": "../assets/npc/029_alistair_vane/nineties.jpeg",
+      "90s": "../assets/npc/029_alistair_vane/90s.jpeg",
       "gallery": [
         "../assets/npc/029_alistair_vane/gallery1.jpeg"
       ]
@@ -1000,7 +1000,7 @@
     "images": {
       "real": "../assets/npc/030_aurelius_ii/real.jpeg",
       "animated": "../assets/npc/030_aurelius_ii/animated.jpeg",
-      "nineties": "../assets/npc/030_aurelius_ii/nineties.jpeg",
+      "90s": "../assets/npc/030_aurelius_ii/90s.jpeg",
       "gallery": [
         "../assets/npc/030_aurelius_ii/gallery1.jpeg"
       ]
@@ -1034,7 +1034,7 @@
     "images": {
       "real": "../assets/npc/031_lord_gideon_vance/real.jpeg",
       "animated": "../assets/npc/031_lord_gideon_vance/animated.jpeg",
-      "nineties": "../assets/npc/031_lord_gideon_vance/nineties.jpeg",
+      "90s": "../assets/npc/031_lord_gideon_vance/90s.jpeg",
       "gallery": [
         "../assets/npc/031_lord_gideon_vance/gallery1.jpeg"
       ]
@@ -1067,7 +1067,7 @@
     "images": {
       "real": "../assets/npc/032_empress_yueying/real.jpeg",
       "animated": "../assets/npc/032_empress_yueying/animated.jpeg",
-      "nineties": "../assets/npc/032_empress_yueying/nineties.jpeg",
+      "90s": "../assets/npc/032_empress_yueying/90s.jpeg",
       "gallery": [
         "../assets/npc/032_empress_yueying/gallery1.jpeg"
       ]
@@ -1101,7 +1101,7 @@
     "images": {
       "real": "../assets/npc/033_old_man_hennessey/real.jpeg",
       "animated": "../assets/npc/033_old_man_hennessey/animated.jpeg",
-      "nineties": "../assets/npc/033_old_man_hennessey/nineties.jpeg",
+      "90s": "../assets/npc/033_old_man_hennessey/90s.jpeg",
       "gallery": [
         "../assets/npc/033_old_man_hennessey/gallery1.jpeg"
       ]
@@ -1135,7 +1135,7 @@
     "images": {
       "real": "../assets/npc/034_sir_joseph/real.jpeg",
       "animated": "../assets/npc/034_sir_joseph/animated.jpeg",
-      "nineties": "../assets/npc/034_sir_joseph/nineties.jpeg",
+      "90s": "../assets/npc/034_sir_joseph/90s.jpeg",
       "gallery": [
         "../assets/npc/034_sir_joseph/gallery1.jpeg"
       ]
@@ -1169,7 +1169,7 @@
     "images": {
       "real": "../assets/npc/035_matriarch_eleanor_von_wertz/real.jpeg",
       "animated": "../assets/npc/035_matriarch_eleanor_von_wertz/animated.jpeg",
-      "nineties": "../assets/npc/035_matriarch_eleanor_von_wertz/nineties.jpeg",
+      "90s": "../assets/npc/035_matriarch_eleanor_von_wertz/90s.jpeg",
       "gallery": [
         "../assets/npc/035_matriarch_eleanor_von_wertz/gallery1.jpeg"
       ]
@@ -1202,7 +1202,7 @@
     "images": {
       "real": "../assets/npc/036_xuanzang/real.jpeg",
       "animated": "../assets/npc/036_xuanzang/animated.jpeg",
-      "nineties": "../assets/npc/036_xuanzang/nineties.jpeg",
+      "90s": "../assets/npc/036_xuanzang/90s.jpeg",
       "gallery": [
         "../assets/npc/036_xuanzang/gallery1.jpeg"
       ]
@@ -1236,7 +1236,7 @@
     "images": {
       "real": "../assets/npc/037_yu_huang/real.jpeg",
       "animated": "../assets/npc/037_yu_huang/animated.jpeg",
-      "nineties": "../assets/npc/037_yu_huang/nineties.jpeg",
+      "90s": "../assets/npc/037_yu_huang/90s.jpeg",
       "gallery": [
         "../assets/npc/037_yu_huang/gallery1.jpeg"
       ]
@@ -1269,7 +1269,7 @@
     "images": {
       "real": "../assets/npc/038_liu/real.jpeg",
       "animated": "../assets/npc/038_liu/animated.jpeg",
-      "nineties": "../assets/npc/038_liu/nineties.jpeg",
+      "90s": "../assets/npc/038_liu/90s.jpeg",
       "gallery": [
         "../assets/npc/038_liu/gallery1.jpeg"
       ]
@@ -1303,7 +1303,7 @@
     "images": {
       "real": "../assets/npc/039_commander_alvaro_de_la_cruz/real.jpeg",
       "animated": "../assets/npc/039_commander_alvaro_de_la_cruz/animated.jpeg",
-      "nineties": "../assets/npc/039_commander_alvaro_de_la_cruz/nineties.jpeg",
+      "90s": "../assets/npc/039_commander_alvaro_de_la_cruz/90s.jpeg",
       "gallery": [
         "../assets/npc/039_commander_alvaro_de_la_cruz/gallery1.jpeg"
       ]
@@ -1337,7 +1337,7 @@
     "images": {
       "real": "../assets/npc/040_bianca/real.jpeg",
       "animated": "../assets/npc/040_bianca/animated.jpeg",
-      "nineties": "../assets/npc/040_bianca/nineties.jpeg",
+      "90s": "../assets/npc/040_bianca/90s.jpeg",
       "gallery": [
         "../assets/npc/040_bianca/gallery1.jpeg"
       ]
@@ -1371,7 +1371,7 @@
     "images": {
       "real": "../assets/npc/041_master_kaelen/real.jpeg",
       "animated": "../assets/npc/041_master_kaelen/animated.jpeg",
-      "nineties": "../assets/npc/041_master_kaelen/nineties.jpeg",
+      "90s": "../assets/npc/041_master_kaelen/90s.jpeg",
       "gallery": [
         "../assets/npc/041_master_kaelen/gallery1.jpeg"
       ]
@@ -1405,7 +1405,7 @@
     "images": {
       "real": "../assets/npc/042_duke_regulus_von_paxley/real.jpeg",
       "animated": "../assets/npc/042_duke_regulus_von_paxley/animated.jpeg",
-      "nineties": "../assets/npc/042_duke_regulus_von_paxley/nineties.jpeg",
+      "90s": "../assets/npc/042_duke_regulus_von_paxley/90s.jpeg",
       "gallery": [
         "../assets/npc/042_duke_regulus_von_paxley/gallery1.jpeg"
       ]
@@ -1438,7 +1438,7 @@
     "images": {
       "real": "../assets/npc/043_duchess_aurelia_von_paxley/real.jpeg",
       "animated": "../assets/npc/043_duchess_aurelia_von_paxley/animated.jpeg",
-      "nineties": "../assets/npc/043_duchess_aurelia_von_paxley/nineties.jpeg",
+      "90s": "../assets/npc/043_duchess_aurelia_von_paxley/90s.jpeg",
       "gallery": [
         "../assets/npc/043_duchess_aurelia_von_paxley/gallery1.jpeg"
       ]
@@ -1471,7 +1471,7 @@
     "images": {
       "real": "../assets/npc/044_elena/real.jpeg",
       "animated": "../assets/npc/044_elena/animated.jpeg",
-      "nineties": "../assets/npc/044_elena/nineties.jpeg",
+      "90s": "../assets/npc/044_elena/90s.jpeg",
       "gallery": [
         "../assets/npc/044_elena/gallery1.jpeg"
       ]
@@ -1504,7 +1504,7 @@
     "images": {
       "real": "../assets/npc/045_master_tien/real.jpeg",
       "animated": "../assets/npc/045_master_tien/animated.jpeg",
-      "nineties": "../assets/npc/045_master_tien/nineties.jpeg",
+      "90s": "../assets/npc/045_master_tien/90s.jpeg",
       "gallery": [
         "../assets/npc/045_master_tien/gallery1.jpeg"
       ]
@@ -1516,6 +1516,345 @@
     "affiliations": [
       "Cadia Riverlands (hidden temples)",
       "Chou (student)"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Captain Voss",
+    "title": "The Shield of Dawnrise",
+    "summary": "Supreme commander of Fort Dawnrise and the legendary architect of Moniyan's border walls, Captain Voss transformed raw conscripts into the elite vanguard units that hold back the Abyss. He personally oversaw the grueling training of the Lightborn Squad, forging them into a collective wall of human resolve. He is a living fortress—completely immune to displacement and wielding the Dawnrise Aegis Great-Mace.",
+    "details": "Voss is a brick-house commander who views a fortress not as stone but as human resolve. He bypassed imperial bureaucracy to turn Fort Dawnrise into a cutting-edge training facility. He is despised by politicians for redirecting gold from noble galas to rations and plating for grunts. His Lightborn Bastion aura creates geometric barriers that absorb leviathan charges and convert kinetic shockwaves into temporary shields.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 9.0,
+    "stats": {
+      "power": 96,
+      "intellect": 84,
+      "combat": 95,
+      "influence": 90,
+      "resilience": 100,
+      "mystery": 50
+    },
+    "image": "../assets/npc/captain_voss.jpeg",
+    "images": {
+      "real": "../assets/npc/046_captain_voss/real.jpeg",
+      "animated": "../assets/npc/046_captain_voss/animated.jpeg",
+      "90s": "../assets/npc/046_captain_voss/90s.jpeg",
+      "gallery": [
+        "../assets/npc/046_captain_voss/gallery1.jpeg"
+      ]
+    },
+    "category": "Warrior",
+    "appearance": "custom-crafted Vanguard Sallet Helmet of polished high-grade Moniyan silver-steel with sloping swept-back neck guard and thick reinforced golden brow-band etched with geometric defensive runes of Fort Dawnrise, dark translucent T-shaped visor slit, hidden short-cropped steel-grey hair shaved closely at sides and back, stern ruggedly chiseled block of uncompromising military discipline, exceptionally wide square granite-like jawline, prominent straight nose, high rigid cheekbones, ruddy sun-baked heavily battle-worn Caucasian complexion with shrapnel scars along jawline and distinct vertical notch on right earlobe, sharp calculating intensely focused deep solid iron-blue eyes set beneath thick permanently furrowed dark brows, colossal multi-layered high-density silver-steel breastplate sculpted to accentuate massive chest with prominent vertical ridge, brilliant polished golden crest of Moniyan Order of Light at collarbone securing heavy deep navy-blue shoulder mantle, dramatic flared metallic pauldrons sweeping upward like defensive shields, left pauldron reinforced with three horizontal steel blades, articulated silver vambraces and gauntlets with heavy golden trim along knuckles, exceptionally wide multi-buckled dark leather utility belt with oversized heavy silver roaring lion's head buckle and articulated metal tassets draping diagonally to shield outer thighs, long split-front dark indigo linen combat surcoat bordered with thick gold embroidery of stylized sunbursts, sleek form-fitting charcoal-grey trousers beneath, massive knee-high black-iron greaves with shimmering silver highlights at shins and heavily reinforced diamond-shaped steel caps at toes.",
+    "weaponPower": "Dawnrise Aegis Great-Mace, 140 cm two-handed, solid unyielding reinforced black-iron shaft wrapped in cross-stitched dark brown leather, heavy blunt silver pommel, massive multi-tiered silver-steel head shaped as fortress tower with central pulsating core of pure translucent gold crystal glowing with sacred light magic, slamming pommel into earth expands geometric protective barriers that absorb full momentum of abyssal leviathans. Aura: lightborn bastion, suffocating dense visible distortion of golden-white defensive energy fields rippling tightly along silhouette like translucent shield dome, smells of ozone hot iron and polished stone.",
+    "biography": "Captain Voss is the Shield of Dawnrise, the legendary brick-house architect of Moniyan's defensive vanguard. While high-born politicians debate military spending from silk-lined tents, Voss rules Fort Dawnrise from the exact center of the shield wall. Standing at a massive 192 cm, Voss is a walking fortress of battle-tested muscle, his granite jawline and iron-blue eyes hardened by decades of front-line siege warfare. When modern Abyssal factions began devastating incursions, the imperial bureaucracy froze. Voss bypassed the capital's red tape, turning his fortress into a cutting-edge training facility. He personally oversaw the grueling foundational preparation of the iconic Lightborn Squad, breaking down their individual arrogance and forging them into a collective wall of human resolve. The politicians hate him because he despises court etiquette and redirects gold from noble galas to heavier rations and thicker plating for his front-line grunts. Voss doesn't care; his loyalty is strictly to the preservation of the Light and the survival of the men standing next to him in the mud. He is the scarred monument of resilience, the living wall. Every time Tigreal raises his shield or Alucard rallies from a devastating blow, they are channeling the uncompromising military survival doctrine that Voss pounded into them on the bloody battlements of Fort Dawnrise.",
+    "affiliations": [
+      "Moniyan Empire",
+      "Fort Dawnrise"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "General Marcus",
+    "title": "The Sovereign Voice of Moniyan",
+    "summary": "The brilliant, calculating mastermind behind the Lightborn Squad, General Marcus serves as Supreme Commander of the Southern Imperial Armies and a leading voice on the Emperor's High Council. He used his immense political leverage to push through the controversial decree that formed the elite squad, personally selected Captain Voss to oversee their training, and shielded the project from political assassination. He is the silver-haired orchestrator who rules from the shadows of governance.",
+    "details": "Marcus is a patrician commander who fights with ink, gold, and razor-sharp decree. His Grand Arbiter Rapier is engraved with the sacred text of the empire's founding laws. His Radiance of Command aura fills allies with unyielding courage while forcing enemies to falter under psychological pressure. His gold spurs click in rhythm, sending out kinetic shockwaves that cleanse crowd-control effects.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.8,
+    "stats": {
+      "power": 79,
+      "intellect": 98,
+      "combat": 82,
+      "influence": 97,
+      "resilience": 86,
+      "mystery": 75
+    },
+    "image": "../assets/npc/general_marcus.jpeg",
+    "images": {
+      "real": "../assets/npc/047_general_marcus/real.jpeg",
+      "animated": "../assets/npc/047_general_marcus/animated.jpeg",
+      "90s": "../assets/npc/047_general_marcus/90s.jpeg",
+      "gallery": [
+        "../assets/npc/047_general_marcus/gallery1.jpeg"
+      ]
+    },
+    "category": "Ruler",
+    "appearance": "custom-tailored Imperial Bicorne Hat of rigid midnight-blue velvet with sweeping upward-curved brim trimmed in thick intricately braided Moniyan gold bullion, polished platinum Imperial Crest at center anchoring flowing pristine white ostrich plume cascading toward left shoulder, thick meticulously styled brilliant silver-white hair swept back flawlessly from forehead into layered clean waves ending above collar, sharp impeccably chiseled aristocratic face, prominent high-bridged Roman nose, deeply defined cheekbones, exceptionally razor-sharp angular jawline tapering to strong unwavering chin, refined pale ivory complexion with faint distinguished lines around brow and solitary thin horizontal scar across left cheekbone (cavalry souvenir), striking intensely piercing cold brilliant amber-gold eyes, thin perpetually arched eyebrows, asymmetrical high-collared Great-Marshal doublet of exceptionally dense dark navy-blue ceremonial wool fastening diagonally with polished gold roaring lion buttons, right chest adorned with glittering collection of imperial medals enameled crosses and silk ribbons, thick heavy aiguillette of twisted gold cord looping beneath right arm, massive rigid gold-plated epaulets with thick hanging bullion fringe, tailored navy sleeves ending in wide stiff white cuffs embroidered with golden laurel leaves, pristine supple white leather dress gloves with neatly stitched seams, wide brilliant crimson silk sash draping diagonally from right shoulder to left hip, heavy double-buckled polished black leather belt stamped with imperial runes holding small gilded ammunition and scroll pouches, tailored crisp white riding breeches of reinforced elastex fabric, knee-high mirror-polished black leather riding boots with stiff extended knee-guard, turned down rims in rich tan leather held by gold-plated buckles, small beautifully filigreed gold spurs.",
+    "weaponPower": "Grand Arbiter Rapier, 115 cm, complex sweeping basket-guard of polished brass and platinum sculpted into unfurled imperial eagle wings wrapping around wire-bound grip, incredibly slender double-edged high-tensile Moniyan steel blade deeply etched with sacred text of empire's founding laws. Aura: radiance of command, sharp shimmering crown of white-gold light hovering behind shoulders like stylized sunburst halo, smells of old parchment metallic polish and expensive cologne, heavy paralyzing psychological pressure filling allies with unyielding courage and forcing enemies to falter, gold spurs clicking rhythmically send kinetic shockwaves cleansing crowd-control.",
+    "biography": "General Marcus is the Sovereign Voice of Moniyan, the silver-haired, cold-eyed orchestrator who commands the Southern Imperial Armies and stands as the true political architect behind the Lightborn vanguard. While short-sighted nobles preached isolationism, Marcus's piercing amber-gold eyes saw the grim reality: traditional strategies would crumble against the adaptive tactics of the Abyss. Bypassing stagnant bureaucracy, he utilized his immense family wealth, generational leverage, and cutting rhetoric to forcefully pass the controversial decree that birthed the elite Lightborn Squad. He personally appointed Captain Voss to run the meat-grinder training facilities at Fort Dawnrise, funneling the finest resources of the empire to the project while keeping the capital's political vultures at bay. He is a calculated statesman who willingly operates from the shadows of governance, letting his legendary heroes take the public glory so long as the empire survives. He plays the dangerous game of court politics so his soldiers don't have to. Every time Fanny swings through the battlefield or Granger fires a perfectly coordinated tactical round, they are moving across a grand chessboard that General Marcus masterfully laid out from the high balconies of Moniyan governance.",
+    "affiliations": [
+      "Moniyan Empire",
+      "Imperial High Council"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Archbishop Valerius",
+    "title": "The Hand of Sacred Providence",
+    "summary": "The premier ecclesiastical representative of the Church of Light on the Imperial High Council, Archbishop Valerius commands a vast network of wealth, agricultural tithes, and monastic labor that forms the backbone of Moniyan's defensive lines. He recognized that the Lightborn Squad would perish without the Church's treasury, so he authorized the massive transfer of sacred silver, enchanted rations, and clerical medics to Fort Dawnrise. He views logistics as the highest form of prayer.",
+    "details": "Valerius is a master strategist who believes every bag of grain sent to the front is a prayer that keeps the Abyss at bay. His Sovereign Decree Crosier carries a floating amethyst crystal that projects waves of violet light—soothing allies and injecting crushing religious guilt into enemies. His Divine Providence aura creates a multi-layered amethyst halo that suppresses evil. He glides across floors with eerie, weightless grace.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.7,
+    "stats": {
+      "power": 84,
+      "intellect": 96,
+      "combat": 68,
+      "influence": 95,
+      "resilience": 92,
+      "mystery": 88
+    },
+    "image": "../assets/npc/archbishop_valerius.jpeg",
+    "images": {
+      "real": "../assets/npc/048_archbishop_valerius/real.jpeg",
+      "animated": "../assets/npc/048_archbishop_valerius/animated.jpeg",
+      "90s": "../assets/npc/048_archbishop_valerius/90s.jpeg",
+      "gallery": [
+        "../assets/npc/048_archbishop_valerius/gallery1.jpeg"
+      ]
+    },
+    "category": "Religious Leader",
+    "appearance": "majestic custom-crafted Pontifical Mitre of finest ivory silk damask with two stiff tall panels tapering to sharp skyward-pointing apex, front encrusted with intricate geometric polished Moniyan gold filigree anchoring brilliant diamond-shaped sapphire, two long matching silk lappets with gold-fringed edges draping past ears over shoulder blades, hair entirely hidden beneath, elongated highly refined oval face as serene and unmoving as white marble, sharp straight slender nose, high subtle cheekbones, narrow clean-shaven jawline sloping to elegant chin, pristine almost translucent alabaster skin radiating soft pale luminescence, wide deeply set perfectly symmetrical almond-shaped striking intensely vivid amethyst-violet eyes gleaming with chillingly brilliant intelligence and absolute moral certainty, high-collared form-fitting deep midnight-blue velvet cassock, sweeping pristine white silk surplice embroidered with heavy golden thread along hemline, rigid flared ecclesiastical cope of shimmering ivory cloth-of-gold over shoulders fastening at collarbone with massive interlocking golden medallion depicting multi-pointed star of Church of Light, long slender arms in wide flowing bell-sleeves, tight ceremonial white silk gloves embroidered with gold cross on back of each hand, exceptionally long heavy silk stole of rich crimson-red bordered with thick gold bullion fringe forming sacred geometric crests slicing vertically down center of torso, sweeping floor-length liturgical alb in flawless heavy pleats of white linen pooling slightly around ankles, elegant low-heeled dark indigo leather ceremonial slippers with soft velvet finish and subtle gold embroidery along toe box.",
+    "weaponPower": "Sovereign Decree Crosier, 210 cm two-handed staff, shaft of single piece of petrified white-oak wrapped in spirals of polished gold wire, weighted golden base, apex of oversized golden shepherd's crook looping into stylized crescent wave fully encasing massive raw-cut amethyst crystal floating effortlessly without physical support. Aura: divine providence, rotating geometric ring of amethyst-colored glyphs and golden light rays floating horizontally behind head like ancient multi-layered halo, smells of burning frankincense expensive myrrh and cold sanctuary stone, silent pulsating waves of violet light ripple when base rests on floor, soothes allies instantly restoring mana and healing minor wounds while injecting crushing religious guilt into enemies, heavily penalizing their movement and dropping magic resistance to near zero.",
+    "biography": "Archbishop Valerius is the Hand of Sacred Providence, the premier ecclesiastical representative of the Church of Light on the Imperial High Council. Standing at a mathematically precise 186 cm, his translucent alabaster skin and intensely vivid amethyst-violet eyes radiate an all-knowing, unshakeable moral certainty. While conservative priests argued that the Church's vast wealth should remain locked behind temple walls, Valerius understood a fundamental truth: the Lord of Light cannot be worshipped if the worshippers are entirely eaten by the Abyss. When General Marcus brought the blueprint for the elite Lightborn Squad, Valerius didn't hesitate. He weaponized the Church's unmatched network of agricultural tithes, monastic labor, and sacred silver, completely overriding internal complaints. He didn't just fund a squad; he practically engineered an unassailable bastion of divine preparation at Fort Dawnrise. To Valerius, a ledger full of grain shipments to the front lines is just as deadly to a demon as a well-aimed sword. He is the immaculate vessel, the holy engine who ensures that faith without food does not starve. Every time Tigreal or Alucard access the boundless holy powers of their gear, or Fanny relies on the perfectly reinforced structure of her equipment, they are pulling from the bottomless well of imperial resources that Valerius masterfully rerouted from the shadows of the High Council Cathedral.",
+    "affiliations": [
+      "Church of Light",
+      "Moniyan High Council"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Lady Seraphina",
+    "title": "The Shadow Sovereign of Moniyan",
+    "summary": "The Grand Spymistress of the Moniyan Empire, Lady Seraphina is the supreme, unyielding shield that protects the empire from internal decay. When corrupt noble factions plotted to assassinate the newly formed Lightborn Squad, Seraphina used her vast invisible network of informants, assassins, and shadows to systematically dismantle the opposition through perfectly timed blackmails, discrete exiles, and silent midnight executions. She is the emerald-eyed puppeteer who rules the light by absolute mastery over the dark.",
+    "details": "Seraphina is a master of hiding in plain sight—a porcelain-faced socialite who can execute a flawless midnight kill. Her Whispering Eclipse Fan is a combat fan with razor-sharp silver-titanium ribs and hidden neurotoxins. Her Absolute Secrecy aura blurs her outline, blinds enemy mini-maps, and creates phantom clones. She moves with zero physical presence, immune to tracking skills.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.9,
+    "stats": {
+      "power": 76,
+      "intellect": 99,
+      "combat": 88,
+      "influence": 96,
+      "resilience": 84,
+      "mystery": 95
+    },
+    "image": "../assets/npc/lady_seraphina.jpeg",
+    "images": {
+      "real": "../assets/npc/049_lady_seraphina/real.jpeg",
+      "animated": "../assets/npc/049_lady_seraphina/animated.jpeg",
+      "90s": "../assets/npc/049_lady_seraphina/90s.jpeg",
+      "gallery": [
+        "../assets/npc/047_lady_seraphina/gallery1.jpeg"
+      ]
+    },
+    "category": "Spy",
+    "appearance": "exquisite custom-crafted wide-brimmed midnight-blue silk velvet dress hat tilted elegantly over right eye, lined with shimmering silver thread, fine translucent dark gossamer silk facet veil draped from brim falling just past nose casting shifting shadow over eyes, luxurious cascading deep obsidian-black hair in soft glossy curls around shoulders and down back, few meticulously styled strands framing porcelain cheekbones, breathtakingly sharp heart-shaped face, delicate slightly upturned nose, high pronounced cheekbones, impeccably chiseled slender jawline tapering to soft firm chin, immaculate smooth porcelain complexion with faint dark beauty mark beneath left eye, large almond-shaped deep intensely glowing emerald-green eyes gleaming with calculating all-knowing intelligence and hint of playful malice, thick midnight-black eyelashes, asymmetrical high-collared tailored bodice of dense dark navy-blue and charcoal-toned damask silk fastening down spine with hidden silver hooks, reinforced polished obsidian leather corset accentuating lean waist, small structured silver-plated raven-wing epaulets, short translucent chiffon capelet hanging down back, long slender arms in matching navy-blue sleeves tapering to fingerless supple midnight-black leather gloves leaving fingertips exposed, small silver throwing daggers strapped along inner forearms, heavy beautifully filigreed silver belt with small sapphire gems at hip holding concealed velvet pouch for scrolls poisons and cipher tools, dramatic asymmetrical dual-layered gown: outer heavy dark indigo silk skirt split completely up left thigh, structured form-fitting reinforced black leather mesh underskirt, hemline intricately embroidered with silver thorned vine patterns, knee-high mirror-polished black leather boots with slender sturdy heel, delicate silver buckles tracing up calves, specialized soft-leather soles for absolute silence.",
+    "weaponPower": "Whispering Eclipse Fan, 35 cm radius when fully unfurled, ribs of incredibly lightweight high-tensile silver-titanium alloy with each tip tapering into razor-sharp crescent blade, fabric of dark midnight-blue ballistic silk painted with silver solar eclipse motif, hidden micro-grooves containing localized fast-acting neurotoxins. Aura: absolute secrecy, faint shimmering haze of smoky violet and silver light clinging to silhouette making outlines subtly blurred and difficult to track, snaps open projecting heavy chilling psychological pressure filling enemies with deep paranoia, blinding their mini-maps, silencing voice lines, and dropping accuracy, can dissolve into cloud of smoky violet ravens when targeted, reforming short meters away.",
+    "biography": "Lady Seraphina is the Shadow Sovereign of Moniyan, the Grand Spymistress of the Empire. To the pampered high society, she is an elegant mystery—an aristocratic socialite standing at a graceful 175 cm, hiding behind a translucent gossamer facet veil. But beneath the ballroom poise lies a fluid, athletic muscularity trained to execute a flawless midnight kill. When the decree to form the Lightborn Squad was pushed through the High Council, a massive faction of corrupt, isolationist nobles plotted to politically execute every single member to preserve their own wealth. Recognizing that these shining heroes would be murdered in their sleep long before reaching the Abyss, Seraphina unleashed her vast, unseen network of whispers. Through a perfectly timed series of blackmails, sudden unexplained exiles, and untraceable midnight executions, she systematically gutted the opposition. She is a leader who willingly bathes her hands in the mud of covert warfare so that Moniyan legends can remain pure, untainted symbols of hope. She is the porcelain puppeteer, the guardian in the dark. While Tigreal and Alucard are celebrated in grand marble plazas, Seraphina stands alone in moonlit archives, holding the dirty secrets that keep those plazas standing. The Lightborn Squad shines brilliantly because Lady Seraphina ensures the dark never gets a chance to blind them.",
+    "affiliations": [
+      "Moniyan Empire",
+      "Imperial Intelligence Network"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Duke Aldric",
+    "title": "The Sovereign of the Frozen March",
+    "summary": "Supreme ruler of the Northern Territories and commander of the Winter Vanguard, Duke Aldric is the absolute anchor of Moniyan's northern defense line. For over thirty years, he has held back the horrors crawling from the Abyss. He was the loudest voice opposing the Lightborn Squad, fiercely distrusting 'flashy heroism' as a luxury paid for by the blood of frontline grunts. He reluctantly accepted the squad only when he saw their undeniable grit.",
+    "details": "Aldric is a grumpy old warden who eats frozen rocks for breakfast and hates capital fashion (once set his feathered cap on fire by sneezing near a torch). He secretly sends premium whetstones and winter rations to Tigreal's barracks, claiming it's a 'supply chain accounting error.' His Glacial Verdict sword and Rime-Frost aura drop temperatures and slow enemy reflexes.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.6,
+    "stats": {
+      "power": 92,
+      "intellect": 86,
+      "combat": 93,
+      "influence": 90,
+      "resilience": 98,
+      "mystery": 65
+    },
+    "image": "../assets/npc/duke_aldric.jpeg",
+    "images": {
+      "real": "../assets/npc/050_duke_aldric/real.jpeg",
+      "animated": "../assets/npc/050_duke_aldric/animated.jpeg",
+      "90s": "../assets/npc/050_duke_aldric/90s.jpeg",
+      "gallery": [
+        "../assets/npc/050_duke_aldric/gallery1.jpeg"
+      ]
+    },
+    "category": "Ruler",
+    "appearance": "heavy open-faced tactical circlet of thick dark wrought-iron lined with frozen-wolf leather, front rising into sharp singular angular peak mirroring jagged mountain crests with raw uncut shard of glowing blue true-frost crystal at center, thick coarse iron-gray and silver-white hair swept back tightly away from face, trimmed short at sides thick at top falling in rigid frozen layers just above heavy collar, rugged square heavily chiseled block of stubborn endurance, prominent once-broken straight nose, wide powerful jawline, high rugged cheekbones weathered by blizzards, rough wind-burned pale complexion with faint silvery battle scars on right cheekbone, small deeply set sharply focused cold piercing steel-blue eyes gleaming with guarded intensely cautious intelligence and permanent skeptical scowl, thick high-collared dark charcoal bear hide tunic, massive custom-forged iron bulwark cuirass of overlapping dark matte-finished steel plates, two oversized asymmetrical frost-bear roaring pauldrons etched with silver-inlaid warding runes glowing faint low-energy blue, immense heavy midnight-blue woolen winter cloak lined at collar and edges with dense white-and-gray dire-wolf fur, thick arms encased in rigid steel vambraces, massive hands in heavy reinforced dark leather gauntlets tipped with small iron rivets, wide heavy double-pronged dark brown leather great-belt with massive square iron buckle engraved with Northern Territories crest, thick leather pouches with tactical maps iron whistles whetstone and hidden iron scabbard, heavy reinforced layered insulated dark gray canvas combat trousers, massive calf-high black ox-hide leather military combat boots with thick steel toe-caps, heavy spiked iron treads on soles, thick cross-crossed leather straps around ankles and calves.",
+    "weaponPower": "Glacial Verdict bastard sword, 160 cm two-handed, exceptionally wide thick blade of rare dark Moniyan iron alloy quenched in sacred glacial waters, matte dark gray non-reflective surface with razor-sharp shimmering silver edge, heavy blocky iron anvil-shaped crossguard, elongated reinforced leather-wrapped grip for both gauntleted hands, heavy diamond-shaped iron pommel. Aura: unyielding frost, dense freezing mist with tiny floating ice crystals swirling around boots and blade, ambient temperature plummets instantly, invisible waves of absolute pressure rippling outward when hand rests on pommel, air sluggish and heavy numbing enemy nerves slowing reflexes and freezing mechanical gears.",
+    "biography": "Duke Aldric is the Sovereign of the Frozen March, the absolute anchor of Moniyan's northern defense line. For over thirty years, he has commanded the Winter Vanguard, holding back the midnight horrors that crawl from the Abyss. Born into the unforgiving blizzard-torn valleys, his youth was forged in constant border warfare. During the Siege of the Pale Citadel, while the capital debated reinforcements, Aldric locked the citadel gates from the inside and survived on boiled dire-wolf leather and stubborn spite for forty-seven days. He lost brothers, sons, and comrades to the biting rime and demonic claws. That trauma hardened him into a man who permanently wears a skeptical scowl. When the High Council voted to approve the Lightborn Squad, Aldric fought it tooth and nail, fiercely distrusting putting the fate of millions into unproven prodigies. It was only after witnessing their raw grit—coupled with Seraphina's political maneuvering—that he gave his reluctant nod. He didn't do it out of newfound faith; he did it because a drowning empire cannot afford to throw away any weapon. He has a deeply buried, petty side: he once attended a royal banquet in a feathered cap, sneezed from a cold, and accidentally set the feathers on fire. He swore off 'fancy fabric' forever. He secretly sends high-grade whetstones and insulated winter rations to Tigreal's barracks, and if confronted, his jaw tightens and he claims it was 'a supply chain accounting error.'",
+    "affiliations": [
+      "Moniyan Empire",
+      "Northern Territories",
+      "Winter Vanguard"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Varnaz",
+    "title": "The Scourge of the Ashen Rift",
+    "summary": "A brutal, high-ranking Abyssal General commanding the vanguard of the Ashen Rift, Varnaz was a legendary butcher who had annihilated countless imperial outposts. He believed humanity was soft cattle ripe for harvest. When he launched a massive invasion, he became the first major Abyssal warlord to engage the newly formed Lightborn Squad. In an earth-shaking battle, his feral fury was systematically dismantled, and he was executed—proving the Lightborn Squad was an unassailable shield.",
+    "details": "Varnaz was a creature born from the mutagenic depths of the Ashen Rift, a 220 cm fusion of dense demonic muscle and calcified carapaces. He earned his title by conquering lawless tribes of the molten trenches through sheer violence. His death sent shockwaves through the Abyss, forcing remaining demon lords to realize humanity was no longer defenseless. He had a secret obsession with Moniyan dried beef jerky and may have launched his final invasion because he ran out of snacks.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.9,
+    "stats": {
+      "power": 98,
+      "intellect": 55,
+      "combat": 97,
+      "influence": 75,
+      "resilience": 95,
+      "mystery": 70
+    },
+    "image": "../assets/npc/varnaz.jpeg",
+    "images": {
+      "real": "../assets/npc/051_varnaz/real.jpeg",
+      "animated": "../assets/npc/051_varnaz/animated.jpeg",
+      "90s": "../assets/npc/051_varnaz/90s.jpeg",
+      "gallery": [
+        "../assets/npc/051_varnaz/gallery1.jpeg"
+      ]
+    },
+    "category": "Villain",
+    "appearance": "massive swept-back obsidian-like bone horns erupting from brow curving over skull tapering to jagged points crackling with low-energy abyssal sparks, wild mohawk-like ridge of writhing dark-crimson fibrous tendrils running down center of skull from horn base to nape shedding hot ash, slightly oversized head, exposed skeletal outer jaw structure where skin split revealing rows of black iron teeth, flat reptilian nasal ridge, high jagged obsidian bone-splinter cheekbones, sickly ash-purple and bruised-charcoal deeply leathery skin cracked like cooled volcanic stone with pulsating hot-crimson veins tracing up neck and temple, narrow slit-pupiled burning sulfurous orange-red eyes glowing with feral bloodthirsty hunger, Carnage Cuirass of thick overlapping dark unholy abyssal iron fused directly into collarbone and ribs with embedded weeping eye of dark magic at center slowly blinking surrounded by jagged outward-pointing steel spikes, massive asymmetrical pauldrons shaped as slain demonic beast skulls, tattered scorched blood-soaked leather cape down back smelling of sulfur and ash, colossal arms partially bare with thick corded muscles, forearms encased in heavy barbed iron gauntlets terminating in long curved steel talons, wide heavy black dragon-hide battle-belt with grotesque leering iron skull buckle glowing with inner heat, heavy tattered dread-faulds of overlapping blackened steel and jagged chainmail skirts, exceptionally dense low-centered lower body, heavy form-fitting dark abyssal iron combat greaves etched with glowing crimson runes, massive digitigrade combat boots encasing three-toed iron-clawed talons with thick heavy solid iron soles cracking and scorching earth.",
+    "weaponPower": "Rift-Reaver cleaver, 180 cm single-edged, exceptionally wide jagged blade of dark corrupted ore from deepest Abyss trenches with porous dark purple surface like cooled magma, glowing jagged red edge never loses sharpness, spine lined with thick heavy iron teeth to saw through shields, hilt wrapped in coarse slain behemoth leather, heavy spiked iron pommel. Aura: smoldering ruin, dense rolling cloud of pitch-black smoke and deep crimson energy swirling around body distorting air with extreme heat, smells of burning blood, flares into blinding hellish fire when raising cleaver projecting terrifying psychological dread draining courage of nearby soldiers.",
+    "biography": "Varnaz is the Scourge of the Ashen Rift, the first major Abyssal general to fall before the Lightborn Squad. He earned his title by conquering the lawless tribes of the molten trenches through sheer, unadulterated violence. Standing at a colossal 220 cm, his anatomy is a nightmarish fusion of dense demonic muscle and rigid calcified bone plate carapaces bursting through his leathery, ash-purple skin. He was the nightmare whispered by frontline scouts, viewing human kingdoms as soft cattle ripe for harvest. For decades, his philosophy was proven correct as he systematically slaughtered imperial outposts. But when he launched a massive surprise invasion across the Moniyan border, expecting to crush terrified foot soldiers, he instead became the first major Abyssal warlord to engage the newly formed Lightborn Squad. In an earth-shaking battle that shattered the surrounding cliffs, Varnaz's feral fury was systematically dismantled by their perfect synchronization of light and steel. He was executed on the battlefield—a historic death that sent shockwaves through the Abyss and proved to the world that the Lightborn Squad was an unassailable shield. Despite his terrifying nature, Varnaz was an absolute connoisseur of human military rations, specifically Moniyan dried beef jerky. Intercepted campaign journals suggest the real reason he launched his final invasion was not for geopolitical dominance—he was just entirely out of snacks, and his favorite smokehouse was just past the front lines.",
+    "affiliations": [
+      "Abyss",
+      "Ashen Rift Vanguard"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Arion",
+    "title": "The Chieftain of the Light-Blessed",
+    "summary": "The world's first Theocrat, Arion was a fiercely protective human chieftain who offered a desperate prayer to the heavens to save his tribe from the Abyss. The Lord of Light answered, burning a golden scar into his forehead—but the divine blessing purged his human flaws and erased his free will. Under fanatical possession, Arion built the first holy metropolis of white marble and gold, leading bloody crusades that offered a brutal choice: absolute submission to the light or immediate purification by the sword.",
+    "details": "Arion is the tragic blueprint of what happens when noble intentions are devoured by a primordial entity. He floats two inches above the ground, his platinum-white hair defying gravity. His Scepter of Absolute Order projects a miniature burning sun. He is obsessed with microscopic symmetry—once halting a crusade for three weeks because a column was two millimeters shorter than its twin. He is a cosmic neat freak who will pause a holy war to ensure lines are perfectly straight.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 9.1,
+    "stats": {
+      "power": 96,
+      "intellect": 82,
+      "combat": 95,
+      "influence": 94,
+      "resilience": 93,
+      "mystery": 88
+    },
+    "image": "../assets/npc/arion.jpeg",
+    "images": {
+      "real": "../assets/npc/052_arion/real.jpeg",
+      "animated": "../assets/npc/052_arion/animated.jpeg",
+      "90s": "../assets/npc/052_arion/90s.jpeg",
+      "gallery": [
+        "../assets/npc/052_arion/gallery1.jpeg"
+      ]
+    },
+    "category": "Deity",
+    "appearance": "grand flowing mane of thick shimmering platinum-white hair not obeying physics, cascading past shoulder blades in heavy pristine waves with top layers floating weightless in slow-motion solar corona, heavy open-faced crown of unique matte-white mineral like polished ivory forming jagged defensive crest over brow, interlocking golden laurel of metallic feathers mimicking angel wings curving around temples, vertical glowing golden scar bleeding pure light down center of forehead (touch of Lord of Light), razor-sharp chiseled flawless marble-statue jawline, tall straight aristocratic nose, hyper-bleached pearlescent white skin radiating cold internal golden light erasing natural shadows, wide piercing almond-shaped solid pools of burning liquid gold lacking pupils leaking faint shimmering white smoke from corners, Aether-Plate Cuirass of experimental fusion of white marble and liquid gold with no visible rivets or seams, embossed sunburst sigil at center pulsing rhythmic warm amber light, heavy ceremonial gorget of interlocking golden rings supporting pristine white silk hood draped back, grand flaring pauldrons sweeping upward like angel wings, long heavy crimson silk cape hanging down with hem embroidered with golden runes of first laws, sleek articulated silver vambraces, elegant white leather gauntlets with solid gold trim along each fingertip, wide heavy white dragon-hide battle-belt with large rectangular gold buckle engraved with layout of first holy city, grand multi-layered war-skirt of heavy pristine white fabric panels reinforced with segmented golden plates, form-fitting Light-Weave pale shimmering silver hosiery, majestic knee-high white-gold greaves with intricate filigree of Light-Blessed tribe's ascension, elegant pointed metal sabatons floating two inches above ground leaving scorched grass and tiny fading golden flower-petals.",
+    "weaponPower": "Scepter of Absolute Order, 210 cm two-handed polearm, rare solar-iron shaft transitioning from deep bronze at base to blinding bright silver at top, fine silver chains wrapping loosely rattling ghostly, head of complex slowly rotating golden ring orrery suspending miniature burning sun radiating intense heat and blinding light. Aura: blinding purity, suffocating multi-layered field of pure white-gold energy distorting air, smells of fresh ozone and heavy temple frankincense, immense paralyzing psychological weight, massive multi-winged shadowy silhouette of ancient god manifesting behind when channeling power, causes atmospheric suffocation drastically slowing enemies and locking away skill casts.",
+    "biography": "Arion is the Chieftain of the Light-Blessed, the world's very first Theocrat. Before the Moniyan Empire, he was a fiercely protective human chieftain leading his nomadic people across violent, monster-infested plains. Trapped between the creeping corruption of the Abyss and ravenous primordial beasts, he watched his people bleed season after season. Desperate, he climbed the highest peak and screamed a prayer to the empty heavens. The Lord of Light answered, burning a vertical, glowing golden scar directly into the center of Arion's forehead. The divine energy instantly purged his human frailties but also completely bleached away his humanity, his memories, and his free will. Under fanatical possession, he forced his transformed Light-Blessed followers to abandon their nomadic lives and build a towering, unyielding metropolis of white stone. Within its walls, human individuality, artistic deviation, and personal flaws were strictly outlawed. Arion became the supreme High Priest, leading bloody crusades that offered surrounding tribes a chillingly simple ultimatum: bow down in absolute, unquestioning submission to the light, or be instantly purified by the edge of a sword. He became obsessed with microscopic symmetry—once halting an entire military crusade for three weeks because a library column was two millimeters shorter than its twin. He refuses to let anyone touch his pristine crimson silk cape; if a drop of mud splashes onto the golden runes, his aura flares so violently that the ambient temperature cooks nearby rations.",
+    "affiliations": [
+      "Light-Blessed tribe",
+      "Lord of Light (vessel)"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Morwen",
+    "title": "The First Outcast of the Shadow-Followers",
+    "summary": "The world's first anarchist, Morwen was an influential human chieftain who refused to bow to Arion's tyrannical order, viewing it as beautiful golden slavery. He ventured into the forbidden depths of the earth and offered his soul to the Lord of the Abyss. The dark god granted him cosmic power, twisting his body into an obsidian nightmare. Morwen led his clan into jagged volcanic rifts, establishing the first lawless sanctuary where absolute personal freedom was the only rule.",
+    "details": "Morwen is the dark ideological icon who orchestrates savage raids against white marble cities, believing true peace exists only when every empire, tower, and law is burned to ash. He moves with a jarring, frame-skipping Abyssal Blink and wields the Scepter of Eternal Night. However, his anarchic community is hilariously disorganized—his captains regularly refuse to attend strategy meetings because 'rules are for the Light-Blessed.'",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 9.0,
+    "stats": {
+      "power": 95,
+      "intellect": 86,
+      "combat": 94,
+      "influence": 82,
+      "resilience": 91,
+      "mystery": 93
+    },
+    "image": "../assets/npc/morwen.jpeg",
+    "images": {
+      "real": "../assets/npc/053_morwen/real.jpeg",
+      "animated": "../assets/npc/053_morwen/animated.jpeg",
+      "90s": "../assets/npc/053_morwen/90s.jpeg",
+      "gallery": [
+        "../assets/npc/053_morwen/gallery1.jpeg"
+      ]
+    },
+    "category": "Villain",
+    "appearance": "jagged asymmetrical Dread-Iron crown of curved horn-like obsidian shards growing violently from forehead forcing eternal arrogant posture, voluminous chaotic midnight-black mane flowing wildly past shoulder blades behaving as if submerged in deep turbulent water, frayed tips flickering into cold dark-purple flame, elongated slightly pointed ears with small silver rings rattling, gauntly sharp face with razor-sharp sunken jawline, high deeply hollowed cheekbones pulling into perpetually mocking predatory expression, deep matte obsidian-charcoal skin actively absorbing surrounding light creating hollow void-like appearance, deeply set wide sockets containing two swirling whirlpools of chaotic violet energy lacking pupils, thick black smoke constantly leaking from corners, small blackened gnarled obsidian horns sprouting from temples smoking faint wispy dark energy, jagged breastplate of dark iridescent Dread-Iron fused into chest like living carapace, embedded oval Eye of the Void gem at center pulsing deep sickening magenta light, high spiked iron gorget forcing chin upward, heavy tattered Abyssal Silk mantle (smoke-captured semi-material fabric) split into multiple serrated ribbon-like ends fluttering even without wind, articulated clawed fractured iron gauntlets with each finger tapering into impossibly sharp obsidian point capable of tearing physical space, low-slung heavy tattered blood-crimson leather combat belt with large interlocking dragon-skulls buckle, heavy overlapping dark jagged dragon-scale plate tasset guarding hips and thighs etched with forbidden Shadow Abyss runes glowing faint malevolent magenta, form-fitting dark bruised-purple tactical trousers cross-stitched with heavy silver threading, massive knee-high iron greaves ending in sharp wing-like protrusions, heavy pointed metal sabatons sinking into earth leaving cracked scorched footprints bubbling with hissing purple energy.",
+    "weaponPower": "Scepter of Eternal Night, seven-foot polearm, shaft of twisted petrified primordial abyssal bone wrapped in cold silver chains rattling ghostly, head of massive jaggedly curved dark crystal blade housing violently swirling vortex of dark energy crackling with erratic arcs of violet lightning. Aura: suffocating dread, thick hazy purple-and-black miasma distorting lighting, smells of ancient sulfur and cold rusted metal, expands into massive multi-eyed shadowy silhouette of monstrous god behind when power peaks, warps lighting plunging battlefield into localized eclipse, corrodes enemy armor ratings, reduces vision, and drains courage with paralyzing spiritual pressure.",
+    "biography": "Morwen is the First Outcast of the Shadow-Followers, the world's very first anarchist. In the forbidden, unwritten chapters of Moniyan history, Morwen is celebrated and feared as the absolute architect of rebellion. Long before modern factions, Morwen was an influential human chieftain ruling a massive, proud nomadic clan. When the surrounding tribes fell to their knees under Arion's mind-altering divine crusades, Morwen watched in horror as his former allies traded their emotions, their cultures, and their individuality to become soulless puppets of light. Refusing to let his people be 'purified' into compliant statues, he ventured alone into the forbidden subterranean depths and offered his own soul to the Lord of the Abyss. The dark god granted him unparalleled cosmic power and fluid predatory grace at a horrific cost: his body was overwritten into an obsidian nightmare. Returning to the surface, Morwen shattered his clan's traditional laws, renamed them the Shadow-Followers, and led them into jagged volcanic rifts. For centuries, he has orchestrated savage, midnight raids against the white marble cities, believing true peace can only exist when every crown, tower, and law is reduced to absolute ash. However, his anarchic community is hilariously disorganized—his captains refuse to show up to strategy meetings because 'rules are for the Light-Blessed,' and scouts wander off mid-raid to pursue hobbies like magma-fishing. One grand invasion was ruined because half the army stage-dived into a violet magma river for fun. Morwen stood on the precipice, his swirling violet eyes twitching in sheer frustration, realizing too late that ruling a society with zero rules means you also can't force anyone to hand you a napkin.",
+    "affiliations": [
+      "Shadow-Followers",
+      "Abyss"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Elara",
+    "title": "The Reincarnation of the Lord of Light",
+    "summary": "A shepherd's daughter from the northern foothills, Elara carries the sleeping essence of the Lord of Light within her. Born under a cracked Twilight Orb, she was chosen not for power or destiny, but for her kindness. Her light is warm, nurturing, and alive—the light of a sunrise, not an interrogation lamp. Her journey brought her to a dusty border town where she met Kael, a quiet boy with shadows in his eyes, and together they discovered that gods could choose a different path.",
+    "details": "Elara represents hope that even the oldest wounds can heal. She wields a modified Sunbound Lance defensively, drawing circles of protective light instead of thrusting aggressively. Her aura makes flowers lean toward her and repels minor darkness. Her ultimate potential would allow her to manifest wings of pure light, but she fights not to destroy—she fights to protect. She talks to butterflies and leaves flowers on graves of strangers.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.3,
+    "stats": {
+      "power": 45,
+      "intellect": 72,
+      "combat": 35,
+      "influence": 80,
+      "resilience": 85,
+      "mystery": 90
+    },
+    "image": "../assets/npc/elara.jpeg",
+    "images": {
+      "real": "../assets/npc/054_elara/real.jpeg",
+      "animated": "../assets/npc/054_elara/animated.jpeg",
+      "90s": "../assets/npc/054_elara/90s.jpeg",
+      "gallery": [
+        "../assets/npc/054_elara/gallery1.jpeg"
+      ]
+    },
+    "category": "Civilian",
+    "appearance": "cascade of thick wavy golden-blonde hair falling past mid-back in soft natural waves catching light like spun sunlight, worn loose with two small braids framing face secured by tiny blue beads, softly oval face, gentle jawline, naturally full cheeks, small straight delicate nose dusted with faint constellation of freckles bridging across nose and spilling onto cheekbones, large luminous deeply expressive warm honey-brown eyes with flecks of gold igniting when channeling celestial power, light brown finely arched eyebrows never furrowed often lifted in curiosity, fair warm sun-kissed skin, soft cream-white linen blouse with billowy sleeves gathered at cuffs, deep teal wool vest embroidered with small golden sunbursts along hem, thin silver chain around neck bearing small polished amber pendant glowing faintly pulsing with heartbeat, slender graceful hands with long fingers clean short nails, long olive-green skirt falling to calves with slit on right side, practical worn leather satchel slung over one shoulder carrying small wooden carving of bird pressed wildflower and worn letter from mother, sturdy brown leather lace-up boots resoled twice polished to soft shine.",
+    "weaponPower": "Modified Sunbound Lance, 160 cm, shaft of polished white jade wrapped in spiraling golden bands, blade shaped as elongated sun ray with silver metal shifting between white and gold, thin glowing golden sunburst lines tracing length, tip capped with small glowing blue gem pulsing with stored light energy, used defensively drawing circles of protective light and redirecting enemy attacks rather than piercing. Aura: warm nurturing light, gentle radiance like sunrise not interrogation lamp, faint almost invisible golden shimmer surrounding hands when happy, small flowers lean toward her, smells of honey and fresh grass, repels minor darkness and brings comfort to those nearby.",
+    "biography": "Elara is the Reincarnation of the Lord of Light, the unexpected protagonist of the chronicles of the Long Peace. Born under a cracked Twilight Orb, she was chosen by the essence of the Lord of Light not because she was powerful or destined for greatness, but because she was kind. Her village in the northern foothills knew her as the girl who talked to butterflies and left flowers on graves of strangers. When the power within her began to awaken, she did not seek glory or conquest; she sought answers. Her journey brought her to a dusty border town, where she met a quiet, dark-haired boy whose eyes held shadows as deep as her own light. Together, they discovered that the gods who had warred for eternity could choose a different path—not as enemies, but as friends holding hands under an oak tree. Unlike the cold, sterile light of the Moniyan Empire's fanatical priests, Elara's light is warm, nurturing, and alive—the light of a sunrise, not an interrogation lamp. She fights not to destroy, but to protect; her lance is a shepherd's staff as much as a weapon. She represents the hope that even the oldest wounds can heal, that light does not have to burn to be strong, and that sometimes the most powerful thing in the universe is a girl who refuses to be afraid of the dark.",
+    "affiliations": [
+      "None (shepherd's daughter)"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Kael",
+    "title": "The Reincarnation of the Lord of the Abyss",
+    "summary": "Born in a stilt hut deep in the southern swamps under a cracked sky, Kael carries the sleeping essence of the Lord of the Abyss within him. The other children ran from him; animals fled; plants withered slightly in his presence. He grew up alone, learning to take up as little space as possible. When the power began to awaken, he tried to suppress it. His journey brought him to a dusty border town where he met a golden-haired girl who held his hand and told him he was not alone.",
+    "details": "Kael represents the possibility that even the darkest power can be wielded with restraint. His shadows are protective and quiet—the darkness of a moonless night that offers rest and hiding, not the hungry dark that consumes souls. He wields twin jagged sickles not as tools of aggression but of control, drawing circles of shadow that shield rather than harm. He is the reluctant heir to a throne of shadows.",
+    "source": "PromptsAi/MLBB/MLBB NPC CHARACTER FULL DESCRIPTIONS.litcoffee",
+    "rating": 8.4,
+    "stats": {
+      "power": 50,
+      "intellect": 70,
+      "combat": 45,
+      "influence": 65,
+      "resilience": 88,
+      "mystery": 92
+    },
+    "image": "../assets/npc/kael.jpeg",
+    "images": {
+      "real": "../assets/npc/055_kael/real.jpeg",
+      "animated": "../assets/npc/055_kael/animated.jpeg",
+      "90s": "../assets/npc/055_kael/90s.jpeg",
+      "gallery": [
+        "../assets/npc/055_kael/gallery1.jpeg"
+      ]
+    },
+    "category": "Civilian",
+    "appearance": "jet-black thick straight hair falling over forehead in heavy fringe nearly covering eyes, longer layers at back brushing shoulders, typically tied back with black ribbon with persistent escaping strands, long narrow face, high sharp cheekbones catching light at harsh angles, straight aristocratic nose, defined strong jawline softened by lingering traces of youth rounding chin slightly, pale cool ashen undertone skin, dark circles beneath eyes (lightened since finding companionship), deep violet-grey large solemn eyes with intensity seeming to look through people, glowing faint violet in low light, dark straight eyebrows often drawn together in concentration or concern, small faint scars on hands and forearms, high-collared charcoal-grey wool tunic with long sleeves, black leather vest with silver buckles, simple leather cord around neck holding small dark grey river stone (smooth cold unadorned), pale long-fingered hands with dark nails often shoved into pockets, form-fitting black trousers, no belt or satchel, only worn cloth-wrapped bundle containing few books and change of clothes, scuffed black boots that have seen many miles with quiet footsteps.",
+    "weaponPower": "Twin jagged sickles forged from abyssal ore, each 60 cm along curve, deep violet-black with crimson edge highlights, constant wisp of dark smoke trailing from edge, grips wrapped in black leather and bone, pommels shaped as miniature screaming skulls with hollow eye sockets glowing faintly red, used defensively to hook disarm and redirect enemy attacks, creates space and draws circles of shadow that shield rather than harm. Aura: protective quiet darkness, heavy stillness of deep water, temperature drops slightly, shadows deepen around him, small insects and rodents give wide berth, smells of cold stone and damp earth, not malevolent but like moonless night offering rest and hiding, not the hungry dark that consumes souls.",
+    "biography": "Kael is the Reincarnation of the Lord of the Abyss, the reluctant heir to a throne of shadows. Born in a stilt hut deep in the southern swamps, he entered the world under a cracked sky, and his mother knew immediately that he carried something ancient within him. The other children ran from him; animals fled; even the plants seemed to wither slightly in his presence. He grew up alone, speaking little, watching the world from a distance, learning to take up as little space as possible. When the power within him began to awaken, he tried to suppress it, to hide it, to pretend it wasn't there. His journey brought him to a dusty border town, where he met a golden-haired girl who looked at him without fear, who asked his name and waited for his answer, who held his hand under an oak tree and told him he was not alone. Unlike the corrupting, consuming darkness of the Abyss that seeks to devour all light, Kael's shadow is protective and quiet—the darkness of a moonless night that offers rest and hiding, not the hungry dark that consumes souls. He represents the possibility that even the darkest power can be wielded with restraint, that shadows can protect as well as conceal, and that sometimes the bravest thing a person can do is reach out toward the light instead of shrinking away from it.",
+    "affiliations": [
+      "None (swamp-born outcast)"
     ]
   }
 ]

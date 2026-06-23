@@ -198,12 +198,21 @@ function openNpc(index) {
     </div>`;
 
   const mainImage = document.getElementById("mainNpcImage");
+  const viewerImages = uniqueImages([images.real, images.animated, images.nineties, ...images.gallery]);
   detail.querySelectorAll("[data-npc-image]").forEach((node) => {
     node.addEventListener("click", () => {
       mainImage.src = node.dataset.npcImage || node.src;
       detail.querySelectorAll(".npc-image-tabs button").forEach((button) => {
         button.classList.toggle("active", button === node);
       });
+    });
+  });
+  mainImage.classList.add("expandable-image");
+  mainImage.title = "Open full image";
+  mainImage.addEventListener("click", () => {
+    APP.openImageViewer(viewerImages, mainImage.getAttribute("src"), {
+      title: npc.name,
+      theme: `${theme};--primary:var(--npc-a);--secondary:var(--npc-b);--accent:var(--npc-c);--glow:var(--npc-glow)`
     });
   });
 

@@ -18,6 +18,8 @@
   let heroThemes = [];
   root.dataset.theme = mode;
 
+  const imageViewerState = { images: [], index: 0 };
+
   window.APP = {
     base, fallback, version: Date.now(),
     fetchJSON(path) {
@@ -34,6 +36,31 @@
     },
     openModal(id) { document.getElementById(id)?.classList.add("show"); },
     closeModal(id) { document.getElementById(id)?.classList.remove("show"); },
+    openImageViewer(images = [], startSrc = "", options = {}) {
+      const viewer = document.getElementById("imageViewer");
+      const image = document.getElementById("imageViewerImage");
+      const title = document.getElementById("imageViewerTitle");
+      if (!viewer || !image) return;
+
+      const unique = [];
+      images.forEach((src) => {
+        if (src && !unique.includes(src)) unique.push(src);
+      });
+      if (!unique.length) unique.push(startSrc || fallback);
+
+      if (startSrc && !unique.includes(startSrc)) unique.unshift(startSrc);
+      imageViewerState.images = unique;
+      imageViewerState.index = Math.max(0, unique.indexOf(startSrc));
+      viewer.style.cssText = options.theme || "";
+      title.textContent = options.title || "Image preview";
+      updateImageViewer();
+      viewer.classList.add("show");
+      document.body.classList.add("image-viewer-open");
+    },
+    closeImageViewer() {
+      document.getElementById("imageViewer")?.classList.remove("show");
+      document.body.classList.remove("image-viewer-open");
+    },
     applyHeroTheme(hero) {
       const id = typeof hero === "object" ? hero.id : +hero || 0;
       const name = typeof hero === "object" ? hero.name : "Arena";
@@ -56,6 +83,57 @@
       if (select) select.value = String(id);
     }
   };
+
+  function updateImageViewer() {
+    const image = document.getElementById("imageViewerImage");
+    const count = document.getElementById("imageViewerCount");
+    const current = imageViewerState.images[imageViewerState.index] || fallback;
+    image.src = current;
+    count.textContent = `${imageViewerState.index + 1} / ${imageViewerState.images.length}`;
+  }
+
+  function shiftImageViewer(direction) {
+    const total = imageViewerState.images.length;
+    if (!total) return;
+    imageViewerState.index = (imageViewerState.index + direction + total) % total;
+    updateImageViewer();
+  }
+
+  function installImageViewer() {
+    document.body.insertAdjacentHTML("beforeend", `
+      <div class="image-viewer" id="imageViewer" aria-modal="true" role="dialog">
+        <div class="image-viewer-top">
+          <div><span class="eyebrow">Full image</span><h2 id="imageViewerTitle">Image preview</h2></div>
+          <span id="imageViewerCount" class="status-pill"></span>
+          <button class="image-viewer-close" id="imageViewerClose" aria-label="Close image preview">&times;</button>
+        </div>
+        <button class="image-viewer-nav prev" id="imageViewerPrev" aria-label="Previous image">&lsaquo;</button>
+        <img id="imageViewerImage" src="${fallback}" alt="">
+        <button class="image-viewer-nav next" id="imageViewerNext" aria-label="Next image">&rsaquo;</button>
+      </div>`);
+
+    const viewer = document.getElementById("imageViewer");
+    let touchStart = 0;
+    document.getElementById("imageViewerClose").addEventListener("click", APP.closeImageViewer);
+    document.getElementById("imageViewerPrev").addEventListener("click", () => shiftImageViewer(-1));
+    document.getElementById("imageViewerNext").addEventListener("click", () => shiftImageViewer(1));
+    viewer.addEventListener("click", (event) => {
+      if (event.target === viewer) APP.closeImageViewer();
+    });
+    viewer.addEventListener("touchstart", (event) => {
+      touchStart = event.changedTouches[0]?.clientX || 0;
+    }, { passive: true });
+    viewer.addEventListener("touchend", (event) => {
+      const delta = (event.changedTouches[0]?.clientX || 0) - touchStart;
+      if (Math.abs(delta) > 45) shiftImageViewer(delta > 0 ? -1 : 1);
+    }, { passive: true });
+    addEventListener("keydown", (event) => {
+      if (!viewer.classList.contains("show")) return;
+      if (event.key === "Escape") APP.closeImageViewer();
+      if (event.key === "ArrowLeft") shiftImageViewer(-1);
+      if (event.key === "ArrowRight") shiftImageViewer(1);
+    });
+  }
 
   function installGlobalDock() {
     document.body.insertAdjacentHTML("beforeend", `
@@ -126,6 +204,7 @@
   }
 
   installGlobalDock();
+  installImageViewer();
   document.querySelectorAll("img").forEach(APP.image);
   new MutationObserver((records) => records.forEach((record) => record.addedNodes.forEach((node) => { if (node.nodeName === "IMG") APP.image(node); node.querySelectorAll?.("img").forEach(APP.image); }))).observe(document.body, { childList: true, subtree: true });
   document.querySelectorAll("[data-theme-toggle]").forEach((button) => { button.textContent = "Theme Lab"; button.addEventListener("click", () => document.getElementById("themePanel").classList.add("show")); });
