@@ -1,0 +1,546 @@
+[
+  {
+    "id": 1,
+    "name": "Oceanus",
+    "monsterName": "The Sanctuary Lord",
+    "role": "Male Lord",
+    "class": "Lord",
+    "element": "Primal Water",
+    "rating": 9.8,
+    "battlefieldValue": "Late-game siege anchor that breaks bases through pressure, knockback, and sanctuary-grade elemental force.",
+    "famousFor": "A towering trident-wielding lord body, a humanized elemental sovereign, and arena-wide teal-gold pressure.",
+    "stats": {
+      "threat": 98,
+      "durability": 96,
+      "mobility": 66,
+      "control": 94,
+      "reward": 100
+    },
+    "forms": {
+      "monster": {
+        "title": "The Sanctuary Lord",
+        "subtitle": "Titanic water-vortex monarch",
+        "images": {
+          "real": "../assets/images/creeps/oceanus/monster-real.png",
+          "animated": "../assets/images/creeps/oceanus/monster-animated.png",
+          "nineties": "../assets/images/creeps/oceanus/monster-90s.png",
+          "gallery": [
+            "../assets/images/creeps/oceanus/monster-gallery1.png",
+            "../assets/images/creeps/oceanus/monster-gallery2.png",
+            "../assets/images/creeps/oceanus/monster-gallery3.png"
+          ]
+        },
+        "body": "A triple-hero-height elemental war body with a tarnished gold celestial helmet, hollow cyan-flame visor, immense blue-water musculature, floating gold tassets, and a lower body that becomes a roaring whirlpool instead of legs.",
+        "weapon": "An oversized pale-gold trident with crystallized cyan energy prongs, spinning ornamental rings, and vapor trails that behave like a lightning rod for sanctuary power.",
+        "aura": "Heavy aqua vapor, cyan elemental flame, pressure mist, and continuous ripple shockwaves around the base.",
+        "signature": "Slams and sweeps create defensive kinetic waves that make the Lord feel less like a monster and more like a moving objective."
+      },
+      "human": {
+        "title": "Oceanus, The Primal Core",
+        "subtitle": "Human-form elemental sovereign",
+        "images": {
+          "real": "../assets/images/creeps/oceanus/human-real.png",
+          "animated": "../assets/images/creeps/oceanus/human-animated.png",
+          "nineties": "../assets/images/creeps/oceanus/human-90s.png",
+          "gallery": [
+            "../assets/images/creeps/oceanus/human-gallery1.png",
+            "../assets/images/creeps/oceanus/human-gallery2.png",
+            "../assets/images/creeps/oceanus/human-gallery3.png"
+          ]
+        },
+        "body": "A 235 cm god-like male figure with translucent cyan-blue skin, blinding turquoise eyes, waterfall-like living sapphire hair, sea-gold crest, huge sunburst pauldrons, golden vambraces, and a lower body shifting into churning current.",
+        "weapon": "Trident of Primal Radiance, a 250 cm gold-iron staff with three translucent cyan crystal prongs vibrating with internal magical current.",
+        "aura": "Absolute Sanctuary: rolling teal-and-gold mist scented like rain, ozone, and river moss, expanding into sharp geometric shockwaves.",
+        "signature": "The human form reads as the intelligent will behind the Lord: regal, defensive, and ancient."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Thalassa",
+    "monsterName": "The Siren Lord",
+    "role": "Female Lord Diva",
+    "class": "Lord",
+    "element": "Abyssal Tide",
+    "rating": 9.6,
+    "battlefieldValue": "A psychological oceanic lord presence built around dread, glamour, and control-heavy pressure.",
+    "famousFor": "Siren fins, violet-aqua vapor, a huge orb staff, and the feeling that the battlefield has become deep water.",
+    "stats": {
+      "threat": 95,
+      "durability": 88,
+      "mobility": 78,
+      "control": 98,
+      "reward": 96
+    },
+    "forms": {
+      "monster": {
+        "title": "The Siren Lord",
+        "subtitle": "Abyssal diva manifestation",
+        "images": {
+          "real": "../assets/images/creeps/thalassa/monster-real.png",
+          "animated": "../assets/images/creeps/thalassa/monster-animated.png",
+          "nineties": "../assets/images/creeps/thalassa/monster-90s.png",
+          "gallery": [
+            "../assets/images/creeps/thalassa/monster-gallery1.png",
+            "../assets/images/creeps/thalassa/monster-gallery2.png",
+            "../assets/images/creeps/thalassa/monster-gallery3.png"
+          ]
+        },
+        "body": "A several-story monster with an indigo featureless mask, neon-cyan hollow eyes, magenta-violet-aqua vapor crest, floating gold wave pauldrons, long elegant clawed arms, and a serpentine vortex tail wrapped in purple fins.",
+        "weapon": "A massive sorcerer's staff with a dark-bronze coral shaft, golden crescent head, and spinning aqua-energy orb bound by living water ribbons.",
+        "aura": "A cold whirlpool of sea vapor, bright cyan water ribbons, magenta plasma, and suffocating deep-ocean glamour.",
+        "signature": "Commands space by turning elegance into fear; every movement looks like a ritual performance."
+      },
+      "human": {
+        "title": "Thalassa, Sovereign Diva of the Abyssal Tides",
+        "subtitle": "Human-form siren monarch",
+        "images": {
+          "real": "../assets/images/creeps/thalassa/human-real.png",
+          "animated": "../assets/images/creeps/thalassa/human-animated.png",
+          "nineties": "../assets/images/creeps/thalassa/human-90s.png",
+          "gallery": [
+            "../assets/images/creeps/thalassa/human-gallery1.png",
+            "../assets/images/creeps/thalassa/human-gallery2.png",
+            "../assets/images/creeps/thalassa/human-gallery3.png"
+          ]
+        },
+        "body": "A 198 cm statuesque siren with midnight-indigo skin, fiery gold pupil-less eyes, aquamarine living-water hair tipped lavender-pink, sea-gold crown, orchid-purple fins, gold wave armor, and a colossal serpentine water tail.",
+        "weapon": "Siren's Call Scepter, a 210 cm dark violet coral staff holding a floating aquamarine orb inside a spinning turquoise vortex.",
+        "aura": "Abyssal Glamour: pale blue and smoky lavender mist with ocean brine, ozone, and the pressure of irresistible infatuation mixed with dread.",
+        "signature": "A beautiful command-form that weaponizes attention before the first strike lands."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lycanthros",
+    "monsterName": "The Thunder Fenrir",
+    "role": "Blue Buff",
+    "class": "Buff",
+    "element": "Storm Mana",
+    "rating": 8.9,
+    "battlefieldValue": "The blue-side jungle engine, associated with cooldown rhythm, mana pressure, and tempo control.",
+    "famousFor": "Lightning crystal wings, forehead core, storm claws, and the cleanest ozone aura in the jungle.",
+    "stats": {
+      "threat": 86,
+      "durability": 72,
+      "mobility": 94,
+      "control": 83,
+      "reward": 92
+    },
+    "forms": {
+      "monster": {
+        "title": "The Thunder Fenrir",
+        "subtitle": "Lightning-infused blue buff beast",
+        "images": {
+          "real": "../assets/images/creeps/lycanthros/monster-real.png",
+          "animated": "../assets/images/creeps/lycanthros/monster-animated.png",
+          "nineties": "../assets/images/creeps/lycanthros/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A sleek quadrupedal fenrir with crystalline teeth, neon pink-violet eyes, cream-to-pink horns, white-lavender mane, violet hide, wing-like lightning crystals, plush static tail, and a magenta forehead gemstone.",
+        "weapon": "Its celestial body: storm fangs, crystalline claws, lightning wings, and a forehead orb that channels storm magic.",
+        "aura": "Magenta, cyan, and cosmic-purple electricity rippling down horns, wings, claws, and spine.",
+        "signature": "A speed monster that feels like mana given teeth."
+      },
+      "human": {
+        "title": "Lycanthros, Tempest Soul of the Thunder Fenrir",
+        "subtitle": "Human-form blue buff avatar",
+        "images": {
+          "real": "../assets/images/creeps/lycanthros/human-real.png",
+          "animated": "../assets/images/creeps/lycanthros/human-animated.png",
+          "nineties": "../assets/images/creeps/lycanthros/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 185 cm predatory young male with snowy-white to indigo-purple hair, neon-cyan pupil-less eyes, ivory horns, amethyst third-eye gem, exposed cyan elemental markings, crystal shard wing-mantles, hakama trousers, and an electric-purple wolf tail.",
+        "weapon": "Tempest Fang Glaive, a 220 cm ivory polearm with turquoise wraps, cyan crystal crescent blade, and floating amethyst core.",
+        "aura": "Static Tempest: pale-blue electricity and deep-purple arcs with rain-soaked earth, ozone, and kinetic heat.",
+        "signature": "An agile alpha storm duelist built to look fast even while standing still."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vulcanus",
+    "monsterName": "The Molten Fiend",
+    "role": "Red Buff",
+    "class": "Buff",
+    "element": "Molten Fury",
+    "rating": 8.8,
+    "battlefieldValue": "The red-side aggression engine, associated with dueling, burn pressure, and chase threat.",
+    "famousFor": "Liquid fire mane, volcanic horns, magma cracks, and a body made to punish anyone who walks too close.",
+    "stats": {
+      "threat": 90,
+      "durability": 82,
+      "mobility": 86,
+      "control": 70,
+      "reward": 92
+    },
+    "forms": {
+      "monster": {
+        "title": "The Molten Fiend",
+        "subtitle": "Red buff volcanic predator",
+        "images": {
+          "real": "../assets/images/creeps/vulcanus-red/monster-real.png",
+          "animated": "../assets/images/creeps/vulcanus-red/monster-animated.png",
+          "nineties": "../assets/images/creeps/vulcanus-red/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A hulking quadrupedal volcanic beast with a snarling stone skull, serrated obsidian teeth, neon yellow-orange slit eyes, swept shale horns, white-hot magma mane, rock-armored shoulders, burning crevices, and a whip-like fire tail.",
+        "weapon": "Its body: obsidian claws, fangs, explosive inner core, and a fused glyph collar containing the molten force.",
+        "aura": "Suffocating dry heat, ash, sulfur, ember trails, and molten-gold glow leaking from every fracture.",
+        "signature": "A chase predator whose heat makes the area around it feel hostile."
+      },
+      "human": {
+        "title": "Vulcanus, Scourge of the Molten Fiend",
+        "subtitle": "Human-form red buff avatar",
+        "images": {
+          "real": "../assets/images/creeps/vulcanus-red/human-real.png",
+          "animated": "../assets/images/creeps/vulcanus-red/human-animated.png",
+          "nineties": "../assets/images/creeps/vulcanus-red/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 196 cm heavily muscled male with living fire hair, neon-yellow eyes, charcoal-bronze skin split by magma cracks, volcanic horns, crimson tectonic brow crest, obsidian pauldrons, bronze talons, martial trousers, and a golden-orange lion tail of flame.",
+        "weapon": "Molten Cleaver Glaive, a 230 cm polearm with blackened volcanic timber shaft, orange crystal crescent blade, and floating magma core.",
+        "aura": "Scorching Ruin: pale-yellow fire, deep-orange arcs, sulfur, ash, and panic-inducing kinetic heat.",
+        "signature": "The human form turns red buff into a martial inferno champion."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Genbu",
+    "monsterName": "The Turtle",
+    "role": "Turtle",
+    "class": "Epic Objective",
+    "element": "Cryo Bulwark",
+    "rating": 9.2,
+    "battlefieldValue": "Early-to-mid objective monarch that rewards coordinated pressure and punishes sloppy contests.",
+    "famousFor": "A cryo-crystal shell, gold celestial binding, anchoring claws, and the calm violence of an ancient guardian.",
+    "stats": {
+      "threat": 88,
+      "durability": 99,
+      "mobility": 48,
+      "control": 86,
+      "reward": 95
+    },
+    "forms": {
+      "monster": {
+        "title": "The Turtle",
+        "subtitle": "Cryo-shelled juggernaut",
+        "images": {
+          "real": "../assets/images/creeps/genbu/monster-real.png",
+          "animated": "../assets/images/creeps/genbu/monster-animated.png",
+          "nineties": "../assets/images/creeps/genbu/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A colossal hunched quadruped with emerald dragon-scale skull, hooked beak, cyan elemental eyes, bronze horn crest, gigantic aqua cryo-crystal shell, golden lattice spikes, stout clawed limbs, plated reptilian tail, and immovable back feet.",
+        "weapon": "Body mass, armored beak, golden claws, and shell runes channeling elemental power.",
+        "aura": "Cold cyan luminescence, ancient shell-rune pulses, and defensive pressure that feels impossible to displace.",
+        "signature": "A living fortress that makes every Turtle fight feel like a territorial ritual."
+      },
+      "human": {
+        "title": "Genbu, Unyielding Bulwark of the Sunken Sanctum",
+        "subtitle": "Human-form turtle guardian",
+        "images": {
+          "real": "../assets/images/creeps/genbu/human-real.png",
+          "animated": "../assets/images/creeps/genbu/human-animated.png",
+          "nineties": "../assets/images/creeps/genbu/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 215 cm heavily armored guardian with sapphire current hair, neon-cyan eyes, jade-white skin shifting into jade-green reptilian dermis, sea-gold crown, bronze dragon horns, massive golden armor, scaled arms, crystal shell mantle, and anchored sabatons.",
+        "weapon": "Bulwark Scepter of Radiance, a 240 cm trident-staff with gold-iron alloy shaft and cyan crystal prongs.",
+        "aura": "Absolute Bulwark: teal-gold mist, clean rain, ozone, cold river moss, and army-knocking geometric shockwaves.",
+        "signature": "The objective becomes a personified tank: serene, immovable, and royal."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Vulcanus Cragborn",
+    "monsterName": "The Lava Golem",
+    "role": "Lava Golem",
+    "class": "Jungle Creep",
+    "element": "Obsidian Magma",
+    "rating": 8.2,
+    "battlefieldValue": "A dense side-camp bruiser whose design reads as raw durability and tectonic punishment.",
+    "famousFor": "One magma eye, boulder fists, basalt body, and the feeling of a walking furnace.",
+    "stats": {
+      "threat": 82,
+      "durability": 94,
+      "mobility": 38,
+      "control": 76,
+      "reward": 78
+    },
+    "forms": {
+      "monster": {
+        "title": "The Lava Golem",
+        "subtitle": "Obsidian crag brute",
+        "images": {
+          "real": "../assets/images/creeps/lava-golem/monster-real.png",
+          "animated": "../assets/images/creeps/lava-golem/monster-animated.png",
+          "nineties": "../assets/images/creeps/lava-golem/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A low-slung bipedal brute with head fused into torso, triangular shale faceplate, single neon-orange diamond eye, bedrock crown, split magma sternum, colossal boulder shoulders, mallet fists, compressed basalt legs, and flat stone stumps for feet.",
+        "weapon": "Boulder fists, pressurized molten core, and a hardened volcanic collar framing the upper body.",
+        "aura": "Orange magma light, scorched stone heat, volcanic pressure, and cracked earth under every stamp.",
+        "signature": "Less beast, more terrain disaster that learned to move."
+      },
+      "human": {
+        "title": "Vulcanus, Molten Core of the Obsidian Crags",
+        "subtitle": "Human-form lava golem",
+        "images": {
+          "real": "../assets/images/creeps/lava-golem/human-real.png",
+          "animated": "../assets/images/creeps/lava-golem/human-animated.png",
+          "nineties": "../assets/images/creeps/lava-golem/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 210 cm fortified golem-man with living orange-gold magma hair, neon-orange eyes, ash-gray basalt skin, rocky hood crest, V-shaped molten chest fissure, blocky stone gauntlets, basalt girdle, and heavy rocky greaves.",
+        "weapon": "Forge-Master's Obsidian Cleaver, a 170 cm raw-cut obsidian blade with magma crystal fault lines and gold-iron hilt.",
+        "aura": "Tectonic Pressure: pale orange light, purple scorch haze, sulfur, ash, and rings of volcanic fractures.",
+        "signature": "The human form keeps the golem's weight but gives it blacksmith-god presence."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ignis",
+    "monsterName": "The Fire Beetle",
+    "role": "Fire Beetle",
+    "class": "Jungle Creep",
+    "element": "Thermal Chitin",
+    "rating": 7.7,
+    "battlefieldValue": "A compact fire camp threat defined by burst heat, burrowing energy, and fast insectoid pressure.",
+    "famousFor": "Crimson chitin, golden thermal sac, hydraulic mandibles, and predatory scuttling speed.",
+    "stats": {
+      "threat": 78,
+      "durability": 70,
+      "mobility": 88,
+      "control": 58,
+      "reward": 72
+    },
+    "forms": {
+      "monster": {
+        "title": "The Fire Beetle",
+        "subtitle": "Crimson thermal hexapod",
+        "images": {
+          "real": "../assets/images/creeps/ignis/monster-real.png",
+          "animated": "../assets/images/creeps/ignis/monster-animated.png",
+          "nineties": "../assets/images/creeps/ignis/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A compact hexapod with crimson-maroon visor headplate, ivory mandibular pincers, neon-yellow compound slit eyes, spiked upper shell, layered burnt-purple thorax, glowing golden thermal core, piercing forelimbs, and explosive hind legs.",
+        "weapon": "Crushing mandibles, sharp forelimb talons, and a dorsal thermal core radiating suffocating dry heat.",
+        "aura": "Golden-orange heat shimmer, dry ash, hot chitin glow, and burrowing pressure.",
+        "signature": "A small camp monster that looks like it could tunnel through armor."
+      },
+      "human": {
+        "title": "Ignis, Crimson Vanguard of the Fire Beetle",
+        "subtitle": "Human-form beetle skirmisher",
+        "images": {
+          "real": "../assets/images/creeps/ignis/human-real.png",
+          "animated": "../assets/images/creeps/ignis/human-animated.png",
+          "nineties": "../assets/images/creeps/ignis/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 175 cm lean predatory male with orange-red to yellow-gold spiked hair, neon-yellow slit eyes, charcoal-maroon skin, crimson chitin helmet, glowing amber forehead core, yellow-orange carapace plates, bronze talons, and insect-deity appendages.",
+        "weapon": "Pincer Tooth Glaive, a 210 cm polearm with crimson crystal pincer blade and yellow-gold gemstone core.",
+        "aura": "Beetle-Kin Swiftness: pale-orange light, burgundy arcs, sulfur, ash, and kinetic heat.",
+        "signature": "A fast vanguard version of the beetle, like a jungle camp promoted into an assassin."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Basilisk",
+    "monsterName": "The Horned Lizard",
+    "role": "Horned Lizard",
+    "class": "Jungle Creep",
+    "element": "Kinetic Saurian",
+    "rating": 7.6,
+    "battlefieldValue": "A fast skirmish creep built around evasion, angled attacks, and lizard-like burst movement.",
+    "famousFor": "Magenta frill, teal scales, whip tail, and explosive low-to-ground speed.",
+    "stats": {
+      "threat": 74,
+      "durability": 64,
+      "mobility": 95,
+      "control": 62,
+      "reward": 70
+    },
+    "forms": {
+      "monster": {
+        "title": "The Horned Lizard",
+        "subtitle": "Frilled jungle skirmisher",
+        "images": {
+          "real": "../assets/images/creeps/basilisk/monster-real.png",
+          "animated": "../assets/images/creeps/basilisk/monster-animated.png",
+          "nineties": "../assets/images/creeps/basilisk/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A knee-high bipedal reptile with needle-beak jaw, neon-blue eyes, flamboyant magenta-fuchsia umbrella frill, navy-teal skin, glowing sea-green spine armor, theropod arms, spring-loaded legs, expressive armored tail, and bird-like clawed feet.",
+        "weapon": "Sharp beak, obsidian claws, whip tail, and kinetic light trailing from frill and spine ridges.",
+        "aura": "Emerald and magenta motion trails with low whispering kinetic energy.",
+        "signature": "A little predator with the visual drama of a much bigger monster."
+      },
+      "human": {
+        "title": "Basilisk, Draconic Skirmisher of the Jungle Marches",
+        "subtitle": "Human-form horned lizard",
+        "images": {
+          "real": "../assets/images/creeps/basilisk/human-real.png",
+          "animated": "../assets/images/creeps/basilisk/human-animated.png",
+          "nineties": "../assets/images/creeps/basilisk/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 178 cm athletic saurian fighter with violet-to-magenta hair, neon-cyan slit eyes, midnight-indigo and teal scaled skin, orchid-magenta frill crest, jade-green dorsal plates, bronze talons, martial hakama, and a prehensile spiked reptile tail.",
+        "weapon": "Viper Tooth Glaive, a 210 cm polearm with orchid-magenta crystal crescent blade and floating cyan gemstone core.",
+        "aura": "Saurian Swiftness: pale-teal light, deep-purple arcs, wet fern moss, ozone, and kinetic heat.",
+        "signature": "The camp creep becomes a stylish reptilian duelist with frightening lateral speed."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Plutus",
+    "monsterName": "The Gold Crab",
+    "role": "Gold Crab",
+    "class": "Lane Creep",
+    "element": "Prosperity Crystal",
+    "rating": 7.4,
+    "battlefieldValue": "A gold-lane reward creature represented as wealth, greed, crystal resonance, and defensive shell pressure.",
+    "famousFor": "Gold coin shell, asymmetrical claws, cyan crystals, and glittering economic magic.",
+    "stats": {
+      "threat": 70,
+      "durability": 84,
+      "mobility": 46,
+      "control": 60,
+      "reward": 90
+    },
+    "forms": {
+      "monster": {
+        "title": "The Gold Crab",
+        "subtitle": "Coin-backed lane treasure",
+        "images": {
+          "real": "../assets/images/creeps/plutus/monster-real.png",
+          "animated": "../assets/images/creeps/plutus/monster-animated.png",
+          "nineties": "../assets/images/creeps/plutus/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A wide low-slung decapod with tan-bronze chitin, armored eye stalks, tooth-like brow horns, dark purple shell, cyan geode crystals on its back, fused gold coins, one massive boulder-like left claw, and four spiked walking legs.",
+        "weapon": "Two disproportionate claws, crystal-backed resonance, and a shell-bound pile of gold coins.",
+        "aura": "Golden sparkles, faint cyan vapor, and the magical pressure of wealth made territorial.",
+        "signature": "A reward objective that visually says: fight me if you want economy."
+      },
+      "human": {
+        "title": "Plutus, Merchant Prince of the Gold Lane",
+        "subtitle": "Human-form gold crab",
+        "images": {
+          "real": "../assets/images/creeps/plutus/human-real.png",
+          "animated": "../assets/images/creeps/plutus/human-animated.png",
+          "nineties": "../assets/images/creeps/plutus/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 152 cm compact merchant-crab prince with indigo-to-aquamarine topknot hair, neon-cyan eyes, golden-tan shell-fragmented skin, merchant cowl, purple silk tunic, huge chitin pauldron, gold coin pile on shell plates, and four arthropod legs.",
+        "weapon": "Sovereign Crystal Stylus, a 180 cm dark-purple coral staff with aquamarine crystal claw and concentrated economic magic.",
+        "aura": "Absolute Prosperity: pale blue, smoky lavender, freshly minted gold scent, and flashing golden coin sigils.",
+        "signature": "A clever little noble who turns lane gold into personality."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Karkinos",
+    "monsterName": "The Exp Crab",
+    "role": "Exp Crab",
+    "class": "Lane Creep",
+    "element": "Archivist Crystal",
+    "rating": 7.3,
+    "battlefieldValue": "An experience-lane reward creature framed as knowledge, timing, and ancient shallow-water magic.",
+    "famousFor": "Back-mounted scroll, cyan geodes, crab scholar silhouette, and wisdom aura.",
+    "stats": {
+      "threat": 69,
+      "durability": 82,
+      "mobility": 48,
+      "control": 66,
+      "reward": 88
+    },
+    "forms": {
+      "monster": {
+        "title": "The Exp Crab",
+        "subtitle": "Scroll-backed knowledge crab",
+        "images": {
+          "real": "../assets/images/creeps/karkinos/monster-real.png",
+          "animated": "../assets/images/creeps/karkinos/monster-animated.png",
+          "nineties": "../assets/images/creeps/karkinos/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A broad anvil-sized decapod with fused shell-head, protected mouth apparatus, cyan eye stalks, tooth-like chitin brow, dark purple shell, raw cyan crystal library ridge, giant bound parchment scroll, asymmetrical claws, and spiked walking limbs.",
+        "weapon": "Crushing claws and an enormous arcane scroll that radiates sapphire-blue mana sparks.",
+        "aura": "Wisdom vapor, azure sparks, cyan geode shimmer, and ancient shallow-water magic.",
+        "signature": "A reward creature that looks like it stores experience physically on its back."
+      },
+      "human": {
+        "title": "Karkinos, Scholar of the Emerald Shallows",
+        "subtitle": "Human-form exp crab",
+        "images": {
+          "real": "../assets/images/creeps/karkinos/human-real.png",
+          "animated": "../assets/images/creeps/karkinos/human-animated.png",
+          "nineties": "../assets/images/creeps/karkinos/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 152 cm compact scholar-crab youth with indigo-to-aquamarine topknot hair, neon-cyan eyes, tan shell-fragmented skin, scholar hood, purple tunic, huge chitin pauldron, rolled scroll on violet shell plates, crystal spikes, and four arthropod legs.",
+        "weapon": "Sovereign Crystal Stylus, a 180 cm coral staff with aquamarine crystal claw and concentrated experience energy.",
+        "aura": "Absolute Archivist: pale blue, smoky lavender, parchment, salt water, cold river moss, and golden geometric runes.",
+        "signature": "A learned battlefield creature, small but ancient in vibe."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lithos",
+    "monsterName": "The Lithowanderer",
+    "role": "Litho Wanderer",
+    "class": "River Creep",
+    "element": "River Vitality",
+    "rating": 7.1,
+    "battlefieldValue": "A river tempo creature associated with movement, regeneration, vision routes, and gentle but valuable map control.",
+    "famousFor": "Jade lotus shell, glowing cyan core, river mana particles, and surprisingly precious objective value.",
+    "stats": {
+      "threat": 52,
+      "durability": 76,
+      "mobility": 82,
+      "control": 58,
+      "reward": 82
+    },
+    "forms": {
+      "monster": {
+        "title": "The Lithowanderer",
+        "subtitle": "Jade river sprite construct",
+        "images": {
+          "real": "../assets/images/creeps/lithos/monster-real.png",
+          "animated": "../assets/images/creeps/lithos/monster-animated.png",
+          "nineties": "../assets/images/creeps/lithos/monster-90s.png",
+          "gallery": []
+        },
+        "body": "A tiny ankle-height circular gemstone construct with no humanoid limbs, a hollow jade shell, central neon-cyan fluid core as its single eye, four petal-like emerald armor plates, lime-green edges, tiny granite spurs, and a hovering base.",
+        "weapon": "None in the traditional sense; its shell, evasion, and exposed river-mana core are its survival tools.",
+        "aura": "Fresh water essence, sapphire-blue particles, turquoise vapor, and soothing kinetic river mana.",
+        "signature": "A non-aggressive map creature that feels like a living river pickup."
+      },
+      "human": {
+        "title": "Lithos, Earthen Core of the Riverlands",
+        "subtitle": "Human-form litho wanderer",
+        "images": {
+          "real": "../assets/images/creeps/lithos/human-real.png",
+          "animated": "../assets/images/creeps/lithos/human-animated.png",
+          "nineties": "../assets/images/creeps/lithos/human-90s.png",
+          "gallery": []
+        },
+        "body": "A 115 cm stocky earth-sprite with aquamarine-to-yellow-green liquefied crystal hair, round neon-cyan eyes, jade-green mossy skin with turquoise fault lines, lotus-petal brow crown, moss vest, crystal carapace shoulders, reed girdle, slate tassets, and four stone limbs.",
+        "weapon": "Core of Vitality, a floating 30 cm crystal orb protected by opening jade petals and filled with concentrated aquamarine life energy.",
+        "aura": "Earthen Regeneration: pale blue and emerald fields smelling of rain, clover, and damp river stones.",
+        "signature": "Small, kind, and valuable: the river's little battery given a face."
+      }
+    }
+  }
+]

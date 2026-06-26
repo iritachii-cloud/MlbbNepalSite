@@ -1,0 +1,581 @@
+body {
+    --npc-a: var(--primary);
+    --npc-b: var(--secondary);
+    --npc-c: var(--accent);
+    --npc-glow: var(--glow);
+    --npc-ink: color-mix(in srgb, var(--text) 92%, white);
+    --npc-soft: color-mix(in srgb, var(--muted) 76%, white);
+    --npc-deep: color-mix(in srgb, var(--bg) 92%, #05030a);
+    --npc-panel: linear-gradient(150deg, color-mix(in srgb, var(--surface-2) 82%, #05030a), color-mix(in srgb, var(--surface) 80%, #07030f));
+    background:
+        linear-gradient(125deg, color-mix(in srgb, var(--primary) 18%, transparent), transparent 42%),
+        linear-gradient(300deg, color-mix(in srgb, var(--secondary) 15%, transparent), transparent 52%),
+        repeating-linear-gradient(115deg, color-mix(in srgb, var(--line) 55%, transparent) 0 1px, transparent 1px 34px),
+        var(--bg);
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: .2;
+    background:
+        linear-gradient(90deg, transparent 0 7%, color-mix(in srgb, var(--accent) 32%, transparent) 7.2%, transparent 7.4%),
+        repeating-linear-gradient(0deg, transparent 0 18px, color-mix(in srgb, var(--line) 48%, transparent) 19px 20px);
+    mask-image: linear-gradient(180deg, black, transparent 78%);
+}
+
+.page-hero {
+    position: relative;
+}
+
+.page-hero .display {
+    color: var(--npc-ink);
+    font-size: 4.8rem;
+    letter-spacing: 0;
+}
+
+.page-hero .lead {
+    color: var(--npc-soft);
+}
+
+.npc-section {
+    padding-bottom: 90px;
+}
+
+.npc-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 28px;
+    padding: 15px;
+    border-color: color-mix(in srgb, var(--accent) 28%, var(--line));
+    background:
+        linear-gradient(135deg, color-mix(in srgb, var(--surface-2) 82%, var(--primary)), color-mix(in srgb, var(--surface) 84%, var(--secondary))),
+        repeating-linear-gradient(90deg, transparent 0 18px, color-mix(in srgb, var(--line) 55%, transparent) 18px 19px);
+}
+
+.npc-toolbar input,
+.npc-toolbar select {
+    min-width: 0;
+    padding: 13px;
+    color: var(--npc-ink);
+    border: 1px solid color-mix(in srgb, var(--line) 70%, var(--primary));
+    background: color-mix(in srgb, var(--npc-deep) 72%, var(--surface));
+    outline: 0;
+}
+
+.npc-toolbar input:focus,
+.npc-toolbar select:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 24%, transparent);
+}
+
+.npc-toolbar select option {
+    color: var(--text);
+    background: var(--bg);
+}
+
+.npc-toolbar input {
+    flex: 1;
+}
+
+.npc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 28px;
+    perspective: 1200px;
+}
+
+.npc-card {
+    --npc-cut: polygon(0 28px, 28px 0, 78% 0, 83% 8px, 96% 8px, 100% 22px, 100% 91%, 92% 100%, 15% 100%, 10% 94%, 0 94%);
+    --npc-image-cut: polygon(0 15px, 15px 0, 100% 0, 100% 84%, 88% 100%, 0 100%);
+    position: relative;
+    min-height: 465px;
+    padding: 7px;
+    color: white;
+    border: 0;
+    background: linear-gradient(145deg, var(--npc-a), var(--npc-b) 56%, var(--npc-c));
+    clip-path: var(--npc-cut);
+    text-align: left;
+    isolation: isolate;
+    transition: transform .35s ease, filter .35s ease;
+    transform-style: preserve-3d;
+}
+
+.npc-card[data-frame="1"] {
+    --npc-cut: polygon(0 16px, 12% 0, 100% 0, 100% 82%, 92% 100%, 0 100%);
+    --npc-image-cut: polygon(7% 0, 100% 0, 100% 90%, 90% 100%, 0 100%, 0 11%);
+}
+
+.npc-card[data-frame="2"] {
+    --npc-cut: polygon(0 0, 84% 0, 100% 15%, 100% 100%, 12% 100%, 0 88%);
+    --npc-image-cut: polygon(0 0, 92% 0, 100% 12%, 100% 100%, 8% 100%, 0 88%);
+}
+
+.npc-card[data-frame="3"] {
+    --npc-cut: polygon(0 30px, 30px 0, 100% 0, 100% 100%, 70% 100%, 64% 94%, 0 94%);
+    --npc-image-cut: polygon(0 22px, 22px 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.npc-card[data-frame="4"] {
+    --npc-cut: polygon(0 0, 72% 0, 100% 26px, 100% 90%, 88% 100%, 0 100%, 0 10%);
+    --npc-image-cut: polygon(0 0, 86% 0, 100% 18px, 100% 86%, 88% 100%, 0 100%);
+}
+
+.npc-card::before {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    z-index: -1;
+    background:
+        linear-gradient(160deg, color-mix(in srgb, #16121f 82%, var(--npc-a)), color-mix(in srgb, #06050a 82%, var(--npc-b)) 64%),
+        repeating-linear-gradient(135deg, color-mix(in srgb, var(--npc-a) 12%, transparent) 0 1px, transparent 1px 11px);
+    clip-path: inherit;
+}
+
+.npc-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    background: linear-gradient(120deg, transparent 27%, color-mix(in srgb, var(--npc-c) 34%, transparent), transparent 62%);
+    transform: translateX(-125%);
+    transition: transform .65s ease;
+    pointer-events: none;
+}
+
+.npc-card:hover {
+    /* transform: translateY(-14px) rotateX(2deg); */
+    filter: drop-shadow(0 24px 28px var(--npc-glow));
+}
+
+.npc-card:hover::after {
+    transform: translateX(125%);
+}
+
+.npc-id {
+    position: absolute;
+    z-index: 4;
+    top: 13px;
+    right: 15px;
+    padding: 5px 7px;
+    color: white;
+    border: 1px solid color-mix(in srgb, var(--npc-c) 62%, white);
+    background: color-mix(in srgb, var(--npc-b) 68%, #050308);
+    box-shadow: 0 0 18px color-mix(in srgb, var(--npc-a) 36%, transparent);
+    clip-path: polygon(0 0, 100% 0, 100% 76%, 88% 100%, 0 100%);
+    font: 800 .62rem "Oxanium";
+}
+
+.npc-image {
+    position: relative;
+    display: block;
+    height: 295px;
+    margin: 4px;
+    overflow: hidden;
+    clip-path: var(--npc-image-cut);
+    background:
+        linear-gradient(145deg, color-mix(in srgb, var(--npc-a) 72%, #07060b), color-mix(in srgb, var(--npc-b) 56%, #08060d)),
+        repeating-linear-gradient(90deg, transparent 0 12px, color-mix(in srgb, var(--npc-c) 24%, transparent) 12px 13px);
+}
+
+.npc-image::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    background:
+        linear-gradient(0deg, #05040a 0, transparent 52%),
+        linear-gradient(110deg, color-mix(in srgb, var(--npc-a) 34%, transparent), transparent 46%),
+        repeating-linear-gradient(0deg, transparent 0 9px, color-mix(in srgb, white 8%, transparent) 10px 11px);
+    pointer-events: none;
+}
+
+.npc-image i {
+    position: absolute;
+    z-index: 3;
+    right: 9px;
+    bottom: 10px;
+    width: 46%;
+    height: 3px;
+    background: var(--npc-c);
+    box-shadow: 0 0 16px var(--npc-c);
+}
+
+.npc-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    transition: transform .5s ease, filter .5s ease;
+}
+
+.npc-card:hover .npc-image img {
+    transform: scale(1.07);
+    filter: saturate(1.12) contrast(1.04);
+}
+
+.npc-meta {
+    display: block;
+    padding: 12px 13px 18px;
+}
+
+.npc-card .eyebrow,
+.npc-profile .eyebrow {
+    color: var(--npc-c);
+}
+
+.npc-name-line {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.npc-name-line h2 {
+    min-width: 0;
+    margin: 4px 0 0;
+    font: 800 1.25rem "Oxanium";
+    letter-spacing: 0;
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+}
+
+.npc-name-line b {
+    display: grid;
+    flex: 0 0 auto;
+    place-items: center;
+    min-width: 40px;
+    height: 40px;
+    color: white;
+    border: 1px solid color-mix(in srgb, var(--npc-c) 72%, white);
+    background: color-mix(in srgb, var(--npc-a) 28%, #07060c);
+    box-shadow: inset 0 0 18px color-mix(in srgb, var(--npc-b) 34%, transparent);
+    font: 800 .8rem "Oxanium";
+    clip-path: polygon(50% 0, 100% 25%, 86% 100%, 14% 100%, 0 25%);
+}
+
+.npc-meta h3 {
+    min-height: 2.2em;
+    margin: 3px 0;
+    color: color-mix(in srgb, var(--npc-soft) 88%, var(--npc-a));
+    font: 600 .7rem/1.35 "Oxanium";
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+}
+
+.npc-rating {
+    display: inline-block;
+    color: var(--npc-c);
+    font: 700 .78rem "Oxanium";
+}
+
+.npc-mini-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.npc-mini-stats em {
+    min-width: 0;
+    padding: 5px 2px;
+    border-top: 1px solid color-mix(in srgb, var(--npc-a) 68%, transparent);
+    color: color-mix(in srgb, var(--npc-soft) 78%, var(--npc-c));
+    font: normal 600 .52rem "Oxanium";
+    text-align: center;
+}
+
+.npc-detail {
+    width: min(1120px, 100%);
+    max-height: 92vh;
+    overflow: auto;
+    padding: clamp(20px, 4vw, 40px);
+    border-color: color-mix(in srgb, var(--npc-a) 46%, var(--line));
+    background:
+        linear-gradient(145deg, color-mix(in srgb, var(--surface-2) 84%, var(--npc-a)), color-mix(in srgb, var(--surface) 86%, var(--npc-b))),
+        repeating-linear-gradient(135deg, transparent 0 15px, color-mix(in srgb, var(--line) 55%, transparent) 15px 16px);
+}
+
+.npc-profile {
+    display: grid;
+    grid-template-columns: minmax(270px, .72fr) 1.28fr;
+    gap: 34px;
+}
+
+.npc-visual {
+    position: sticky;
+    top: 0;
+    align-self: start;
+}
+
+.npc-portrait-stage {
+    position: relative;
+    padding: 6px;
+    background: linear-gradient(145deg, var(--npc-a), var(--npc-b) 58%, var(--npc-c));
+    clip-path: polygon(0 30px, 30px 0, 100% 0, 100% 90%, 90% 100%, 0 100%);
+    box-shadow: 0 25px 32px var(--npc-glow);
+}
+
+.npc-portrait-stage::before {
+    content: "";
+    position: absolute;
+    inset: 6px;
+    z-index: 1;
+    background:
+        linear-gradient(0deg, #05040a 0, transparent 44%),
+        linear-gradient(120deg, color-mix(in srgb, var(--npc-a) 28%, transparent), transparent 50%);
+    clip-path: inherit;
+    pointer-events: none;
+}
+
+.npc-portrait-stage img {
+    width: 100%;
+    max-height: 600px;
+    min-height: 360px;
+    object-fit: cover;
+    object-position: top center;
+    clip-path: inherit;
+}
+
+.npc-stage-label {
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+    z-index: 2;
+    max-width: calc(100% - 32px);
+    padding: 7px 10px;
+    color: white;
+    border: 1px solid color-mix(in srgb, var(--npc-c) 58%, white);
+    background: color-mix(in srgb, var(--npc-deep) 72%, var(--npc-a));
+    font: 800 .62rem "Oxanium";
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+}
+
+.npc-image-tabs,
+.npc-gallery-strip {
+    display: flex;
+    gap: 7px;
+    margin-top: 12px;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    max-width: 300px;
+}
+
+.npc-image-tabs button {
+    flex: 1;
+    min-width: 88px;
+    padding: 8px 10px;
+    color: var(--npc-soft);
+    border: 1px solid color-mix(in srgb, var(--line) 72%, var(--npc-a));
+    background: color-mix(in srgb, var(--npc-deep) 82%, var(--npc-b));
+    font: 800 .68rem "Oxanium";
+    text-transform: uppercase;
+}
+
+.npc-image-tabs button:hover,
+.npc-image-tabs button.active {
+    color: white;
+    border-color: var(--npc-c);
+    background: linear-gradient(110deg, color-mix(in srgb, var(--npc-a) 70%, #07060c), color-mix(in srgb, var(--npc-b) 66%, #07060c));
+    box-shadow: 0 0 18px var(--npc-glow);
+}
+
+.npc-gallery-strip img {
+    flex: 0 0 auto;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    object-position: top center;
+    cursor: pointer;
+    border: 1px solid color-mix(in srgb, var(--npc-a) 60%, var(--line));
+    background: var(--npc-deep);
+    clip-path: polygon(0 10px, 10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%);
+}
+
+.npc-gallery-strip img:hover {
+    border-color: var(--npc-c);
+    filter: drop-shadow(0 0 12px var(--npc-glow));
+}
+
+.npc-visual .rating-seal {
+    margin-top: 12px;
+    padding: 13px;
+    border: 1px solid color-mix(in srgb, var(--npc-c) 42%, var(--line));
+    color: var(--npc-c);
+    background: color-mix(in srgb, var(--npc-deep) 76%, var(--npc-a));
+    font: 800 1.05rem "Oxanium";
+    text-align: center;
+}
+
+.npc-info h2 {
+    margin: 6px 0;
+    color: white;
+    font: 800 4rem/.95 "Oxanium";
+    letter-spacing: 0;
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+    text-shadow: 0 0 24px var(--npc-glow);
+}
+
+.npc-info .npc-title {
+    margin: 0 0 12px;
+    color: color-mix(in srgb, var(--npc-c) 78%, white);
+    font: 800 1.05rem/1.45 "Oxanium";
+    text-transform: uppercase;
+    overflow-wrap: anywhere;
+}
+
+.npc-summary {
+    padding: 14px 0 16px;
+    border-block: 1px solid color-mix(in srgb, var(--npc-a) 34%, var(--line));
+}
+
+.npc-info>h3:not(.npc-title) {
+    margin-top: 28px;
+    color: var(--npc-c);
+    font: 700 1rem "Oxanium";
+    text-transform: uppercase;
+}
+
+.npc-info p {
+    color: color-mix(in srgb, var(--npc-soft) 86%, white);
+    line-height: 1.8;
+}
+
+.npc-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.npc-stat {
+    display: grid;
+    grid-template-columns: 92px 1fr;
+    gap: 9px;
+    align-items: center;
+    color: color-mix(in srgb, var(--npc-soft) 84%, var(--npc-a));
+    font-size: .7rem;
+    text-transform: uppercase;
+}
+
+.npc-stat span {
+    overflow-wrap: anywhere;
+}
+
+.npc-stat i {
+    height: 8px;
+    background: color-mix(in srgb, var(--line) 72%, var(--npc-b));
+    overflow: hidden;
+}
+
+.npc-stat b {
+    display: block;
+    height: 100%;
+    background: linear-gradient(90deg, var(--npc-a), var(--npc-b), var(--npc-c));
+    animation: grow .8s ease;
+}
+
+.affiliations {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.affiliations span,
+.source-tag {
+    max-width: 100%;
+    padding: 7px 9px;
+    border: 1px solid color-mix(in srgb, var(--npc-a) 42%, var(--line));
+    color: color-mix(in srgb, var(--npc-soft) 88%, white);
+    background: color-mix(in srgb, var(--npc-deep) 78%, var(--npc-b));
+    font-size: .7rem;
+    overflow-wrap: anywhere;
+}
+
+.source-tag {
+    display: inline-block;
+    margin-top: 16px;
+}
+
+.npc-nav {
+    position: fixed;
+    top: 50%;
+    z-index: 3;
+    width: 44px;
+    height: 44px;
+    border: 1px solid color-mix(in srgb, var(--accent) 28%, var(--line));
+    border-radius: 50%;
+    color: var(--text);
+    background: color-mix(in srgb, var(--surface-2) 78%, var(--primary));
+    font-size: 2rem;
+}
+
+.npc-nav:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    box-shadow: 0 0 20px var(--glow);
+}
+
+.npc-nav.prev {
+    left: 12px;
+}
+
+.npc-nav.next {
+    right: 12px;
+}
+
+@keyframes grow {
+    from {
+        width: 0 !important;
+    }
+}
+
+@media(max-width:900px) {
+    .page-hero .display {
+        font-size: 3.2rem;
+    }
+
+    .npc-profile {
+        grid-template-columns: 1fr;
+    }
+
+    .npc-visual {
+        position: relative;
+    }
+}
+
+@media(max-width:760px) {
+    .page-hero .display {
+        font-size: 2.55rem;
+    }
+
+    .npc-toolbar {
+        flex-wrap: wrap;
+    }
+
+    .npc-toolbar input {
+        flex-basis: 100%;
+    }
+
+    .npc-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .npc-info h2 {
+        font-size: 2.45rem;
+    }
+
+    .npc-portrait-stage img {
+        min-height: 280px;
+    }
+
+    .npc-nav {
+        top: auto;
+        bottom: 50px;
+    }
+}

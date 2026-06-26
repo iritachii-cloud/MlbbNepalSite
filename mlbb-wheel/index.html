@@ -1,124 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MLBB Wheel & Slot</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-
-<body>
-    <div class="audio-control">
-        <button id="musicToggle" class="music-btn circle-btn"><i class="fas fa-music"></i></button>
-    </div>
-    <audio id="themeSong" loop preload="auto">
-        <source src="../assets/audio/theme1.mp3" type="audio/mpeg">
-    </audio>
-
-<!-- Music Player Modal -->
-<div id="musicModal" class="music-modal">
-    <div class="music-modal-content">
-        <span class="close" id="closeModal">&times;</span>
-        <div class="modal-album">
-            <img id="modalAlbumImg" src="" alt="Album Art">
-        </div>
-        <h3 id="modalThemeName">Epic Battle</h3>
-
-        <!-- New: Dropdown for theme selection -->
-        <select id="themeSelectDropdown" class="theme-select-dropdown"></select>
-
-        <div class="modal-controls">
-            <button id="modalPrev"><i class="fas fa-step-backward"></i></button>
-            <button id="modalPlayPause"><i class="fas fa-play"></i></button>
-            <button id="modalNext"><i class="fas fa-step-forward"></i></button>
-            <button id="modalShuffle"><i class="fas fa-random"></i></button>
-            <button id="modalLoop"><i class="fas fa-repeat"></i></button>
-        </div>
-        <div class="modal-timeline">
-            <span id="modalCurrentTime">0:00</span>
-            <input type="range" id="modalSeek" min="0" max="100" value="0">
-            <span id="modalDuration">0:00</span>
-        </div>
-        <div class="modal-volume">
-            <i class="fas fa-volume-down"></i>
-            <input type="range" id="modalVolume" min="0" max="100" value="50">
-            <i class="fas fa-volume-up"></i>
-        </div>
-    </div>
-</div>
-
-    <header class="sticky-header">
-        <nav class="navbar">
-            <div class="logo">MLBB Wheel</div>
-            <ul class="nav-links">
-                <li><a href="../index.html">Home</a></li>
-                <li><a href="#wheel">Wheel</a></li>
-                <li><a href="#slot">Slot Machine</a></li>
-                <li><a href="../hero-card/index.html">Hero Cards</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        <!-- Wheel Section -->
-        <section id="wheel" class="wheel-section">
-            <div class="container">
-                <h2>Spin to Get a Role</h2>
-                <div class="wheel-container">
-                    <div class="wheel-wrapper">
-                        <canvas id="wheelCanvas" width="500" height="500"></canvas>
-                        <div class="wheel-pointer">▲</div>
-                    </div>
-                    <button id="spinWheelBtn">Spin</button>
-                    <div class="controls">
-                        <label>Spin Duration (sec): <input type="range" id="wheelDuration" min="3" max="30"
-                                value="5"></label>
-                        <span id="wheelDurationValue">5s</span>
-                        <button id="randomizeRoles">Randomize Roles</button>
-                    </div>
-                    <div class="selected-role" id="selectedRole">Selected Role: None</div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Slot Machine Section -->
-        <section id="slot" class="slot-section" style="display: none;">
-            <div class="container">
-                <h2>Slot Machine for Heroes</h2>
-                <div class="slot-container">
-                    <div class="reel" id="slotReel">???</div>
-                    <button id="spinSlotBtn">Spin Slot</button>
-                    <div class="controls">
-                        <label>Spin Duration (sec): <input type="range" id="slotDuration" min="3" max="30"
-                                value="5"></label>
-                        <span id="slotDurationValue">5s</span>
-                        <button id="randomizeHeroes">Randomize Hero List</button>
-                    </div>
-                    <div class="hero-list" id="heroList"></div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- Result Modal -->
-    <div id="resultModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>Congratulations!</h2>
-            <div id="heroResult">
-                <img id="heroImage" src="" alt="Hero">
-                <h3 id="heroName"></h3>
-                <p id="heroNickname"></p>
-            </div>
-            <canvas id="confettiCanvas"></canvas>
-            <audio id="heroSound" src=""></audio>
-        </div>
-    </div>
-
-    <script src="js/script.js"></script>
-    <script src="../js/audio.js"></script>
-</body>
-
-</html>
+<!doctype html><html lang="en"><head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <title>Role Wheel | MLBB Nepal</title>
+  <link rel="icon" href="../assets/logo.png"><link rel="stylesheet" href="../assets/css/app.css"><link rel="stylesheet" href="css/style.css">
+</head><body data-base="../">
+  <header class="site-header"><nav class="nav"><a class="brand" href="../index.html"><img src="../assets/logo.png" alt="Logo">ROLE WHEEL</a><div class="nav-links"><a href="../index.html">Home</a><a class="active" href="index.html">Wheel</a><a href="../mlbb-slot/index.html">Slot</a><a href="../hero-card/index.html">Heroes</a><a href="../creep-card/index.html">Creeps</a><a href="../npc-card/index.html">NPCs</a><a href="../maps/index.html">Maps</a></div><button class="icon-btn" data-theme-toggle>Theme Lab</button></nav></header>
+  <main><section class="page-hero container"><div class="eyebrow">Phase 01 / Role Draft</div><h1 class="display">Spin your <span class="gradient-text">destiny.</span></h1><p class="lead">The pointer decides your battlefield role. Accept the draft or demand another spin.</p></section>
+  <section class="container wheel-layout"><div class="wheel-stage panel"><div class="pointer"></div><canvas id="wheelCanvas" width="760" height="760"></canvas><button id="spinWheelBtn" class="spin-core">SPIN</button></div>
+    <aside class="panel wheel-controls"><div class="eyebrow">Draft control</div><h2>Ready check</h2><p>Every spin uses a smooth physics-inspired slowdown and lands on one role.</p><div class="role-chips" id="roleChips"></div><label>Spin duration <strong id="durationValue">6s</strong><input id="duration" type="range" min="3" max="12" value="6"></label><button class="btn" id="shuffleRoles">Shuffle roles</button><div class="status-pill" id="wheelStatus">System ready</div></aside>
+  </section></main>
+  <div class="modal" id="roleModal"><div class="modal-card panel"><button class="close-modal" data-close-modal="roleModal">&times;</button><div class="eyebrow">Role acquired</div><h2 id="resultRole"></h2><p class="lead">Are you satisfied with this role?</p><div class="actions"><button class="btn primary" id="acceptRole">Yes, roll my hero</button><button class="btn" id="retryRole">No, spin again</button></div></div></div>
+  <script src="../assets/js/app.js"></script><script src="js/script.js"></script>
+</body></html>

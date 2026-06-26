@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Interactive fantasy atlas of the Land of Dawn.">
+  <title>Interactive Land of Dawn Atlas | MLBB Nepal</title>
+  <link rel="icon" href="../assets/logo.png">
+  <link rel="stylesheet" href="../assets/css/app.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-base="../">
+  <header class="site-header"><nav class="nav">
+    <a class="brand" href="../index.html"><img src="../assets/logo.png" alt="Logo">WORLD ATLAS</a>
+    <div class="nav-links"><a href="../index.html">Home</a><a href="../mlbb-wheel/index.html">Wheel</a><a href="../mlbb-slot/index.html">Slot</a><a href="../hero-card/index.html">Heroes</a><a href="../creep-card/index.html">Creeps</a><a href="../npc-card/index.html">NPCs</a><a class="active" href="index.html">Maps</a></div>
+    <button class="icon-btn" data-theme-toggle>Theme Lab</button>
+  </nav></header>
+
+  <main>
+    <section class="atlas-intro container">
+      <div>
+        <div class="eyebrow">Interactive Land of Dawn Cartography</div>
+        <h1 class="display">Enter the <span class="gradient-text">world.</span></h1>
+      </div>
+      <p class="lead">Drag to travel, scroll to zoom, and select any region or landmark. Geography follows the relationships documented in your global and regional map manuscripts.</p>
+    </section>
+
+    <section class="atlas-workspace container">
+      <div class="map-command panel">
+        <div class="map-breadcrumb"><button id="worldButton" class="atlas-btn">Land of Dawn</button><span>/</span><strong id="mapTitle">World Overview</strong></div>
+        <div class="map-controls">
+          <button id="zoomOut" aria-label="Zoom out">-</button>
+          <button id="zoomIn" aria-label="Zoom in">+</button>
+          <button id="resetMap">Reset</button>
+          <button id="toggleLabels">Labels</button>
+          <button id="fullscreenMap">Fullscreen</button>
+        </div>
+      </div>
+
+      <div class="atlas-layout">
+        <div class="map-frame panel" id="mapFrame">
+          <div class="map-corner corner-a"></div><div class="map-corner corner-b"></div>
+          <div class="map-compass" aria-hidden="true"><b>N</b><i></i><span>E</span><span>W</span><em>S</em></div>
+          <svg id="fantasyMap" viewBox="0 0 1200 760" role="img" aria-label="Interactive map of the Land of Dawn"></svg>
+          <div class="map-hint" id="mapHint">Drag map / Scroll to zoom / Select a glowing label</div>
+        </div>
+
+        <aside class="map-inspector panel">
+          <div class="eyebrow" id="inspectorType">World Atlas</div>
+          <h2 id="inspectorTitle">Land of Dawn</h2>
+          <p id="inspectorText">Select a region to open its dedicated map, landmarks, cities, roads, ruins, and natural wonders.</p>
+          <div class="inspector-tags" id="inspectorTags"></div>
+          <div class="inspector-actions" id="inspectorActions"></div>
+          <div class="map-legend">
+            <h3>Map Key</h3>
+            <span><i class="key-region"></i> Selectable region</span>
+            <span><i class="key-place"></i> Landmark or city</span>
+            <span><i class="key-route"></i> Trade or travel route</span>
+          </div>
+        </aside>
+      </div>
+
+      <div class="region-rail" id="regionRail"></div>
+    </section>
+  </main>
+  <script src="../assets/js/app.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
